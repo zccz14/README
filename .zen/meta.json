@@ -2,7 +2,6 @@
   "version": "1.0.0",
   "options": {
     "verbose": true,
-    "baseUrl": "/README",
     "langs": [
       "zh-Hans",
       "en-US",
@@ -121,6 +120,30 @@
           "prompt": 360,
           "completion": 108,
           "total": 468
+        }
+      }
+    },
+    {
+      "hash": "975d307b50cd105dbe944d16efa1b5e4b76b6966a3ea8d059acc3dcc91ecc4bc",
+      "path": "LOGS/2.md",
+      "metadata": {
+        "title": "AI编程失败与重写经验",
+        "summary": "作者因AI生成的面向对象代码质量差、技术债务爆炸，重写了ZEN项目，转向面向过程和函数式编程，并建议避免过度向后兼容以提升代码质量。",
+        "tags": [
+          "AI编程",
+          "面向对象编程",
+          "函数式编程",
+          "技术债务",
+          "代码质量",
+          "奥卡姆剃刀",
+          "向后兼容"
+        ],
+        "inferred_date": "2025-01-07",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1051,
+          "completion": 122,
+          "total": 1173
         }
       }
     }
