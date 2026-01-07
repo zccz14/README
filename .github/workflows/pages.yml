@@ -34,7 +34,7 @@ jobs:
 
       - name: Create documentation site
         run: |
-          npx zengen@latest build --lang zh-Hans --lang en-US --lang ja-JP --verbose --base-url /README
+          npx zengen@latest build --lang zh-Hans --lang en-US --lang ja-JP --lang es-ES --verbose --base-url /README
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
