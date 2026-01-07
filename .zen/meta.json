@@ -81,28 +81,6 @@
       }
     },
     {
-      "hash": "7828a99979594e18177e79a0250b34887dba794f91a41ffb758a4ad35dbf02aa",
-      "path": "LOGS/1.md",
-      "metadata": {
-        "title": "解放的曙光即将来临",
-        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节的控制欲与快速推进之间的矛盾。文章探讨了工具层级、控制欲与解放的关系，并指出需要提升战略思维。",
-        "tags": [
-          "项目管理",
-          "vibe-kanban",
-          "控制欲",
-          "工具层级",
-          "战略思维",
-          "解放"
-        ],
-        "inferred_lang": "zh-Hans",
-        "tokens_used": {
-          "prompt": 991,
-          "completion": 122,
-          "total": 1113
-        }
-      }
-    },
-    {
       "hash": "e9d434446dbf5e4bffa21d6b2947023255bbac5883a547ab42d39b3d4e3e709c",
       "path": "README.md",
       "metadata": {
@@ -145,6 +123,30 @@
           "prompt": 1051,
           "completion": 122,
           "total": 1173
+        }
+      }
+    },
+    {
+      "hash": "22dd7954468ba48ed415a885cddad3cb2afa8367359148a7794be30a27612cb8",
+      "path": "LOGS/1.md",
+      "metadata": {
+        "title": "解放的曙光即将来临",
+        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节控制欲与快速推进之间的矛盾，引发了对系统设计、工具生态位和解放人类带宽的思考。",
+        "tags": [
+          "项目管理",
+          "vibe-kanban",
+          "控制欲",
+          "带宽限制",
+          "工具生态位",
+          "解放",
+          "团队领导"
+        ],
+        "inferred_date": "2025-01-05",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1000,
+          "completion": 126,
+          "total": 1126
         }
       }
     }
