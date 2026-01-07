@@ -11,6 +11,31 @@
   },
   "files": [
     {
+      "hash": "e9d434446dbf5e4bffa21d6b2947023255bbac5883a547ab42d39b3d4e3e709c",
+      "path": "README.md",
+      "metadata": {
+        "title": "README",
+        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个Vibe-Coding项目，作者没有编写代码而是作为“包工头”管理，网站结合了个人审美但尚未正式发布。",
+        "tags": [
+          "README",
+          "ZEN",
+          "Vibe-Coding",
+          "个人网站",
+          "构建工具",
+          "项目开发"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 360,
+          "completion": 108,
+          "total": 468
+        }
+      },
+      "links": [
+        "https://zccz14.github.io/ZEN"
+      ]
+    },
+    {
       "hash": "a881a9c35327897c8247d25559ee3adc360991c89f49aaca6a3b55a56e2fc871",
       "path": "INSIGHTS/1.md",
       "metadata": {
@@ -31,7 +56,8 @@
           "completion": 121,
           "total": 1261
         }
-      }
+      },
+      "links": []
     },
     {
       "hash": "b283a1863e9af777d581f5af32c0d2d27ed22194f391f5bc3cef9d0d445b4e8c",
@@ -55,7 +81,8 @@
           "completion": 135,
           "total": 2412
         }
-      }
+      },
+      "links": []
     },
     {
       "hash": "2b0a022c6abba013f5f8dcf8f24e4cd0662b3db73ff017c3bb8799d0541537ae",
@@ -78,29 +105,36 @@
           "completion": 130,
           "total": 2760
         }
-      }
+      },
+      "links": []
     },
     {
-      "hash": "e9d434446dbf5e4bffa21d6b2947023255bbac5883a547ab42d39b3d4e3e709c",
-      "path": "README.md",
+      "hash": "22dd7954468ba48ed415a885cddad3cb2afa8367359148a7794be30a27612cb8",
+      "path": "LOGS/1.md",
       "metadata": {
-        "title": "README",
-        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个Vibe-Coding项目，作者没有编写代码而是作为“包工头”管理，网站结合了个人审美但尚未正式发布。",
+        "title": "解放的曙光即将来临",
+        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节控制欲与快速推进之间的矛盾，引发了对系统设计、工具生态位和解放人类带宽的思考。",
         "tags": [
-          "README",
-          "ZEN",
-          "Vibe-Coding",
-          "个人网站",
-          "构建工具",
-          "项目开发"
+          "项目管理",
+          "vibe-kanban",
+          "控制欲",
+          "带宽限制",
+          "工具生态位",
+          "解放",
+          "团队领导"
         ],
+        "inferred_date": "2025-01-05",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 360,
-          "completion": 108,
-          "total": 468
+          "prompt": 1000,
+          "completion": 126,
+          "total": 1126
         }
-      }
+      },
+      "links": [
+        "https://www.vibekanban.com/",
+        "../INSIGHTS/2.md"
+      ]
     },
     {
       "hash": "975d307b50cd105dbe944d16efa1b5e4b76b6966a3ea8d059acc3dcc91ecc4bc",
@@ -124,29 +158,31 @@
           "completion": 122,
           "total": 1173
         }
-      }
+      },
+      "links": []
     },
     {
-      "hash": "22dd7954468ba48ed415a885cddad3cb2afa8367359148a7794be30a27612cb8",
-      "path": "LOGS/1.md",
+      "hash": "165f52e3a61f1392b31bfa6c128c42f9ba0f89afcd26daeb9a7cd8227daf9ef3",
+      "path": "LOGS/3.md",
+      "links": [],
       "metadata": {
-        "title": "解放的曙光即将来临",
-        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节控制欲与快速推进之间的矛盾，引发了对系统设计、工具生态位和解放人类带宽的思考。",
+        "title": "ZEN 项目更新与待办事项",
+        "summary": "文档记录了 ZEN 项目的更新，包括修复内部链接问题，并列出待办事项如改进导航、语言选择器样式、自定义 HTML 模板，以及处理 AI 并行限流和文件隐藏问题。",
         "tags": [
-          "项目管理",
-          "vibe-kanban",
-          "控制欲",
-          "带宽限制",
-          "工具生态位",
-          "解放",
-          "团队领导"
+          "ZEN",
+          "项目更新",
+          "待办事项",
+          "导航功能",
+          "AI 限流",
+          "HTML 模板",
+          "语言选择器"
         ],
-        "inferred_date": "2025-01-05",
+        "inferred_date": "2025-01-08",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 1000,
-          "completion": 126,
-          "total": 1126
+          "prompt": 558,
+          "completion": 131,
+          "total": 689
         }
       }
     }
