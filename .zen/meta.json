@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "options": {
+    "verbose": true,
+    "langs": [
+      "zh-Hans",
+      "en-US"
+    ]
+  },
+  "files": [
+    {
+      "hash": "a881a9c35327897c8247d25559ee3adc360991c89f49aaca6a3b55a56e2fc871",
+      "path": "INSIGHTS/1.md",
+      "metadata": {
+        "title": "模块级人机协同软件工程架构",
+        "summary": "本文探讨了LLM在模块级人机协同软件工程中的局限性，如非强制性协调和有限算力，并提出了通过接口命名、单元测试和基准测试来减少人工介入的方法，旨在提升效率和降低成本。",
+        "tags": [
+          "人机协同",
+          "软件工程",
+          "LLM",
+          "AI Agent",
+          "模块设计",
+          "人工介入",
+          "效率优化"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1140,
+          "completion": 121,
+          "total": 1261
+        }
+      }
+    },
+    {
+      "hash": "b283a1863e9af777d581f5af32c0d2d27ed22194f391f5bc3cef9d0d445b4e8c",
+      "path": "INSIGHTS/2.md",
+      "metadata": {
+        "title": "如何解决人的控制欲——论人机协同中的可控信任问题",
+        "summary": "本文探讨人机协同中人类控制欲的根源，提出通过构建可控信任的双层乘性模型（意图对齐性和风险控制三角）来解决，并引入分形递归结构和良好组织的智能体框架，以实现规模化协同。",
+        "tags": [
+          "人机协同",
+          "可控信任",
+          "控制欲",
+          "意图对齐",
+          "分形结构",
+          "智能体组织",
+          "风险控制",
+          "自主性边界"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 2277,
+          "completion": 135,
+          "total": 2412
+        }
+      }
+    },
+    {
+      "hash": "2b0a022c6abba013f5f8dcf8f24e4cd0662b3db73ff017c3bb8799d0541537ae",
+      "path": "INSIGHTS/3.md",
+      "metadata": {
+        "title": "拥抱有限，设计无限——基于LLM约束的智能体系统建构新范式",
+        "summary": "本文提出一种构建智能体系统的新范式，通过协调工程、AI决策经济学和认知流管理，将LLM的有限性转化为设计原则，实现系统层面的无限扩展能力。",
+        "tags": [
+          "大语言模型",
+          "智能体系统",
+          "协调工程",
+          "AI决策经济学",
+          "认知流管理",
+          "有限智能",
+          "明希豪森三难困境"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 2630,
+          "completion": 130,
+          "total": 2760
+        }
+      }
+    },
+    {
+      "hash": "7828a99979594e18177e79a0250b34887dba794f91a41ffb758a4ad35dbf02aa",
+      "path": "LOGS/1.md",
+      "metadata": {
+        "title": "解放的曙光即将来临",
+        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节的控制欲与快速推进之间的矛盾。文章探讨了工具层级、控制欲与解放的关系，并指出需要提升战略思维。",
+        "tags": [
+          "项目管理",
+          "vibe-kanban",
+          "控制欲",
+          "工具层级",
+          "战略思维",
+          "解放"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 991,
+          "completion": 122,
+          "total": 1113
+        }
+      }
+    },
+    {
+      "hash": "eb08febc2c7e879c098af4ed94069c744746901228f5c5d0a4cb94249bbb1aab",
+      "path": "README.md",
+      "metadata": {
+        "title": "README",
+        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个通过Vibe-Coding创建的项目，作者没有编写代码，而是作为管理者。文档还提到网站结合了个人审美，但尚未正式发布，与预期有差距。",
+        "tags": [
+          "README",
+          "ZEN",
+          "Vibe-Coding",
+          "个人网站",
+          "构建工具",
+          "项目开发",
+          "文档"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 354,
+          "completion": 118,
+          "total": 472
+        }
+      }
+    }
+  ]
+}
