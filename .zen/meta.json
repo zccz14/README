@@ -5,7 +5,8 @@
     "baseUrl": "/README",
     "langs": [
       "zh-Hans",
-      "en-US"
+      "en-US",
+      "ja-JP"
     ]
   },
   "files": [
