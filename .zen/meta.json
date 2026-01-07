@@ -2,6 +2,7 @@
   "version": "1.0.0",
   "options": {
     "verbose": true,
+    "baseUrl": "/README",
     "langs": [
       "zh-Hans",
       "en-US"
