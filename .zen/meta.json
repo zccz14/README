@@ -103,25 +103,24 @@
       }
     },
     {
-      "hash": "eb08febc2c7e879c098af4ed94069c744746901228f5c5d0a4cb94249bbb1aab",
+      "hash": "e9d434446dbf5e4bffa21d6b2947023255bbac5883a547ab42d39b3d4e3e709c",
       "path": "README.md",
       "metadata": {
         "title": "README",
-        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个通过Vibe-Coding创建的项目，作者没有编写代码，而是作为管理者。文档还提到网站结合了个人审美，但尚未正式发布，与预期有差距。",
+        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个Vibe-Coding项目，作者没有编写代码而是作为“包工头”管理，网站结合了个人审美但尚未正式发布。",
         "tags": [
           "README",
           "ZEN",
           "Vibe-Coding",
           "个人网站",
           "构建工具",
-          "项目开发",
-          "文档"
+          "项目开发"
         ],
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 354,
-          "completion": 118,
-          "total": 472
+          "prompt": 360,
+          "completion": 108,
+          "total": 468
         }
       }
     }
