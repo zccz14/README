@@ -34,7 +34,7 @@ jobs:
 
       - name: Create documentation site
         run: |
-          npx zengen@latest build --lang zh-Hans --lang en-US --lang ja-JP --lang es-ES --verbose
+          npx czon@latest build --lang zh-Hans --lang en-US --lang ja-JP --lang es-ES --verbose
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -42,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./.zen/dist"
+          path: "./.czon/dist"
 
   deploy:
     environment:
