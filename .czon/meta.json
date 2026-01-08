@@ -249,6 +249,33 @@
       }
     },
     {
+      "hash": "c1f75326e1864105c4c33c72e3c6d2fd1e9331ffe60f0600595770e84f22763d",
+      "path": "LOGS/6.md",
+      "links": [],
+      "metadata": {
+        "title": "CZON 自定义主题功能分析与 AI 集成优势",
+        "summary": "文档讨论了 CZON 自定义主题功能使用 JSX 实现的方案，分析了 URL、State 和 HTML 的关系，并对比了现有静态站点生成器（如 Next.js、Gatsby 等）。文档指出 CZON 的核心优势在于 AI 集成，包括母语编写自动翻译、自动摘要文档元信息、智能内容生成与优化以及智能分发与推荐。基于此，作者决定暂停自定义主题功能的开发，专注于完善 AI 集成和内容管理等核心功能，并计划未来明确 CZON 的定位和目标用户群体。",
+        "slug": "czon-custom-theme-analysis-ai-integration",
+        "tags": [
+          "CZON",
+          "JSX",
+          "静态站点生成器",
+          "AI 集成",
+          "内容管理",
+          "React",
+          "SEO",
+          "多语言"
+        ],
+        "inferred_date": "2025-01-09",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1177,
+          "completion": 226,
+          "total": 1403
+        }
+      }
+    },
+    {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
       "path": "QUANT/FSA/FSA.md",
       "links": [
