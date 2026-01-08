@@ -193,6 +193,32 @@
       }
     },
     {
+      "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
+      "path": "LOGS/4.md",
+      "links": [],
+      "metadata": {
+        "title": "关于ZEN项目未来发展和更名CZone的讨论",
+        "summary": "文档记录了作者在2026年1月8日晚上与Thrimbda讨论ZEN项目未来发展的内容。Thrimbda建议将ZEN打造成可发布的知识库，支持自定义前端、主题、永久链接、文档列表和轮播图，以便迁移其博客。作者认为这些功能完成后可发布ZEN 1.0.0版本，并考虑制定发布计划。同时，作者发现ZEN名称在GitHub上已被多个项目使用，因此考虑更名，最终选择CZone（czon）作为新名称，因为它简短、在npm上未被占用，且符合个人域名子域名的使用需求。",
+        "tags": [
+          "ZEN",
+          "CZone",
+          "知识库",
+          "项目更名",
+          "npm",
+          "自定义前端",
+          "发布计划",
+          "个人域名"
+        ],
+        "inferred_date": "2026-01-08",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 557,
+          "completion": 223,
+          "total": 780
+        }
+      }
+    },
+    {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
       "path": "QUANT/FSA/FSA.md",
       "links": [
