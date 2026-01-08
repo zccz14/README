@@ -11,29 +11,27 @@
   },
   "files": [
     {
-      "hash": "e9d434446dbf5e4bffa21d6b2947023255bbac5883a547ab42d39b3d4e3e709c",
+      "hash": "ec2f8b16671a677aa5cbdc957d867d18043d33b3ac2ea85748680ee907c1211d",
       "path": "README.md",
+      "links": [],
       "metadata": {
         "title": "README",
-        "summary": "这是一个个人网站的README文档，介绍了网站使用ZEN构建，ZEN是一个Vibe-Coding项目，作者没有编写代码而是作为“包工头”管理，网站结合了个人审美但尚未正式发布。",
+        "summary": "这是一个个人博客或笔记库的README文档，作者自称CZ或zccz14，用于存放个人思考、记录和见解。",
         "tags": [
           "README",
-          "ZEN",
-          "Vibe-Coding",
-          "个人网站",
-          "构建工具",
-          "项目开发"
+          "个人记录",
+          "思考",
+          "见解",
+          "CZ",
+          "zccz14"
         ],
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 360,
-          "completion": 108,
-          "total": 468
+          "prompt": 292,
+          "completion": 88,
+          "total": 380
         }
-      },
-      "links": [
-        "https://zccz14.github.io/ZEN"
-      ]
+      }
     },
     {
       "hash": "e1b49c211cb3d366b9975b102d852827e204c6b50076cf10758a86692a8b5934",
