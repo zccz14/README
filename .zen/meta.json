@@ -113,80 +113,112 @@
       "links": []
     },
     {
-      "hash": "22dd7954468ba48ed415a885cddad3cb2afa8367359148a7794be30a27612cb8",
+      "hash": "5f5bbaa342d85760e742d4e4d97d9be6843d8e0fa3540ea25969b4e3e43488aa",
       "path": "LOGS/1.md",
+      "links": [
+        "https://www.vibekanban.com/",
+        "../INSIGHTS/2.md"
+      ],
       "metadata": {
         "title": "解放的曙光即将来临",
-        "summary": "作者尝试使用vibe-kanban进行项目管理，发现它能帮助从开发者视角转向团队领导视角，但同时也加剧了对细节控制欲与快速推进之间的矛盾，引发了对系统设计、工具生态位和解放人类带宽的思考。",
+        "summary": "作者在2026年1月5日分享了使用vibe-kanban进行项目管理的体验，对比了之前使用Claude Code作为开发工具的感受。vibe-kanban作为看板工具，帮助作者从开发者视角转向团队管理者视角，能够并行管理多个任务，但也带来了更多任务管理和Review的负担。作者反思了控制欲与效率之间的矛盾，认为真正的解放在于放下对细节的控制，而非通过工具增强控制。文章还讨论了vibe-kanban与Claude Code等工具在不同抽象层级的协同关系，以及从个人到公司级别的工具分工。",
         "tags": [
           "项目管理",
           "vibe-kanban",
           "控制欲",
-          "带宽限制",
-          "工具生态位",
-          "解放",
-          "团队领导"
+          "效率",
+          "工具协同",
+          "抽象层级",
+          "解放"
         ],
-        "inferred_date": "2025-01-05",
+        "inferred_date": "2026-01-05",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
           "prompt": 1000,
-          "completion": 126,
-          "total": 1126
+          "completion": 200,
+          "total": 1200
         }
-      },
-      "links": [
-        "https://www.vibekanban.com/",
-        "../INSIGHTS/2.md"
-      ]
+      }
     },
     {
-      "hash": "975d307b50cd105dbe944d16efa1b5e4b76b6966a3ea8d059acc3dcc91ecc4bc",
+      "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
+      "links": [],
       "metadata": {
-        "title": "AI编程失败与重写经验",
-        "summary": "作者因AI生成的面向对象代码质量差、技术债务爆炸，重写了ZEN项目，转向面向过程和函数式编程，并建议避免过度向后兼容以提升代码质量。",
+        "title": "AI编程失败与重写项目的反思",
+        "summary": "文档描述了作者在2026年1月7日使用AI（Vibe Coding）生成代码时遇到的严重问题，包括代码质量差、技术债务爆炸、面向对象编程（OOP）实现混乱以及过度向后兼容导致的代码臃肿。作者分析了AI在OOP设计、架构指导和兼容性把握方面的不足，建议转向面向过程和函数式编程以提高代码质量，并强调应用奥卡姆剃刀原则来简化代码。文档还讨论了AI在脚手架和架构指导方面的挑战，并提出了改进方向。",
         "tags": [
           "AI编程",
           "面向对象编程",
-          "函数式编程",
-          "技术债务",
           "代码质量",
+          "技术债务",
+          "函数式编程",
           "奥卡姆剃刀",
-          "向后兼容"
+          "向后兼容",
+          "Vibe Coding"
         ],
-        "inferred_date": "2025-01-07",
+        "inferred_date": "2026-01-07",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
           "prompt": 1051,
-          "completion": 122,
-          "total": 1173
+          "completion": 200,
+          "total": 1251
         }
-      },
-      "links": []
+      }
     },
     {
-      "hash": "165f52e3a61f1392b31bfa6c128c42f9ba0f89afcd26daeb9a7cd8227daf9ef3",
+      "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
       "metadata": {
-        "title": "ZEN 项目更新与待办事项",
-        "summary": "文档记录了 ZEN 项目的更新，包括修复内部链接问题，并列出待办事项如改进导航、语言选择器样式、自定义 HTML 模板，以及处理 AI 并行限流和文件隐藏问题。",
+        "title": "ZEN 项目更新与待办事项记录",
+        "summary": "本文档记录了 2026 年 1 月 8 日 ZEN 项目的更新和待办事项。内容包括修复了内部链接问题，并提出了三个功能改进（导航功能、语言选择器样式、自定义 HTML 模板）和两个问题（AI 并行限流、.zen 文件隐藏）。文档以日记形式撰写，强调了项目进展和未来计划。",
         "tags": [
           "ZEN",
           "项目更新",
           "待办事项",
-          "导航功能",
+          "功能改进",
+          "问题修复",
           "AI 限流",
-          "HTML 模板",
-          "语言选择器"
+          "导航功能",
+          "HTML 模板"
         ],
-        "inferred_date": "2025-01-08",
+        "inferred_date": "2026-01-08",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
           "prompt": 558,
-          "completion": 131,
-          "total": 689
+          "completion": 171,
+          "total": 729
+        }
+      }
+    },
+    {
+      "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
+      "path": "QUANT/FSA/FSA.md",
+      "links": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png"
+      ],
+      "metadata": {
+        "title": "全谱分析法：信息的最优变现方法",
+        "summary": "本文提出了一种基于凯利准则改进的全谱分析法（FSA），用于投资交易领域的最优杠杆决策。该方法通过定义结局空间、计算期望收益率和复合收益率，求解最优杠杆以最大化长期复合增长。文档详细阐述了FSA的数学原理、算法实现（包括牛顿迭代法求解和黑天鹅事件处理）、历史回测方法（如毛利率GPM计算）以及实盘交易模块的应用。FSA旨在利用不完美的概率信息，通过严格遵循计算出的最优杠杆来降低信息变现的质量门槛，避免传统极大似然法的局限性。",
+        "tags": [
+          "全谱分析法",
+          "凯利公式",
+          "最优杠杆",
+          "复合收益率",
+          "投资策略",
+          "风险管理",
+          "算法交易",
+          "概率模型"
+        ],
+        "inferred_date": "2025-08-10",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 6008,
+          "completion": 208,
+          "total": 6216
         }
       }
     }
