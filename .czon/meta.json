@@ -520,6 +520,50 @@
       "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8"
     },
     {
+      "hash": "f046844525ab2c0e0001af2290511c96387e5b085afd543c74ad72fb6e97df0a",
+      "path": "LOGS/8.md",
+      "links": [
+        "6.md"
+      ],
+      "metadata": {
+        "title": "CZON JSX重构与AI分类功能规划",
+        "description": "本文介绍了CZON项目从模板引擎转向JSX渲染的重构工作，并规划了基于AI的内容自动分类功能实现方案。",
+        "short_summary": "本文介绍了CZON项目已完成JSX渲染重构，并详细规划了AI自动分类功能的实现方案。该方案要求AI生成简洁的分类体系，每篇文章只属于一个类别，以支持后续的分类浏览和推荐功能。",
+        "audience": "前端开发者、内容管理系统设计者、对AI自动分类技术感兴趣的技术人员",
+        "key_points": [
+          "CZON已完成从模板引擎到JSX渲染的重构",
+          "移除了Placeholder-Replacement模板引擎",
+          "采用React生态系统实现页面渲染",
+          "规划了AI自动分类内容的功能",
+          "分类体系由AI基于meta.json内容生成",
+          "要求类别数量不超过10个",
+          "每个类别至少包含3篇文章",
+          "每篇文章只属于一个类别",
+          "分类功能在Metadata提取后、Markdown增强前完成",
+          "分类标签将用于分类浏览和推荐系统"
+        ],
+        "summary": "本文首先回顾了CZON项目已完成的工作，包括将原本基于Placeholder-Replacement的模板引擎重构为使用React生态系统的JSX进行页面渲染，并暂时搁置了自定义主题功能以专注于核心功能完善。接着，文章重点规划了AI分类功能的实现方案：通过AI阅读meta.json内容生成分类体系，然后为每篇文章自动打上分类标签，要求类别数量不超过10个、每个类别至少包含3篇文章、每篇文章只属于一个类别。该功能需要在单篇文章提取完Metadata之后、增强Markdown元信息之前完成，以便处理可能的翻译需求。最后，文章展望了分类标签在分类浏览和推荐系统中的应用价值。",
+        "slug": "czon-jsx-refactor-ai-classification-plan",
+        "tags": [
+          "CZON",
+          "JSX",
+          "React",
+          "AI分类",
+          "重构",
+          "内容管理",
+          "前端开发"
+        ],
+        "inferred_date": "2026-01-10",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 928,
+          "completion": 460,
+          "total": 1388
+        }
+      },
+      "nativeMarkdownHash": "eb2f8520ec803e134bb6aaebf3d6fcebe6f4f63e06e0585f9f3befb40391ee80"
+    },
+    {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
       "path": "QUANT/FSA/FSA.md",
       "links": [
