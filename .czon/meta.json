@@ -11,25 +11,29 @@
   },
   "files": [
     {
-      "hash": "ec2f8b16671a677aa5cbdc957d867d18043d33b3ac2ea85748680ee907c1211d",
+      "hash": "ea9c5f185464ee3dd129e906aa02b51a2e4f6e9a88856426f399090bc40d47ed",
       "path": "README.md",
-      "links": [],
+      "links": [
+        "https://github.com/No-Trade-No-Life/"
+      ],
       "metadata": {
-        "title": "README",
-        "summary": "这是一个个人博客或文档的 README 文件，作者是 CZ 或 zccz14，用于存放个人思考、记录和见解。",
-        "slug": "readme",
+        "title": "README - CZ的个人简介与思考",
+        "summary": "本文档是CZ（又名zccz14）的个人README，介绍了其专业领域为量化交易和金融科技，并作为No Trade No Life (NTNL)的创始人。作者描述自己为高耗能型大脑，喜欢思考和写作，追求顺理成章。文档表达了作者的人生哲学，包括对“朝闻道，夕死可矣”的引用，强调人生是为了体验和理解一切，并说明本站用于存放个人思考、记录和见解，可作为未来AI复活的材料。",
+        "slug": "readme-cz-personal-intro",
         "tags": [
-          "个人博客",
-          "记录",
+          "量化交易",
+          "金融科技",
+          "个人简介",
           "思考",
-          "见解",
-          "README"
+          "写作",
+          "人生哲学",
+          "AI复活"
         ],
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 327,
-          "completion": 93,
-          "total": 420
+          "prompt": 440,
+          "completion": 190,
+          "total": 630
         }
       }
     },
@@ -111,6 +115,30 @@
         }
       },
       "links": []
+    },
+    {
+      "hash": "dbea156d75e01cc4db3c855f91046ccc0d1bafdd8a6b4495e5bf87fbb1ccdfc8",
+      "path": "INSIGHTS/4.md",
+      "links": [],
+      "metadata": {
+        "title": "从创作到分发——构建 AI-Native 的内容引擎",
+        "summary": "本文探讨了内容创作与分发的核心原则，强调创作过程是从浅层观察到深层思考的深入过程，而分发过程则需要浅出以避免信息过载，让受众易于理解。文章指出技术如SEO和推荐算法服务于信息高效传递，并对比了过去依赖人类劳动与现在AI带来的变化。",
+        "slug": "from-creation-to-distribution-building-ai-native-content-engine",
+        "tags": [
+          "AI-Native",
+          "内容创作",
+          "内容分发",
+          "SEO",
+          "推荐算法",
+          "信息传递"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 454,
+          "completion": 156,
+          "total": 610
+        }
+      }
     },
     {
       "hash": "5f5bbaa342d85760e742d4e4d97d9be6843d8e0fa3540ea25969b4e3e43488aa",
