@@ -50,7 +50,8 @@
           "total": 1043
         }
       },
-      "nativeMarkdownHash": "e69a3d1136c009d1503a967334d26f2ad7633ad03aeec07cb2227e7328f74c31"
+      "nativeMarkdownHash": "e69a3d1136c009d1503a967334d26f2ad7633ad03aeec07cb2227e7328f74c31",
+      "category": "Personal Introduction"
     },
     {
       "hash": "e1b49c211cb3d366b9975b102d852827e204c6b50076cf10758a86692a8b5934",
@@ -94,7 +95,8 @@
           "total": 2805
         }
       },
-      "nativeMarkdownHash": "1cf42c0faa41addf672c7f9412678c2e618168a24242f53f5ab1b6d0b4b38d73"
+      "nativeMarkdownHash": "1cf42c0faa41addf672c7f9412678c2e618168a24242f53f5ab1b6d0b4b38d73",
+      "category": "Human-AI Collaboration"
     },
     {
       "hash": "b283a1863e9af777d581f5af32c0d2d27ed22194f391f5bc3cef9d0d445b4e8c",
@@ -136,7 +138,8 @@
         }
       },
       "links": [],
-      "nativeMarkdownHash": "b28f18840381bd2ea6c8ad39c889eb8be21f1dd821343e2c381e44cc58163d0d"
+      "nativeMarkdownHash": "b28f18840381bd2ea6c8ad39c889eb8be21f1dd821343e2c381e44cc58163d0d",
+      "category": "Human-AI Collaboration"
     },
     {
       "hash": "2b0a022c6abba013f5f8dcf8f24e4cd0662b3db73ff017c3bb8799d0541537ae",
@@ -177,7 +180,8 @@
         }
       },
       "links": [],
-      "nativeMarkdownHash": "e1007ddc4ef3db809ae1ff9dfcbb21b98ff273d103b238ee6e26979087476f2b"
+      "nativeMarkdownHash": "e1007ddc4ef3db809ae1ff9dfcbb21b98ff273d103b238ee6e26979087476f2b",
+      "category": "Human-AI Collaboration"
     },
     {
       "hash": "dbea156d75e01cc4db3c855f91046ccc0d1bafdd8a6b4495e5bf87fbb1ccdfc8",
@@ -218,7 +222,8 @@
           "total": 1078
         }
       },
-      "nativeMarkdownHash": "616e53b295544ce081ff064e74a41bd437c5f39d73f6045da6cb8832904e7805"
+      "nativeMarkdownHash": "616e53b295544ce081ff064e74a41bd437c5f39d73f6045da6cb8832904e7805",
+      "category": "Content Management"
     },
     {
       "hash": "5f5bbaa342d85760e742d4e4d97d9be6843d8e0fa3540ea25969b4e3e43488aa",
@@ -261,7 +266,8 @@
           "total": 1690
         }
       },
-      "nativeMarkdownHash": "ee8f6197134c8b81aca5d77e402c9d6a2c0f07a2ac45ccc2137327d3f3f5e89b"
+      "nativeMarkdownHash": "ee8f6197134c8b81aca5d77e402c9d6a2c0f07a2ac45ccc2137327d3f3f5e89b",
+      "category": "Software Development"
     },
     {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
@@ -303,7 +309,8 @@
           "total": 1763
         }
       },
-      "nativeMarkdownHash": "33097cb3ed4d462f5c5abf8541bca39f30bc92ebb56215110755f74864157e22"
+      "nativeMarkdownHash": "33097cb3ed4d462f5c5abf8541bca39f30bc92ebb56215110755f74864157e22",
+      "category": "Software Development"
     },
     {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
@@ -346,7 +353,8 @@
           "total": 1232
         }
       },
-      "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662"
+      "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
+      "category": "Software Development"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -389,7 +397,8 @@
           "total": 1331
         }
       },
-      "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483"
+      "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
+      "category": "Software Development"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -432,7 +441,8 @@
           "total": 1401
         }
       },
-      "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e"
+      "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e",
+      "category": "Software Development"
     },
     {
       "hash": "c1f75326e1864105c4c33c72e3c6d2fd1e9331ffe60f0600595770e84f22763d",
@@ -475,7 +485,8 @@
           "total": 1943
         }
       },
-      "nativeMarkdownHash": "5dc3a1ca5a48ba6f9aed64f0956ae86c596872c04855bff7aa764940065532c5"
+      "nativeMarkdownHash": "5dc3a1ca5a48ba6f9aed64f0956ae86c596872c04855bff7aa764940065532c5",
+      "category": "Software Development"
     },
     {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
@@ -517,7 +528,8 @@
           "total": 1909
         }
       },
-      "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8"
+      "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8",
+      "category": "Content Management"
     },
     {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
@@ -562,7 +574,8 @@
           "total": 1426
         }
       },
-      "nativeMarkdownHash": "7dda02409361ce9de1d3ba5c0f97c60578d95800d792c2785c9019680a9dbcc4"
+      "nativeMarkdownHash": "7dda02409361ce9de1d3ba5c0f97c60578d95800d792c2785c9019680a9dbcc4",
+      "category": "Software Development"
     },
     {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
@@ -609,7 +622,8 @@
           "total": 6841
         }
       },
-      "nativeMarkdownHash": "8c149897f75c91d829dd7c35f62f24da35003d2e05bb73fa3e5f61a4e358370a"
+      "nativeMarkdownHash": "8c149897f75c91d829dd7c35f62f24da35003d2e05bb73fa3e5f61a4e358370a",
+      "category": "Quantitative Finance"
     }
   ]
 }
