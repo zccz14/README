@@ -315,6 +315,49 @@
       "category": "AI Software Engineering"
     },
     {
+      "hash": "4a81a0938e94ffd5609ef1afd76a489e09155eef7090a8cc96a5ca37f080e5a1",
+      "path": "LOGS/11.md",
+      "links": [
+        "妙啊.png"
+      ],
+      "metadata": {
+        "title": "CZON中N的含义：内容创作与分发的势能变化折线",
+        "description": "本文解释了CZON名字中N的含义，描绘了内容从创作到分发的势能变化过程，形成N形曲线。",
+        "short_summary": "本文揭示了CZON中N的含义，即内容创作与分发的势能变化折线。内容从低起点开始，经过完善上升，发布时下降，再通过反馈上升，形成N形曲线。",
+        "audience": "内容创作者、营销人员、对内容策略和创作过程感兴趣的人",
+        "key_points": [
+          "CZON中N代表内容创作与分发的势能变化折线",
+          "内容创作起点低，源于灵感或想法的萌芽",
+          "通过修改优化，内容势能逐步上升",
+          "发布时需降维投影以适应平台，势能下降",
+          "受众反馈和互动可提升内容势能",
+          "整个过程形成N形能量曲线",
+          "内容价值随迭代和反馈而变化",
+          "强调了创作与分发的动态关系"
+        ],
+        "summary": "本文探讨了CZON中N的含义，将其解释为内容创作与分发的势能变化折线。文章详细描述了内容从低势能起点（灵感萌芽）开始，通过完善优化逐步提升势能，在发布时因适应平台而下降，最终通过受众反馈再次上升的完整过程。这一N形曲线恰好形象地展示了内容创作与分发的动态变化。",
+        "slug": "czon-n-meaning-content-creation-distribution-energy-curve",
+        "tags": [
+          "CZON",
+          "内容创作",
+          "内容分发",
+          "势能变化",
+          "N形曲线",
+          "内容策略",
+          "创作过程"
+        ],
+        "inferred_date": "2026-01-12",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 782,
+          "completion": 397,
+          "total": 1179
+        }
+      },
+      "category": "Content Management",
+      "nativeMarkdownHash": "9f5cd79557168b87aa6fbb0eb0882d737d321b9c7e1841a740f19c5c99f9f96f"
+    },
+    {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
       "links": [],
@@ -666,6 +709,11 @@
       },
       "category": "AI Software Engineering",
       "nativeMarkdownHash": "4f7406eba92fac545b4f0d4372457e9f143895a918b5296e47b31c8b90586a66"
+    },
+    {
+      "hash": "2a2f39c3da49421968f0d9b0dcf003580acb34df7f2447b0419595bed40c45c5",
+      "path": "LOGS/妙啊.png",
+      "links": []
     },
     {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
