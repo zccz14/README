@@ -269,6 +269,52 @@
       "category": "AI Software Engineering"
     },
     {
+      "hash": "8d571b3e0346fee783a30cd9b4441cafb482041d2d9d1e131683eba270b669bc",
+      "path": "LOGS/10.md",
+      "links": [
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/2.md"
+      ],
+      "metadata": {
+        "title": "AI Agent 模块级软件工程架构设计思考",
+        "description": "作者探讨了基于 AI Agent 实现模块级人机协同软件工程架构的关键技术要点和实施路径。",
+        "short_summary": "本文探讨了如何利用 AI Agent（如 Claude Code）实现模块级人机协同的软件工程架构。关键点包括代码库管理、会话控制、透明性保障，以及基于 Agent 调度器自动化任务。作者计划先实现简化版验证可行性。",
+        "audience": "软件工程师、AI 开发者、对自动化编程和人机协同感兴趣的技术人员",
+        "key_points": [
+          "设计模块级人机协同软件工程架构",
+          "使用 git worktree 管理代码库和 setup 脚本",
+          "通过 CLI 调用 AI Agent（如 Claude Code）开启会话",
+          "获取 AI Agent 的结束通知和对话历史以实现透明性",
+          "实现自动化脚本分配独立会话给 Agent",
+          "抽象 Agent 接口以支持不同底层实现",
+          "使用调度器按工作流程协调 Agent 任务",
+          "基于 Agent 而非 LLM API 以处理底层复杂性",
+          "计划先实现简化版本验证思路"
+        ],
+        "summary": "本文记录了作者在 2026 年 1 月 12 日对 AI Agent 在模块级软件工程中应用的思考。作者提出了一种人机协同的架构，关键点包括使用 git worktree 管理代码库、通过 CLI 调用 AI Agent（如 Claude Code）并管理会话、获取 Agent 的结束通知和对话历史以实现透明性。作者计划实现一个自动化脚本，将每个任务分配给独立的 Agent 会话，并通过调度器协调工作流程。文章强调了使用 Agent 而非直接调用 LLM API 的优势，即 Agent 能处理底层复杂性（如探索代码库、调用系统命令、上下文管理），避免重复造轮子。作者打算先实现简化版本来验证思路。",
+        "slug": "ai-agent-module-software-engineering-architecture-design",
+        "tags": [
+          "AI Agent",
+          "软件工程",
+          "人机协同",
+          "Claude Code",
+          "自动化",
+          "模块化",
+          "透明性",
+          "调度器"
+        ],
+        "inferred_date": "2026-01-12",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 950,
+          "completion": 490,
+          "total": 1440
+        }
+      },
+      "nativeMarkdownHash": "f324fa929b4b828d58b9ed028fcf3c6396b047a57db2768086062719956984a5",
+      "category": "AI Software Engineering"
+    },
+    {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
       "links": [],
@@ -666,8 +712,23 @@
           "total": 6841
         }
       },
-      "nativeMarkdownHash": "8c149897f75c91d829dd7c35f62f24da35003d2e05bb73fa3e5f61a4e358370a",
+      "nativeMarkdownHash": "6543cf26b4e8215bb414bff59789adb5dae64833b80a00845e3f0ee3eb203c62",
       "category": "Quantitative Finance"
+    },
+    {
+      "hash": "2422dc9f38d7d5aec3288d100b4334dfdbc7adfd4eba88814511a78ad3a0a4ce",
+      "path": "QUANT/FSA/image-1.png",
+      "links": []
+    },
+    {
+      "hash": "4068dbc6a1d3a0c0f375de7413f335115d4124fa2a01a5646010c56d8ec767ad",
+      "path": "QUANT/FSA/image-2.png",
+      "links": []
+    },
+    {
+      "hash": "e5c9fbcc6e652381ce552a033b04583b026e01af0369b5b3bba1e18f4d50fbd3",
+      "path": "QUANT/FSA/image-3.png",
+      "links": []
     }
   ]
 }
