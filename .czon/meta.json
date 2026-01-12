@@ -716,6 +716,65 @@
       "links": []
     },
     {
+      "hash": "0c1aba1301079f60df375cfcef28769ca02725496632d20353df50139295163b",
+      "path": "QUANT/EA/EA.md",
+      "links": [
+        "https://earnby.ai",
+        "https://earnby.ai",
+        "https://bscscan.com/token/0xd44c72d47f029e1545d1689a440aaa38cf3db71a#balances",
+        "image.png",
+        "https://github.com/zccz14",
+        "https://www.stern.nyu.edu/faculty/bio/xi-chen",
+        "https://github.com/stayrealmayday",
+        "https://github.com/mage1028",
+        "https://github.com/thrimbda"
+      ],
+      "metadata": {
+        "title": "EA项目介绍：AI驱动的优先级基金",
+        "description": "EA是一个BSC链上优先级基金项目，通过AI量化交易策略为投资者提供稳定收益，采用优先/劣后级结构保障本金安全。",
+        "short_summary": "EA是一个BSC链上的优先级基金项目，采用AI量化交易策略提供收益。通过优先/劣后级结构保障优先级资金本金安全，收益率浮动且可随时赎回。项目由专业团队管理，历史业绩稳定。",
+        "audience": "对区块链投资、量化交易和稳定收益理财感兴趣的投资者",
+        "key_points": [
+          "EA是BSC链上部署的优先级基金项目，以USDC结算",
+          "采用AI驱动的量化交易和Delta中性策略获取收益",
+          "资金分为优先级和劣后级，优先级享有本金保护和优先回报",
+          "项目方自有资金投入劣后级，承担风险保障优先级安全",
+          "收益率浮动，目前为12%年化，投资者可随时赎回",
+          "无管理费，项目方在特定条件下才从劣后资金获取收益",
+          "团队由量化交易和区块链领域专家组成，多数毕业于XJTU",
+          "历史业绩显示自2024年3月前身基金平均年化收益率22%",
+          "投资者无最低投资金额和锁定期，赎回有普通和闪电两种方式",
+          "优先/劣后结构旨在平滑收益率波动，提升投资者体验"
+        ],
+        "summary": "EA（Earnby.AI）是一个部署在BSC链上的优先级基金项目，以USDC结算，通过AI驱动的量化交易和Delta中性策略为投资者提供收益。项目采用优先/劣后级资金结构，优先级资金享有本金保护和优先回报，劣后级资金由项目方自有资金承担风险，确保优先级安全。收益率浮动，目前为12%年化，投资者可随时赎回。项目无管理费，团队由量化交易和区块链专家组成，历史业绩显示稳定收益。",
+        "slug": "ea-project-introduction",
+        "tags": [
+          "EA项目",
+          "优先级基金",
+          "量化交易",
+          "BSC链",
+          "USDC",
+          "AI驱动",
+          "投资理财",
+          "区块链"
+        ],
+        "inferred_date": "2025-11-01",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 2009,
+          "completion": 490,
+          "total": 2499
+        }
+      },
+      "category": "Blockchain Investment",
+      "nativeMarkdownHash": "a573be5ca66fd3d9d20d5d2add304efed00db1ddd4c07294bbc18fe8744fc8c9"
+    },
+    {
+      "hash": "d818db8699b75657dab6633b17f82620e077723e37329d8a06a4d9c12c04b43f",
+      "path": "QUANT/EA/image.png",
+      "links": []
+    },
+    {
       "hash": "8363c4bf1cb5605abeb00f9177b2cfa7ce0ec6e27d960f3a326051443faff5d8",
       "path": "QUANT/FSA/FSA.md",
       "links": [
