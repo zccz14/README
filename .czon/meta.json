@@ -407,6 +407,51 @@
       "nativeMarkdownHash": "3750ecff94666019b0bf7f662df579bef0c3ebe3fa7eb05b3079fdedb05c4279"
     },
     {
+      "hash": "941c1a4338289c31a189cedf3dd7a8e861ffdf43db4dedbde90143076092b866",
+      "path": "LOGS/13.md",
+      "links": [
+        "https://github.com/deepseek-ai/Engram"
+      ],
+      "metadata": {
+        "title": "DeepSeek Engram论文分析：大语言模型的新记忆机制",
+        "description": "DeepSeek发布Engram论文，提出通过可扩展查找表实现动态记忆机制，提升大语言模型性能并降低计算消耗。",
+        "short_summary": "DeepSeek发布Engram论文，引入基于可扩展查找表的动态记忆机制，提升大语言模型性能并降低计算消耗。论文还分析了Engram与MoE比例对性能的U型曲线影响，强调组件平衡的重要性，为大模型发展开辟新方向。",
+        "audience": "AI研究人员、机器学习开发者、技术爱好者、对大语言模型和AI进展感兴趣的人士",
+        "key_points": [
+          "DeepSeek发布Engram论文，提出新的记忆机制",
+          "机制通过可扩展查找表实现动态记忆查询",
+          "提升模型上下文理解和生成能力",
+          "显著降低计算资源消耗",
+          "使模型在资源受限环境中高效运行",
+          "Engram与MoE比例对性能呈U型曲线影响",
+          "强调平衡模型组件的重要性",
+          "从哲学角度探讨AI创新历程",
+          "为大语言模型发展提供新思路",
+          "期待DeepSeek v4的发布"
+        ],
+        "summary": "本文分析了DeepSeek于2026年1月13日发布的Engram论文，该论文提出了一种新的记忆机制，允许大语言模型在生成文本时动态查询和利用外部存储的记忆片段。通过可扩展的查找表实现，这种方法不仅提升了模型的上下文理解和生成能力，还显著降低了计算资源消耗，使模型在资源受限环境中也能高效运行。论文还探讨了Engram与MoE组件比例对性能的影响，发现呈现U型曲线，强调平衡不同组件的重要性。从哲学角度，文章将这一进展与Attention机制、MoE等创新相提并论，视为对复杂系统高效运作的持续探索。整体而言，Engram为大语言模型的记忆机制提供了新思路，有望推动模型向更智能、高效的方向发展。",
+        "slug": "deepseek-engram-paper-analysis-memory-mechanism",
+        "tags": [
+          "DeepSeek",
+          "Engram",
+          "大语言模型",
+          "记忆机制",
+          "AI论文",
+          "机器学习",
+          "计算优化"
+        ],
+        "inferred_date": "2026-01-13",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 913,
+          "completion": 501,
+          "total": 1414
+        }
+      },
+      "category": "AI Research",
+      "nativeMarkdownHash": "c64ba75559961cf54fe349005915b69897d86942eb50ff8bd0437096e16eae47"
+    },
+    {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
       "links": [],
