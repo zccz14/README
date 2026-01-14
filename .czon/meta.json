@@ -266,7 +266,7 @@
         }
       },
       "nativeMarkdownHash": "5d215188bc7e07987999542bc534c4d5774be29305ecfc3b3b79a9dbc5a30ef0",
-      "category": "AI Software Engineering"
+      "category": "Project Management"
     },
     {
       "hash": "8d571b3e0346fee783a30cd9b4441cafb482041d2d9d1e131683eba270b669bc",
@@ -452,6 +452,88 @@
       "nativeMarkdownHash": "c64ba75559961cf54fe349005915b69897d86942eb50ff8bd0437096e16eae47"
     },
     {
+      "hash": "3cacdc1885357a9889aa452978ec1aa77e4dd91f180f6ee4391ec5af460ce540",
+      "path": "LOGS/14.md",
+      "links": [],
+      "metadata": {
+        "title": "早起日志：影响力与内容创作的价值",
+        "description": "作者通过早起日志分享个人作息、内容创作经验，探讨影响力在项目推广和收益中的重要作用。",
+        "short_summary": "作者在早起日志中分享了个人作息和内容创作经验，通过总结DeepSeek论文引发讨论的例子，强调了追热点和产出有价值内容的重要性。文章深入探讨影响力在项目推广和收益中的关键作用，指出影响力是长期积累的过程，能带来更多机会和资源。",
+        "audience": "对个人成长、内容创作、项目管理和影响力建设感兴趣的读者，特别是创业者和自媒体人。",
+        "key_points": [
+          "作者5点多早起，保持8-9小时睡眠习惯",
+          "总结DeepSeek Engram论文在朋友圈引发讨论",
+          "追热点和产出有价值内容能吸引关注",
+          "NTNL团队过去项目因缺乏宣传未获关注",
+          "影响力是长期积累的过程，关乎个人品牌",
+          "收益公式中影响力是关键乘数",
+          "量化交易与大众项目中影响力作用不同",
+          "影响力大的人能形成良性循环，获得更多资源"
+        ],
+        "summary": "本文是一篇早起日志，作者记录了5点多早起的经历，并反思了睡眠习惯。日志重点讨论了前一天对DeepSeek Engram论文的总结在朋友圈引发的讨论，强调了追热点和产出有价值内容对吸引关注的重要性。作者以NTNL团队为例，指出过去项目因缺乏宣传而未获应有关注，未来将更注重推广。文章深入探讨了影响力的长期积累过程，将其比作个人品牌和收益公式中的关键乘数，特别对比了量化交易与大众项目中影响力的不同作用，最终指出影响力大的人能形成良性循环，获得更多资源和机会。",
+        "slug": "early-morning-journal-influence-content-creation",
+        "tags": [
+          "早起",
+          "日志",
+          "影响力",
+          "内容创作",
+          "DeepSeek",
+          "项目推广",
+          "个人品牌"
+        ],
+        "inferred_date": "2026-01-14",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 924,
+          "completion": 443,
+          "total": 1367
+        }
+      },
+      "category": "Content Management",
+      "translations": {
+        "en-US": {
+          "content_length": 3804,
+          "token_used": {
+            "prompt_tokens": 696,
+            "completion_tokens": 748,
+            "total_tokens": 1444,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 632
+          }
+        },
+        "es-ES": {
+          "content_length": 4125,
+          "token_used": {
+            "prompt_tokens": 697,
+            "completion_tokens": 972,
+            "total_tokens": 1669,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 633
+          }
+        },
+        "ja-JP": {
+          "content_length": 1712,
+          "token_used": {
+            "prompt_tokens": 931,
+            "completion_tokens": 1038,
+            "total_tokens": 1969,
+            "prompt_tokens_details": {
+              "cached_tokens": 256
+            },
+            "prompt_cache_hit_tokens": 256,
+            "prompt_cache_miss_tokens": 675
+          }
+        }
+      },
+      "nativeMarkdownHash": "a54e825fde2f7f8801026606b07f0a3795d3afc6a563eb63d3965b4069e31c6f"
+    },
+    {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
       "links": [],
@@ -536,7 +618,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "AI Software Engineering"
+      "category": "Project Management"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -580,7 +662,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "AI Software Engineering"
+      "category": "Project Management"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -624,7 +706,7 @@
         }
       },
       "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e",
-      "category": "AI Software Engineering"
+      "category": "Project Management"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
@@ -667,7 +749,7 @@
           "total": 1889
         }
       },
-      "category": "AI Software Engineering",
+      "category": "Project Management",
       "nativeMarkdownHash": "ed9c6b76e1dc3c86dc8f35c69b278dfff8290cb4ac5284c7698eb3496331b435"
     },
     {
@@ -757,7 +839,7 @@
         }
       },
       "nativeMarkdownHash": "c900560fe350cf01c4bcf7a1bf93bcef1fd7ce3f4691192b5eef0d38a8311086",
-      "category": "AI Software Engineering"
+      "category": "Project Management"
     },
     {
       "hash": "be3af41752a32272b4f659ec0003ae523abe10ed80969fbc4661b0467508aa97",
