@@ -225,27 +225,25 @@
       "nativeMarkdownHash": "730e773414acad57cc4a9b34d3e0176b79dd2fc406d2e097ab95e4373f5b0339"
     },
     {
-      "hash": "9f699daf6f73a24bb2ad44b0816547fd7b332f78ffa9e47afcc10ef29dac3293",
+      "hash": "c1596c01c2aca5ab8ea5b18b579dd619b7da780327705352dc45e461535dd54e",
       "path": "INSIGHTS/5.md",
       "links": [],
       "metadata": {
         "title": "粟裕作战指令对多智能体系统协同的启发",
-        "description": "本文探讨粟裕军事思想如何为多智能体系统协同提供组织方法论，提出一个基于标准化、模块化、协议化的协同框架。",
-        "short_summary": "本文探讨粟裕军事思想如何启发多智能体系统协同框架设计。通过分析粟裕作战指令的组织逻辑，提炼出标准化、模块化等原则，并构建一个适用于AI智能体的协同模型。该框架旨在提升复杂任务下的协同效率与可靠性，为AI系统设计提供新颖的组织方法论。",
-        "audience": "人工智能研究者、多智能体系统开发者、军事思想爱好者、交叉学科探索者",
+        "description": "本文探讨粟裕作战指令的组织逻辑如何为多智能体系统协同提供方法论框架，提升AI任务执行效率。",
+        "short_summary": "本文分析粟裕作战指令的组织逻辑，将其核心原则迁移到多智能体系统协同中，提出一个结构化框架以提升复杂任务执行效率。研究展示了历史军事智慧如何为AI协同提供方法论指导，推动从技术工具到组织管理的范式转变。",
+        "audience": "人工智能研究者、多智能体系统开发者、军事历史爱好者、组织管理学者及对AI协同创新感兴趣的专业人士",
         "key_points": [
           "粟裕作战指令具有标准化、模块化、协议化与弹性化等核心特征",
-          "作战指令的组织逻辑包括全局态势对齐、任务解耦、交互协议前置和弹性设计",
-          "提炼出认知统一先行、结构决定功能、协议高于沟通、集中指挥下的分布式执行等原则",
-          "构建“多智能体协同作战指令框架”，将任务发布者、智能体分别类比为司令部、部队",
-          "框架核心模块包括态势分析、目标定义、角色分派、交互协议和中枢协调",
-          "相比传统方法，框架优势在于系统性工程、涌现协同、增强鲁棒性和提升复杂任务能力",
-          "研究为人工智能开辟了“组织行为学与AI系统设计”的交叉学科视角",
-          "实践展望包括在智能体编排平台实现原型，并拓展至多机器人协同、人机协作等领域",
-          "论证了传统组织智慧能为AI发展提供超越技术的洞见",
-          "强调高效组织复杂性是人类与人工智能共同面对的永恒命题"
+          "指令逻辑可抽象为复杂系统控制方法论，强调认知统一、结构分工、协议协同和集中指挥下的分布式执行",
+          "提出“多智能体协同作战指令框架”，将任务分解为态势分析、目标定义、角色分派、交互协议和中枢协调等模块",
+          "通过实例迁移展示如何将军事指令转化为AI任务指令，实现从模糊提示到系统工程的转变",
+          "框架优势包括提升协同效率、增强鲁棒性、提高任务可解释性和攻克复杂任务能力",
+          "研究论证了传统组织智慧能为AI发展提供跨学科洞见，推动群体智能和具身智能的创新",
+          "短期可在智能体编排平台实现原型验证，长期可拓展至多机器人协同和混合人机团队领域",
+          "核心价值在于将人类指挥艺术转化为机器智能体的“操作系统级”调度与管理逻辑"
         ],
-        "summary": "本文通过分析粟裕大兵团作战指令的核心特征与组织逻辑，提炼出标准化、模块化、协议化与弹性化等原则，并将其应用于多智能体系统协同框架的设计中。文章提出“多智能体协同作战指令框架”，强调全局态势对齐、任务结构化解耦、交互协议标准化和中枢动态协调，旨在解决当前多智能体系统在协同效率、意图对齐与任务可靠性方面的挑战。研究论证了传统组织管理智慧能为人工智能发展提供超越技术的深刻洞见，为群体智能和具身智能研究开辟了交叉学科视角。",
+        "summary": "本文通过分析粟裕大兵团作战指令的核心特征与组织逻辑，提炼出标准化、模块化、协议化与弹性化等原则，并将其应用于多智能体系统协同框架设计。文章提出“面向复杂任务的多智能体协同作战指令框架”，强调全局态势对齐、任务解耦、交互协议标准化和中枢动态协调，以解决当前多智能体系统在协同效率、意图对齐与任务可靠性方面的挑战。研究论证了传统组织管理智慧能为人工智能发展提供超越技术的洞见，为AI系统设计开辟了跨学科创新路径。",
         "slug": "su-yu-operational-instructions-multi-agent-system-cooperation",
         "tags": [
           "粟裕军事思想",
@@ -256,56 +254,57 @@
           "指挥与控制",
           "提示词工程"
         ],
+        "inferred_date": "2026-01-14",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 2073,
-          "completion": 570,
-          "total": 2643
+          "prompt": 4568,
+          "completion": 557,
+          "total": 5125
         }
       },
-      "category": "Military Strategy AI",
+      "category": "Military AI Applications",
       "translations": {
         "en-US": {
-          "content_length": 10686,
+          "content_length": 22937,
           "token_used": {
-            "prompt_tokens": 1873,
-            "completion_tokens": 1954,
-            "total_tokens": 3827,
+            "prompt_tokens": 4375,
+            "completion_tokens": 4627,
+            "total_tokens": 9002,
             "prompt_tokens_details": {
-              "cached_tokens": 192
+              "cached_tokens": 128
             },
-            "prompt_cache_hit_tokens": 192,
-            "prompt_cache_miss_tokens": 1681
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 4247
           }
         },
         "ja-JP": {
-          "content_length": 4301,
+          "content_length": 9517,
           "token_used": {
-            "prompt_tokens": 2110,
-            "completion_tokens": 2840,
-            "total_tokens": 4950,
+            "prompt_tokens": 4612,
+            "completion_tokens": 6345,
+            "total_tokens": 10957,
             "prompt_tokens_details": {
-              "cached_tokens": 448
+              "cached_tokens": 384
             },
-            "prompt_cache_hit_tokens": 448,
-            "prompt_cache_miss_tokens": 1662
+            "prompt_cache_hit_tokens": 384,
+            "prompt_cache_miss_tokens": 4228
           }
         },
         "es-ES": {
-          "content_length": 11886,
+          "content_length": 26860,
           "token_used": {
-            "prompt_tokens": 1875,
-            "completion_tokens": 2958,
-            "total_tokens": 4833,
+            "prompt_tokens": 4377,
+            "completion_tokens": 7138,
+            "total_tokens": 11515,
             "prompt_tokens_details": {
-              "cached_tokens": 192
+              "cached_tokens": 128
             },
-            "prompt_cache_hit_tokens": 192,
-            "prompt_cache_miss_tokens": 1683
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 4249
           }
         }
       },
-      "nativeMarkdownHash": "7dafec0f380eb8681c6e22273bb5cc55f6350a0a757a55ebd354d17624d523af"
+      "nativeMarkdownHash": "369042c5008bf14a6b1d7e879fea6edeeebaed56ebf0a9773e836e059c13c748"
     },
     {
       "hash": "5f5bbaa342d85760e742d4e4d97d9be6843d8e0fa3540ea25969b4e3e43488aa",
@@ -835,7 +834,7 @@
           "total": 1889
         }
       },
-      "category": "Content Management",
+      "category": "Project Management",
       "nativeMarkdownHash": "ed9c6b76e1dc3c86dc8f35c69b278dfff8290cb4ac5284c7698eb3496331b435"
     },
     {
@@ -925,7 +924,7 @@
         }
       },
       "nativeMarkdownHash": "c900560fe350cf01c4bcf7a1bf93bcef1fd7ce3f4691192b5eef0d38a8311086",
-      "category": "Content Management"
+      "category": "Project Management"
     },
     {
       "hash": "be3af41752a32272b4f659ec0003ae523abe10ed80969fbc4661b0467508aa97",
