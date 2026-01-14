@@ -492,16 +492,16 @@
       "category": "Content Management",
       "translations": {
         "en-US": {
-          "content_length": 3804,
+          "content_length": 3787,
           "token_used": {
-            "prompt_tokens": 696,
-            "completion_tokens": 748,
-            "total_tokens": 1444,
+            "prompt_tokens": 728,
+            "completion_tokens": 737,
+            "total_tokens": 1465,
             "prompt_tokens_details": {
               "cached_tokens": 64
             },
             "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 632
+            "prompt_cache_miss_tokens": 664
           }
         },
         "es-ES": {
