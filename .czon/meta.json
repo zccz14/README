@@ -307,6 +307,91 @@
       "nativeMarkdownHash": "369042c5008bf14a6b1d7e879fea6edeeebaed56ebf0a9773e836e059c13c748"
     },
     {
+      "hash": "6f553c1c811ecf4bc49508ca2804251dd10ab9274cedaa1768fbd8c408e06bc9",
+      "path": "INSIGHTS/6.md",
+      "links": [],
+      "metadata": {
+        "title": "资本持久战：个人投资者的生存发展策略",
+        "description": "本文提出个人投资者应通过持久战策略实现财富跨越式增长，驳斥了个人必败论、稳健发展论和梭哈暴富论等错误观点。",
+        "short_summary": "本文提出个人投资者应通过“资本持久战”策略实现财富增长，驳斥了个人必败论、稳健发展论和梭哈暴富论。持久战策略包括稳定现金流、程序化交易和盈利加仓，旨在利用市场机会跨越阶级，同时控制风险。",
+        "audience": "个人投资者，尤其是寻求在有限时间内实现财富跨越式增长、愿意学习市场策略并控制风险的读者。",
+        "key_points": [
+          "个人投资者可通过持久战策略实现财富跨越式增长",
+          "驳斥个人必败论：个人有独立性、适应性等优势",
+          "驳斥稳健发展论：稳健策略无法解决个人寿命与财富积累的时间矛盾",
+          "驳斥梭哈暴富论：高风险投资往往导致破产，应避免情绪化决策",
+          "持久战策略需要稳定现金流输入，如工资或利息收入",
+          "使用程序化交易避免情绪化决策，节省精力优化策略",
+          "盈利时加仓扩大优势，亏损时严格止损控制风险",
+          "策略目标是在市场自动筛选机会中实现增长，而非依赖精准预测",
+          "个人投资者应利用市场波动性中的机会，但保持风险可控",
+          "成功时兑现盈利，失败时损失有限，从中学习成长"
+        ],
+        "summary": "本文针对个人投资者在市场中面临的挑战，提出了一种名为“资本持久战”的生存发展策略。作者首先驳斥了三种常见错误观点：个人必败论（认为个人无法战胜市场）、稳健发展论（强调稳健但忽视时间矛盾）和梭哈暴富论（高风险赌博式投资）。然后，作者阐述了持久战策略的核心内容，包括准备稳定现金流、使用程序化交易、盈利加仓与严格止损，旨在通过可公开的策略实现财富跨越式增长，同时控制风险。文章强调个人投资者应利用独立性、适应性等优势，在有限时间内实现阶级跨越。",
+        "slug": "capital-persistent-war-strategy",
+        "tags": [
+          "个人投资",
+          "持久战",
+          "财富增长",
+          "市场策略",
+          "程序化交易",
+          "风险管理",
+          "阶级跨越",
+          "投资哲学"
+        ],
+        "inferred_date": "2026-01-17",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 3140,
+          "completion": 536,
+          "total": 3676
+        }
+      },
+      "category": "Investment Strategy",
+      "translations": {
+        "en-US": {
+          "content_length": 18523,
+          "token_used": {
+            "prompt_tokens": 2953,
+            "completion_tokens": 3396,
+            "total_tokens": 6349,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 2889
+          }
+        },
+        "ja-JP": {
+          "content_length": 7368,
+          "token_used": {
+            "prompt_tokens": 3190,
+            "completion_tokens": 4799,
+            "total_tokens": 7989,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 2870
+          }
+        },
+        "es-ES": {
+          "content_length": 21461,
+          "token_used": {
+            "prompt_tokens": 2955,
+            "completion_tokens": 5067,
+            "total_tokens": 8022,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 2891
+          }
+        }
+      },
+      "nativeMarkdownHash": "292da0016218e25e68af28a95096cab440eaa6a17208bb5b903cbecc82597c72"
+    },
+    {
       "hash": "5f5bbaa342d85760e742d4e4d97d9be6843d8e0fa3540ea25969b4e3e43488aa",
       "path": "LOGS/1.md",
       "links": [
