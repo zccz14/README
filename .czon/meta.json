@@ -139,7 +139,7 @@
           "total": 3124
         }
       },
-      "category": "AI Research",
+      "category": "AI Software Engineering",
       "nativeMarkdownHash": "e60673ebcaf4f7d8303b975e1cfa049233cc9ddb9ac01f61d36e810000301655"
     },
     {
@@ -997,7 +997,7 @@
           "total": 1821
         }
       },
-      "category": "Project Management",
+      "category": "AI Tools Development",
       "translations": {
         "en-US": {
           "content_length": 4776,
@@ -1126,7 +1126,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "Project Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -1170,7 +1170,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "Project Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -1214,7 +1214,7 @@
         }
       },
       "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e",
-      "category": "Project Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
@@ -1257,7 +1257,7 @@
           "total": 1889
         }
       },
-      "category": "Project Management",
+      "category": "AI Tools Development",
       "nativeMarkdownHash": "ed9c6b76e1dc3c86dc8f35c69b278dfff8290cb4ac5284c7698eb3496331b435"
     },
     {
@@ -1400,99 +1400,105 @@
       "links": []
     },
     {
-      "hash": "eac463597ab8849cd73a4ec68f38a77f526235a9c47d11ef4fedf2b79fa23071",
+      "hash": "7c014cb9b38c396e838ccbd9ef58886775ba91e876f4db498a9c838a0e345729",
       "path": "QUANT/EA/EA.md",
       "links": [
         "https://earnby.ai",
-        "https://earnby.ai",
-        "https://bscscan.com/token/0xd44c72d47f029e1545d1689a440aaa38cf3db71a#balances",
-        "image.png",
         "https://github.com/zccz14",
         "https://www.stern.nyu.edu/faculty/bio/xi-chen",
         "https://github.com/stayrealmayday",
         "https://github.com/mage1028",
-        "https://github.com/thrimbda"
+        "https://github.com/thrimbda",
+        "https://earnby.ai",
+        "image-1.png",
+        "https://bscscan.com/token/0xd44c72d47f029e1545d1689a440aaa38cf3db71a#balances",
+        "image.png"
       ],
       "metadata": {
-        "title": "EA项目介绍：AI驱动的优先级基金",
-        "description": "EA是一个BSC链上优先级基金项目，通过AI量化交易策略为投资者提供稳定收益，采用优先/劣后级结构保障本金安全。",
-        "short_summary": "EA是一个BSC链上的优先级基金项目，采用AI量化交易策略为投资者提供稳定收益。通过优先/劣后级结构保障优先级资金本金安全，收益率浮动且可随时赎回。项目由专业团队管理，历史业绩良好。",
-        "audience": "对区块链投资、DeFi、量化交易和稳定收益感兴趣的投资者",
+        "title": "EA项目介绍：AI驱动的量化交易优先级基金",
+        "description": "EA是一个BSC链上部署的优先级基金项目，通过AI量化交易策略为投资者提供稳定收益，采用优先/劣后级结构保障本金安全。",
+        "short_summary": "EA是一个BSC链上的优先级基金项目，通过AI量化交易策略提供稳定收益。采用优先/劣后级结构保障本金安全，目前年化收益率为12%，投资者可随时赎回。项目由专业团队管理，历史业绩表现稳健。",
+        "audience": "对区块链投资、量化交易和稳定收益感兴趣的投资者，尤其是寻求低风险、本金保护的优先级基金参与者。",
         "key_points": [
-          "EA是BSC链上部署的优先级基金项目，以USDC结算",
-          "采用AI驱动的量化交易和Delta中性策略获取收益",
-          "资金分为优先级和劣后级，优先级享有本金保护和优先回报",
-          "项目方自有资金投入劣后级，承担风险保障优先级安全",
-          "收益率浮动，目前为12%年化，投资者可随时赎回",
-          "无管理费，团队由量化交易和区块链专业人士组成",
-          "历史业绩显示前身私募基金平均年化收益率22%",
-          "项目2025年11月上线，支持普通和闪电赎回",
-          "最低投资金额无限制，无锁定期",
-          "目标是为投资者提供稳定且可持续的收益"
+          "EA是一个BSC链上部署的优先级基金项目，以USDC结算",
+          "采用AI驱动的量化交易策略，包括方向性组合和Delta中性策略",
+          "资金分为优先级和劣后级，优先级资金享有本金保护",
+          "管理团队由5位量化交易和区块链领域的专业人士组成",
+          "提供浮动收益率，目前年化收益率为12%，投资者可随时赎回",
+          "历史业绩累计收益率39.22%，年化收益率约22%，最大回撤1.12%",
+          "项目无管理费，锁定期灵活，普通赎回需168小时解锁",
+          "旨在通过风险分担机制为投资者提供低风险、可持续的收益",
+          "项目方自有资金投入劣后级，承担风险以确保优先级安全",
+          "最低投资金额无限制，结算基于智能合约，支持追加投资或部分赎回"
         ],
-        "summary": "EA（Earnby.AI）是一个部署在BSC链上的优先级基金项目，以USDC结算，通过AI驱动的量化交易和Delta中性策略为投资者提供收益。项目采用优先/劣后级资金结构，优先级资金享有本金保护和优先回报，劣后级资金由项目方自有资金承担风险，确保优先级安全。收益率浮动，目前为12%年化，投资者可随时赎回。项目无管理费，团队由量化交易和区块链领域专业人士组成，历史业绩显示前身私募基金平均年化收益率22%。",
-        "slug": "ea-project-introduction",
+        "summary": "EA（Earnby.AI）是一个部署在BSC链上的优先级基金项目，以USDC结算，通过AI驱动的量化交易策略为投资者提供稳定收益。项目采用优先/劣后级资金结构，优先级资金享有本金保护，劣后级资金由项目方自有资金承担风险。管理团队由量化交易和区块链领域的专业人士组成，包括5位联合创始人。项目提供浮动收益率，目前年化收益率为12%，投资者可随时赎回。策略包括方向性组合策略和Delta中性策略，历史业绩显示累计收益率达39.22%，年化收益率约22%。项目无管理费，锁定期灵活，旨在为投资者提供低风险、可持续的收益。",
+        "slug": "ea-project-introduction-ai-quantitative-trading-fund",
         "tags": [
           "EA项目",
           "优先级基金",
           "量化交易",
-          "BSC链",
           "AI驱动",
+          "BSC链",
           "稳定收益",
-          "区块链投资",
-          "DeFi"
+          "本金保护",
+          "区块链投资"
         ],
         "inferred_date": "2025-11-01",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 2014,
-          "completion": 482,
-          "total": 2496
+          "prompt": 2635,
+          "completion": 562,
+          "total": 3197
         }
       },
       "category": "Quantitative Finance",
       "translations": {
         "en-US": {
-          "content_length": 9696,
+          "content_length": 11888,
           "token_used": {
-            "prompt_tokens": 1855,
-            "completion_tokens": 1995,
-            "total_tokens": 3850,
+            "prompt_tokens": 2545,
+            "completion_tokens": 2699,
+            "total_tokens": 5244,
             "prompt_tokens_details": {
               "cached_tokens": 64
             },
             "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 1791
+            "prompt_cache_miss_tokens": 2481
+          }
+        },
+        "es-ES": {
+          "content_length": 13709,
+          "token_used": {
+            "prompt_tokens": 2547,
+            "completion_tokens": 3579,
+            "total_tokens": 6126,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 2483
           }
         },
         "ja-JP": {
-          "content_length": 4664,
+          "content_length": 6249,
           "token_used": {
-            "prompt_tokens": 2092,
-            "completion_tokens": 2801,
-            "total_tokens": 4893,
+            "prompt_tokens": 2782,
+            "completion_tokens": 3652,
+            "total_tokens": 6434,
             "prompt_tokens_details": {
               "cached_tokens": 320
             },
             "prompt_cache_hit_tokens": 320,
-            "prompt_cache_miss_tokens": 1772
-          }
-        },
-        "es-ES": {
-          "content_length": 11279,
-          "token_used": {
-            "prompt_tokens": 1857,
-            "completion_tokens": 2810,
-            "total_tokens": 4667,
-            "prompt_tokens_details": {
-              "cached_tokens": 64
-            },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 1793
+            "prompt_cache_miss_tokens": 2462
           }
         }
       },
-      "nativeMarkdownHash": "8c2a7ab6822e36274906e22b9952610cd2ebb29352522cd218e6f3e696f51153"
+      "nativeMarkdownHash": "590edef163d4cb2104521cf06fb311c535005a1c6bbae2f5490d0390cd494395"
+    },
+    {
+      "hash": "c952c5c24489a1ecd989833c6f88106e1b584033b7f56fd532df6d657a46162a",
+      "path": "QUANT/EA/image-1.png",
+      "links": []
     },
     {
       "hash": "d818db8699b75657dab6633b17f82620e077723e37329d8a06a4d9c12c04b43f",
@@ -1998,46 +2004,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 14340,
+          "content_length": 14410,
           "token_used": {
-            "prompt_tokens": 3456,
-            "completion_tokens": 3576,
-            "total_tokens": 7032,
+            "prompt_tokens": 3455,
+            "completion_tokens": 3593,
+            "total_tokens": 7048,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 2688
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 3392
+            "prompt_cache_hit_tokens": 2688,
+            "prompt_cache_miss_tokens": 767
           }
         },
         "es-ES": {
-          "content_length": 15805,
+          "content_length": 15903,
           "token_used": {
-            "prompt_tokens": 3458,
-            "completion_tokens": 4618,
-            "total_tokens": 8076,
+            "prompt_tokens": 3457,
+            "completion_tokens": 4626,
+            "total_tokens": 8083,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 2688
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 3394
+            "prompt_cache_hit_tokens": 2688,
+            "prompt_cache_miss_tokens": 769
           }
         },
         "ja-JP": {
-          "content_length": 7726,
+          "content_length": 7753,
           "token_used": {
-            "prompt_tokens": 3693,
-            "completion_tokens": 4651,
-            "total_tokens": 8344,
+            "prompt_tokens": 3692,
+            "completion_tokens": 4656,
+            "total_tokens": 8348,
             "prompt_tokens_details": {
-              "cached_tokens": 320
+              "cached_tokens": 2944
             },
-            "prompt_cache_hit_tokens": 320,
-            "prompt_cache_miss_tokens": 3373
+            "prompt_cache_hit_tokens": 2944,
+            "prompt_cache_miss_tokens": 748
           }
         }
       },
-      "nativeMarkdownHash": "970dd04464ca0a5ea3ed75bd678c5eefca83288e3e3a0310b60b190dd86f208c"
+      "nativeMarkdownHash": "0fbe8a295501b4246fed0e04084b8f1b190e9b89fdbe53683293d4bc8f907778"
     },
     {
       "hash": "71a66a4d05000597304ccb8b66ee4d883791e6b6e531e30d764d95416d3e3e3b",
@@ -2228,46 +2234,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 20338,
+          "content_length": 20358,
           "token_used": {
-            "prompt_tokens": 4943,
-            "completion_tokens": 5087,
-            "total_tokens": 10030,
+            "prompt_tokens": 4942,
+            "completion_tokens": 5084,
+            "total_tokens": 10026,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 3392
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 4879
+            "prompt_cache_hit_tokens": 3392,
+            "prompt_cache_miss_tokens": 1550
           }
         },
         "es-ES": {
-          "content_length": 22762,
+          "content_length": 22706,
           "token_used": {
-            "prompt_tokens": 4945,
-            "completion_tokens": 6545,
-            "total_tokens": 11490,
+            "prompt_tokens": 4944,
+            "completion_tokens": 6535,
+            "total_tokens": 11479,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 3392
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 4881
+            "prompt_cache_hit_tokens": 3392,
+            "prompt_cache_miss_tokens": 1552
           }
         },
         "ja-JP": {
-          "content_length": 11077,
+          "content_length": 11025,
           "token_used": {
-            "prompt_tokens": 5180,
-            "completion_tokens": 6600,
-            "total_tokens": 11780,
+            "prompt_tokens": 5179,
+            "completion_tokens": 6576,
+            "total_tokens": 11755,
             "prompt_tokens_details": {
-              "cached_tokens": 320
+              "cached_tokens": 3584
             },
-            "prompt_cache_hit_tokens": 320,
-            "prompt_cache_miss_tokens": 4860
+            "prompt_cache_hit_tokens": 3584,
+            "prompt_cache_miss_tokens": 1595
           }
         }
       },
-      "nativeMarkdownHash": "b950eabf4799b80bca1c4001a1e85165860e4d07e9d01e31b9e12a3de8293c83"
+      "nativeMarkdownHash": "5775206a5d4d620af5a2a46634afa6236c80a9653843b978c61059628f79ab04"
     }
   ]
 }
