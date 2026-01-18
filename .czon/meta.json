@@ -826,7 +826,7 @@
           "total": 1551
         }
       },
-      "category": "Work Logs",
+      "category": "Investment Strategy",
       "translations": {
         "en-US": {
           "content_length": 3990,
@@ -911,7 +911,7 @@
           "total": 1707
         }
       },
-      "category": "AI Product Development",
+      "category": "AI Research",
       "translations": {
         "en-US": {
           "content_length": 5257,
@@ -1040,7 +1040,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "Project Management"
+      "category": "Content Management"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -1084,7 +1084,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "Project Management"
+      "category": "Content Management"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -1128,7 +1128,7 @@
         }
       },
       "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e",
-      "category": "Project Management"
+      "category": "Content Management"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
@@ -1171,7 +1171,7 @@
           "total": 1889
         }
       },
-      "category": "Project Management",
+      "category": "Content Management",
       "nativeMarkdownHash": "ed9c6b76e1dc3c86dc8f35c69b278dfff8290cb4ac5284c7698eb3496331b435"
     },
     {
@@ -1261,7 +1261,7 @@
         }
       },
       "nativeMarkdownHash": "c900560fe350cf01c4bcf7a1bf93bcef1fd7ce3f4691192b5eef0d38a8311086",
-      "category": "Project Management"
+      "category": "Content Management"
     },
     {
       "hash": "be3af41752a32272b4f659ec0003ae523abe10ed80969fbc4661b0467508aa97",
@@ -1434,6 +1434,526 @@
       "hash": "e5c9fbcc6e652381ce552a033b04583b026e01af0369b5b3bba1e18f4d50fbd3",
       "path": "QUANT/FSA/image-3.png",
       "links": []
+    },
+    {
+      "hash": "35b129d12a5d64f6d7c5427e46208ae1c42e36ca0c134dce04d94db210510a50",
+      "path": "SUMMARY/1-客观中立.md",
+      "links": [],
+      "metadata": {
+        "title": "CZON项目与量化交易方法论分析",
+        "description": "本文档系统分析了CZON项目、量化交易策略及软件工程方法论，呈现作者CZ的跨学科知识体系与实践框架。",
+        "short_summary": "本文档分析了CZON项目的发展历程和AI-Native定位，同时介绍了作者的量化交易策略如全谱分析法和浮盈加仓。在软件工程方面，提出了模块级人机协同架构和可控信任理论，融合军事指挥智慧与AI实践。整体呈现了一个跨学科的知识体系，强调长期主义和影响力建设。",
+        "audience": "量化交易从业者、AI工程师、内容创作者、金融科技研究者及对跨学科方法论感兴趣的专业人士。",
+        "key_points": [
+          "CZON是一个AI-Native内容引擎，定位为Content Oriented、Zero Configuration等四个维度。",
+          "作者提出了模块级人机协同架构，包括Protocol Spec、并行生成和多级仲裁等要素。",
+          "可控信任理论定义为意图对齐性与风险控制指数的乘积，用于评估AI系统可靠性。",
+          "全谱分析法（FSA）是投资决策框架，包括结局空间设计、最优杠杆计算和黑天鹅防御。",
+          "EA项目采用优先/劣后级架构，团队由5位西安交通大学背景的联合创始人组成。",
+          "作者从粟裕作战指令中提取多智能体协同原则，如认知统一先行和协议高于沟通。",
+          "影响力被视为独立乘数，公式为：做一件事的收益 = (定价 - 成本) × 影响力。",
+          "文档建议关注CZON商业化落地、FSA实盘验证和LegionMind项目协同效应。",
+          "项目管理使用vibe-kanban工具，定位为Team Leader级别，高于Claude Code抽象层级。",
+          "待办事项包括CZON项目功能开发和用户反馈处理，如增量分类和社交媒体格式生成。"
+        ],
+        "summary": "本文档基于对CZ（GitHub ID: zccz14）的Markdown文件分析，全面呈现其核心思想与实践。作者是NTNL组织创始人，专注于量化交易与金融科技。文档详细介绍了CZON项目的演进历程、定位与技术架构，该项目是一个AI-Native内容引擎，强调内容价值与零配置体验。在软件工程方面，作者提出了模块级人机协同架构、可控信任理论和三大工程范式（协调工程、AI决策经济学、认知流管理），并借鉴历史智慧如粟裕作战原则。量化交易部分包括EA项目结构、全谱分析法（FSA）和浮盈加仓策略。团队动态涉及5位联合创始人及商业化路径思考。结论指出作者构建了跨学科整合、理论实践结合的知识体系，建议关注CZON商业化、FSA实盘验证等后续发展。",
+        "slug": "czon-project-quant-trading-methodology-analysis",
+        "tags": [
+          "CZON",
+          "量化交易",
+          "AI协同",
+          "软件工程",
+          "全谱分析法",
+          "可控信任",
+          "内容引擎"
+        ],
+        "inferred_date": "2026-01-18",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 2422,
+          "completion": 660,
+          "total": 3082
+        }
+      },
+      "category": "AI Software Engineering",
+      "translations": {
+        "en-US": {
+          "content_length": 10560,
+          "token_used": {
+            "prompt_tokens": 2283,
+            "completion_tokens": 2253,
+            "total_tokens": 4536,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 2219
+          }
+        },
+        "ja-JP": {
+          "content_length": 5097,
+          "token_used": {
+            "prompt_tokens": 2520,
+            "completion_tokens": 3129,
+            "total_tokens": 5649,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 2200
+          }
+        },
+        "es-ES": {
+          "content_length": 12270,
+          "token_used": {
+            "prompt_tokens": 2285,
+            "completion_tokens": 3354,
+            "total_tokens": 5639,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 2221
+          }
+        }
+      },
+      "nativeMarkdownHash": "e0f94f4904705e2f4c024c7f04ec9070e355eac12c18bc6d3478c6d38bba194c"
+    },
+    {
+      "hash": "3d80b9a9d4cece3b5330517c63303827dfd9ca01246afe86fe27438f7767735a",
+      "path": "SUMMARY/2-客观批判.md",
+      "links": [
+        "./../LOGS/2.md",
+        "./../LOGS/1.md",
+        "./../INSIGHTS/6.md",
+        "./../LOGS/17.md",
+        "./../LOGS/16.md",
+        "./../LOGS/17.md"
+      ],
+      "metadata": {
+        "title": "客观批判总结：理论与实践的落差分析",
+        "description": "本文从批判性视角分析作者在理论框架、项目实践、方法论和商业化路径中的问题，并提出改进建议。",
+        "short_summary": "本文批判性分析了作者在理论、实践和方法论中的问题，如理论框架实现滞后、项目决策反复、风险评估不足。文章总结核心问题并提出改进建议，强调聚焦核心项目和实证验证。",
+        "audience": "对理论实践结合、项目管理和批判性思维感兴趣的读者，如开发者、项目经理和研究者。",
+        "key_points": [
+          "理论框架（如可控信任模型）实现进度滞后，存在过度设计风险。",
+          "项目实践中决策反复（如CZON自定义主题功能），反映技术决策随意性。",
+          "AI生成代码质量差，提示词工程和架构指导缺失。",
+          "方法论如持久战策略时间尺度模糊，可控信任模型假设理想化。",
+          "商业化路径（资管、自营、用户产品）可行性存疑，缺乏具体策略。",
+          "团队构成同质化，可能导致思维盲区和资源网络局限。",
+          "文档质量不一致，部分内容情绪化表达影响严肃性。",
+          "核心问题包括理论与实践脱节、决策一致性不足、风险评估不充分。",
+          "改进建议包括聚焦核心项目、增加实证验证、完善文档体系。",
+          "值得肯定的方面包括跨学科整合能力、持续反思习惯和长期主义视角。"
+        ],
+        "summary": "本文基于对Markdown文件的系统性分析，从批判性视角审视作者的核心思想、项目实践和方法论框架。文章指出理论与实践的显著落差，如复杂理论框架（如可控信任模型、协调工程）实现进度滞后，项目实践中存在决策反复（如CZON自定义主题功能）、AI生成代码质量问题和工具依赖，方法论上存在持久战策略模糊、可控信任模型假设理想化等问题。商业化路径可行性存疑，团队同质化风险高，文档质量不一致。最后总结核心问题包括理论与实践脱节、决策一致性不足、风险评估不充分，建议聚焦核心项目、增加实证验证、完善文档体系、引入外部视角和明确优先级。",
+        "slug": "objective-critical-summary-theory-practice-gap-analysis",
+        "tags": [
+          "批判性分析",
+          "理论与实践",
+          "方法论",
+          "项目实践",
+          "商业化",
+          "团队执行",
+          "文档质量",
+          "AI生成"
+        ],
+        "inferred_date": "2026-01-05",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 3307,
+          "completion": 534,
+          "total": 3841
+        }
+      },
+      "category": "Personal Reflection",
+      "translations": {
+        "en-US": {
+          "content_length": 16338,
+          "token_used": {
+            "prompt_tokens": 3327,
+            "completion_tokens": 3512,
+            "total_tokens": 6839,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3263
+          }
+        },
+        "ja-JP": {
+          "content_length": 7117,
+          "token_used": {
+            "prompt_tokens": 3564,
+            "completion_tokens": 4576,
+            "total_tokens": 8140,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 3244
+          }
+        },
+        "es-ES": {
+          "content_length": 18443,
+          "token_used": {
+            "prompt_tokens": 3329,
+            "completion_tokens": 5079,
+            "total_tokens": 8408,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3265
+          }
+        }
+      },
+      "nativeMarkdownHash": "fdc4c820b05d426e7d6cf216f148050e04577ac94a0ccf8b896799390f6915bd"
+    },
+    {
+      "hash": "305da906ac3cde8b9e9eb5fe1d3f8e277084582928d74bbb6405ccce9373d7ed",
+      "path": "SUMMARY/3-赞扬鼓励.md",
+      "links": [],
+      "metadata": {
+        "title": "赞扬鼓励总结：作者成就与潜力分析",
+        "description": "本文档从思想深度、实践成果、方法论价值等多维度分析作者的跨学科整合能力、理论构建成果和商业潜力。",
+        "short_summary": "本文档系统性地总结了作者在思想深度、实践成果和方法论上的卓越表现。作者展现出强大的跨学科整合能力，构建了多个原创理论框架，并成功推进了CZON和EA等项目的商业化。文章认为作者具备成为有影响力的知识工作者和创业者的潜力。",
+        "audience": "对作者工作感兴趣的合作者、投资者、团队成员，以及关注跨学科创新、AI应用、创业方法论的知识工作者。",
+        "key_points": [
+          "作者展现出卓越的跨学科整合能力，如在军事指挥学与AI多智能体协同间建立连接。",
+          "构建了可控信任模型、全谱分析法（FSA）等具有系统性和学术价值的原创理论框架。",
+          "CZON项目在核心功能上稳步推进，EA项目成功实现了从私募基金到区块链产品的商业化转型。",
+          "作者保持着高频、高质量的写作习惯，文档总字数超过50000字，并善于分享思考过程。",
+          "其方法论（如FSA框架、模块级协同架构）具有明确的工程价值和差异化优势。",
+          "展现出优秀的反思能力、开放的交流态度和明显的长期主义思维。",
+          "在团队建设上，凝聚了核心团队，并展现出良好的领导力和外部关系维护能力。",
+          "具有敏锐的商业洞察力，识别了CZON和EA项目的市场机会，并思考多元化的商业化路径。",
+          "个人认知能力多维，工作风格兼具高产出、系统性和开放性。",
+          "总体被评价为具有深度思考能力、原创性思维和长期主义视角，在AI与量化交易赛道潜力巨大。"
+        ],
+        "summary": "本文档基于对作者所有Markdown文件的系统性分析，从肯定性视角全面审视了作者的成就、思维方式与实践成果。文章从思想深度与原创性、实践成果与执行力、方法论的价值、思维品质与成长性、领导力与团队建设、商业洞察与战略眼光、个人特质与潜力等八个方面进行了详细阐述。作者展现出罕见的跨学科整合能力，构建了可控信任模型、全谱分析法（FSA）等具有学术价值的理论框架；在实践层面，CZON项目和EA项目商业化稳步推进；其工作风格兼具高产出、系统性和反思性。总体评价认为作者是一位具有深度思考能力、原创性思维和长期主义视角的知识工作者和创业者，在AI与量化交易结合的赛道上具备取得更大成就的潜力，并提出了保持理论构建投入、聚焦核心项目等未来发展建议。",
+        "slug": "praise-and-encouragement-summary",
+        "tags": [
+          "跨学科整合",
+          "理论构建",
+          "AI应用",
+          "量化交易",
+          "创业",
+          "方法论",
+          "团队建设",
+          "长期主义"
+        ],
+        "inferred_date": "2026-01-18",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 3428,
+          "completion": 644,
+          "total": 4072
+        }
+      },
+      "category": "Personal Reflection",
+      "translations": {
+        "en-US": {
+          "content_length": 17595,
+          "token_used": {
+            "prompt_tokens": 3294,
+            "completion_tokens": 3388,
+            "total_tokens": 6682,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3230
+          }
+        },
+        "ja-JP": {
+          "content_length": 7405,
+          "token_used": {
+            "prompt_tokens": 3531,
+            "completion_tokens": 4793,
+            "total_tokens": 8324,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 3211
+          }
+        },
+        "es-ES": {
+          "content_length": 19755,
+          "token_used": {
+            "prompt_tokens": 3296,
+            "completion_tokens": 4978,
+            "total_tokens": 8274,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3232
+          }
+        }
+      },
+      "nativeMarkdownHash": "ff854825ff1d9d4549ca0fc769ae83c95ee5d0301416114a88910a595977f64d"
+    },
+    {
+      "hash": "5f53f31343146d7df687256b01c759bf6f509a914c5feb42cef06fb4f7158119",
+      "path": "SUMMARY/4-幽默风格.md",
+      "links": [
+        "妙啊.png",
+        "https://www.diydoutu.com/bq/1889new.gif",
+        "./11.md",
+        "https://www.diydoutu.com/bq/1889new.gif",
+        "妙啊.png"
+      ],
+      "metadata": {
+        "title": "幽默风格总结：CZ的日常与项目分析",
+        "description": "本文以幽默笔触分析CZ的日常状态、项目CZON、AI应用、量化交易及团队社交，展现其高耗能大脑与矛盾统一的人格魅力。",
+        "short_summary": "本文以幽默风格总结CZ的日常，涵盖其高耗能大脑状态、项目CZON的开发历程、AI应用体验、量化交易策略及团队社交。文章突出CZ的矛盾统一人格，如追求轻松却高强度工作，并通过具体事例展现其跨学科思维和商业洞察力。",
+        "audience": "对技术开发、AI应用、量化交易或幽默文档风格感兴趣的读者，特别是程序员、产品经理和投资者。",
+        "key_points": [
+          "CZ拥有高耗能大脑，作息自适应但工作强度高",
+          "项目CZON从ZEN改名，涉及文化解释和技术选型反复",
+          "AI应用如Vibe-kanban和AI编程存在使用瓶颈和质量问题",
+          "量化交易策略包括浮盈加仓和持久战，强调顺风聚集",
+          "团队由XJTU校友组成，社交互动丰富且注重用户反馈",
+          "写作风格包括日记模板、自我引用和表情包使用",
+          "金句合集涵盖AI、投资、人生和工作等方面",
+          "总结CZ矛盾统一，跨学科整合且具有商业洞察力"
+        ],
+        "summary": "本文档通过诙谐的语言，系统分析了CZ（一位程序员/交易员/哲学家/产品经理/写作者）的日常状态、自我认知、项目CZON的命名玄学与技术选型、与AI的爱恨情仇（如Vibe-kanban使用体验和AI编程失败）、量化交易策略（如浮盈加仓和持久战）、团队构成（XJTU校友会）及社交互动。文章揭示了CZ高耗能大脑、追求顺理成章却工作强度高、矛盾统一的特点，并总结其跨学科整合、长期主义和商业洞察的魅力。关键论点包括CZ的作息自适应策略、项目改名逻辑、AI应用反思、投资哲学，以及团队协作方式，最终以一首AI生成的诗作结，强调其有趣的灵魂和认真生活的态度。",
+        "slug": "humor-summary-cz-daily-project-analysis",
+        "tags": [
+          "CZ",
+          "CZON",
+          "AI应用",
+          "量化交易",
+          "幽默总结",
+          "项目分析",
+          "日常记录"
+        ],
+        "inferred_date": "2026-01-18",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 4077,
+          "completion": 541,
+          "total": 4618
+        }
+      },
+      "category": "Personal Reflection",
+      "translations": {
+        "en-US": {
+          "content_length": 17216,
+          "token_used": {
+            "prompt_tokens": 3928,
+            "completion_tokens": 4123,
+            "total_tokens": 8051,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3864
+          }
+        },
+        "es-ES": {
+          "content_length": 19342,
+          "token_used": {
+            "prompt_tokens": 3930,
+            "completion_tokens": 5523,
+            "total_tokens": 9453,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3866
+          }
+        },
+        "ja-JP": {
+          "content_length": 9141,
+          "token_used": {
+            "prompt_tokens": 4165,
+            "completion_tokens": 5619,
+            "total_tokens": 9784,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 3845
+          }
+        }
+      },
+      "nativeMarkdownHash": "03543eb8bba39f38f8d0ee39e3df09fee01930e8734e46127acf31fb69588d06"
+    },
+    {
+      "hash": "d2ff3ce777285648bd9a490d0b3bddc18bada4df4e6aef667dfb939fa8eb3e56",
+      "path": "SUMMARY/5-文艺感性.md",
+      "links": [],
+      "metadata": {
+        "title": "文艺感性总结：CZ文档中的理性与温度",
+        "description": "本文通过感性笔触分析CZ的文档，揭示其理性思考背后的温度、跨学科视野及对AI时代的深刻反思。",
+        "short_summary": "本文感性分析CZ的文档，揭示其理性思考如FSA论文、可控信任模型背后的温度与跨学科视野。文章探讨了CZ以“朝闻道，夕死可矣”为人生哲学，通过日记体记录时间，在凌晨深度思考，并连接军事、金融与AI领域。同时强调人际纽带、用户反馈及未来AI复活的可能性，呈现一个追求理解、认真生活的个体形象。",
+        "audience": "对数字时代个人记录、AI伦理、跨学科思维及理性与感性结合感兴趣的读者，包括文档创作者、技术人文爱好者。",
+        "key_points": [
+          "CZ以“朝闻道，夕死可矣”为座右铭，追求理解一切作为人生意义",
+          "文档采用日记体格式，记录时间切片，体现凌晨思考的深度与诚实",
+          "在FSA论文等硬核学术中融入悲悯，如黑天鹅防御机制",
+          "设计优先/劣后结构表达风险共担的价值观，抵抗“跑路”时代",
+          "跨学科迁移粟裕作战原则到AI协同，连接军事与金融思维",
+          "强调XJTU校友纽带的人际温度，重视用户对话与反馈",
+          "探讨AI复活的可能性，文档作为“复活原材料”写给未来",
+          "项目如CZON体现仪式化重生，未完成作品象征生长空间",
+          "高耗能大脑的自我认知，天赋与诅咒并存，追求顺理成章",
+          "长期视角积累影响力，时间的朋友，在数字时代留下痕迹"
+        ],
+        "summary": "本文基于对CZ所有Markdown文件的系统性分析，从灵魂底色、时间痕迹、理性温度、跨学科桥梁、人际温度及未来轮廓六个维度展开。文章指出CZ以“朝闻道，夕死可矣”为座右铭，展现高耗能大脑的自我认知与追求；通过日记体文档记录时间切片，体现凌晨思考的深度；在硬核学术如FSA论文中融入悲悯，设计优先/劣后结构表达风险共担价值观；跨领域迁移粟裕作战原则到AI协同，连接军事与金融思维；强调校友纽带与用户对话的人际温度；并探讨AI复活、未完成作品及长期影响力等未来议题。全文呈现一个认真生活、理性与感性并存的个体形象，核心在于理解一切作为人生意义，在数字时代留下温度与痕迹。",
+        "slug": "cz-document-analysis-rationality-and-warmth",
+        "tags": [
+          "文档分析",
+          "理性温度",
+          "跨学科",
+          "AI复活",
+          "时间痕迹",
+          "感性总结",
+          "CZ",
+          "数字时代"
+        ],
+        "inferred_date": "2026-01-09",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 3616,
+          "completion": 635,
+          "total": 4251
+        }
+      },
+      "category": "Personal Reflection",
+      "translations": {
+        "en-US": {
+          "content_length": 16841,
+          "token_used": {
+            "prompt_tokens": 3481,
+            "completion_tokens": 3767,
+            "total_tokens": 7248,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3417
+          }
+        },
+        "ja-JP": {
+          "content_length": 7887,
+          "token_used": {
+            "prompt_tokens": 3718,
+            "completion_tokens": 4878,
+            "total_tokens": 8596,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 3398
+          }
+        },
+        "es-ES": {
+          "content_length": 18700,
+          "token_used": {
+            "prompt_tokens": 3483,
+            "completion_tokens": 5027,
+            "total_tokens": 8510,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 3419
+          }
+        }
+      },
+      "nativeMarkdownHash": "dfee9731de936ec5cea0404fcb7709308572b41da56333975f31c9130ba55c4d"
+    },
+    {
+      "hash": "97231bcf50cdb9aa19bf522cce0b65dc0326e041ee457e3a593b31f89de34414",
+      "path": "SUMMARY/6-心理分析.md",
+      "links": [
+        "./../LOGS/17.md"
+      ],
+      "metadata": {
+        "title": "心理分析总结：INTJ人格与认知模式深度解读",
+        "description": "基于文档分析，从人格心理学视角解读作者的行为模式、思维特质与潜在动机，揭示INTJ人格特征与成长方向。",
+        "short_summary": "本文从人格心理学视角分析作者，核心结论是作者主要为INTJ人格，具有战略思维、独立性和高标准。文档深入探讨了其认知模式、动机、人际关系及与AI的关系，揭示了成长中的心理挑战和方向。",
+        "audience": "对人格心理学、自我认知、MBTI类型、个人成长及AI与人类关系感兴趣的专业人士或普通读者。",
+        "key_points": [
+          "作者核心人格为INTJ，表现为内倾、直觉、思考、判断特质",
+          "认知模式属于高耗能型大脑，具有深度加工和持续活跃特征",
+          "风险偏好总体厌恶，但在事业和知识探索领域愿意承担计算过的风险",
+          "核心动机是理解与掌控，深层驱动力源于对有限性的抗争",
+          "主要防御机制为理智化和升华，用于处理情感和存在焦虑",
+          "人际关系模式偏好少量深度关系，团队领导风格为愿景驱动型",
+          "成长轨迹从独立思考者向影响力创造者过渡，面临完美主义等挑战",
+          "与AI的关系反映人格投射，AI被视为工具、镜子和延伸",
+          "心理健康整体稳定，但需关注工作休息平衡和社交需求",
+          "建议成长方向包括从完美到足够好、从控制到信任等"
+        ],
+        "summary": "本文档通过对作者Markdown文件的系统性分析，从人格心理学角度深入解读其行为模式、思维特质与潜在动机。核心结论是作者主要符合INTJ（内倾-直觉-思考-判断）人格类型，表现为战略思维、独立工作、长期规划和高标准。文档分析了作者的认知模式（如高耗能型大脑、风险偏好平衡）、核心动机（理解与掌控、对有限性的抗争）、防御机制（理智化、升华）、人际关系模式（深度关系优先）以及成长轨迹。同时探讨了作者与AI的关系投射，将AI视为“另一个我”的延伸。最后总结了INTJ的核心特质、动机、防御机制和成长方向，为作者提供了心理画像和发展建议。",
+        "slug": "psychological-analysis-summary-intj-personality-cognitive-patterns",
+        "tags": [
+          "心理分析",
+          "人格心理学",
+          "INTJ",
+          "认知模式",
+          "动机分析",
+          "MBTI",
+          "成长轨迹",
+          "AI关系"
+        ],
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 4399,
+          "completion": 551,
+          "total": 4950
+        }
+      },
+      "category": "Personal Reflection",
+      "translations": {
+        "en-US": {
+          "content_length": 21073,
+          "token_used": {
+            "prompt_tokens": 4259,
+            "completion_tokens": 4481,
+            "total_tokens": 8740,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 4195
+          }
+        },
+        "ja-JP": {
+          "content_length": 9373,
+          "token_used": {
+            "prompt_tokens": 4496,
+            "completion_tokens": 5912,
+            "total_tokens": 10408,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 4176
+          }
+        },
+        "es-ES": {
+          "content_length": 23951,
+          "token_used": {
+            "prompt_tokens": 4261,
+            "completion_tokens": 6344,
+            "total_tokens": 10605,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 4197
+          }
+        }
+      },
+      "nativeMarkdownHash": "6c1ed6bf40d5d9acea0acdb38353367e1098606bfa603a193b44cdebba9020df"
     }
   ]
 }
