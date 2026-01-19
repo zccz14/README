@@ -1042,6 +1042,92 @@
       "nativeMarkdownHash": "252c52a27507d8f9542d3fcd14bd6ae5dd685bb671ae8341005a0830ec30869d"
     },
     {
+      "hash": "4ae7c524470829b5f37e14a514db49ad0cb66bacb64caeeec7e3e872602d1433",
+      "path": "LOGS/19.md",
+      "links": [
+        "./18.md",
+        "https://media.tenor.com/97gs87bOyQAAAAAM/debugging-programming.gif"
+      ],
+      "metadata": {
+        "title": "AI开发体验反思：从CZONE搭建看LLM的局限与改进方向",
+        "description": "作者分享使用OpenCode和MiniMax M2.1搭建CZON在线版本的经历，反思AI在权限处理、调试能力和开发节奏上的不足，并提出改进建议。",
+        "short_summary": "作者通过搭建CZON在线版本的经历，揭示了AI在开发中的三大局限：权限处理细节不足、调试能力弱和开发节奏过快。文章建议引入实验室模式、增强浏览器操控能力，并强调AI需要更系统的架构思维来提升开发质量。",
+        "audience": "AI开发者、LLM研究者、技术爱好者，以及对AI在软件开发中应用感兴趣的人士。",
+        "key_points": [
+          "AI在GitHub API权限处理上细节理解不足，特别是.workflows目录的特殊权限",
+          "LLM注意力涣散，调试模式下推理能力弱，建议引入实验室模式进行对照实验",
+          "OpenCode缺乏浏览器操控能力，调试依赖人工，建议集成端到端测试框架",
+          "AI开发节奏过快，缺乏架构分层和质量保证，需要更系统的开发方法",
+          "作者将AI比喻为“缸中之脑”和“泄洪的水”，强调思维闭环和能量分配的重要性",
+          "社区方案如Cypress或Playwright可改善浏览器交互问题",
+          "AI开发应注重正确的概念、抽象和实现，而非单纯代码输出",
+          "文章以水管工修漏水的段子类比，暗示需要根本性解决方案"
+        ],
+        "summary": "本文记录了作者在2026年1月19日使用OpenCode和MiniMax M2.1从零搭建CZON在线版本（CZONE）的经历。AI在技术选型、脚手架搭建和功能设计上速度很快，但在处理GitHub REST API权限问题时表现出细节理解不足，特别是对.workflows目录的特殊权限要求未能识别。作者指出LLM存在注意力涣散、调试模式下推理能力弱的问题，建议引入“实验室模式”进行对照实验验证。同时，OpenCode缺乏浏览器操控能力，导致调试依赖人工查看日志，作者建议集成端到端测试框架如Cypress或Playwright。此外，AI开发节奏过快，缺乏架构分层和质量保证，作者比喻为“泄洪的水”，强调需要正确的概念、抽象和实现。文章最后以水管工修漏水的段子类比，暗示AI开发需要系统性解决根本问题而非临时修补。",
+        "slug": "ai-development-reflection-czone-build-llm-limitations",
+        "tags": [
+          "AI开发",
+          "LLM局限",
+          "OpenCode",
+          "调试能力",
+          "GitHub API",
+          "权限管理",
+          "开发节奏",
+          "实验室模式"
+        ],
+        "inferred_date": "2026-01-19",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1455,
+          "completion": 595,
+          "total": 2050
+        }
+      },
+      "category": "AI Tools Development",
+      "translations": {
+        "en-US": {
+          "content_length": 6646,
+          "token_used": {
+            "prompt_tokens": 1384,
+            "completion_tokens": 1447,
+            "total_tokens": 2831,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 1320
+          }
+        },
+        "es-ES": {
+          "content_length": 7506,
+          "token_used": {
+            "prompt_tokens": 1386,
+            "completion_tokens": 1913,
+            "total_tokens": 3299,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 1322
+          }
+        },
+        "ja-JP": {
+          "content_length": 3437,
+          "token_used": {
+            "prompt_tokens": 1621,
+            "completion_tokens": 1958,
+            "total_tokens": 3579,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 1301
+          }
+        }
+      },
+      "nativeMarkdownHash": "b4645c3ec2cba4af00a2d344c0305451da4985acb81209b0921fd42a3ae4dd4c"
+    },
+    {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
       "path": "LOGS/2.md",
       "links": [],
