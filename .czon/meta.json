@@ -262,7 +262,7 @@
           "total": 5125
         }
       },
-      "category": "Military AI Applications",
+      "category": "AI Research",
       "translations": {
         "en-US": {
           "content_length": 22937,
@@ -1212,7 +1212,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "AI Tools Development"
+      "category": "Project Management"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -1256,7 +1256,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "AI Tools Development"
+      "category": "Project Management"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -1300,7 +1300,7 @@
         }
       },
       "nativeMarkdownHash": "70e449d3289a839ca91e2efc0465d5d1c0968695a63674acd081cfc5db05113e",
-      "category": "AI Tools Development"
+      "category": "Project Management"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
@@ -1343,7 +1343,7 @@
           "total": 1889
         }
       },
-      "category": "AI Tools Development",
+      "category": "Content Management",
       "nativeMarkdownHash": "ed9c6b76e1dc3c86dc8f35c69b278dfff8290cb4ac5284c7698eb3496331b435"
     },
     {
@@ -2360,6 +2360,90 @@
         }
       },
       "nativeMarkdownHash": "5775206a5d4d620af5a2a46634afa6236c80a9653843b978c61059628f79ab04"
+    },
+    {
+      "hash": "daab249093241b62bfe90a76553c536ee6821ab8bd9a04ee217cb939fe33dd1c",
+      "path": "SUMMARY/8-community.md",
+      "links": [],
+      "metadata": {
+        "title": "AI 互动评论区：多视角讨论 CZ 项目文档",
+        "description": "AI 模拟生成的多视角评论，讨论 CZ 项目文档中的 AI 编程、投资策略、产品方法论等主题，呈现不同背景读者的真实反应。",
+        "short_summary": "AI 生成的多视角评论，模拟不同背景读者对 CZ 项目文档的讨论。话题包括 AI 编程、投资策略、产品方法论等，呈现了丰富的对话层次和建设性反馈。文档展示了 CZ 在技术、投资和内容创作方面的综合思考。",
+        "audience": "对 AI 技术、投资策略、产品方法论、内容创作和跨领域思考感兴趣的读者，包括技术人员、投资者、产品经理和学者。",
+        "key_points": [
+          "AI 模拟生成多视角评论，呈现不同背景读者的真实反应",
+          "讨论主题包括 AI 编码实践、投资策略、产品工具和方法论迁移",
+          "参与者涵盖程序员、投资者、产品经理、学者等虚拟用户",
+          "认同与质疑并存，具有建设性对话特点",
+          "从宏观讨论转向个人感悟和行动计划",
+          "涉及 CZON、EA、FSA 等具体产品和工具的功能分析",
+          "探讨了影响力建设、追热点策略和内容输出价值",
+          "包含哲学思考，如 AI 复活、存在意义等主题",
+          "以期待后续更新结尾，形成持续关注氛围",
+          "文档展示了 CZ 在技术、投资和内容创作方面的综合能力"
+        ],
+        "summary": "本文是一篇由 AI 模拟生成的多视角互动评论，围绕 CZ 项目文档展开讨论。参与者包括程序员、投资者、产品经理、学者等不同背景的虚拟用户，话题涵盖 AI 编码实践、投资策略（如浮盈加仓）、产品工具（如 CZON、EA、FSA）、方法论迁移（如粟裕框架）、人格认知（如 MBTI 分析）、影响力建设和哲学思考。讨论呈现了认同与质疑并存的特点，从宏观分析转向个人感悟，最终以期待后续更新结尾，体现了文档的深度和跨领域价值。",
+        "slug": "ai-interactive-comments-cz-project-document",
+        "tags": [
+          "AI 评论",
+          "多视角讨论",
+          "CZ 项目",
+          "投资策略",
+          "产品方法论",
+          "AI 编程",
+          "哲学思考"
+        ],
+        "inferred_date": "2026-01-19",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 6013,
+          "completion": 527,
+          "total": 6540
+        }
+      },
+      "category": "Community Discussion",
+      "translations": {
+        "en-US": {
+          "content_length": 28064,
+          "token_used": {
+            "prompt_tokens": 5823,
+            "completion_tokens": 6767,
+            "total_tokens": 12590,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 5759
+          }
+        },
+        "es-ES": {
+          "content_length": 30218,
+          "token_used": {
+            "prompt_tokens": 5825,
+            "completion_tokens": 8192,
+            "total_tokens": 14017,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 5761
+          }
+        },
+        "ja-JP": {
+          "content_length": 12954,
+          "token_used": {
+            "prompt_tokens": 6060,
+            "completion_tokens": 8193,
+            "total_tokens": 14253,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 5740
+          }
+        }
+      },
+      "nativeMarkdownHash": "680a62436616eb3751b1451a408cdaa51da5673f16adfee19f29859860ee0076"
     }
   ]
 }
