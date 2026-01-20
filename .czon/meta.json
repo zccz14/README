@@ -307,95 +307,101 @@
       "nativeMarkdownHash": "369042c5008bf14a6b1d7e879fea6edeeebaed56ebf0a9773e836e059c13c748"
     },
     {
-      "hash": "e893799a02156ac352e80b5bb387c14d9dfbe0c6ef2d28dae5826d1744e08f10",
+      "hash": "14f13a8dd1577bd68d3caec4485c71f5cffa6f1b636a5a0c42a584bb47c3691e",
       "path": "INSIGHTS/6.md",
       "links": [
+        "./images/capital_war.png",
         "人生有多少个十年.png"
       ],
       "metadata": {
         "title": "资本持久战：个人投资者跨越阶级的战略",
-        "description": "本文提出通过持久战策略实现财富跨越式增长，强调控制亏损、程序化交易和浮盈加仓，驳斥常见错误投资观点。",
-        "short_summary": "本文提出个人投资者应通过“资本持久战”实现财富跨越阶级，核心是控制亏损、程序化交易和浮盈加仓。作者驳斥了三种常见错误投资观点，强调需定义明确胜利条件，并接受有限损失的可能。这一战略旨在解决个人有限时间与财富积累之间的矛盾。",
-        "audience": "个人投资者，尤其是寻求财富跨越式增长、对传统投资观点存疑、愿意学习新战略的人群。",
+        "description": "提出通过可控损失博取极大收益的持久战策略，帮助个人投资者实现财富跨越式增长。",
+        "short_summary": "本文提出“资本持久战”策略，主张个人投资者通过控制亏损、程序化交易和浮盈加仓，用可控损失博取极大收益，实现财富跨越式增长。文章驳斥了三种常见错误观点，强调现金流管理和纪律执行的重要性。",
+        "audience": "寻求财富跨越式增长的个人投资者，特别是对传统投资方法不满、愿意接受新策略的读者。",
         "key_points": [
-          "持久战是个人投资者跨越阶级的唯一出路，核心为损失可控、优势累积、乘胜追击",
-          "驳斥个人必败论：个人投资者有独立性优势，可通过学习和适应市场成功",
-          "驳斥梭哈暴富论：高风险策略往往导致破产，但高波动性市场蕴含机会",
-          "驳斥稳健发展论：稳健策略无法在个人有限时间内实现财富跨越式增长",
-          "必须准备稳定现金流以控制最大亏损速度，确保弱势生存",
-          "必须使用程序化交易避免情绪化决策，实现优势持续扩大",
-          "盈利时立即浮盈加仓，扩大优势，同时设置严格止损控制风险",
-          "定义明确胜利条件（如财富目标A），并接受可能失败的结果",
-          "数学诠释强调以风控线为基础，通过策略优化缩短达成目标时间",
-          "实操规则包括现金流输入、程序化交易和以损定仓的资金管理"
+          "用可控损失博取极大收益是跨越阶级的关键",
+          "驳斥个人必败论、梭哈暴富论和稳健发展论三种错误观点",
+          "必须准备稳定现金流以控制最大亏损速度",
+          "使用程序化交易避免情绪化决策并积累优势",
+          "盈利时立即浮盈加仓以实现乘胜追击",
+          "接受失败可能性并保持心理预期",
+          "数学诠释展示资金曲线与风控线的关系",
+          "实操规则强调现金流、程序化交易和加仓策略",
+          "与稳健增长策略形成互补关系",
+          "最终目标是在有限时间内实现财富跨越式增长"
         ],
-        "summary": "本文针对个人投资者如何实现财富跨越阶级的问题，提出“资本持久战”战略。作者批判了“个人必败论”、“梭哈暴富论”和“稳健发展论”三种常见错误观点，认为它们无法解决个人寿命有限与财富积累时间之间的矛盾。持久战的核心是：通过稳定现金流控制最大亏损速度确保生存；使用程序化交易避免情绪化决策，实现优势累积；利用浮盈加仓策略乘胜追击，实现财富跨越式增长。文章强调需明确定义胜利条件，接受可能失败的结果，并提供了数学诠释和实操规则，最终目标是让个人投资者在市场中找到可持续的成功路径。",
-        "slug": "capital-prolonged-war-strategy",
+        "summary": "本文批判了个人必败论、梭哈暴富论和稳健发展论三种主流投资观点，提出“资本持久战”作为个人投资者跨越阶级的第四种思路。核心思想是用最小的可接受风险博取胜利性的极大收益，通过控制亏损速度、程序化交易积累优势、浮盈加仓乘胜追击来实现财富跨越式增长。文章强调必须准备稳定现金流、使用程序化交易避免情绪化决策，并接受失败的可能性，最终目标是在可控损失下实现财富的指数级增长。",
+        "slug": "capital-persistent-war",
         "tags": [
-          "资本持久战",
-          "个人投资",
+          "投资策略",
+          "个人投资者",
           "财富增长",
-          "程序化交易",
-          "浮盈加仓",
           "风险管理",
-          "投资战略",
-          "阶级跨越"
+          "程序化交易",
+          "持久战",
+          "跨越阶级",
+          "浮盈加仓"
         ],
         "inferred_date": "2026-01-17",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 5678,
-          "completion": 576,
-          "total": 6254
+          "prompt": 6215,
+          "completion": 464,
+          "total": 6679
         }
       },
       "category": "Investment Strategy",
       "translations": {
         "en-US": {
-          "content_length": 32335,
+          "content_length": 35211,
           "token_used": {
-            "prompt_tokens": 5538,
-            "completion_tokens": 6640,
-            "total_tokens": 12178,
+            "prompt_tokens": 6078,
+            "completion_tokens": 7349,
+            "total_tokens": 13427,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 128
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 5474
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 5950
           }
         },
         "es-ES": {
-          "content_length": 33837,
+          "content_length": 33609,
           "token_used": {
-            "prompt_tokens": 5540,
+            "prompt_tokens": 6080,
             "completion_tokens": 8192,
-            "total_tokens": 13732,
+            "total_tokens": 14272,
             "prompt_tokens_details": {
-              "cached_tokens": 64
+              "cached_tokens": 128
             },
-            "prompt_cache_hit_tokens": 64,
-            "prompt_cache_miss_tokens": 5476
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 5952
           }
         },
         "ja-JP": {
-          "content_length": 12968,
+          "content_length": 12900,
           "token_used": {
-            "prompt_tokens": 5775,
+            "prompt_tokens": 6315,
             "completion_tokens": 8192,
-            "total_tokens": 13967,
+            "total_tokens": 14507,
             "prompt_tokens_details": {
               "cached_tokens": 320
             },
             "prompt_cache_hit_tokens": 320,
-            "prompt_cache_miss_tokens": 5455
+            "prompt_cache_miss_tokens": 5995
           }
         }
       },
-      "nativeMarkdownHash": "c761c3d8f5e24b2c4edb4173b7c7611ca48b25e319240e852897492fb104b571"
+      "nativeMarkdownHash": "1b5d2e66b43915d6080423c417c80bd375dbb795b691895a3a7c5def3197fa87"
     },
     {
       "hash": "0bd4a05f453adf84da38573adbab5a68736df318b793d91534f8c0ff321329a8",
       "path": "INSIGHTS/人生有多少个十年.png",
+      "links": []
+    },
+    {
+      "hash": "3572aa3952a4c76aea03495e1ed03f6c0676fae3e0b610489793961a63911efe",
+      "path": "INSIGHTS/images/capital_war.png",
       "links": []
     },
     {
@@ -1221,7 +1227,7 @@
           "total": 1758
         }
       },
-      "category": "Content Management",
+      "category": "AI Tools Development",
       "translations": {
         "en-US": {
           "content_length": 5721,
@@ -1482,7 +1488,7 @@
         }
       },
       "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8",
-      "category": "Content Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
@@ -1801,46 +1807,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 11013,
+          "content_length": 11121,
           "token_used": {
-            "prompt_tokens": 2345,
-            "completion_tokens": 2349,
-            "total_tokens": 4694,
+            "prompt_tokens": 2349,
+            "completion_tokens": 2369,
+            "total_tokens": 4718,
             "prompt_tokens_details": {
               "cached_tokens": 1152
             },
             "prompt_cache_hit_tokens": 1152,
-            "prompt_cache_miss_tokens": 1193
+            "prompt_cache_miss_tokens": 1197
           }
         },
         "ja-JP": {
-          "content_length": 5370,
+          "content_length": 5384,
           "token_used": {
-            "prompt_tokens": 2582,
-            "completion_tokens": 3306,
-            "total_tokens": 5888,
+            "prompt_tokens": 2586,
+            "completion_tokens": 3316,
+            "total_tokens": 5902,
             "prompt_tokens_details": {
               "cached_tokens": 1408
             },
             "prompt_cache_hit_tokens": 1408,
-            "prompt_cache_miss_tokens": 1174
+            "prompt_cache_miss_tokens": 1178
           }
         },
         "es-ES": {
-          "content_length": 13066,
+          "content_length": 13011,
           "token_used": {
-            "prompt_tokens": 2347,
-            "completion_tokens": 3473,
-            "total_tokens": 5820,
+            "prompt_tokens": 2351,
+            "completion_tokens": 3447,
+            "total_tokens": 5798,
             "prompt_tokens_details": {
               "cached_tokens": 1152
             },
             "prompt_cache_hit_tokens": 1152,
-            "prompt_cache_miss_tokens": 1195
+            "prompt_cache_miss_tokens": 1199
           }
         }
       },
-      "nativeMarkdownHash": "f1ec4a29e1c437be3ba1f0e91699c965553f004adc22e0fb849a206f63a9e596"
+      "nativeMarkdownHash": "0e7b8aa38c22ccfb68179cfb033769fdc46a351ed608ad5cdd7ca00e6b56bf61"
     },
     {
       "hash": "56dd1e3d40838f84c98d1c9b5da75d1539c53fe51ba4564e429591d392ccb07a",
@@ -1893,46 +1899,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 15179,
+          "content_length": 15160,
           "token_used": {
-            "prompt_tokens": 2758,
-            "completion_tokens": 2959,
-            "total_tokens": 5717,
+            "prompt_tokens": 2762,
+            "completion_tokens": 2965,
+            "total_tokens": 5727,
             "prompt_tokens_details": {
               "cached_tokens": 1088
             },
             "prompt_cache_hit_tokens": 1088,
-            "prompt_cache_miss_tokens": 1670
+            "prompt_cache_miss_tokens": 1674
           }
         },
         "es-ES": {
-          "content_length": 17060,
+          "content_length": 16923,
           "token_used": {
-            "prompt_tokens": 2760,
-            "completion_tokens": 4356,
-            "total_tokens": 7116,
+            "prompt_tokens": 2764,
+            "completion_tokens": 4314,
+            "total_tokens": 7078,
             "prompt_tokens_details": {
               "cached_tokens": 1088
             },
             "prompt_cache_hit_tokens": 1088,
-            "prompt_cache_miss_tokens": 1672
+            "prompt_cache_miss_tokens": 1676
           }
         },
         "ja-JP": {
-          "content_length": 7045,
+          "content_length": 6979,
           "token_used": {
-            "prompt_tokens": 2995,
-            "completion_tokens": 4343,
-            "total_tokens": 7338,
+            "prompt_tokens": 2999,
+            "completion_tokens": 4338,
+            "total_tokens": 7337,
             "prompt_tokens_details": {
               "cached_tokens": 1280
             },
             "prompt_cache_hit_tokens": 1280,
-            "prompt_cache_miss_tokens": 1715
+            "prompt_cache_miss_tokens": 1719
           }
         }
       },
-      "nativeMarkdownHash": "18dae14de84f32015738502d7d80ecb1721a79442818002d29754f36a80829ab"
+      "nativeMarkdownHash": "b04d8d14b446b3a41d49610c2f4db7a3004d35ca317da1c94ab1203a105986df"
     },
     {
       "hash": "684d12b656fbd45021dab2f6aa90f54bb7faf144075b4d6fc53da448b0cf8279",
@@ -1985,46 +1991,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 13228,
+          "content_length": 13199,
           "token_used": {
-            "prompt_tokens": 2628,
-            "completion_tokens": 2773,
-            "total_tokens": 5401,
+            "prompt_tokens": 2632,
+            "completion_tokens": 2774,
+            "total_tokens": 5406,
             "prompt_tokens_details": {
               "cached_tokens": 576
             },
             "prompt_cache_hit_tokens": 576,
-            "prompt_cache_miss_tokens": 2052
+            "prompt_cache_miss_tokens": 2056
           }
         },
         "es-ES": {
-          "content_length": 14267,
+          "content_length": 14465,
           "token_used": {
-            "prompt_tokens": 2630,
-            "completion_tokens": 3745,
-            "total_tokens": 6375,
+            "prompt_tokens": 2634,
+            "completion_tokens": 3781,
+            "total_tokens": 6415,
             "prompt_tokens_details": {
               "cached_tokens": 576
             },
             "prompt_cache_hit_tokens": 576,
-            "prompt_cache_miss_tokens": 2054
+            "prompt_cache_miss_tokens": 2058
           }
         },
         "ja-JP": {
-          "content_length": 5999,
+          "content_length": 6023,
           "token_used": {
-            "prompt_tokens": 2865,
-            "completion_tokens": 3724,
-            "total_tokens": 6589,
+            "prompt_tokens": 2869,
+            "completion_tokens": 3751,
+            "total_tokens": 6620,
             "prompt_tokens_details": {
               "cached_tokens": 832
             },
             "prompt_cache_hit_tokens": 832,
-            "prompt_cache_miss_tokens": 2033
+            "prompt_cache_miss_tokens": 2037
           }
         }
       },
-      "nativeMarkdownHash": "732ae2d5d2c0d014a1987dd43e6688d68587e2d06384a78daaa8524c92c2454c"
+      "nativeMarkdownHash": "b75304d761509bf09f0edbac880ec4464651f4ad2b3f718fc4abe7363de4fc21"
     },
     {
       "hash": "5613169f00c9bd952c33a7cc3b22b9a7c9a2a7dee133ef678cdf4240309d4f8a",
@@ -2083,46 +2089,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 13162,
+          "content_length": 13475,
           "token_used": {
-            "prompt_tokens": 3166,
-            "completion_tokens": 3324,
-            "total_tokens": 6490,
+            "prompt_tokens": 3170,
+            "completion_tokens": 3412,
+            "total_tokens": 6582,
             "prompt_tokens_details": {
               "cached_tokens": 1344
             },
             "prompt_cache_hit_tokens": 1344,
-            "prompt_cache_miss_tokens": 1822
+            "prompt_cache_miss_tokens": 1826
           }
         },
         "es-ES": {
-          "content_length": 14848,
+          "content_length": 14971,
           "token_used": {
-            "prompt_tokens": 3168,
-            "completion_tokens": 4283,
-            "total_tokens": 7451,
+            "prompt_tokens": 3172,
+            "completion_tokens": 4336,
+            "total_tokens": 7508,
             "prompt_tokens_details": {
               "cached_tokens": 1344
             },
             "prompt_cache_hit_tokens": 1344,
-            "prompt_cache_miss_tokens": 1824
+            "prompt_cache_miss_tokens": 1828
           }
         },
         "ja-JP": {
-          "content_length": 7025,
+          "content_length": 7087,
           "token_used": {
-            "prompt_tokens": 3403,
-            "completion_tokens": 4256,
-            "total_tokens": 7659,
+            "prompt_tokens": 3407,
+            "completion_tokens": 4307,
+            "total_tokens": 7714,
             "prompt_tokens_details": {
               "cached_tokens": 1600
             },
             "prompt_cache_hit_tokens": 1600,
-            "prompt_cache_miss_tokens": 1803
+            "prompt_cache_miss_tokens": 1807
           }
         }
       },
-      "nativeMarkdownHash": "f4eeb68dfb37fe69fdc15c44d116906ea4f33561c1e962b0bc15a9d764eee1bd"
+      "nativeMarkdownHash": "ad3bee02013cb5413b423f8acdccde2c110b911b2b315dccebbcddaf09b2ed62"
     },
     {
       "hash": "cfbbf743d90c933819db8e1e1d52d436771f048c2b9f0b2098013de37a879f63",
@@ -2185,46 +2191,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 14470,
+          "content_length": 14406,
           "token_used": {
-            "prompt_tokens": 3458,
-            "completion_tokens": 3604,
-            "total_tokens": 7062,
+            "prompt_tokens": 3462,
+            "completion_tokens": 3598,
+            "total_tokens": 7060,
             "prompt_tokens_details": {
               "cached_tokens": 1856
             },
             "prompt_cache_hit_tokens": 1856,
-            "prompt_cache_miss_tokens": 1602
+            "prompt_cache_miss_tokens": 1606
           }
         },
         "es-ES": {
-          "content_length": 15958,
+          "content_length": 15943,
           "token_used": {
-            "prompt_tokens": 3460,
-            "completion_tokens": 4643,
-            "total_tokens": 8103,
+            "prompt_tokens": 3464,
+            "completion_tokens": 4625,
+            "total_tokens": 8089,
             "prompt_tokens_details": {
               "cached_tokens": 1856
             },
             "prompt_cache_hit_tokens": 1856,
-            "prompt_cache_miss_tokens": 1604
+            "prompt_cache_miss_tokens": 1608
           }
         },
         "ja-JP": {
-          "content_length": 7699,
+          "content_length": 7753,
           "token_used": {
-            "prompt_tokens": 3695,
-            "completion_tokens": 4643,
-            "total_tokens": 8338,
+            "prompt_tokens": 3699,
+            "completion_tokens": 4665,
+            "total_tokens": 8364,
             "prompt_tokens_details": {
               "cached_tokens": 2048
             },
             "prompt_cache_hit_tokens": 2048,
-            "prompt_cache_miss_tokens": 1647
+            "prompt_cache_miss_tokens": 1651
           }
         }
       },
-      "nativeMarkdownHash": "34306cdd625c5ef51da05d2b67fbc103db1d6ae17620926df8d850e3815bb6b6"
+      "nativeMarkdownHash": "2de55a0d5e9d16305cb377c2c986e0c57c1f92dca26c1b74a3eb98979f4999bd"
     },
     {
       "hash": "71a66a4d05000597304ccb8b66ee4d883791e6b6e531e30d764d95416d3e3e3b",
@@ -2310,46 +2316,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 20857,
+          "content_length": 20757,
           "token_used": {
-            "prompt_tokens": 5305,
-            "completion_tokens": 5422,
-            "total_tokens": 10727,
+            "prompt_tokens": 5321,
+            "completion_tokens": 5407,
+            "total_tokens": 10728,
             "prompt_tokens_details": {
               "cached_tokens": 1728
             },
             "prompt_cache_hit_tokens": 1728,
-            "prompt_cache_miss_tokens": 3577
+            "prompt_cache_miss_tokens": 3593
           }
         },
         "es-ES": {
-          "content_length": 22585,
+          "content_length": 22539,
           "token_used": {
-            "prompt_tokens": 5307,
-            "completion_tokens": 6785,
-            "total_tokens": 12092,
+            "prompt_tokens": 5323,
+            "completion_tokens": 6775,
+            "total_tokens": 12098,
             "prompt_tokens_details": {
               "cached_tokens": 1728
             },
             "prompt_cache_hit_tokens": 1728,
-            "prompt_cache_miss_tokens": 3579
+            "prompt_cache_miss_tokens": 3595
           }
         },
         "ja-JP": {
-          "content_length": 11660,
+          "content_length": 11708,
           "token_used": {
-            "prompt_tokens": 5542,
-            "completion_tokens": 6932,
-            "total_tokens": 12474,
+            "prompt_tokens": 5558,
+            "completion_tokens": 6944,
+            "total_tokens": 12502,
             "prompt_tokens_details": {
               "cached_tokens": 1920
             },
             "prompt_cache_hit_tokens": 1920,
-            "prompt_cache_miss_tokens": 3622
+            "prompt_cache_miss_tokens": 3638
           }
         }
       },
-      "nativeMarkdownHash": "eb93cca53c737fa0bc75143b567abdab7e540aad7ef7ee68edff9ff2bb87ead0"
+      "nativeMarkdownHash": "4591f15aa59bb25a4b8852acf8327b052142a5d69b374cfbf389e137d2918749"
     },
     {
       "hash": "3dc52c79a5e10e6271cd73664f1f11e78420d4f4631a0bb601d1e256ea992323",
@@ -2415,46 +2421,46 @@
       "category": "AI Analysis Reports",
       "translations": {
         "en-US": {
-          "content_length": 20464,
+          "content_length": 20193,
           "token_used": {
-            "prompt_tokens": 4945,
-            "completion_tokens": 5100,
-            "total_tokens": 10045,
+            "prompt_tokens": 4949,
+            "completion_tokens": 5061,
+            "total_tokens": 10010,
             "prompt_tokens_details": {
               "cached_tokens": 2176
             },
             "prompt_cache_hit_tokens": 2176,
-            "prompt_cache_miss_tokens": 2769
+            "prompt_cache_miss_tokens": 2773
           }
         },
         "es-ES": {
-          "content_length": 22829,
+          "content_length": 22954,
           "token_used": {
-            "prompt_tokens": 4947,
-            "completion_tokens": 6559,
-            "total_tokens": 11506,
+            "prompt_tokens": 4951,
+            "completion_tokens": 6598,
+            "total_tokens": 11549,
             "prompt_tokens_details": {
               "cached_tokens": 2176
             },
             "prompt_cache_hit_tokens": 2176,
-            "prompt_cache_miss_tokens": 2771
+            "prompt_cache_miss_tokens": 2775
           }
         },
         "ja-JP": {
-          "content_length": 11050,
+          "content_length": 11025,
           "token_used": {
-            "prompt_tokens": 5182,
-            "completion_tokens": 6583,
-            "total_tokens": 11765,
+            "prompt_tokens": 5186,
+            "completion_tokens": 6576,
+            "total_tokens": 11762,
             "prompt_tokens_details": {
               "cached_tokens": 2432
             },
             "prompt_cache_hit_tokens": 2432,
-            "prompt_cache_miss_tokens": 2750
+            "prompt_cache_miss_tokens": 2754
           }
         }
       },
-      "nativeMarkdownHash": "276d07942a914c6036396e478171a57497181ce0ccf1ffaf0e76001d1a77b4ad"
+      "nativeMarkdownHash": "16540aa2ed33e404205435a050f72b23e5b59f32a34b55b7839cb37580f4bce7"
     },
     {
       "hash": "daab249093241b62bfe90a76553c536ee6821ab8bd9a04ee217cb939fe33dd1c",
