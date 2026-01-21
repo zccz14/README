@@ -7,7 +7,8 @@
       "en-US",
       "ja-JP",
       "es-ES"
-    ]
+    ],
+    "baseUrl": "https://readme.zccz14.com/"
   },
   "files": [
     {
@@ -1227,7 +1228,7 @@
           "total": 1758
         }
       },
-      "category": "AI Tools Development",
+      "category": "AI Software Engineering",
       "translations": {
         "en-US": {
           "content_length": 5721,
@@ -1272,6 +1273,93 @@
       "nativeMarkdownHash": "8d42f3d6b2ac41bb392af156037d703f2c3df83924aa1e6ff2d946440b56f58e"
     },
     {
+      "hash": "26db347738802a4a5dd00587cb5920047afe21f6a0259f029188c86877064a2a",
+      "path": "LOGS/21.md",
+      "links": [
+        "../INSIGHTS/6.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/3.md"
+      ],
+      "metadata": {
+        "title": "资本持久战：个人投资者的战略实践指南",
+        "description": "本文探讨资本持久战作为个人投资者的战略实践，强调清晰胜利标准、非学术化表达及策略验证的重要性。",
+        "short_summary": "本文讨论资本持久战作为个人投资者的战略实践，强调胜利后离开市场的根本目的，而非追求稳定盈利。作者主张用大白话表达，避免学术术语，并通过回测验证策略有效性。",
+        "audience": "个人投资者、对投资战略感兴趣的非专业人士、关注AI工具应用的实践者",
+        "key_points": [
+          "资本持久战的目的是让个人投资者胜利后离开市场，而非长期困在市场",
+          "文章应使用大白话，避免学术术语，以增强可读性和实用性",
+          "市场是博弈游戏，投资者可通过改进策略提高胜率，不同于纯靠运气的彩票",
+          "即使多人采用资本持久战战略，因底层策略差异，仍不会导致拥挤无利",
+          "集体行动问题不适用于此战略，因其不要求统一的底层策略",
+          "理论验证可通过回测测量策略的T_S表现，定义失效阈值为如3年",
+          "作者与AI工具OpenCode互动，计划构建对抗生成Agents框架",
+          "强调策略的实践性和可验证性，而非哲学或经济学术语堆砌"
+        ],
+        "summary": "本文围绕《资本持久战》一文的修改与讨论展开，作者反思了文章应避免过度学术化，以大白话提供战略实践指导。核心观点包括：资本持久战的根本目的是让个人投资者胜利后离开市场，而非追求稳定盈利；市场与彩票的区别在于前者是博弈游戏，可通过策略提高胜率；即使多人采用此战略，因底层策略差异仍有利可图；集体行动问题不适用于此战略，因其不假设统一底层策略；理论验证可通过回测测量策略的T_S表现，定义失效阈值。作者还分享了与AI工具OpenCode的互动，计划构建对抗生成Agents框架。",
+        "slug": "capital-persistent-war-strategy-guide",
+        "tags": [
+          "资本持久战",
+          "个人投资",
+          "战略实践",
+          "市场博弈",
+          "回测验证",
+          "AI工具",
+          "智能体框架"
+        ],
+        "inferred_date": "2026-01-21",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1451,
+          "completion": 498,
+          "total": 1949
+        }
+      },
+      "category": "Investment Strategy",
+      "translations": {
+        "en-US": {
+          "content_length": 6900,
+          "token_used": {
+            "prompt_tokens": 1420,
+            "completion_tokens": 1463,
+            "total_tokens": 2883,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "prompt_cache_hit_tokens": 0,
+            "prompt_cache_miss_tokens": 1420
+          }
+        },
+        "es-ES": {
+          "content_length": 7557,
+          "token_used": {
+            "prompt_tokens": 1422,
+            "completion_tokens": 2019,
+            "total_tokens": 3441,
+            "prompt_tokens_details": {
+              "cached_tokens": 0
+            },
+            "prompt_cache_hit_tokens": 0,
+            "prompt_cache_miss_tokens": 1422
+          }
+        },
+        "ja-JP": {
+          "content_length": 3366,
+          "token_used": {
+            "prompt_tokens": 1657,
+            "completion_tokens": 2058,
+            "total_tokens": 3715,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 1337
+          }
+        }
+      },
+      "nativeMarkdownHash": "be1609f86a9b62bdc972c86e2eb0c33cf7a4783a49ae9614b171891da47d48fc"
+    },
+    {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
@@ -1313,7 +1401,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "AI Tools Development"
+      "category": "Project Management"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -1357,7 +1445,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "AI Tools Development"
+      "category": "Project Management"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -1488,7 +1576,7 @@
         }
       },
       "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8",
-      "category": "AI Tools Development"
+      "category": "Content Management"
     },
     {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
