@@ -1228,7 +1228,7 @@
           "total": 1758
         }
       },
-      "category": "AI Tools Development",
+      "category": "Content Management",
       "translations": {
         "en-US": {
           "content_length": 5721,
@@ -1358,6 +1358,88 @@
         }
       },
       "nativeMarkdownHash": "be1609f86a9b62bdc972c86e2eb0c33cf7a4783a49ae9614b171891da47d48fc"
+    },
+    {
+      "hash": "3717fa67a6928c6d5530add0ce020f5d4e9a510aaef6b5e7e6c0c181cc18c580",
+      "path": "LOGS/22.md",
+      "links": [
+        "../MEETINGS/2026-01-22.md"
+      ],
+      "metadata": {
+        "title": "2025年证券私募基金深度解析会议感悟",
+        "description": "作者参加证券私募基金会议后，分析行业门槛、策略机会、利益冲突，并反思个人投资选择。",
+        "short_summary": "作者分析了证券私募基金行业的高门槛和策略机会，指出选股模型评价体系不明确是差异化关键。同时批评行业中存在包装业绩误导投资人的问题，强调管理人与投资人的利益冲突。最后，作者倾向于个人投资的自由性。",
+        "audience": "对证券私募基金行业感兴趣的投资人、金融从业者、个人投资者及行业观察者",
+        "key_points": [
+          "证券私募基金行业准入门槛越来越高，但通过独特策略和渠道仍可发行",
+          "选股模型的评价体系不明确，存在差异化机会",
+          "行业中部分管理人利用包装业绩、复杂指标和会计技巧误导投资人",
+          "基金管理人与投资人存在根本利益冲突：管理人追求管理规模，投资人追求收益",
+          "这种利益冲突导致管理人与投资人之间的博弈",
+          "作者认为个人投资者更自由，倾向于不求人的投资方式",
+          "会议于2026年1月22日下午举行，内容涉及2025年证券类私募基金深度解析"
+        ],
+        "summary": "本文记录了作者参加国泰海通举办的“2025年证券类私募基金深度解析”线上会议后的思考。作者指出，证券私募基金行业准入门槛虽高，但通过独特策略和渠道仍有机会发行，且选股模型评价体系不明确带来差异化机会。同时，作者批评行业中部分管理人利用包装业绩、复杂指标和会计技巧误导投资人的现象，认为这本质上是利益冲突：管理人追求管理规模，投资人追求收益，导致博弈。最后，作者表达了对个人投资者自由状态的偏好。",
+        "slug": "2025-securities-private-fund-analysis-meeting-reflections",
+        "tags": [
+          "证券私募基金",
+          "投资策略",
+          "行业分析",
+          "利益冲突",
+          "个人投资",
+          "会议感悟"
+        ],
+        "inferred_date": "2026-01-22",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 801,
+          "completion": 448,
+          "total": 1249
+        }
+      },
+      "category": "Financial Market Analysis",
+      "translations": {
+        "en-US": {
+          "content_length": 2902,
+          "token_used": {
+            "prompt_tokens": 619,
+            "completion_tokens": 587,
+            "total_tokens": 1206,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 555
+          }
+        },
+        "es-ES": {
+          "content_length": 3483,
+          "token_used": {
+            "prompt_tokens": 621,
+            "completion_tokens": 861,
+            "total_tokens": 1482,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 557
+          }
+        },
+        "ja-JP": {
+          "content_length": 1368,
+          "token_used": {
+            "prompt_tokens": 856,
+            "completion_tokens": 867,
+            "total_tokens": 1723,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 536
+          }
+        }
+      },
+      "nativeMarkdownHash": "d2c7f41ef836603013f5cd4b5882b32ca49464ca30afb340416e9f0fa5c5e520"
     },
     {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
@@ -1576,7 +1658,7 @@
         }
       },
       "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8",
-      "category": "AI Tools Development"
+      "category": "Content Management"
     },
     {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
