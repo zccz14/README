@@ -1228,7 +1228,7 @@
           "total": 1758
         }
       },
-      "category": "AI Software Engineering",
+      "category": "AI Tools Development",
       "translations": {
         "en-US": {
           "content_length": 5721,
@@ -1401,7 +1401,7 @@
         }
       },
       "nativeMarkdownHash": "382e097f96e9f89f9b3015c9359491e40dc122fd4dbef773e2752f7b1be67662",
-      "category": "Project Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
@@ -1445,7 +1445,7 @@
         }
       },
       "nativeMarkdownHash": "dcb3308f01eb5ebf88f93a09fdc9e792371188eb3d1a6288076e20001a73a483",
-      "category": "Project Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
@@ -1576,7 +1576,7 @@
         }
       },
       "nativeMarkdownHash": "7242de587365854345c937a2607ab9ae83fc137ff854a707dfb26808855fd5b8",
-      "category": "Content Management"
+      "category": "AI Tools Development"
     },
     {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
@@ -1672,6 +1672,98 @@
     {
       "hash": "2a2f39c3da49421968f0d9b0dcf003580acb34df7f2447b0419595bed40c45c5",
       "path": "LOGS/妙啊.png",
+      "links": []
+    },
+    {
+      "hash": "a49db27c7c85c0a5599c6f98275059f56de633a114b64f8234d164bfb24442d1",
+      "path": "MEETINGS/2026-01-22.md",
+      "links": [
+        "./2026-01-22.txt"
+      ],
+      "metadata": {
+        "title": "国泰海通2025年证券类私募基金深度解析",
+        "description": "分析2025年中国证券类私募基金市场格局、策略表现、主观与量化演进、配置变化及行业深层趋势。",
+        "short_summary": "本文深入分析了2025年中国证券类私募基金市场，指出行业正经历洗牌，集中度提高，策略表现分化。主观策略向多资产和平台化发展，量化策略同质化严重且头部效应明显。市场配置转向硬科技和资源类行业，行业面临信息不对称和头部集中化挑战。",
+        "audience": "私募基金投资者、资产管理从业者、金融分析师、行业研究员及对证券投资市场感兴趣的专业人士。",
+        "key_points": [
+          "私募行业集中度提高，进入存量整固、增量优选阶段",
+          "市场中性策略规模增长源于传统固收资金迁徙",
+          "主观策略全年上涨约33%，向多资产配置和平台化演进",
+          "量化策略因子同质化加剧，头部集中效应明显",
+          "行业配置重构，电子、有色等硬科技和资源类成主流",
+          "统计方法（如等权计算）可能误导对规模、收益的理解",
+          "量化选股策略有效性缺乏统一判断标准，信息不对称严重",
+          "头部管理人优势扩大，小机构生存空间被压缩",
+          "行业从业绩导向转向方法论导向，投资者需深入理解策略逻辑",
+          "信息不对称加剧，传统线性外推思维失效"
+        ],
+        "summary": "本文深度解析了2025年中国证券类私募基金市场的整体格局与关键变化。私募行业正从规模扩张转向高质量发展，集中度提高，小型管理人面临生存压力。策略表现分化明显：市场中性策略受益于传统固收资金迁徙，CTA策略回暖但属结构性机会，主观股票策略全年上涨约33%。主观策略向多资产配置和平台化演进，量化策略则面临因子同质化加剧和头部集中效应。行业配置重构，电子、有色等硬科技和资源类行业成为主流。答疑环节揭示了统计方法、策略有效性判断等深层挑战。综合来看，行业正从业绩导向转向方法论导向，信息不对称加剧，头部集中化趋势不可逆。",
+        "slug": "guotai-haitong-2025-private-securities-fund-analysis",
+        "tags": [
+          "私募基金",
+          "证券投资",
+          "市场分析",
+          "量化策略",
+          "主观策略",
+          "资产配置",
+          "行业趋势",
+          "2025"
+        ],
+        "inferred_date": "2026-01-22",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 4371,
+          "completion": 552,
+          "total": 4923
+        }
+      },
+      "category": "Financial Market Analysis",
+      "translations": {
+        "en-US": {
+          "content_length": 24453,
+          "token_used": {
+            "prompt_tokens": 4242,
+            "completion_tokens": 4889,
+            "total_tokens": 9131,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 4178
+          }
+        },
+        "ja-JP": {
+          "content_length": 10454,
+          "token_used": {
+            "prompt_tokens": 4479,
+            "completion_tokens": 6800,
+            "total_tokens": 11279,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 4159
+          }
+        },
+        "es-ES": {
+          "content_length": 29214,
+          "token_used": {
+            "prompt_tokens": 4244,
+            "completion_tokens": 7240,
+            "total_tokens": 11484,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 4180
+          }
+        }
+      },
+      "nativeMarkdownHash": "3adbf1b0315854ba94e284537c72b241811bac81071ca46321a4fb193460cfef"
+    },
+    {
+      "hash": "f25f8d155044566796c4c8923769a746e412761b3001ceb4a52dfe76c654ffab",
+      "path": "MEETINGS/2026-01-22.txt",
       "links": []
     },
     {
