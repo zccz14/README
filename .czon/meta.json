@@ -1526,6 +1526,88 @@
       "nativeMarkdownHash": "e7f3cd76e3258ff974621f107c7aa4c2ba0a1c98f41e802867fbd3d3b7189308"
     },
     {
+      "hash": "4d1694f154366e92c86815046b6fc2546bad7ec6235c1ecdfd151d6abc14e0cc",
+      "path": "LOGS/24.md",
+      "links": [],
+      "metadata": {
+        "title": "OpenCode免费模型下架对集成开发的影响",
+        "description": "作者分享OpenCode下架免费模型后的集成开发困境，讨论模型选择与成本问题，期待新模型DeepSeek V4。",
+        "short_summary": "OpenCode下架免费模型GLM-4.7和MiniMax M2.1，导致集成开发面临成本增加和模型性能问题。作者分析剩余模型在summary任务上的表现，并期待DeepSeek V4带来更便宜的优质模型。",
+        "audience": "AI开发者、集成工程师、关注免费AI模型和成本优化的技术人员",
+        "key_points": [
+          "OpenCode下架GLM-4.7和MiniMax M2.1免费模型",
+          "剩余模型如gpt-5-nano和grok-code在summary任务表现差",
+          "免费优势消失，可能需自备模型（BYOK）",
+          "summary任务要求模型理解全文并构造总结",
+          "任务不频繁，可接受使用昂贵模型",
+          "期待DeepSeek V4提供更便宜的好模型",
+          "作者拒绝自掏腰包，强调成本问题",
+          "CZONE集成summary功能，但模型选择受限"
+        ],
+        "summary": "本文记录了作者在2026年1月23日因OpenCode下架GLM-4.7和MiniMax M2.1免费模型而面临的集成开发挑战。作者指出剩余模型如gpt-5-nano和grok-code在summary任务上表现不佳，导致免费优势消失，并提及CZONE用户可能需自备模型（BYOK）。文中还讨论了summary任务对模型的要求较高，但频率低可接受使用昂贵模型，最后表达了对DeepSeek V4的期待，希望能提供更经济高效的解决方案。",
+        "slug": "opencode-free-models-removal-impact-integration",
+        "tags": [
+          "OpenCode",
+          "免费模型下架",
+          "集成开发",
+          "AI模型",
+          "summary任务",
+          "DeepSeek V4",
+          "成本问题"
+        ],
+        "inferred_date": "2026-01-23",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 762,
+          "completion": 461,
+          "total": 1223
+        }
+      },
+      "category": "AI Tools Development",
+      "translations": {
+        "en-US": {
+          "content_length": 2101,
+          "token_used": {
+            "prompt_tokens": 579,
+            "completion_tokens": 509,
+            "total_tokens": 1088,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 515
+          }
+        },
+        "es-ES": {
+          "content_length": 2364,
+          "token_used": {
+            "prompt_tokens": 581,
+            "completion_tokens": 665,
+            "total_tokens": 1246,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 517
+          }
+        },
+        "ja-JP": {
+          "content_length": 1136,
+          "token_used": {
+            "prompt_tokens": 816,
+            "completion_tokens": 683,
+            "total_tokens": 1499,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 496
+          }
+        }
+      },
+      "nativeMarkdownHash": "a8ffe430ed3480355821bb6d890eb7899fb3612ec445bcf18e9202c242d8adce"
+    },
+    {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
