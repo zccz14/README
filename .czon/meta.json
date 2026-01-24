@@ -54,6 +54,91 @@
       "category": "Personal Introduction"
     },
     {
+      "hash": "f20d8615d52fb196fc4dc3c0fbbc37c964c8510d0594a506f95b82121373fae0",
+      "path": "DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
+      "links": [],
+      "metadata": {
+        "title": "《奇葩说》财富抉择：稳健增长 vs 跨越阶级",
+        "description": "AI生成的《奇葩说》辩论探讨普通人财富选择，对比稳健增长与跨越阶级两种策略，分析其优缺点与适用人群。",
+        "short_summary": "本文通过一场虚构的《奇葩说》辩论，深入探讨普通人在财富积累上的两种选择：稳健增长与跨越阶级。正方主张简单易行的定投策略，强调确定性和心理稳定；反方推崇资本持久战框架，注重可控风险和程序化执行。辩论揭示了不同人群的财务困境与应对策略，最终以微弱优势支持跨越阶级，反映了社会焦虑与时代变革的影响。",
+        "audience": "普通投资者、理财爱好者、对财富积累策略感兴趣的年轻人、中年危机人群、金融初学者",
+        "key_points": [
+          "稳健增长派强调时间复利、资产配置和长期持有，适合风险厌恶者",
+          "跨越阶级派主张资本持久战框架，包括可控损失、程序化交易和浮盈加仓",
+          "辩论涉及数据统计、心理学、经济学和技术视角的多维度分析",
+          "观众投票结果：52%支持跨越阶级，48%支持稳健增长",
+          "文章提供实践指南，包括稳健定投、资本持久战执行和混合策略",
+          "关键观点包括：投资第一步是不要毁掉生活、情绪是投资敌人、活得久是最大复利",
+          "辩论基于《资本持久战》系列文档思想改编，强调投资风险与个人执行力",
+          "适合人群分析：稳健适合长期规划者，跨越适合技术能力者和急需改变者",
+          "网络热评模拟反映了不同读者群体的共鸣与困惑",
+          "导师点评指出社会焦虑度高，选择应分阶段且量力而行"
+        ],
+        "summary": "本文以AI生成的《奇葩说》辩论形式，围绕“普通人应选择稳健增长还是跨越阶级”的辩题展开。正方（稳健增长派）强调时间复利、心理稳定和确定性，认为稳健是普通人的唯一解；反方（跨越阶级派）主张资本持久战框架，通过可控损失、程序化交易寻求突破，认为数字时代需要主动求变。辩论涉及数据统计、心理学、经济学、技术影响等多角度，最终观众投票显示52%支持跨越阶级。文章总结了两大核心框架的优缺点，并提供实践指南，强调投资需量力而行、保持学习。",
+        "slug": "qipashuo-wealth-debate-steady-growth-vs-class-jumping",
+        "tags": [
+          "财富管理",
+          "投资策略",
+          "稳健增长",
+          "跨越阶级",
+          "资本持久战",
+          "辩论",
+          "AI生成",
+          "普通人理财"
+        ],
+        "inferred_date": "2026-01-24",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 4994,
+          "completion": 591,
+          "total": 5585
+        }
+      },
+      "category": "Investment Strategy",
+      "translations": {
+        "en-US": {
+          "content_length": 24636,
+          "token_used": {
+            "prompt_tokens": 4828,
+            "completion_tokens": 5835,
+            "total_tokens": 10663,
+            "prompt_tokens_details": {
+              "cached_tokens": 128
+            },
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 4700
+          }
+        },
+        "ja-JP": {
+          "content_length": 10854,
+          "token_used": {
+            "prompt_tokens": 5065,
+            "completion_tokens": 7141,
+            "total_tokens": 12206,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 4745
+          }
+        },
+        "es-ES": {
+          "content_length": 27308,
+          "token_used": {
+            "prompt_tokens": 4830,
+            "completion_tokens": 7651,
+            "total_tokens": 12481,
+            "prompt_tokens_details": {
+              "cached_tokens": 128
+            },
+            "prompt_cache_hit_tokens": 128,
+            "prompt_cache_miss_tokens": 4702
+          }
+        }
+      },
+      "nativeMarkdownHash": "4b645739c0430f29d1db84c74ca9639967394df46cfbbee4f2b321ded9b9072e"
+    },
+    {
       "hash": "f14dd5dd9a733022055d249db9b1ed3d60d9b60b7eb8c063fe24c02774b6b631",
       "path": "INSIGHTS/1.md",
       "links": [
