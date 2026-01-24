@@ -1695,6 +1695,89 @@
       "nativeMarkdownHash": "4855af9a50ad5dba75719651820e71670ed5f5a7795446636574b81b294ce074"
     },
     {
+      "hash": "fb4c775f12638129fc1e152fe58ab1535997763df0398374f6a915d6ea536ec2",
+      "path": "LOGS/26.md",
+      "links": [
+        "../INSIGHTS/6.md"
+      ],
+      "metadata": {
+        "title": "杠杆与波动率的关系分析",
+        "description": "本文探讨杠杆的普遍存在性及其与波动率的数学一致性，强调杠杆在资本持久战中的重要性。",
+        "short_summary": "本文分析杠杆的普遍性和风险，强调杠杆与波动率在数学上的一致性。作者指出杠杆可规约为波动率，并认为高波动率市场更有利于资本持久战的胜利。",
+        "audience": "投资者、金融从业者、对杠杆和波动率感兴趣的研究人员",
+        "key_points": [
+          "杠杆是客观存在且无处不在的",
+          "杠杆风险源于控制而非杠杆本身",
+          "杠杆定义域可扩展至整个实数域",
+          "杠杆与波动率在数学本质上一致",
+          "高杠杆低波动率资产与低杠杆高波动率资产策略等价",
+          "杠杆可被规约为波动率",
+          "高波动率市场更易实现资本持久战胜利",
+          "杠杆在投资中常被忽视但始终起作用"
+        ],
+        "summary": "本文从杠杆的客观存在性出发，指出杠杆无处不在且不因主观意志而消失，其风险类似于车速控制问题。作者将杠杆定义为非负实数，并扩展到整个实数域以涵盖做空情况。核心论点是杠杆与波动率在数学本质上一致，例如日波动率1%的10倍杠杆资产与日波动率10%的1倍杠杆资产在策略空间上等价。基于奥卡姆剃刀原理，杠杆可被规约为波动率，结论是在波动率越大的市场中，资本持久战中的胜利越容易实现。",
+        "slug": "leverage-volatility-relationship-analysis",
+        "tags": [
+          "杠杆",
+          "波动率",
+          "资本持久战",
+          "风险",
+          "投资策略",
+          "数学一致性"
+        ],
+        "inferred_date": "2026-01-24",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 808,
+          "completion": 402,
+          "total": 1210
+        }
+      },
+      "category": "Financial Market Analysis",
+      "translations": {
+        "en-US": {
+          "content_length": 2959,
+          "token_used": {
+            "prompt_tokens": 651,
+            "completion_tokens": 633,
+            "total_tokens": 1284,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 587
+          }
+        },
+        "es-ES": {
+          "content_length": 3542,
+          "token_used": {
+            "prompt_tokens": 653,
+            "completion_tokens": 946,
+            "total_tokens": 1599,
+            "prompt_tokens_details": {
+              "cached_tokens": 64
+            },
+            "prompt_cache_hit_tokens": 64,
+            "prompt_cache_miss_tokens": 589
+          }
+        },
+        "ja-JP": {
+          "content_length": 1469,
+          "token_used": {
+            "prompt_tokens": 888,
+            "completion_tokens": 971,
+            "total_tokens": 1859,
+            "prompt_tokens_details": {
+              "cached_tokens": 320
+            },
+            "prompt_cache_hit_tokens": 320,
+            "prompt_cache_miss_tokens": 568
+          }
+        }
+      },
+      "nativeMarkdownHash": "bfd138f3a01d1fb76d807d8614e1b21b801e65cc079c23e4ad6c95c268de3e07"
+    },
+    {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
