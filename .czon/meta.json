@@ -1903,6 +1903,52 @@
       "nativeMarkdownHash": "cb3048473fff2104f16a6dfe45e01f78a359bf12f70b03552593b1374eb62cdb"
     },
     {
+      "hash": "93fb0832d8d120c6a981ce549e3004b45c37859559c542737c29af026e804e80",
+      "path": "LOGS/28.md",
+      "links": [
+        "./27.md"
+      ],
+      "metadata": {
+        "title": "CZON 目录结构重构与翻译优化",
+        "description": "本文介绍了 CZON 0.6.0 版本中目录结构重构以解决雪崩式翻译问题，并探讨了对抗生成翻译的 Token 消耗优化方案。",
+        "short_summary": "CZON 0.6.0 重构了目录结构，从基于 Hash 改为基于路径，解决了修改文章时触发雪崩式翻译的问题。作者还探讨了对抗生成翻译的 Token 消耗优化，包括使用临时目录限制文件访问，并规划了 Metadata 分离、自动清理等进一步改进。",
+        "audience": "文档生成工具开发者、技术文档维护者、对翻译优化和成本控制感兴趣的技术人员",
+        "key_points": [
+          "CZON 0.6.0 重构目录结构，从 Hash ID 改为路径拷贝，避免雪崩式翻译",
+          "对抗生成翻译 Token 消耗高，是普通翻译的 10 倍以上",
+          "使用临时目录限制 Agent 文件访问可优化 Token 消耗",
+          "静态资源引用支持图片、PDF 等多种文件类型",
+          "计划分离 Metadata 翻译任务，存储在 .czon/meta.json",
+          "未来版本将自动删除 .czon/src 中多余的文件",
+          "重新启用对抗生成翻译以处理长文章",
+          "新目录结构对 git 和第三方 SSG 集成更友好",
+          "链接替换在渲染 HTML 时通过钩子处理",
+          "修改源文件后覆盖目标文件，避免冗余"
+        ],
+        "summary": "本文详细阐述了 CZON 文档生成工具在 0.6.0 版本中的重大重构。作者首先指出之前版本使用 Hash 作为源文件 ID 导致修改文章时触发雪崩式翻译任务的问题，以及对抗生成翻译 Token 消耗过高的挑战。为此，CZON 重构了生成目录结构，改为按路径原样拷贝源文件，从而避免了连锁重新生成。同时，作者讨论了优化对抗生成翻译 Token 消耗的方法，如使用临时目录限制文件访问。文章还介绍了静态资源引用、分离 Metadata 翻译任务、自动删除残留文件等进一步优化方向，并强调未来将重新启用对抗生成翻译以处理长文章。",
+        "slug": "czon-directory-restructure-translation-optimization",
+        "tags": [
+          "CZON",
+          "目录结构",
+          "翻译优化",
+          "Token 消耗",
+          "文档生成",
+          "静态资源",
+          "Metadata",
+          "对抗生成"
+        ],
+        "inferred_date": "2026-01-26",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1428,
+          "completion": 556,
+          "total": 1984
+        }
+      },
+      "category": "Content Management",
+      "nativeMarkdownHash": "785e7a83e808ccdd9f129e07dbed4ec98aae8a3a87d4d91711bd9d7bd9830009"
+    },
+    {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
