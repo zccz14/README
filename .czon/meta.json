@@ -181,7 +181,7 @@
         }
       },
       "category": "AI Software Engineering",
-      "nativeMarkdownHash": "4031e0fccc4e2385c088bce97dc3e2e0d4fa16a687ddfb8f15f617291d7a33a0"
+      "nativeMarkdownHash": "291956857b013135460b471039e5397f7b2df748c815258d8b9f90a39186c0ef"
     },
     {
       "hash": "3a40b7b252512466f0b0feb8c7ea77fc624bb0026cbae8882c5c205462e0aa64",
@@ -392,11 +392,10 @@
       "nativeMarkdownHash": "369042c5008bf14a6b1d7e879fea6edeeebaed56ebf0a9773e836e059c13c748"
     },
     {
-      "hash": "14f13a8dd1577bd68d3caec4485c71f5cffa6f1b636a5a0c42a584bb47c3691e",
+      "hash": "5f0bc1fdc1d92e0f8939a3c893ded7febc7a068cd09a42fc67ff597b781f7f42",
       "path": "INSIGHTS/6.md",
       "links": [
-        "./images/capital_war.png",
-        "人生有多少个十年.png"
+        "./images/capital_war.png"
       ],
       "metadata": {
         "title": "资本持久战：个人投资者跨越阶级的战略",
@@ -477,12 +476,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "1b5d2e66b43915d6080423c417c80bd375dbb795b691895a3a7c5def3197fa87"
-    },
-    {
-      "hash": "0bd4a05f453adf84da38573adbab5a68736df318b793d91534f8c0ff321329a8",
-      "path": "INSIGHTS/人生有多少个十年.png",
-      "links": []
+      "nativeMarkdownHash": "f2a9e47d42c109b9f8e5d052b8858b8fc47398098de5c3fed4a62be483f8518c"
     },
     {
       "hash": "3572aa3952a4c76aea03495e1ed03f6c0676fae3e0b610489793961a63911efe",
@@ -530,7 +524,7 @@
           "total": 1690
         }
       },
-      "nativeMarkdownHash": "5d215188bc7e07987999542bc534c4d5774be29305ecfc3b3b79a9dbc5a30ef0",
+      "nativeMarkdownHash": "19a4fca254e446e5517ad8278b59bcec93e3c543adc7a9a3809811a4c4a0e031",
       "category": "Project Management"
     },
     {
@@ -576,7 +570,7 @@
           "total": 1440
         }
       },
-      "nativeMarkdownHash": "f324fa929b4b828d58b9ed028fcf3c6396b047a57db2768086062719956984a5",
+      "nativeMarkdownHash": "d4a15f9593a7ccf0feeb83e19c1c706ed5ab1acf122ff31f53186d9fcc4e1d00",
       "category": "AI Software Engineering"
     },
     {
@@ -622,7 +616,7 @@
         }
       },
       "category": "Content Management",
-      "nativeMarkdownHash": "516aae22d3b05bd1b39c7fcae47488a82114461ae56e739b43434dc7cfb9b8e3"
+      "nativeMarkdownHash": "3af7ae0413e9935714f31f89c7079c269d664c459475a7710b1d196951c3a3c3"
     },
     {
       "hash": "4580b674791cf5faff672fb6a396e7446380d1ad78f4852d4b1748c6b36e2659",
@@ -669,7 +663,7 @@
         }
       },
       "category": "Content Management",
-      "nativeMarkdownHash": "3750ecff94666019b0bf7f662df579bef0c3ebe3fa7eb05b3079fdedb05c4279"
+      "nativeMarkdownHash": "47fa719c72cc382e7def61e98ded54db642ed2939aa5f6bba5e522af55aaaa5b"
     },
     {
       "hash": "941c1a4338289c31a189cedf3dd7a8e861ffdf43db4dedbde90143076092b866",
@@ -966,7 +960,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "d1e4885733090c45fa145de69d81967eb35b9a31a2bd8bf206a78b470859ddc3"
+      "nativeMarkdownHash": "3bbb1f99b19b5f05498b7187c191086c886e6c754960aed9cf2ee1c767aa44e8"
     },
     {
       "hash": "8e7c951081dc02ce9f591815abdeabcc735fe4523ecb555621d9649da805cac0",
@@ -1223,7 +1217,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "b4645c3ec2cba4af00a2d344c0305451da4985acb81209b0921fd42a3ae4dd4c"
+      "nativeMarkdownHash": "3e3ecd77e528afbf3496aabb797545768ad27d6dbb5c82bdfe82d0ac6ebf611f"
     },
     {
       "hash": "0bd87a29fa5d999275379c3a509a29786e228daead1041ee7ffd9582468dfd17",
@@ -1354,7 +1348,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "8d42f3d6b2ac41bb392af156037d703f2c3df83924aa1e6ff2d946440b56f58e"
+      "nativeMarkdownHash": "ea725b1dbc9f7197aba0a30cc35a922f9737e585a4a2ce1b1378fe8d1464136c"
     },
     {
       "hash": "26db347738802a4a5dd00587cb5920047afe21f6a0259f029188c86877064a2a",
@@ -1441,7 +1435,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "be1609f86a9b62bdc972c86e2eb0c33cf7a4783a49ae9614b171891da47d48fc"
+      "nativeMarkdownHash": "0f3f079470ba5f492c32ec0c7aefdc607b00ea3159fd583a4196f68e9398002f"
     },
     {
       "hash": "3717fa67a6928c6d5530add0ce020f5d4e9a510aaef6b5e7e6c0c181cc18c580",
@@ -1523,7 +1517,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "d2c7f41ef836603013f5cd4b5882b32ca49464ca30afb340416e9f0fa5c5e520"
+      "nativeMarkdownHash": "d26c8f03d9cc582ae7f20cb93eec30062939b4548250050a739bf8233f688226"
     },
     {
       "hash": "1c85a506580203cfb806cd495cd714bd97043101552c3018b1e6d4818ca6c549",
@@ -1862,7 +1856,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "dd5336f334411248094b6e80e7a0c5a29b2b0328b88f203f8581d2c0e1d2c8ea"
+      "nativeMarkdownHash": "214fd780b5700ec88ddb465a4f090d08a1efa5044e91df7d1cd42f01d954ff57"
     },
     {
       "hash": "aea37070f1de4e46ce02b822919ae4266663af074a5238cd8f4fe27883831864",
@@ -2170,7 +2164,7 @@
           "total": 1426
         }
       },
-      "nativeMarkdownHash": "c900560fe350cf01c4bcf7a1bf93bcef1fd7ce3f4691192b5eef0d38a8311086",
+      "nativeMarkdownHash": "3c05e05ff5f49f913f462c30ac4f1c38f6a277b1009db34982f49de22025f1d4",
       "category": "AI Tools Development"
     },
     {
@@ -2216,7 +2210,7 @@
         }
       },
       "category": "AI Software Engineering",
-      "nativeMarkdownHash": "4f7406eba92fac545b4f0d4372457e9f143895a918b5296e47b31c8b90586a66"
+      "nativeMarkdownHash": "60321a10fbdc0232ab92e5c502296d714905a5cd1bd7c0f07fd6587d8839a052"
     },
     {
       "hash": "2a2f39c3da49421968f0d9b0dcf003580acb34df7f2447b0419595bed40c45c5",
@@ -2308,7 +2302,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "3adbf1b0315854ba94e284537c72b241811bac81071ca46321a4fb193460cfef"
+      "nativeMarkdownHash": "2cb76c761c600de32b57c779f5786422d60772b6f503cbce166fccb6ae2a69bc"
     },
     {
       "hash": "f25f8d155044566796c4c8923769a746e412761b3001ceb4a52dfe76c654ffab",
@@ -2409,7 +2403,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "590edef163d4cb2104521cf06fb311c535005a1c6bbae2f5490d0390cd494395"
+      "nativeMarkdownHash": "c21244152bc360ebdf7f500d12a4491f8d17a1e40634dba21867afc0fac5603c"
     },
     {
       "hash": "c952c5c24489a1ecd989833c6f88106e1b584033b7f56fd532df6d657a46162a",
@@ -2466,7 +2460,7 @@
           "total": 6841
         }
       },
-      "nativeMarkdownHash": "6543cf26b4e8215bb414bff59789adb5dae64833b80a00845e3f0ee3eb203c62",
+      "nativeMarkdownHash": "8c149897f75c91d829dd7c35f62f24da35003d2e05bb73fa3e5f61a4e358370a",
       "category": "Quantitative Finance"
     },
     {
@@ -2575,7 +2569,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "0e7b8aa38c22ccfb68179cfb033769fdc46a351ed608ad5cdd7ca00e6b56bf61"
+      "nativeMarkdownHash": "0f135a7b46c77f428bcbeed60e16aa779f410bea19536d2aa9fc2ec38a3ac5d7"
     },
     {
       "hash": "56dd1e3d40838f84c98d1c9b5da75d1539c53fe51ba4564e429591d392ccb07a",
@@ -2667,7 +2661,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "b04d8d14b446b3a41d49610c2f4db7a3004d35ca317da1c94ab1203a105986df"
+      "nativeMarkdownHash": "e7a6c1451ef1db7e707880a72111920938dabeee1eeea9f868b0f02ba68ba5d0"
     },
     {
       "hash": "684d12b656fbd45021dab2f6aa90f54bb7faf144075b4d6fc53da448b0cf8279",
@@ -2759,7 +2753,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "b75304d761509bf09f0edbac880ec4464651f4ad2b3f718fc4abe7363de4fc21"
+      "nativeMarkdownHash": "7fce82cfafa3d79d9c787aaccc8e31d8b62c8ebaca33764dbd1ef51f4ddc8da4"
     },
     {
       "hash": "5613169f00c9bd952c33a7cc3b22b9a7c9a2a7dee133ef678cdf4240309d4f8a",
@@ -2857,7 +2851,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "ad3bee02013cb5413b423f8acdccde2c110b911b2b315dccebbcddaf09b2ed62"
+      "nativeMarkdownHash": "1d1f5cf29a4a238807d9367fd29f8b56b87b932a68242910358582a33093d6e0"
     },
     {
       "hash": "cfbbf743d90c933819db8e1e1d52d436771f048c2b9f0b2098013de37a879f63",
@@ -2959,7 +2953,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "2de55a0d5e9d16305cb377c2c986e0c57c1f92dca26c1b74a3eb98979f4999bd"
+      "nativeMarkdownHash": "cfa04f361413c49f7029310af3dc0d70e34f6816e0e800fd35e800b83ecf6713"
     },
     {
       "hash": "71a66a4d05000597304ccb8b66ee4d883791e6b6e531e30d764d95416d3e3e3b",
@@ -3084,7 +3078,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "4591f15aa59bb25a4b8852acf8327b052142a5d69b374cfbf389e137d2918749"
+      "nativeMarkdownHash": "5ecd195e8e40f3518cf730acff1310c8cea956daa6843fd8fedd5cb88db89d40"
     },
     {
       "hash": "3dc52c79a5e10e6271cd73664f1f11e78420d4f4631a0bb601d1e256ea992323",
@@ -3189,7 +3183,7 @@
           }
         }
       },
-      "nativeMarkdownHash": "16540aa2ed33e404205435a050f72b23e5b59f32a34b55b7839cb37580f4bce7"
+      "nativeMarkdownHash": "73d85b064d8054dfc7cbbf6cb871b5920b0d3707963be5989d278ab6e7f8b595"
     },
     {
       "hash": "daab249093241b62bfe90a76553c536ee6821ab8bd9a04ee217cb939fe33dd1c",
