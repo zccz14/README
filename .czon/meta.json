@@ -1949,6 +1949,46 @@
       "nativeMarkdownHash": "785e7a83e808ccdd9f129e07dbed4ec98aae8a3a87d4d91711bd9d7bd9830009"
     },
     {
+      "hash": "456940a32b95c1d44b7f8de926dcd10bfb5e62bcb582ef34be90b18516ef69fa",
+      "path": "LOGS/29.md",
+      "links": [],
+      "metadata": {
+        "title": "1earn项目进展与团队动态",
+        "description": "记录1earn项目Delta中性策略收益、技术改进需求、推广挑战及团队工作安排。",
+        "short_summary": "本文总结了1earn项目的最新进展，包括Delta中性策略2%的1月收益率、价差交易作为增长点的潜力，以及推广面临的认知门槛和资金要求挑战。同时记录了团队工作安排和技术问题，如API稳定性需协作解决。",
+        "audience": "1earn项目团队成员、金融科技开发者、对Delta中性策略感兴趣的投资人士",
+        "key_points": [
+          "Delta中性策略1月收益率为2%",
+          "价差交易是主要增长点，需优化市场发现模块",
+          "1earn推广受限于高认知门槛和资金要求",
+          "API限流和稳定性问题需团队协作解决",
+          "Ryan专注于1earn和EA开发工作",
+          "Mage部署PolyMarket策略后即将休假",
+          "项目基于Yuan二次开发，技术问题需在Yuan中解决",
+          "春节临近团队将休息一段时间"
+        ],
+        "summary": "本文记录了2026年1月27日关于1earn项目的讨论内容。Delta中性策略在1月份实现了2%的收益率，但价差交易和市场发现模块仍需改进，其中价差交易是主要增长点。项目推广目前局限在小圈子内，需要降低认知门槛和资金要求以吸引更多用户。技术方面存在API限流和稳定性问题，需要团队协作解决。团队动态方面，Ryan专注于1earn和EA开发，Mage部署了PolyMarket策略后即将休假，春节临近团队将休息一段时间。",
+        "slug": "1earn-project-update-team-dynamics-2026",
+        "tags": [
+          "1earn",
+          "Delta中性策略",
+          "价差交易",
+          "API限流",
+          "团队协作",
+          "项目推广"
+        ],
+        "inferred_date": "2026-01-27",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 806,
+          "completion": 432,
+          "total": 1238
+        }
+      },
+      "category": "Project Management",
+      "nativeMarkdownHash": "68d27f9851a61f661867325f50bd166f0a7b51034037ae035b4eba2b7255a1da"
+    },
+    {
       "hash": "00cb5111ff078c304fcb28e87c968bd91a7e656fa74779eeac91eddb3b2bb7bd",
       "path": "LOGS/3.md",
       "links": [],
