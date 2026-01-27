@@ -2033,6 +2033,57 @@
       "category": "AI Tools Development"
     },
     {
+      "hash": "9a925e9d1d2f858ba49c72041fa593d2d235275a3f3ab0e8dec77b0f6af94aa0",
+      "path": "LOGS/30-image-0.png",
+      "links": []
+    },
+    {
+      "hash": "f66198f280fa31e3245b160e08a83e183f10767a02f575143c09cfbd2a80ec58",
+      "path": "LOGS/30.md",
+      "links": [
+        "./30-image-0.png"
+      ],
+      "metadata": {
+        "title": "反对内嵌TOC和语法税，专注内容创作",
+        "description": "本文讨论内嵌TOC和YAML FrontMatter等语法税对写作专注度的负面影响，主张内容与元信息分离，并探讨桌面端优化和互动功能。",
+        "short_summary": "本文反对在写作中使用内嵌TOC和YAML FrontMatter，认为这会分散注意力，影响内容创作。作者主张内容与元信息分离，并探讨了桌面端优化和互动功能如内联评论。",
+        "audience": "内容创作者、博客作者、Markdown用户、技术写作者、关注写作效率和工具优化的人士",
+        "key_points": [
+          "内嵌TOC和YAML FrontMatter是语法税，增加源文件负担",
+          "语法税分散写作注意力，降低效率和质量",
+          "内容与元信息应分离，由工具自动处理",
+          "桌面端可优化为分栏布局和边注",
+          "支持内联评论功能以提升内容互动性",
+          "原文变动可能导致评论位置错乱，需稳定定位",
+          "降低语法税是CZON的重要指标",
+          "移动端优先，但桌面端可做更多优化",
+          "写作时应专注于内容而非格式和排版",
+          "AI和基础设施可辅助内容整合和排版"
+        ],
+        "summary": "本文批评了在Markdown源文件中内嵌TOC和YAML FrontMatter的做法，认为这些语法税会分散写作注意力，降低效率和质量。作者主张内容与元信息应分离，由工具自动提取和处理，以降低语法税。文章还讨论了桌面端可优化布局如分栏和边注，并建议支持内联评论功能以提升互动性，但需解决原文变动导致的评论定位问题。",
+        "slug": "against-embedded-toc-and-syntax-tax-focus-on-content-creation",
+        "tags": [
+          "语法税",
+          "内容创作",
+          "TOC",
+          "Markdown",
+          "桌面端优化",
+          "内联评论",
+          "写作效率",
+          "CZON"
+        ],
+        "inferred_date": "2026-01-27",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1013,
+          "completion": 462,
+          "total": 1475
+        }
+      },
+      "category": "Content Management",
+      "nativeMarkdownHash": "b3ec1c05e21e3723c56ea65a79286806ecea262c54c9d2935746602c3eb2d973"
+    },
+    {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
       "path": "LOGS/4.md",
       "links": [],
