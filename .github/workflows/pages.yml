@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 * * * *" # 每小时运行一次
+    - cron: '0 * * * *' # 每小时运行一次
   workflow_dispatch: # 允许手动触发
 
 # 设置 GITHUB_TOKEN 的权限以允许部署到 GitHub Pages
@@ -15,7 +15,7 @@ permissions:
 
 # 只允许一个并发部署，跳过正在运行的队列
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: false
 
 jobs:
@@ -28,15 +28,18 @@ jobs:
           # 从远程分支开始时，需要先同步分支保证代码正确
           fetch-depth: 0
           ref: ${{ github.head_ref || github.ref }}
+      # 设置 GitHub Pages (确保启用 GitHub Pages 功能)
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "24.x"
+          node-version: '24.x'
 
       - name: Create documentation site
         run: |
-          npx czon@latest build --lang zh-Hans --lang en-US --lang ja-JP --lang es-ES --verbose --baseUrl 'https://readme.zccz14.com/'
+          npx czon@latest build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -44,7 +47,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "./.czon/dist"
+          path: './.czon/dist'
 
   deploy:
     environment:
