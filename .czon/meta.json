@@ -2085,9 +2085,13 @@
       "nativeMarkdownHash": "b3ec1c05e21e3723c56ea65a79286806ecea262c54c9d2935746602c3eb2d973"
     },
     {
-      "hash": "fe20ca824a355e8d07b8cc18c4d1adb7217f630bc2d5aed76cd914ac89a35b8f",
+      "hash": "7594b59f7c2c569d8f0d26fc37886add9b29090468c320d93bc1a25be33f667f",
       "path": "LOGS/31.md",
-      "links": [],
+      "links": [
+        "https://atproto.com/",
+        "https://bsky.app/",
+        "https://lens.xyz/"
+      ],
       "metadata": {
         "title": "AI时代程序员的未来与品味驱动发展",
         "description": "探讨AI冲击下程序员职业前景，分析未来软件需求增长点，强调个性化、去中心化趋势及品味的重要性。",
@@ -2125,7 +2129,7 @@
         }
       },
       "category": "AI Career Development",
-      "nativeMarkdownHash": "07b28bbe87cf6e4ca42f59f5f0ab3bde1cc3ae06d50a7be77a435a734f80d5fe"
+      "nativeMarkdownHash": "a10cd9ac22e07523cf43c50870c2a40c9fd61f07c55dcd0f2575fbecf56c38b3"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
