@@ -2175,6 +2175,51 @@
       "nativeMarkdownHash": "dfc2412aced494216588ac51ba925ebba56d32cf734c4a1f0defe05a4e3b62d1"
     },
     {
+      "hash": "4ae17a9f45b23a587aa46e436df411fac9bb41056f2b39bf55cb77574e3c6d1e",
+      "path": "LOGS/33.md",
+      "links": [
+        "https://dr.miromind.ai/"
+      ],
+      "metadata": {
+        "title": "排查WebSocket连接问题：1Password浏览器拓展导致",
+        "description": "作者分享排查WebSocket连接不稳定问题的过程，最终发现是1Password浏览器拓展导致，并提供排查思路和方法论。",
+        "short_summary": "作者详细描述了排查WebSocket连接不稳定问题的过程，从怀疑代理工具、服务器问题到最终发现是1Password浏览器拓展在Chrome中导致连接失败。通过禁用该拓展，问题得到解决，并验证了排查思路的重要性。",
+        "audience": "遇到WebSocket连接问题的开发者、网络工程师，或对浏览器拓展和代理工具感兴趣的技术人员",
+        "key_points": [
+          "WebSocket连接在Chrome中不稳定，需要重试才能成功",
+          "问题仅发生在作者和Ryan身上，Mage和C1未遇到，排除服务器问题",
+          "作者使用Surge代理工具，但排查后排除其配置问题",
+          "终端连接（如curl、wscat）稳定，问题局限于浏览器",
+          "更换为Safari浏览器后连接稳定，指向Chrome问题",
+          "禁用所有Chrome浏览器拓展后问题消失",
+          "通过二分法锁定1Password浏览器拓展为罪魁祸首",
+          "禁用1Password拓展后WebSocket连接变稳定，得到Ryan验证",
+          "文章强调排查思路和方法论的重要性",
+          "旨在帮助其他遇到类似问题的人节省排查时间"
+        ],
+        "summary": "作者在2026年1月28日分享了排查WebSocket连接不稳定问题的经历。最初怀疑是Surge代理配置、Cloudflare防护或服务器问题，但通过对比发现只有自己和Ryan遇到问题，而Mage和C1正常。经过一系列测试，包括检查终端连接、更换浏览器、禁用浏览器拓展等，最终通过二分法锁定是1Password浏览器拓展影响了Chrome中的WebSocket连接稳定性。禁用该拓展后问题解决，并得到Ryan的验证。文章强调了排查疑难杂症时的方法论和有条不紊的步骤的重要性，旨在帮助遇到类似问题的读者节省时间。",
+        "slug": "websocket-connection-issue-1password-chrome-extension",
+        "tags": [
+          "WebSocket",
+          "Chrome",
+          "1Password",
+          "Surge",
+          "网络排查",
+          "浏览器拓展",
+          "疑难杂症"
+        ],
+        "inferred_date": "2026-01-28",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1041,
+          "completion": 502,
+          "total": 1543
+        }
+      },
+      "category": "Troubleshooting",
+      "nativeMarkdownHash": "86b12fcb5c5fbfaa76652972faf0ead79a2b281286c301cd7a7801294a217bc3"
+    },
+    {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
       "path": "LOGS/4.md",
       "links": [],
