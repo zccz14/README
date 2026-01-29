@@ -8,8 +8,9 @@
       "ja-JP",
       "es-ES"
     ],
-    "siteTitle": "RE:CZ",
     "site": {
+      "title": "RE:CZ",
+      "baseUrl": "https://readme.zccz14.com/",
       "gaID": "G-NEN42JB0P3",
       "clarityID": "v96oxpbodv"
     }
