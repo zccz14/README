@@ -8,7 +8,10 @@
       "ja-JP",
       "es-ES"
     ],
-    "siteTitle": "RE:CZ"
+    "siteTitle": "RE:CZ",
+    "site": {
+      "clarityID": "v96oxpbodv"
+    }
   },
   "files": [
     {
