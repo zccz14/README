@@ -2324,6 +2324,53 @@
       "nativeMarkdownHash": "cda3221760637b78e028e2159578d585723129016841569c605e831993bbb81a"
     },
     {
+      "hash": "1dc751aacc9e1659ce4ce6d4dc9a5bf91eb4fe43220afcb6d5f4671dcedb36bb",
+      "path": "LOGS/36.md",
+      "links": [
+        "https://openclaw.ai",
+        "https://github.com/zccz14/CapitalProtractedWar"
+      ],
+      "metadata": {
+        "title": "OpenClaw与Opus模型使用体验及资本持久战实验",
+        "description": "作者分享OpenClaw AI工具部署体验，对比MiniMax M2.1与Opus模型效果，并公布资本持久战实验初步结论。",
+        "short_summary": "作者分享OpenClaw AI工具的部署体验，指出其更适合本地使用，并对比了MiniMax M2.1和Opus模型的效果。利用Opus完成资本持久战实验代码，发现均值回归策略在反马丁格尔资金管理下可实现资本指数级增长，而趋势跟踪策略则不能，强调高胜率策略的重要性。",
+        "audience": "对AI工具部署、模型对比感兴趣的技术爱好者，以及关注量化交易策略的研究人员或投资者。",
+        "key_points": [
+          "OpenClaw AI工具可部署在云服务器并连接飞书机器人，但更适合本地空机器使用。",
+          "云服务器成本高，且OpenClaw功能受限于工具安装如浏览器。",
+          "搭载MiniMax M2.1的OpenClaw表现不佳，作者认为该模型较弱。",
+          "Opus模型在编程任务上效果显著优于MiniMax M2.1，被赞为Coding的SOTA模型。",
+          "作者利用GitHub Copilot的Opus额度完成资本持久战实验代码并开源。",
+          "实验初步结论：均值回归策略+反马丁格尔资金管理可在交易成本下实现资本指数级增长。",
+          "趋势跟踪策略在同样资金管理下无法实现指数级增长，突显高胜率策略优势。",
+          "作者对趋势跟踪策略的结果存疑，计划进一步验证。",
+          "实验报告将在开源项目中维护，邀请关注项目进展。",
+          "文档发布于2026年1月31日，涉及AI工具使用和量化交易策略测试。"
+        ],
+        "summary": "本文记录了作者在2026年1月31日使用OpenClaw AI工具的经历，包括将其部署在阿里云ECS服务器上并连接飞书机器人的过程。作者指出OpenClaw更适合本地部署，云服务器成本较高，且功能受限于工具安装。文中对比了MiniMax M2.1和Opus模型的表现，认为Opus在编程任务上明显更优。作者利用OpenCode+Opus完成了资本持久战实验代码，开源在GitHub上，并公布了初步实验结论：在GBM高波动市场模型中，均值回归策略结合反马丁格尔资金管理能在交易成本下实现资本指数级增长，而趋势跟踪策略则不能，这突显了高胜率策略的优势。作者表示仍需进一步验证，并邀请关注开源项目。",
+        "slug": "openclaw-opus-experience-capital-protracted-war-experiment",
+        "tags": [
+          "OpenClaw",
+          "AI工具",
+          "MiniMax M2.1",
+          "Opus模型",
+          "资本持久战",
+          "均值回归策略",
+          "反马丁格尔资金管理",
+          "GitHub Copilot"
+        ],
+        "inferred_date": "2026-01-31",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 994,
+          "completion": 659,
+          "total": 1653
+        }
+      },
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "753d60ba3d51dc08e72e5b2f75287f968aa7fa37470a1f28897f8dd20f539e23"
+    },
+    {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
       "path": "LOGS/4.md",
       "links": [],
