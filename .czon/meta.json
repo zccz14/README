@@ -2412,6 +2412,48 @@
       "nativeMarkdownHash": "315c436d5c2861f0149f089263cfd203d9d1c55f969f1d2e309290363e5c6401"
     },
     {
+      "hash": "654748a88b4537fee576d6773798b59901e05d46fa88528b699ad900174db106",
+      "path": "LOGS/38.md",
+      "links": [
+        "https://platform.claude.com/docs/zh-CN/about-claude/pricing"
+      ],
+      "metadata": {
+        "title": "Claude Opus 中转服务成本分析",
+        "description": "对比 Anthropic 官方与中转服务商对 Claude Opus 模型的定价，揭示 AI 公司的高毛利率现象。",
+        "short_summary": "作者通过中转服务解决 Claude Opus 模型 Quota 问题，发现成本远低于 Anthropic 官方报价，差距约 185 倍。分析显示 AI 公司毛利率极高，中转服务虽存隐私风险，但对非敏感任务具成本优势。",
+        "audience": "AI 开发者、研究人员、对 AI 成本感兴趣的技术爱好者",
+        "key_points": [
+          "Claude Opus 模型 Quota 用尽问题通过中转服务解决",
+          "中转服务成本低于 DeepSeek，约为官方报价的 1/185",
+          "Anthropic 官方输入成本 35 CNY，输出 175 CNY（1M Tokens）",
+          "中转服务商输入成本 0.189 CNY，输出 0.947 CNY（1M Tokens）",
+          "Anthropic 毛利率估计高达 99.46% 以上",
+          "中转服务存在隐私风险，但适合非敏感任务",
+          "AI 行业定价差异巨大，作者感叹其疯狂性"
+        ],
+        "summary": "本文记录了作者在 2026 年 2 月 2 日解决 Claude Opus 模型 Quota 用尽问题的经历，通过使用中转服务发现成本远低于官方报价。详细对比了 Anthropic 官方与中转服务商的定价（以 1M Tokens 计算），官方输入成本为 35 CNY，输出为 175 CNY，而中转服务商分别为 0.189 CNY 和 0.947 CNY，差距约 185 倍。作者推断 Anthropic 的真实成本更低，毛利率可能高达 99.46% 以上，远超 DeepSeek 等竞争对手。文章指出中转服务虽存在隐私风险，但对于非敏感任务（如开源项目、学习研究）是成本效益高的选择，并感叹 AI 行业的定价疯狂。",
+        "slug": "claude-opus-relay-service-cost-analysis",
+        "tags": [
+          "Claude Opus",
+          "AI 成本",
+          "中转服务",
+          "Anthropic",
+          "毛利率",
+          "DeepSeek",
+          "定价对比"
+        ],
+        "inferred_date": "2026-02-02",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 996,
+          "completion": 516,
+          "total": 1512
+        }
+      },
+      "category": "AI Cost Analysis",
+      "nativeMarkdownHash": "1444c7052d76cd12fb4a9c40ec9fae3f3ed98ce6d5cea550a82dfbff2ae54e35"
+    },
+    {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
       "path": "LOGS/4.md",
       "links": [],
