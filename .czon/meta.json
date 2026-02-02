@@ -2454,6 +2454,50 @@
       "nativeMarkdownHash": "e8f2397f225328f5887bd8aa1e37fabaf47a7aa5f0d5e2d8395597684bfcd788"
     },
     {
+      "hash": "f9835dcfb8664158d2ff6a8ccc130f2e29ffc550f2de5371700fd03f5ce303e1",
+      "path": "LOGS/39.md",
+      "links": [],
+      "metadata": {
+        "title": "资本持久战实验设计",
+        "description": "介绍基于基准账户和投注账户的Anti-Martingale资金管理策略，包括时间刻度、风险控制和仓位计算。",
+        "short_summary": "本文提出一个实验设计，使用基准账户指导投注账户的资金管理。投注账户基于Anti-Martingale策略，通过计算风险资金和基准止损额动态调整仓位，并设置风控线和止盈止损机制。核心目标是高效利用风险资金，实现激进投注的同时控制风险。",
+        "audience": "量化交易者、资金管理策略研究者、对Anti-Martingale策略感兴趣的投资人士。",
+        "key_points": [
+          "时间刻度t是离散的市场时刻，用于所有时间序列。",
+          "基准账户以固定仓位交易，提供累计盈亏BasePnL(t)作为参考。",
+          "投注账户使用Anti-Martingale策略，根据基准表现动态调整仓位。",
+          "输入现金流C(t)和基准止损额StopLoss(t)从基准账户历史表现计算得出。",
+          "风控线RiskLine(t)随时间向下移动，确保未实现盈亏不低于该线。",
+          "风险资金VC(t) = UnrealizedPnL(t) - RiskLine(t)，用于确定仓位大小。",
+          "仓位大小Position(t)通过floor(VC(t) / StopLoss(t))计算，旨在最大化风险资金利用。",
+          "止盈事件在UnrealizedPnL(t) >= 目标止盈金额M_T时触发，重置相关变量。",
+          "止损事件在最大浮亏 >= StopLoss(t)时触发，控制回撤至风控线。",
+          "观察期在C(t)或StopLoss(t)为0时不交易，仅更新参数。"
+        ],
+        "summary": "本文详细阐述了资本持久战的实验设计，核心是使用基准账户作为参考，投注账户采用Anti-Martingale策略动态调整仓位。关键内容包括：时间刻度t作为离散市场时刻；基准账户以固定仓位交易，提供累计盈亏曲线；投注账户根据基准表现计算输入现金流C(t)和基准止损额StopLoss(t)，构建风控线RiskLine(t)和风险资金VC(t)，通过公式Position(t) = floor(VC(t) / StopLoss(t))确定仓位大小；定义了止盈和止损事件的处理逻辑，以及观察期的交易暂停条件。整体旨在最大化风险资金利用效率，实现激进但受控的投注。",
+        "slug": "capital-persistent-war-experiment-design",
+        "tags": [
+          "资本持久战",
+          "实验设计",
+          "Anti-Martingale",
+          "资金管理",
+          "风险控制",
+          "仓位计算",
+          "基准账户",
+          "投注账户"
+        ],
+        "inferred_date": "2026-02-02",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1656,
+          "completion": 594,
+          "total": 2250
+        }
+      },
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "bd061f1a7a0bf3ac88a915e74b50c4125b62743bb6efe9864a0ff5d994633902"
+    },
+    {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
       "path": "LOGS/4.md",
       "links": [],
