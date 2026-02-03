@@ -498,6 +498,60 @@
       "nativeMarkdownHash": "f2a9e47d42c109b9f8e5d052b8858b8fc47398098de5c3fed4a62be483f8518c"
     },
     {
+      "hash": "c16f9c182b577f5a654be317509af7d575037b9dfe03b28f9f5b0ffde4b984be",
+      "path": "INSIGHTS/7.md",
+      "links": [
+        "https://dev.to/swyx/don-t-rush-to-simplicity-on-the-other-side-of-complexity-105n",
+        "./images/7-image-0.png",
+        "./images/7-image-1.jpg"
+      ],
+      "metadata": {
+        "title": "返璞归真：复杂性是认知的必经之路",
+        "description": "探讨认知发展需经历复杂性才能达到返璞归真，分析AI编程和投资中的陷阱，强调穿越复杂性的重要性。",
+        "short_summary": "文章探讨认知发展需穿越复杂性才能达到返璞归真，以AI编程和投资为例说明跳过复杂性会导致问题。强调通过亲身实践和反思来积累经验，用可控成本学习，最终获得驾驭复杂性的能力。",
+        "audience": "对认知科学、AI应用、投资策略感兴趣的学习者和实践者，寻求深度思考的读者",
+        "key_points": [
+          "认知发展是螺旋上升过程，必须经历复杂性才能达到返璞归真",
+          "好的抽象需要基于对问题域的深刻理解，AI无法替代人类认知过程",
+          "投资中避免“Midwit陷阱”，不要用简单理论回避深入思考",
+          "复杂性提供失败经验、完整心智模型和直觉判断力",
+          "穿越复杂性需要投入注意力并回收认知，避免虚假学习",
+          "用可控的小额实践降低穿越复杂性的成本，以小亏替代大亏",
+          "经历过复杂性的人获得的简单是选择的简单，具备驾驭能力"
+        ],
+        "summary": "本文通过AI编程和投资领域的实例，阐述认知发展必须经历复杂性阶段才能达到真正的简单（返璞归真）。作者指出，好的抽象需要深刻理解问题域，不能跳过复杂性，否则会陷入“Midwit陷阱”。穿越复杂性需要投入注意力并回收认知，通过可控的小额实践降低学习成本。最终，经历过复杂性的人获得的简单是选择的简单，具备驾驭复杂性的能力。",
+        "slug": "complexity-cognitive-path-simplicity",
+        "tags": [
+          "复杂性",
+          "认知发展",
+          "返璞归真",
+          "AI编程",
+          "量化投资",
+          "Midwit陷阱",
+          "学习成本"
+        ],
+        "inferred_date": "2026-02-03",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1759,
+          "completion": 421,
+          "total": 2180
+        }
+      },
+      "category": "Cognitive Development",
+      "nativeMarkdownHash": "b769dfd31e6969ff3ee0dfd945135d6d23f70eb29f1603b08a188bd1b0471683"
+    },
+    {
+      "hash": "da8d52ef34b80e4042d7cb1ff843f94236cac3ee00a57cb8ef0bece86fbc123d",
+      "path": "INSIGHTS/images/7-image-0.png",
+      "links": []
+    },
+    {
+      "hash": "9a2dbbe47babf7e2b6500f076f795e7b1f26f9f825e0ac2b5085d87caf27dc93",
+      "path": "INSIGHTS/images/7-image-1.jpg",
+      "links": []
+    },
+    {
       "hash": "3572aa3952a4c76aea03495e1ed03f6c0676fae3e0b610489793961a63911efe",
       "path": "INSIGHTS/images/capital_war.png",
       "links": []
