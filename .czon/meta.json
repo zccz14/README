@@ -3171,26 +3171,34 @@
       "links": []
     },
     {
-      "hash": "2a94affba007e2a082c1273ca531913359ca6833b8f37fc2d4612183820e8195",
+      "hash": "3570f107d723aad1cc75cae630665710932cf0a6f238f9a0bb37f1123076dd29",
       "path": "SUMMARY/1-objective.md",
       "links": [
-        "../README.md",
-        "../INSIGHTS/4.md",
-        "../LOGS/5.md",
-        "../QUANT/EA/EA.md",
-        "../LOGS/14.md",
-        "../INSIGHTS/1.md",
-        "../INSIGHTS/2.md",
-        "../INSIGHTS/3.md",
-        "../INSIGHTS/5.md",
-        "../INSIGHTS/6.md",
-        "../LOGS/26.md",
-        "../QUANT/FSA/FSA.md",
-        "../MEETINGS/2026-01-22.md",
         "../INSIGHTS/4.md",
         "../LOGS/11.md",
         "../LOGS/12.md",
-        "../LOGS/7.md"
+        "../QUANT/EA/EA.md",
+        "../INSIGHTS/6.md",
+        "../LOGS/35.md",
+        "../LOGS/39.md",
+        "../QUANT/FSA/FSA.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/3.md",
+        "../LOGS/2.md",
+        "../LOGS/23.md",
+        "../INSIGHTS/5.md",
+        "../LOGS/26.md",
+        "../LOGS/27.md",
+        "../LOGS/25.md",
+        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
+        "../MEETINGS/2026-01-22.md",
+        "../INSIGHTS/4.md",
+        "../LOGS/11.md",
+        "../LOGS/20.md",
+        "../INSIGHTS/7.md",
+        "../LOGS/2.md",
+        "../LOGS/24.md"
       ],
       "metadata": {
         "title": "CZ 2026年1月客观中立分析报告",
@@ -3230,21 +3238,33 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "832f33a140ce434a596ae42b660129efb11a29eee376f677fb84f5cb07d5087c"
+      "nativeMarkdownHash": "aaed470cb3f15e59d66356b1d5a9eba5a2bd941ebcfb899366718378158ee637"
     },
     {
-      "hash": "e16f56cae420bbd05b16570a9222beb0616f003100e447ee9a7cdb463f5f9796",
+      "hash": "bd3bf08603e0560f9ff1cb850079e97c89e81949e50ee5e5fa768022f961dc0f",
       "path": "SUMMARY/2-critical.md",
       "links": [
-        "../LOGS/6.md",
-        "../LOGS/20.md",
+        "../README.md",
+        "../INSIGHTS/6.md",
+        "../QUANT/EA/EA.md",
+        "../QUANT/FSA/FSA.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/4.md",
+        "../INSIGHTS/5.md",
+        "../INSIGHTS/6.md",
+        "../QUANT/EA/EA.md",
+        "../QUANT/FSA/FSA.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/5.md",
         "../INSIGHTS/6.md",
         "../QUANT/FSA/FSA.md",
-        "../LOGS/24.md",
-        "../LOGS/19.md",
-        "../LOGS/2.md",
+        "../INSIGHTS/7.md",
+        "../INSIGHTS/1.md",
         "../QUANT/EA/EA.md",
-        "../LOGS/10.md"
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/5.md",
+        "../INSIGHTS/6.md",
+        "../QUANT/FSA/FSA.md"
       ],
       "metadata": {
         "title": "AI分析报告：客观批判风格",
@@ -3325,20 +3345,43 @@
           }
         }
       },
-      "nativeMarkdownHash": "4b7117b23f54a6a040a06614fa7248f3ffe496106698b02c30eda5bdeb7de83b"
+      "nativeMarkdownHash": "ad6a6efba54cd32599b8b992a6f8a9834ede8254dc6e8bb48c213c97b2604c0d"
     },
     {
-      "hash": "0af7fa078d8a21c7635657f73bf89625b926d30c728b52b11ca9074e63bfbd02",
+      "hash": "32e38b301fba99ca523ab042ca4d40554aa94d6a1b118c6956d3fadf3247442d",
       "path": "SUMMARY/3-positive.md",
       "links": [
+        "https://github.com/zccz14/CZON",
+        "../INSIGHTS/6.md",
+        "https://github.com/zccz14/CZON",
         "../LOGS/11.md",
         "../LOGS/12.md",
+        "../LOGS/6.md",
+        "../LOGS/26.md",
+        "../INSIGHTS/4.md",
+        "../LOGS/12.md",
         "../QUANT/EA/EA.md",
-        "../INSIGHTS/5.md",
+        "../QUANT/FSA/FSA.md",
         "../INSIGHTS/6.md",
-        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
+        "https://github.com/zccz14/CapitalProtractedWar",
+        "../LOGS/35.md",
+        "../LOGS/39.md",
+        "../LOGS/41.md",
+        "../INSIGHTS/5.md",
         "../INSIGHTS/2.md",
-        "../QUANT/FSA/FSA.md"
+        "../LOGS/26.md",
+        "../LOGS/27.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/3.md",
+        "../INSIGHTS/7.md",
+        "../LOGS/2.md",
+        "../LOGS/41.md",
+        "../LOGS/24.md",
+        "../LOGS/2.md",
+        "../LOGS/23.md",
+        "https://github.com/zccz14/CapitalProtractedWar",
+        "./1-objective.md",
+        "./2-critical.md"
       ],
       "metadata": {
         "title": "赞扬鼓励分析报告：CZ仓库亮点与思想深度",
@@ -3375,13 +3418,24 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "652a00edb66599d2e50583d24d45692b15653eb6e1f38818fd55fc9eb40385af"
+      "nativeMarkdownHash": "7ef93e5f4de17c6ce6c91a5f4acc4a354f13cce1e0c924986559ad911d42b46f"
     },
     {
-      "hash": "87ab94c4feff388c8343a8f0971b5fe9c6ff9834eed4387acaedc358cb141df3",
+      "hash": "9248f4a721278719ccd4dc07884a0f012e286237657f89c2ae7f6646a2586bcb",
       "path": "SUMMARY/4-popular.md",
       "links": [
-        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md"
+        "../README.md",
+        "../INSIGHTS/4.md",
+        "../INSIGHTS/6.md",
+        "../LOGS/1.md",
+        "../LOGS/2.md",
+        "../LOGS/26.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/5.md",
+        "../LOGS/35.md",
+        "../QUANT/FSA/FSA.md",
+        "../QUANT/EA/EA.md",
+        "../INSIGHTS/7.md"
       ],
       "metadata": {
         "title": "创客数字实验室：AI助手、投资策略与协同理论",
@@ -3417,17 +3471,49 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "e7bae3117a1d576986fdb3ceb8e95331453676dbf1a2bd0ed21017a76c97215c"
+      "nativeMarkdownHash": "b7208d04ab4646f3bdc5d99da702a560a63663b7a20e67de49a36d0b25a88c15"
     },
     {
-      "hash": "640b238a403a494e0e73c38a6fc389d32e77169e31f98d448ff57f99dca7a4d1",
+      "hash": "203366dfde5ad0f24d9bcde03efd4db0d136c105d52cc62a499d0706651ddc64",
       "path": "SUMMARY/5-artistic.md",
       "links": [
         "../LOGS/11.md",
+        "../LOGS/2.md",
+        "../INSIGHTS/6.md",
+        "../LOGS/35.md",
+        "../LOGS/25.md",
+        "../INSIGHTS/5.md",
+        "../LOGS/26.md",
+        "../INSIGHTS/7.md",
+        "../LOGS/2.md",
+        "../LOGS/24.md",
+        "../QUANT/EA/EA.md",
+        "../INSIGHTS/1.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/3.md",
+        "../INSIGHTS/4.md",
+        "../INSIGHTS/5.md",
+        "../INSIGHTS/6.md",
+        "../INSIGHTS/7.md",
+        "../INSIGHTS/7.md",
+        "../INSIGHTS/7.md",
         "../INSIGHTS/6.md",
         "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
+        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
+        "../README.md",
+        "../LOGS/2.md",
+        "../INSIGHTS/6.md",
+        "../LOGS/35.md",
+        "../LOGS/39.md",
+        "../INSIGHTS/2.md",
         "../INSIGHTS/5.md",
-        "../LOGS/11.md"
+        "../LOGS/1.md",
+        "../LOGS/24.md",
+        "../INSIGHTS/7.md",
+        "./1-objective.md",
+        "./2-critical.md",
+        "./3-positive.md",
+        "./4-popular.md"
       ],
       "metadata": {
         "title": "数字时代的吟游诗人：AI时代的创作、投资与协同",
@@ -3461,19 +3547,21 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "b690ec0327d16994a231d1271dbc2482d3905323c45418fb7483fe3d9e55c034"
+      "nativeMarkdownHash": "087b9914d61140501fdee6bb8c4f87797188685555443484acde1c43cdfa1e91"
     },
     {
-      "hash": "c8b41d493c7422f23f82df9e03afb2f8adf5004e6319cfeb186f462edc336539",
+      "hash": "bdbc889f464e46bda61ebce9fbdde980a594d1880f74aeaeb35fa0fb03f668db",
       "path": "SUMMARY/6-philosophical.md",
       "links": [
-        "../INSIGHTS/6.md",
-        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
-        "../INSIGHTS/2.md",
         "../INSIGHTS/3.md",
+        "../README.md",
         "../INSIGHTS/2.md",
-        "../INSIGHTS/1.md",
-        "../INSIGHTS/5.md"
+        "../INSIGHTS/7.md",
+        "./1-objective.md",
+        "./2-critical.md",
+        "./3-positive.md",
+        "./4-popular.md",
+        "./5-artistic.md"
       ],
       "metadata": {
         "title": "哲学视角下的CZ思考与实践分析",
@@ -3510,38 +3598,31 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "6c4f913611ca2e8af60979b49f379e8e67150dad99152fe9191ff4ad813a6149"
+      "nativeMarkdownHash": "90e112bd64776645672756097e8dc0e93b974dff461288b715a0e591d44bafb1"
     },
     {
-      "hash": "6932a2be44aa2471c3bcf2e79ce010753aa6cf1307deb159abf3d41fb38ab162",
+      "hash": "d343050f4c59ee366a55333d1b7765ad39d50f193cf21d228d46bbe2bc4282eb",
       "path": "SUMMARY/7-psychological.md",
       "links": [
         "../README.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/7.md",
+        "../INSIGHTS/6.md",
+        "../INSIGHTS/2.md",
+        "../INSIGHTS/6.md",
+        "../INSIGHTS/5.md",
         "../README.md",
         "../INSIGHTS/6.md",
-        "../LOGS/21.md",
-        "../MEETINGS/2026-01-22.md",
-        "../LOGS/20.md",
-        "../README.md",
+        "../INSIGHTS/6.md",
         "../INSIGHTS/2.md",
         "../INSIGHTS/6.md",
         "../README.md",
-        "../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md",
-        "../LOGS/21.md",
-        "../LOGS/19.md",
+        "../INSIGHTS/4.md",
+        "../INSIGHTS/5.md",
         "../INSIGHTS/6.md",
-        "../INSIGHTS/1.md",
-        "../LOGS/23.md",
-        "../LOGS/24.md",
-        "../LOGS/22.md",
-        "../LOGS/20.md",
-        "../README.md",
-        "../LOGS/21.md",
-        "../README.md",
-        "../LOGS/22.md",
+        "../INSIGHTS/2.md",
         "../INSIGHTS/6.md",
-        "../README.md",
-        "../README.md"
+        "../INSIGHTS/7.md"
       ],
       "metadata": {
         "title": "CZ深度心理分析报告",
@@ -3580,41 +3661,53 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "1e059c034b0fd10c269ff0bc33d3ded9ea81021ab46d8c963eeb3b8919a04ba2"
+      "nativeMarkdownHash": "dae0f0e21566cff93eb44baf028f63cbf571d57f6d9dbaf578b349acd66e0fad"
     },
     {
-      "hash": "b0e2fd828ed25429fc9119d235b111cf8056343a289f50b1dc0c50e06219e93c",
+      "hash": "7b17e5525ab11fa364d97cc3c36cc512d7e840482737eaaeb63c48af8edc29e7",
       "path": "SUMMARY/8-history.md",
       "links": [
-        "../LOGS/1.md",
         "../INSIGHTS/1.md",
         "../INSIGHTS/2.md",
         "../INSIGHTS/3.md",
+        "../INSIGHTS/4.md",
         "../LOGS/2.md",
         "../LOGS/3.md",
         "../LOGS/4.md",
-        "../INSIGHTS/4.md",
         "../LOGS/5.md",
         "../LOGS/6.md",
-        "../LOGS/7.md",
         "../LOGS/8.md",
-        "../LOGS/9.md",
-        "../LOGS/10.md",
-        "../LOGS/11.md",
-        "../LOGS/12.md",
-        "../LOGS/13.md",
+        "../INSIGHTS/5.md",
         "../LOGS/14.md",
         "../LOGS/15.md",
-        "../MEETINGS/2026-01-22.md",
         "../LOGS/16.md",
-        "../LOGS/17.md",
         "../LOGS/18.md",
-        "../LOGS/19.md",
+        "../INSIGHTS/6.md",
+        "../MEETINGS/2026-01-22.md",
+        "../LOGS/23.md",
+        "../LOGS/13.md",
         "../LOGS/26.md",
-        "../README.md",
-        "../LOGS/1.md",
-        "../README.md",
-        "../LOGS/10.md"
+        "../LOGS/27.md",
+        "../LOGS/28.md",
+        "../LOGS/33.md",
+        "../LOGS/34.md",
+        "../LOGS/35.md",
+        "../LOGS/36.md",
+        "../LOGS/37.md",
+        "../LOGS/38.md",
+        "../LOGS/40.md",
+        "../LOGS/39.md",
+        "../LOGS/2.md",
+        "../LOGS/40.md",
+        "../LOGS/18.md",
+        "../LOGS/27.md",
+        "../LOGS/35.md",
+        "../LOGS/37.md",
+        "../LOGS/38.md",
+        "../LOGS/28.md",
+        "../LOGS/34.md",
+        "../LOGS/32.md",
+        "https://github.com/zccz14/CapitalProtractedWar"
       ],
       "metadata": {
         "title": "CZ 2026年1月思考与实践演进分析",
@@ -3654,7 +3747,7 @@
         }
       },
       "category": "AI Analysis Reports",
-      "nativeMarkdownHash": "c72cd5eef10b15b09ca70063d1e090588467e19c45d6ed8445481fbd3a2dfe58"
+      "nativeMarkdownHash": "9fb146171656e60a18f47b253be7cc9c1d70394e7a742e93bf678c639a09685f"
     }
   ]
 }
