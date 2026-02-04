@@ -3923,5 +3923,109 @@
       "category": "AI Analysis Reports",
       "nativeMarkdownHash": "9fb146171656e60a18f47b253be7cc9c1d70394e7a742e93bf678c639a09685f"
     }
-  ]
+  ],
+  "categoryTranslations": {
+    "Personal Introduction": {
+      "zh-Hans": "个人介绍",
+      "en-US": "Personal Introduction",
+      "ja-JP": "自己紹介",
+      "es-ES": "Presentación Personal"
+    },
+    "Investment Strategy": {
+      "zh-Hans": "投资策略",
+      "en-US": "Investment Strategy",
+      "ja-JP": "投資戦略",
+      "es-ES": "Estrategia de Inversión"
+    },
+    "AI Software Engineering": {
+      "zh-Hans": "人工智能软件工程",
+      "en-US": "AI Software Engineering",
+      "ja-JP": "AIソフトウェアエンジニアリング",
+      "es-ES": "Ingeniería de Software de IA"
+    },
+    "AI Research": {
+      "zh-Hans": "人工智能研究",
+      "en-US": "AI Research",
+      "ja-JP": "AI研究",
+      "es-ES": "Investigación en IA"
+    },
+    "Content Management": {
+      "zh-Hans": "内容管理",
+      "en-US": "Content Management",
+      "ja-JP": "コンテンツ管理",
+      "es-ES": "Gestión de Contenidos"
+    },
+    "Cognitive Development": {
+      "zh-Hans": "认知发展",
+      "en-US": "Cognitive Development",
+      "ja-JP": "認知発達",
+      "es-ES": "Desarrollo Cognitivo"
+    },
+    "Project Management": {
+      "zh-Hans": "项目管理",
+      "en-US": "Project Management",
+      "ja-JP": "プロジェクト管理",
+      "es-ES": "Gestión de Proyectos"
+    },
+    "Entrepreneurship": {
+      "zh-Hans": "创业",
+      "en-US": "Entrepreneurship",
+      "ja-JP": "起業",
+      "es-ES": "Emprendimiento"
+    },
+    "AI Tools Development": {
+      "zh-Hans": "人工智能工具开发",
+      "en-US": "AI Tools Development",
+      "ja-JP": "AIツール開発",
+      "es-ES": "Desarrollo de Herramientas de IA"
+    },
+    "Financial Market Analysis": {
+      "zh-Hans": "金融市场分析",
+      "en-US": "Financial Market Analysis",
+      "ja-JP": "金融市場分析",
+      "es-ES": "Análisis de Mercados Financieros"
+    },
+    "Product Development": {
+      "zh-Hans": "产品开发",
+      "en-US": "Product Development",
+      "ja-JP": "製品開発",
+      "es-ES": "Desarrollo de Productos"
+    },
+    "Troubleshooting": {
+      "zh-Hans": "故障排除",
+      "en-US": "Troubleshooting",
+      "ja-JP": "トラブルシューティング",
+      "es-ES": "Resolución de Problemas"
+    },
+    "Quantitative Finance": {
+      "zh-Hans": "量化金融",
+      "en-US": "Quantitative Finance",
+      "ja-JP": "量的金融",
+      "es-ES": "Finanzas Cuantitativas"
+    },
+    "AI Cost Analysis": {
+      "zh-Hans": "人工智能成本分析",
+      "en-US": "AI Cost Analysis",
+      "ja-JP": "AIコスト分析",
+      "es-ES": "Análisis de Costos de IA"
+    },
+    "System Architecture": {
+      "zh-Hans": "系统架构",
+      "en-US": "System Architecture",
+      "ja-JP": "システムアーキテクチャ",
+      "es-ES": "Arquitectura de Sistemas"
+    },
+    "Simulation Framework": {
+      "zh-Hans": "模拟框架",
+      "en-US": "Simulation Framework",
+      "ja-JP": "シミュレーションフレームワーク",
+      "es-ES": "Marco de Simulación"
+    },
+    "AI Analysis Reports": {
+      "zh-Hans": "人工智能分析报告",
+      "en-US": "AI Analysis Reports",
+      "ja-JP": "AI分析レポート",
+      "es-ES": "Informes de Análisis de IA"
+    }
+  }
 }
