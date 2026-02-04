@@ -2727,6 +2727,52 @@
       "nativeMarkdownHash": "56361b430831259ed942258e3c0a323f18258dde431e675e51d0b97c4caab341"
     },
     {
+      "path": "LOGS/43.md",
+      "links": [
+        "https://www.npmjs.com/package/sandt"
+      ],
+      "metadata": {
+        "title": "Sand Table (沙盘) 资本持久战实验框架发布",
+        "description": "作者在2026年2月4日发布了名为Sand Table (沙盘)的资本持久战实验框架，并解释了其命名含义和项目愿景。",
+        "short_summary": "作者发布了资本持久战实验框架Sand Table (沙盘)，包名为sandt。该框架用于模拟资本运作和战略决策，旨在通过沙盘推演生成报告以优化决策。命名考虑了简洁性和多重含义，希望项目能避免纸上谈兵。",
+        "audience": "对资本运作、战略决策、实验框架或npm包开发感兴趣的开发者、分析师和决策者",
+        "key_points": [
+          "文档日期为2026年2月4日中午",
+          "发布了资本持久战实验框架Sand Table (沙盘)",
+          "包名为sandt，已发布到npm平台",
+          "命名灵感来自战争游戏的沙盘推演",
+          "框架用于模拟资本运作和战略决策",
+          "支持从样本到市场层面的实验和报告生成",
+          "包名选择考虑了简洁性和命令行便利性",
+          "可能引申含义包括delta time或Strategy & Tactics",
+          "作者希望项目避免纸上谈兵，发挥实际作用",
+          "核心目标是辅助更好决策"
+        ],
+        "summary": "本文记录了作者在2026年2月4日发布资本持久战实验框架的过程。该框架被命名为Sand Table (沙盘)，包名为sandt，已发布到npm平台。作者解释了命名灵感来源于战争游戏中的沙盘推演，强调该框架旨在模拟资本运作和战略决策，从微观样本到宏观市场层面进行实验并生成报告，以辅助决策。作者还讨论了包名选择的原因，包括简洁性、命令行便利性以及可能的引申含义（如delta time或Strategy & Tactics），并希望项目能避免纸上谈兵，发挥实际作用。",
+        "slug": "sand-table-capital-persistent-war-experiment-framework-release",
+        "tags": [
+          "Sand Table",
+          "沙盘",
+          "资本持久战",
+          "实验框架",
+          "npm",
+          "sandt",
+          "战略决策",
+          "模拟"
+        ],
+        "inferred_date": "2026-02-04",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 757,
+          "completion": 483,
+          "total": 1240
+        }
+      },
+      "hash": "6cb0d50faadbd4c8367a37fc9a6f46a320b5a230141db38acaf4d011a3ac0545",
+      "category": "Simulation Framework",
+      "nativeMarkdownHash": "15ad6eabd136474a0dd0fe524b3dcb5209ca17a65f140216f4bd5e0f89f80b41"
+    },
+    {
       "hash": "f0a00fd9099c5311f0ffb6a1f38a111046c993c9c3afdb27527b9f7ba2d8aa3d",
       "path": "LOGS/5.md",
       "links": [
