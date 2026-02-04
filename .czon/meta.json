@@ -4027,5 +4027,25 @@
       "ja-JP": "AI分析レポート",
       "es-ES": "Informes de Análisis de IA"
     }
+  },
+  "navLinkTranslations": {
+    "About": {
+      "zh-Hans": "关于",
+      "en-US": "About",
+      "ja-JP": "概要",
+      "es-ES": "Acerca de"
+    },
+    "AI 总结": {
+      "zh-Hans": "AI 总结",
+      "en-US": "AI Summary",
+      "ja-JP": "AI 要約",
+      "es-ES": "Resumen de IA"
+    },
+    "CZON": {
+      "zh-Hans": "CZON",
+      "en-US": "CZON",
+      "ja-JP": "CZON",
+      "es-ES": "CZON"
+    }
   }
 }
