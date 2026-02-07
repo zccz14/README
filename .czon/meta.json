@@ -9641,134 +9641,134 @@
       "path": "LOGS/51.md",
       "links": [],
       "metadata": {
-        "title": "CZON优化与SandTable改造日志",
-        "description": "记录了CZON删除YAML Front Matter、优化Metadata和SEO，以及SandTable改造进展的技术日志。",
-        "short_summary": "CZON删除了YAML Front Matter，通过AI提取Metadata并优化了翻译功能。同时，SandTable正在改造以支持真实数据测试。作者建议翻译功能使用免费AI服务。",
-        "audience": "技术开发者、AI工具用户、对Metadata和SEO优化感兴趣的人",
+        "title": "CZON 0.8.6 版本更新与 SandTable 改造进展",
+        "description": "CZON 0.8.6 版本移除了 YAML Front Matter，改用 AI 提取 Metadata，并优化了 SEO；同时 SandTable 正在改造以支持真实市场数据测试。",
+        "short_summary": "CZON 0.8.6 版本移除了 YAML Front Matter，改用 AI 提取 Metadata，优化了翻译流程和 SEO。同时，SandTable 正在改造以支持真实市场数据测试，但 AI 在重构任务中仍有局限。",
+        "audience": "技术开发者、AI 工具用户、内容管理系统使用者、对软件更新和技术改造感兴趣的人",
         "key_points": [
-          "CZON删除了YAML Front Matter，改用AI提取Metadata",
-          "优化了翻译功能，直接从JSON翻译，建议使用免费AI服务",
-          "添加了更多Metadata字段并优化SEO",
-          "SandTable正在改造以接受真实市场历史数据测试",
-          "需要修复SandTable的遗留技术债务"
+          "CZON 0.8.6 移除了 YAML Front Matter，改用 AI 从 JSON 提取 Metadata",
+          "优化了翻译流程，避免格式错误，并支持 Metadata 单独翻译",
+          "SandTable 正在改造以支持真实市场历史数据测试",
+          "Claude Opus 4.6 在长程重构任务中表现一般，仍需人工干预",
+          "建议使用按量付费的 AI 服务，翻译功能可用免费级别"
         ],
-        "summary": "本文是一篇技术日志，主要记录了CZON的优化工作，包括删除了YAML Front Matter，改为通过AI提取Metadata，并优化了翻译功能和SEO相关内容。同时，作者提到正在改造SandTable以接受真实市场历史数据进行测试，但需要修复遗留技术债务。文章还讨论了AI服务的使用建议，建议翻译功能使用免费级别服务。",
+        "summary": "本文介绍了 CZON 0.8.6 版本的主要更新，包括移除了 YAML Front Matter，改用 AI 从 JSON 提取 Metadata，以解决翻译时格式错误问题，并优化了 SEO。同时，作者正在改造 SandTable，使其能接受真实市场历史数据进行测试，但指出 Claude Opus 4.6 在长程重构任务中表现一般，仍需人工规划。文章还讨论了翻译功能的经济性，建议使用按量付费的 AI 服务。",
         "slug": "czon-optimization-sandtable-update-log",
         "tags": [
           "CZON",
+          "YAML Front Matter",
+          "AI 翻译",
           "Metadata",
-          "SEO",
           "SandTable",
-          "AI",
-          "技术日志",
-          "翻译功能"
+          "SEO",
+          "技术债务"
         ],
         "inferred_date": "2026-02-07",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 709,
-          "completion": 339,
-          "total": 1048
+          "prompt": 890,
+          "completion": 435,
+          "total": 1325
         }
       },
-      "hash": "c6bbc288c366c91a53f2b50f3407a96ef3bcfad100a2fb0d12af09827412c1ce",
+      "hash": "768a0abb8b992cec39073f20d8cf1186eec3c2ee1d499560e2b8ce592db0ab0e",
       "metadataTranslations": {
         "zh-Hans": {
-          "title": "CZON优化与SandTable改造日志",
-          "description": "记录了CZON删除YAML Front Matter、优化Metadata和SEO，以及SandTable改造进展的技术日志。",
-          "summary": "本文是一篇技术日志，主要记录了CZON的优化工作，包括删除了YAML Front Matter，改为通过AI提取Metadata，并优化了翻译功能和SEO相关内容。同时，作者提到正在改造SandTable以接受真实市场历史数据进行测试，但需要修复遗留技术债务。文章还讨论了AI服务的使用建议，建议翻译功能使用免费级别服务。",
-          "short_summary": "CZON删除了YAML Front Matter，通过AI提取Metadata并优化了翻译功能。同时，SandTable正在改造以支持真实数据测试。作者建议翻译功能使用免费AI服务。",
+          "title": "CZON 0.8.6 版本更新与 SandTable 改造进展",
+          "description": "CZON 0.8.6 版本移除了 YAML Front Matter，改用 AI 提取 Metadata，并优化了 SEO；同时 SandTable 正在改造以支持真实市场数据测试。",
+          "summary": "本文介绍了 CZON 0.8.6 版本的主要更新，包括移除了 YAML Front Matter，改用 AI 从 JSON 提取 Metadata，以解决翻译时格式错误问题，并优化了 SEO。同时，作者正在改造 SandTable，使其能接受真实市场历史数据进行测试，但指出 Claude Opus 4.6 在长程重构任务中表现一般，仍需人工规划。文章还讨论了翻译功能的经济性，建议使用按量付费的 AI 服务。",
+          "short_summary": "CZON 0.8.6 版本移除了 YAML Front Matter，改用 AI 提取 Metadata，优化了翻译流程和 SEO。同时，SandTable 正在改造以支持真实市场数据测试，但 AI 在重构任务中仍有局限。",
           "key_points": [
-            "CZON删除了YAML Front Matter，改用AI提取Metadata",
-            "优化了翻译功能，直接从JSON翻译，建议使用免费AI服务",
-            "添加了更多Metadata字段并优化SEO",
-            "SandTable正在改造以接受真实市场历史数据测试",
-            "需要修复SandTable的遗留技术债务"
+            "CZON 0.8.6 移除了 YAML Front Matter，改用 AI 从 JSON 提取 Metadata",
+            "优化了翻译流程，避免格式错误，并支持 Metadata 单独翻译",
+            "SandTable 正在改造以支持真实市场历史数据测试",
+            "Claude Opus 4.6 在长程重构任务中表现一般，仍需人工干预",
+            "建议使用按量付费的 AI 服务，翻译功能可用免费级别"
           ],
-          "audience": "技术开发者、AI工具用户、对Metadata和SEO优化感兴趣的人",
+          "audience": "技术开发者、AI 工具用户、内容管理系统使用者、对软件更新和技术改造感兴趣的人",
           "tags": [
             "CZON",
+            "YAML Front Matter",
+            "AI 翻译",
             "Metadata",
-            "SEO",
             "SandTable",
-            "AI",
-            "技术日志",
-            "翻译功能"
+            "SEO",
+            "技术债务"
           ]
         },
         "en-US": {
-          "title": "CZON Optimization and SandTable Transformation Log",
-          "description": "A technical log documenting the removal of YAML Front Matter from CZON, optimization of Metadata and SEO, and progress on SandTable transformation.",
-          "summary": "This is a technical log that primarily records optimization work on CZON, including removing YAML Front Matter and replacing it with AI-extracted Metadata, while optimizing translation functionality and SEO-related content. Additionally, the author mentions ongoing transformation of SandTable to accept real market historical data for testing, but legacy technical debt needs to be addressed. The article also discusses recommendations for using AI services, suggesting that translation functionality utilize free-tier services.",
-          "short_summary": "CZON removed YAML Front Matter, using AI to extract Metadata and optimize translation functionality. Meanwhile, SandTable is being transformed to support real data testing. The author recommends using free AI services for translation.",
+          "title": "CZON 0.8.6 Version Update and SandTable Transformation Progress",
+          "description": "CZON 0.8.6 version removes YAML Front Matter, switches to AI for Metadata extraction, and optimizes SEO; meanwhile, SandTable is being transformed to support real market data testing.",
+          "summary": "This article introduces the main updates in CZON 0.8.6, including the removal of YAML Front Matter and the switch to AI for extracting Metadata from JSON to resolve formatting errors during translation, along with SEO optimization. Additionally, the author is transforming SandTable to accept real market historical data for testing, but notes that Claude Opus 4.6 performs moderately in long-range refactoring tasks, still requiring manual planning. The article also discusses the cost-effectiveness of translation features, recommending pay-as-you-go AI services.",
+          "short_summary": "CZON 0.8.6 version removes YAML Front Matter, switches to AI for Metadata extraction, optimizing translation processes and SEO. Meanwhile, SandTable is being transformed to support real market data testing, but AI still has limitations in refactoring tasks.",
           "key_points": [
-            "CZON removed YAML Front Matter and switched to AI-extracted Metadata",
-            "Optimized translation functionality, translating directly from JSON, with a recommendation to use free AI services",
-            "Added more Metadata fields and optimized SEO",
-            "SandTable is being transformed to accept real market historical data for testing",
-            "Need to fix legacy technical debt in SandTable"
+            "CZON 0.8.6 removes YAML Front Matter and switches to AI for extracting Metadata from JSON",
+            "Optimizes translation processes to avoid formatting errors and supports separate Metadata translation",
+            "SandTable is being transformed to support real market historical data testing",
+            "Claude Opus 4.6 performs moderately in long-range refactoring tasks, still requiring manual intervention",
+            "Recommends using pay-as-you-go AI services, with translation features available at free tiers"
           ],
-          "audience": "Technical developers, AI tool users, individuals interested in Metadata and SEO optimization",
+          "audience": "Technical developers, AI tool users, content management system users, people interested in software updates and technical transformations",
           "tags": [
             "CZON",
+            "YAML Front Matter",
+            "AI translation",
             "Metadata",
-            "SEO",
             "SandTable",
-            "AI",
-            "Technical log",
-            "Translation functionality"
+            "SEO",
+            "Technical debt"
           ]
         },
         "ja-JP": {
-          "title": "CZON最適化とSandTable改造ログ",
-          "description": "CZONのYAML Front Matter削除、MetadataとSEOの最適化、およびSandTable改造の進捗を記録した技術ログです。",
-          "summary": "この記事は技術ログで、CZONの最適化作業を記録しています。YAML Front Matterを削除し、AIによるMetadata抽出に変更し、翻訳機能とSEO関連コンテンツを最適化しました。また、著者はSandTableを改造して実際の市場履歴データでのテストを受け入れるようにしているが、残された技術的負債の修正が必要と述べています。記事ではAIサービスの使用に関するアドバイスも議論し、翻訳機能には無料レベルのサービスを使用することを推奨しています。",
-          "short_summary": "CZONはYAML Front Matterを削除し、AIでMetadataを抽出して翻訳機能を最適化しました。同時に、SandTableは実際のデータテストをサポートするために改造中です。著者は翻訳機能に無料AIサービスを使用することを推奨しています。",
+          "title": "CZON 0.8.6 バージョンアップデートとSandTable改造の進捗",
+          "description": "CZON 0.8.6 バージョンではYAML Front Matterを削除し、AIによるMetadata抽出に変更し、SEOを最適化しました。同時に、SandTableは実際の市場データテストをサポートするために改造中です。",
+          "summary": "本記事では、CZON 0.8.6 バージョンの主なアップデートについて説明します。これには、YAML Front Matterの削除、JSONからのAIによるMetadata抽出への変更（翻訳時のフォーマットエラー問題の解決）、およびSEOの最適化が含まれます。同時に、著者はSandTableを改造して実際の市場履歴データでのテストを可能にしていますが、Claude Opus 4.6は長期的なリファクタリングタスクでは一般的なパフォーマンスしか示さず、依然として手動での計画が必要であると指摘しています。記事ではまた、翻訳機能の経済性について議論し、従量課金制のAIサービスの使用を推奨しています。",
+          "short_summary": "CZON 0.8.6 バージョンではYAML Front Matterを削除し、AIによるMetadata抽出に変更し、翻訳プロセスとSEOを最適化しました。同時に、SandTableは実際の市場データテストをサポートするために改造中ですが、AIはリファクタリングタスクにおいて依然として限界があります。",
           "key_points": [
-            "CZONはYAML Front Matterを削除し、AIによるMetadata抽出に変更しました",
-            "翻訳機能を最適化し、JSONから直接翻訳し、無料AIサービスの使用を推奨しています",
-            "より多くのMetadataフィールドを追加し、SEOを最適化しました",
-            "SandTableは実際の市場履歴データテストを受け入れるために改造中です",
-            "SandTableの残された技術的負債を修正する必要があります"
+            "CZON 0.8.6 はYAML Front Matterを削除し、JSONからのAIによるMetadata抽出に変更しました",
+            "翻訳プロセスを最適化し、フォーマットエラーを回避し、Metadataの個別翻訳をサポートします",
+            "SandTableは実際の市場履歴データテストをサポートするために改造中です",
+            "Claude Opus 4.6は長期的なリファクタリングタスクでは一般的なパフォーマンスしか示さず、依然として手動介入が必要です",
+            "従量課金制のAIサービスの使用を推奨し、翻訳機能は無料レベルで利用可能です"
           ],
-          "audience": "技術開発者、AIツールユーザー、MetadataとSEO最適化に関心のある人",
+          "audience": "技術開発者、AIツールユーザー、コンテンツ管理システム利用者、ソフトウェアアップデートと技術改造に関心のある人々",
           "tags": [
             "CZON",
+            "YAML Front Matter",
+            "AI翻訳",
             "Metadata",
-            "SEO",
             "SandTable",
-            "AI",
-            "技術ログ",
-            "翻訳機能"
+            "SEO",
+            "技術的負債"
           ]
         },
         "es-ES": {
-          "title": "Registro de Optimización de CZON y Transformación de SandTable",
-          "description": "Registro técnico que documenta la eliminación de YAML Front Matter en CZON, la optimización de Metadata y SEO, y el progreso en la transformación de SandTable.",
-          "summary": "Este artículo es un registro técnico que detalla los trabajos de optimización en CZON, incluyendo la eliminación de YAML Front Matter, reemplazándolo con extracción de Metadata mediante IA, y la optimización de funciones de traducción y aspectos relacionados con SEO. Además, el autor menciona que está transformando SandTable para aceptar datos históricos reales del mercado para pruebas, pero necesita reparar deudas técnicas heredadas. El artículo también discute recomendaciones sobre el uso de servicios de IA, sugiriendo emplear el nivel gratuito para la función de traducción.",
-          "short_summary": "CZON eliminó YAML Front Matter, extrae Metadata mediante IA y optimizó la función de traducción. Simultáneamente, SandTable está siendo transformado para soportar pruebas con datos reales. El autor recomienda usar servicios de IA gratuitos para la traducción.",
+          "title": "Actualización de CZON 0.8.6 y progreso de la transformación de SandTable",
+          "description": "La versión CZON 0.8.6 eliminó YAML Front Matter, adoptando la extracción de Metadata mediante IA y optimizando el SEO; simultáneamente, SandTable se está transformando para admitir pruebas con datos de mercado reales.",
+          "summary": "Este artículo presenta las principales actualizaciones de la versión CZON 0.8.6, incluyendo la eliminación de YAML Front Matter y el uso de IA para extraer Metadata desde JSON, resolviendo problemas de formato en traducciones y optimizando el SEO. Además, el autor está transformando SandTable para que pueda aceptar datos históricos de mercado reales para pruebas, pero señala que Claude Opus 4.6 tiene un rendimiento moderado en tareas de refactorización a largo plazo, requiriendo aún planificación manual. El artículo también discute la economía de la funcionalidad de traducción, recomendando servicios de IA de pago por uso.",
+          "short_summary": "La versión CZON 0.8.6 eliminó YAML Front Matter, adoptando la extracción de Metadata mediante IA, optimizando el flujo de traducción y el SEO. Simultáneamente, SandTable se está transformando para admitir pruebas con datos de mercado reales, pero la IA aún tiene limitaciones en tareas de refactorización.",
           "key_points": [
-            "CZON eliminó YAML Front Matter, cambiando a extracción de Metadata mediante IA",
-            "Optimizó la función de traducción, traduciendo directamente desde JSON, recomendando usar servicios de IA gratuitos",
-            "Añadió más campos de Metadata y optimizó SEO",
-            "SandTable está siendo transformado para aceptar datos históricos reales del mercado para pruebas",
-            "Necesita reparar deudas técnicas heredadas en SandTable"
+            "CZON 0.8.6 eliminó YAML Front Matter, adoptando la extracción de Metadata desde JSON mediante IA",
+            "Optimizó el flujo de traducción, evitando errores de formato y admitiendo la traducción separada de Metadata",
+            "SandTable se está transformando para admitir pruebas con datos históricos de mercado reales",
+            "Claude Opus 4.6 tiene un rendimiento moderado en tareas de refactorización a largo plazo, requiriendo aún intervención manual",
+            "Recomienda usar servicios de IA de pago por uso, con funcionalidad de traducción disponible en niveles gratuitos"
           ],
-          "audience": "Desarrolladores técnicos, usuarios de herramientas de IA, personas interesadas en optimización de Metadata y SEO",
+          "audience": "Desarrolladores técnicos, usuarios de herramientas de IA, usuarios de sistemas de gestión de contenidos, personas interesadas en actualizaciones de software y transformaciones técnicas",
           "tags": [
             "CZON",
+            "YAML Front Matter",
+            "Traducción por IA",
             "Metadata",
-            "SEO",
             "SandTable",
-            "IA",
-            "Registro técnico",
-            "Función de traducción"
+            "SEO",
+            "Deuda técnica"
           ]
         }
       },
-      "metadataTranslationHash": "68461df6a59f8f17a05d061d7987447dd5635b23b5574acbf65610f9b2f07417",
+      "metadataTranslationHash": "7564a254e49f780c13667c8b5707c31199d71145b68314cfa420f27b23466951",
       "category": "Technical Log",
-      "nativeMarkdownHash": "c6bbc288c366c91a53f2b50f3407a96ef3bcfad100a2fb0d12af09827412c1ce"
+      "nativeMarkdownHash": "768a0abb8b992cec39073f20d8cf1186eec3c2ee1d499560e2b8ce592db0ab0e"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
