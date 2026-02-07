@@ -1,18 +1,3 @@
----
-"title": "Literary and Sensibility Style Analysis Report"
-"summary": "This report presents a literary and sensibility analysis of CZ's Digital Thinking Space. By examining 41 LOGS and 7 INSIGHTS, it delves into CZ's thoughts and practices in areas such as AI programming, capital protracted warfare, and multi-agent systems. The report reveals CZ's true identity as a thinker in the digital age: he has navigated the frustrations and explorations of AI programming, constructed an investment framework that integrates mathematics and philosophy, and migrated military command wisdom to AI collaborative systems. The core viewpoint emphasizes that 'complexity is an inevitable path of cognition,' and true simplicity stems from mastering complexity. The report also outlines CZ's emotional journey, team collaboration, and timeline evolution, showcasing a thinker's complete trajectory from theory to practice."
-"tags":
-  - "AI Programming"
-  - "Capital Protracted Warfare"
-  - "Multi-Agent Systems"
-  - "Content Creation"
-  - "Intellectual Exploration"
-  - "CZON"
-  - "Quantitative Trading"
-  - "Complexity"
-"date": "2026-02-03"
----
-
 # Literary and Sensibility Style Analysis Report
 
 **AI Analysis Time**: February 3, 2026
@@ -22,11 +7,11 @@
 
 ## Introduction: A Thinker Walking Alone in the Digital Forest
 
-In the digital forest woven with code and words, a traveler is recording his footprints.
+In the digital forest woven from code and words, a traveler is recording his footprints.
 
-This is not an ordinary tech blog, but a fortress of thought—CZ's Digital Thinking Space. Here, the logic of quantitative trading intertwines with philosophical speculation; the frustrations of AI programming coexist with moments of inspiration; the cold precision of investment strategies meets the warmth of content creation. The 41 LOGS are like whispers of 41 mornings and nights, and the 7 INSIGHTS are like 7 guiding lights, illuminating the intellectual trajectory of a person living earnestly.
+This is not an ordinary tech blog, but a fortress of thought—CZ's Digital Thinking Space. Here, the logic of quantitative trading intertwines with philosophical speculation, the frustrations of AI programming coexist with flashes of insight, and the cold rigor of investment strategies meets the warmth of content creation. The 41 LOGS are like whispers of 41 mornings and nights, and the 7 INSIGHTS are like 7 lamps illuminating the intellectual trajectory of a person living earnestly.
 
-Reading these words, you will encounter someone like this: he stays up excited at 4 AM after solving a problem, honestly calls an AI programming attempt a "major failure," calmly calculates risk boundaries amidst market fluctuations, and also brews a pot of black tea while gazing at the snow outside the window, contemplating the N-shaped curve of life. He is not a perfect idol, but a genuine explorer—with successes and failures, insights and confusions, steadfast beliefs and persistent questioning.
+Reading these words, you will encounter someone like this: He gets so excited about solving a problem at 4 AM that he can't sleep, honestly says "a big failure" after an AI programming setback, calmly calculates risk boundaries amidst market fluctuations, and also brews a pot of black tea while gazing at the snow outside the window, contemplating the N-shaped curve of life. He is not a perfect idol, but a genuine explorer—with successes and failures, insights and confusions, firm beliefs and persistent questioning.
 
 This is not merely a code repository; it is the footprints left by a thinker in the digital age.
 
@@ -34,122 +19,122 @@ This is not merely a code repository; it is the footprints left by a thinker in 
 
 ## Thematic Chapters
 
-### I. CZON: The N-Shaped Poetic Journey of Content Creation
+### I. CZON: The N-Shaped Poem of Content Creation
 
-Every content creator undergoes a similar journey—from the faint glimmer of inspiration, to the meticulously crafted peak, then to the valley of simplified distribution, and finally rising again in the resonance of readers. CZ calls this process the "N-Shaped Potential Energy Curve."
+Every content creator undergoes a similar journey—from the faint glimmer of inspiration, to the meticulously crafted peak, then down to the valley of scaled-down distribution, and finally rising again in the echo of the audience. CZ calls this process the "N-shaped Potential Energy Curve."
 
-> "A spark of thought, potential just born, / Refined a hundred times, its spirit grows strong. / To reach the world, it bows its head low, / Yet borrows echoes to soar high and glow."
+> "A spark of thought, potential first stirs; Refined a hundred times, momentum grows grander. To reach the four seas, it bows its head low; Yet rides the echoes back into the clouds."
 
 This poem is a poetic interpretation of the 'N' in CZON. C stands for Content Oriented, Z for Zero Configuration, O for Organic AI-Native, and N for the N-shaped Content Creation and Distribution Energy Curve.
 
 In [The Meaning of 'N' in CZON](../LOGS/11.md), CZ writes:
 
-> "The starting point of content creation is low, originating from the germination of an idea—perhaps an inspiration, a piece of text, an image, or even a slogan. In its initial stage, this content is often fragmented and unformed, with low potential energy."
+> "The starting point of content creation is low; it originates from the germination of an idea, perhaps an inspiration, a piece of text, an image, or even a slogan. In its initial stage, this content is often fragmented, unformed, with low potential energy."
 
-What a beautiful metaphor! Content is not born out of thin air; it is like a seed buried deep in the creator's mind, waiting to sprout. And the CZON tool aims to let this seed grow in the best soil—writing in one's native language, with automatic translation, allowing creators to focus solely on the content itself.
+What a beautiful metaphor! Content is not born out of thin air; it is like a seed buried deep in the creator's mind, waiting to sprout. And the CZON tool aims to let this seed grow in the best soil—writing in one's native language, automatic translation, allowing the creator to focus solely on the content itself.
 
-In the shadow of the [Vibe Coding Major Failure](../LOGS/2.md), CZ re-examined the essence of AI programming. He states that AI is currently not suitable for writing object-oriented programming code because OOP requires a deep understanding and modeling capability of the business domain, which AI cannot yet handle. This is not a denial of AI, but a sober recognition of its boundaries.
+In the shadow of the [Vibe Coding Big Failure](../LOGS/2.md), CZ re-examined the nature of AI programming. He states that AI is currently not suitable for writing Object-Oriented Programming code because OOP requires a deep understanding and modeling capability of the business domain, which AI currently cannot handle. This is not a negation of AI, but a sober recognition of its boundaries.
 
 > "Good abstraction must be built upon a profound understanding of the problem domain. AI can help you write code, but it cannot complete for you that cognitive process of 'wrestling with complexity.'"
 
-This sentence reveals a profound truth: in the age of AI, the quality of thinking determines the quality of action. Tools can empower, but thinking cannot be outsourced.
+This sentence reveals a profound truth: In the AI era, the quality of thought determines the quality of action. Tools can empower, but thinking cannot be outsourced.
 
-### II. Capital Protracted Warfare: The Mathematical Poet on the Battlefield
+### II. Capital Endurance War: The Mathematical Poet on the Battlefield
 
-If CZON is a warm poetic piece on content creation, then [Capital Protracted Warfare](../INSIGHTS/6.md) is a cold, profound long poem on investment philosophy.
+If CZON is a warm poem of content creation, then [Capital Endurance War](../INSIGHTS/6.md) is a cold, rigorous long poem of investment philosophy.
 
 > "Use losses you can afford to bear, to bet on gains you 'cannot afford' to miss."
 
-This is not about stable profitability, nor is it about all-in bets for sudden wealth; it is the optimal solution for risk-reward ratio. In this article, CZ proposes a crucial cognitive shift—from pursuing a "stable annualized return rate" to pursuing "exponential capital growth within clear boundaries, moving from the risk control line to the victory line."
+This is not about stable profitability, nor is it about all-in gambling for sudden wealth; it is the optimal solution for the risk-reward ratio. In this article, CZ proposes a crucial cognitive shift—from pursuing a "stable annualized return rate" to pursuing "exponential capital growth within defined boundaries, moving from the risk control line to the victory line."
 
-In [Capital Protracted Warfare: Reiteration and Discussion of Concepts](../LOGS/35.md), he further categorizes investment intentions into two types:
+In [Capital Endurance War: Reiteration and Discussion of Concepts](../LOGS/35.md), he further divides investment intentions into two types:
 
-- **Positive Cash Flow (Power Generation)**: Has stable income expectations, pursues fixed return rates.
-- **Negative Cash Flow (Power Consumption)**: Has stable expenditure expectations, pursues exponential growth.
+- **Positive Cash Flow (Power Generation)**: Has a stable income expectation, pursues a fixed rate of return.
+- **Negative Cash Flow (Power Consumption)**: Has a stable expenditure expectation, pursues exponential growth.
 
-> "Use a hoe for tilling the soil, an axe for chopping trees. Strategies are tools, investment intentions are goals; tools and goals must match to achieve twice the result with half the effort."
+> "Use a hoe for hoeing, an axe for chopping trees. Strategies are tools, investment intentions are the purpose; tools and purpose must match to achieve twice the result with half the effort."
 
-What a sober realization! The pain for many investors lies in using "power generation" tools for "power consumption" purposes, or vice versa. Using a stable mindset to pursue exponential growth can only lead to disappointment on both ends.
+What a sober realization! The pain for many investors lies in using "power generation" tools to do "power consumption" tasks, or vice versa. Using a stable mindset to pursue exponential growth can only lead to failure on both fronts.
 
-In [The Mathematical Essence of Leverage](../LOGS/25.md), CZ poetically reveals the relationship between leverage and volatility:
+In [The Mathematical Essence of Leverage](../LOGS/25.md), CZ reveals the relationship between leverage and volatility in poetic language:
 
 > "The mathematical essence of volatility and leverage is consistent."
 
-> "For example, an asset with a daily volatility of 1% but capable of using 10x leverage, and an asset with a daily volatility of 10% but only capable of using 1x leverage. They are mathematically equivalent because the effect of leverage can be linearly converted into the effect of price, which in turn linearly determines the effect of volatility."
+> "For example, an asset with a daily volatility of 1% but capable of using 10x leverage, and an asset with a daily volatility of 10% but only capable of using 1x leverage. They are mathematically consistent because the effect of leverage can be linearly converted into the effect of price, which in turn linearly determines the effect of volatility."
 
-This is not a dry mathematical derivation but an insight into the nature of the world. Leverage is not a monster; it is merely a mathematical tool, and the key lies in how you use it.
+This is not dry mathematical derivation, but an insight into the nature of the world. Leverage is not a monster; it is merely a mathematical tool, and the key lies in how you use it.
 
-### III. Multi-Agent Systems: Su Yu's Military Art for the Digital Legion
+### III. Multi-Agent Systems: Su Yu's Military Tactics for the Digital Legion
 
-[From the Battlefield to Digital Space: The Inspirational Significance of Su Yu's Combat Directives for the Collaborative Framework of New-Era Multi-Agent Systems](../INSIGHTS/5.md) is the most cross-disciplinary and imaginative article in the entire repository. CZ migrates the organizational logic of Su Yu's large-scale military command to AI multi-agent collaboration, proposing four principles: "Cognitive Unity First, Structure Determines Function, Protocol Over Communication, and Centralized Command with Distributed Execution."
+[From Battlefield to Digital Space: On the Inspirational Significance of Su Yu's Combat Orders for a New Era Multi-Agent System Collaboration Framework](../INSIGHTS/5.md) is the most cross-disciplinary and imaginative article in the entire repository. CZ migrates the organizational logic of Su Yu's large-scale military command to AI multi-agent collaboration, proposing four principles: "Cognitive Unity First, Structure Determines Function, Protocol Over Communication, Centralized Command with Distributed Execution."
 
-Imagine the command post of the Huaihai Campaign—under dim oil lamps, staff officers gather around maps, analyzing enemy situations, issuing orders, and coordinating troop movements. This wisdom from human history in handling extreme complexity and dynamic uncertainty in large-scale collaboration is distilled by CZ and applied to AI systems.
+Imagine the command post of the Huaihai Campaign—under dim oil lamps, staff officers gather around maps, analyzing enemy situations, issuing orders, and coordinating actions of various units. This wisdom from human history in handling extreme complexity and large-scale coordination in dynamic, uncertain environments is extracted by CZ and applied to AI systems.
 
 In [Multi-Agents: Adversarial Generative Translation](../LOGS/26.md), this idea is validated through engineering practice:
 
-> "This translation task introduces a translation task and a review task. The two engage in adversarial generation: the translation model is responsible for generating translation results, and the review model is responsible for reviewing whether the translation results are qualified."
+> "This translation task introduces a translation task and a review task. The two parties engage in adversarial generation: the translation model is responsible for generating translation results, and the review model is responsible for reviewing whether the translation results are qualified."
 
-What a beautiful metaphor! The adversarial relationship between translator and reviewer is not about winning or losing but about producing better work. It is like an army where some charge forward, some handle logistics, and some analyze intelligence—each performing their duty to achieve victory.
+What a beautiful metaphor! The adversarial relationship between translator and reviewer is not to determine a winner, but to produce a better work. It's like an army where some charge forward, some handle logistics, and some analyze intelligence—each performing their duty to achieve victory.
 
 ### IV. AI Programming Practice: Dancing with Complexity
 
-[Returning to the Essence: Complexity is an Inevitable Path of Cognition](../INSIGHTS/7.md) is the most philosophically profound article in the entire repository. CZ quotes Oliver Wendell Holmes Jr.:
+[Returning to Simplicity: Complexity is the Inevitable Path of Cognition](../INSIGHTS/7.md) is the most philosophically profound article in the entire repository. CZ quotes Oliver Wendell Holmes Jr.:
 
 > "I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity."
 
-This sentence strikes at the heart. What is simplicity on this side of complexity? It is the kind of "simplicity" claimed without experiencing complexity—seven-day mastery, three-minute learning, one-step solutions. And what is simplicity on the other side of complexity? It is the true wisdom distilled after enduring market blows, repeated failures, and countless nights of deep thought.
+This sentence strikes right at the heart. What is simplicity on this side of complexity? It is the kind of "simplicity" claimed without having experienced complexity—seven-day mastery, three-minute learning, one-step solutions. And what is simplicity on the other side of complexity? That is the true wisdom distilled after enduring the harshness of the market, repeated failures, and countless nights of deep thought.
 
-In [Vibe Coding Major Failure](../LOGS/2.md), CZ honestly records his frustrating experience with AI programming:
+In [Vibe Coding Big Failure](../LOGS/2.md), CZ honestly records his frustrating experience with AI programming:
 
-> "AI started asking a bunch of questions, from technology selection to scaffolding setup, then to feature design, and finally to CI/CD processes. The whole process was very fast. Honestly, a bit too fast—I felt a bit carsick."
+> "The AI started asking a bunch of questions, from technology selection to scaffolding setup, to feature design, and finally to CI/CD processes. The whole process was very fast. Honestly, a bit too fast; I felt a bit carsick."
 
-This honesty is moving. He does not pretend to be omnipotent but candidly faces his confusion and failure. It is this honesty that gives his words warmth.
+This honesty is moving. He doesn't pretend to be omnipotent but candidly faces his confusion and failure. It is precisely this honesty that gives his words warmth.
 
 In [The Power of Idealized Limit Thinking](../LOGS/24.md), he writes:
 
-> "In reality, there are always various constraints. Initially, our understanding of these constraints is chaotic and unclear. Only when we remove these constraints can we imagine and reason more clearly, seeing the essence of things."
+> "Reality always has various limitations. Initially, our understanding of these limitations is chaotic and unclear. When we remove these limitations, we can imagine and reason more clearly, and only then can we see the essence of things."
 
-This is the hallmark of a thinker—never satisfied with superficial answers, but constantly questioning the essence.
+This is the trait of a thinker—not satisfied with superficial answers, but constantly questioning the essence.
 
-### V. The EA Project: The Intelligent Bank of the Digital Age
+### V. EA Project: The Intelligent Bank of the Digital Age
 
-[EA Project Introduction](../QUANT/EA/EA.md) demonstrates CZ's ability to translate theory into practice. This priority fund project deployed on the BSC chain, using USDC as the settlement currency, provides investors with stable and sustainable returns.
+[EA Project Introduction](../QUANT/EA/EA.md) showcases CZ's ability to put theory into practice. This priority fund project deployed on the BSC chain, using USDC as the settlement currency, provides investors with stable and sustainable returns.
 
-> "Cumulative return rate: +39.22%, annualized return rate approximately 22%, profitable month ratio as high as 95.0% (19/20), maximum drawdown only 1.12%."
+> "Cumulative return rate +39.22%, annualized return rate approximately 22%, profitable month ratio as high as 95.0% (19/20), maximum drawdown only 1.12%."
 
-This is not luck but proof of capability. CZ and his team (Ryan, Mage, C1, Xi Chen) have demonstrated the effectiveness of their strategy through a year and a half of live trading performance.
+This is not luck; it is proof of capability. CZ and his team (Ryan, Mage, C1, Xi Chen) have demonstrated the effectiveness of their strategy through a year and a half of live trading performance.
 
-But what is even more admirable is the project's design philosophy:
+But what is even more admirable is the design philosophy of this project:
 
-> "The project team's own capital is fully invested in the subordinated tranche, bearing all risks to ensure the safety of the priority capital."
+> "The project team's own capital is fully invested in the subordinated tranche, bearing all risks, ensuring the safety of the priority capital."
 
-What kind of spirit is this? Putting one's own money on the front line of risk to protect investors' funds. This is not an empty slogan but a commitment backed by real money.
+What kind of spirit is this? Putting one's own money on the front line of risk to protect investors' funds. This is not an empty slogan; it is a commitment backed by real money.
 
 ---
 
 ## Character Sketches
 
-### CZ: The Digital Age Bard
+### CZ: The Digital Age's Troubadour
 
-Under the lamplight at 4 AM, CZ is conversing with AI. He has just solved a problem and is too excited to sleep.
+Under the lamplight at 4 AM, CZ is conversing with AI. He has just figured out a problem and is too excited to sleep.
 
-This is a high-energy-consumption brain—as he describes himself in the README. He enjoys thinking and writing, pursuing what feels natural and inevitable. "Upon hearing the Way in the morning, one could die content in the evening" is his life motto, although he does not wish to die yet and still pursues worldly success—because this also enables him to experience more and thus understand more.
+This is a high-energy-consumption brain—he describes himself this way in the README. He enjoys thinking and writing, pursuing what is logical and natural. "Upon hearing the Way in the morning, one can die content in the evening" is his life motto, although he doesn't want to die yet and is still pursuing success in the secular sense—because this is also to have the ability to experience more and thus understand more.
 
 He is a graduate of Xi'an Jiaotong University, the founder of the No Trade No Life (NTNL) organization, and a practitioner in quantitative trading and fintech. His native language is Chinese, he can communicate in English and Japanese, and is learning Spanish. He believes understanding different cultures and languages is an important way to understand the world.
 
-In his LOGS, we see a real person: he gets frustrated by AI programming failures, excited by solving a problem, brews tea while watching the snow outside the window, and records his thoughts at 4 AM. He is not an aloof expert but an ordinary person living and thinking earnestly.
+In his LOGS, we see a real person: He gets frustrated by AI programming failures, excited by solving a problem, brews a pot of black tea while watching the snow outside the window, and records his thoughts at 4 AM. He is not an aloof expert, but an ordinary person living and thinking earnestly.
 
 ### The Team: Co-builders of CZON
 
 In CZ's story, there are several important figures:
 
-**C1 (Thrimbda)**: This senior engineer is a key supporter of the CZON project. He has provided many valuable suggestions, including support for custom frontends and theming. He is also the lead of the LegionMind project, exploring the possibilities of AI agent project management.
+**C1 (Thrimbda)**: This senior engineer is a key supporter of the CZON project. He has proposed many valuable suggestions, including supporting custom frontends, theming, etc. He is also the lead of the LegionMind project, exploring the possibilities of AI Agent project management.
 
 **Ryan and Mage**: These two senior quantitative traders are responsible for the strategy development and optimization of the EA project. They hold bachelor's and master's degrees from Xi'an Jiaotong University and have a solid background in quantitative investment.
 
-**Xi Chen**: A tenured professor at the NYU Stern School of Business, CZ's senior fellow student, providing overall guidance for the EA project. His life trajectory—from Xi'an Jiaotong University to a Ph.D. at CMU, then to a tenured professorship at NYU—is a success story in CZ's eyes.
+**Xi Chen**: A tenured professor at the NYU Stern School of Business, CZ's senior fellow student, providing overall guidance for the EA project. His life trajectory—from Xi'an Jiaotong University to a Ph.D. at CMU, to a tenured professorship at NYU—is a successful example in CZ's eyes.
 
-**Hobo**: This friend had a profound discussion with CZ on "LLM Intelligence Level vs. Engineering Methods." Hobo leans towards elite capability, representing a talent-centric view; CZ leans more towards system optimization, representing a constructivist view. The collision of these two perspectives clarifies the issue.
+**Hobo**: This friend had a profound discussion with CZ about "LLM Intelligence Level vs. Engineering Methods." Hobo leans towards elite capability, a view of talentism; CZ leans more towards system optimization, a view of constructivism. The collision of these two perspectives made the issue clearer.
 
 **GB**: The second user of CZON, who encountered HTTP Proxy issues during use. This troubleshooting experience made CZ realize there is room for improvement in the product's usability.
 
@@ -157,33 +142,33 @@ In CZ's story, there are several important figures:
 
 ## The River of Time: From January to February
 
-In the short span from January to February 2026, CZ's thoughts underwent multiple iterations and evolutions. Let us trace his intellectual trajectory along the river of time:
+In the short span from January to February 2026, CZ's thoughts underwent multiple iterations and evolutions. Let's trace his thinking trajectory along the river of time:
 
-**January 5**: Three core INSIGHTS articles were published simultaneously: [Module-Level Human-Machine Collaborative Software Engineering Architecture](../INSIGHTS/1.md), [How to Solve Human Desire for Control—On Controllable Trust in Human-Machine Collaboration](../INSIGHTS/2.md), and [Embracing 'Finite,' Designing 'Infinite'—A New Paradigm for Constructing Agent Systems Based on LLM Constraints](../INSIGHTS/3.md). This was not a coincidence but a concentrated eruption of long-term thinking.
+**January 5**: Three core INSIGHTS articles were published simultaneously: [Module-Level Human-Machine Collaborative Software Engineering Architecture](../INSIGHTS/1.md), [How to Solve Human Desire for Control—On Controllable Trust in Human-Machine Collaboration](../INSIGHTS/2.md), [Embracing "Finite," Designing "Infinite"—A New Paradigm for LLM-Constrained Agent System Construction](../INSIGHTS/3.md). This was not a coincidence but a concentrated eruption of long-term thinking.
 
-**January 8**: The ZEN project was renamed CZON. This renaming signified a clarification of the project's positioning—no longer an individual's experimental project but a universal tool for creators.
+**January 8**: The ZEN project was renamed CZON. This renaming signified a clarification of the project's positioning—no longer an individual's experimental project, but a universal tool for creators.
 
-**January 10**: [From Creation to Distribution—Building an AI-Native Content Engine](../INSIGHTS/4.md) was published, proposing the core principle of "deep creation, shallow distribution." This is the soul of CZON.
+**January 10**: [From Creation to Distribution—Building an AI-Native Content Engine](../INSIGHTS/4.md) was published, proposing the core principle of "Deep in Creation, Shallow in Distribution." This is the soul of CZON.
 
-**January 14**: [From the Battlefield to Digital Space: The Inspirational Significance of Su Yu's Combat Directives for the Collaborative Framework of New-Era Multi-Agent Systems](../INSIGHTS/5.md) was published, showcasing CZ's remarkable ability for interdisciplinary integration.
+**January 14**: [From Battlefield to Digital Space: On the Inspirational Significance of Su Yu's Combat Orders for a New Era Multi-Agent System Collaboration Framework](../INSIGHTS/5.md) was published, showcasing CZ's astonishing ability for interdisciplinary integration.
 
-**January 17**: The first draft of [Capital Protracted Warfare](../INSIGHTS/6.md) was completed, marking the birth of an investment strategic framework.
+**January 17**: The first draft of [Capital Endurance War](../INSIGHTS/6.md) was completed, giving birth to the prototype of an investment strategy framework.
 
-**January 20**: The core ideas of Capital Protracted Warfare took shape. CZ continuously clarified and refined his thoughts through discussions with friends.
+**January 20**: The core ideas of Capital Endurance War took shape. CZ continuously clarified and refined his thoughts through discussions with friends.
 
-**January 24**: Completed reading the Claude Constitution, understanding the design approach for AI personification. CZ began thinking about the future of AI from a broader perspective.
+**January 24**: Completed reading the Claude Constitution, understanding AI personality design approaches. CZ began thinking about the future of AI from a more macro perspective.
 
 **January 25**: Completed the lightweight OpenCode translation integration for CZON. This was an important attempt at technical practice.
 
-**January 26**: CZON directory structure refactored (v0.6.0), switching to paths instead of hashes. This was a difficult but necessary decision, demonstrating CZ's pragmatic engineering judgment.
+**January 26**: CZON directory structure refactoring (0.6.0), switching to paths instead of hashes. This was a difficult but necessary decision, showcasing CZ's pragmatic engineering judgment.
 
-**January 31**: Used OpenCode + Opus 4.5 to complete the experimental code for Capital Protracted Warfare. This was an important milestone—theory began moving towards empirical validation.
+**January 31**: Used OpenCode + Opus 4.5 to complete the Capital Endurance War experimental code. This was an important milestone—theory began moving towards empirical validation.
 
-**February 1**: Refactored the experimental design for Capital Protracted Warfare, proposing a three-layer structure of "market sequence, signal strategy, betting strategy." This marked a deepening of thought.
+**February 1**: Refactored the Capital Endurance War experimental design, proposing a three-layer structure of "Market Sequence, Signal Strategy, Betting Strategy." This was a sign of deepening thought.
 
-**February 3**: [Returning to the Essence: Complexity is an Inevitable Path of Cognition](../INSIGHTS/7.md) was published, drawing a poetic conclusion to this month's intellectual exploration.
+**February 3**: [Returning to Simplicity: Complexity is the Inevitable Path of Cognition](../INSIGHTS/7.md) was published, drawing a poetic conclusion to this month's intellectual exploration.
 
-On this timeline, we see the complete trajectory of a thinker: from theoretical construction to engineering practice, from success to failure, from confidence to renewed questioning. Each step accumulates, each step evolves.
+On this timeline, we see the complete trajectory of a thinker: from theoretical construction to engineering practice, from success to failure, from full confidence to renewed questioning. Each step accumulates, each step evolves.
 
 ---
 
@@ -192,93 +177,93 @@ On this timeline, we see the complete trajectory of a thinker: from theoretical 
 In this repository, there are many sentences worth savoring repeatedly. They are like pearls scattered in the ocean of words, waiting to be discovered:
 
 > "I would not give a fig for the simplicity this side of complexity, but I would give my life for the simplicity on the other side of complexity."
-> —— Oliver Wendell Holmes Jr., quoted in [Returning to the Essence: Complexity is an Inevitable Path of Cognition](../INSIGHTS/7.md)
+> —— Oliver Wendell Holmes Jr., quoted in [Returning to Simplicity: Complexity is the Inevitable Path of Cognition](../INSIGHTS/7.md)
 
 > "Good abstraction must be built upon a profound understanding of the problem domain. AI can help you write code, but it cannot complete for you that cognitive process of 'wrestling with complexity.'"
-> —— [Returning to the Essence: Complexity is an Inevitable Path of Cognition](../INSIGHTS/7.md)
+> —— [Returning to Simplicity: Complexity is the Inevitable Path of Cognition](../INSIGHTS/7.md)
 
 > "Use losses you can afford to bear, to bet on gains you 'cannot afford' to miss."
-> —— [Capital Protracted Warfare](../INSIGHTS/6.md)
+> —— [Capital Endurance War](../INSIGHTS/6.md)
 
 > "Take it slow, it's faster. Living long is the greatest compound interest."
-> —— Qian Manman, quoted in [《Qipa Shuo》4v4 Debate: Steady Growth vs. Class Leap](../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md)
+> —— Qian Manman, quoted in [《奇葩说》4v4 Debate: Steady Growth vs. Class Leap](../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md)
 
-> "When steady growth cannot save your life, class leap is not a choice but survival."
-> —— Sun Xianshi, quoted in [《Qipa Shuo》4v4 Debate: Steady Growth vs. Class Leap](../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md)
+> "When steady growth cannot save your life, class leap is not a choice, but survival."
+> —— Sun Xianshi, quoted in [《奇葩说》4v4 Debate: Steady Growth vs. Class Leap](../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md)
 
-> "I do not seek to be omnipotent, but to do what is right."
+> "I do not seek to be omnipotent, but to do what ought to be done."
 > —— CZ's life attitude, reflected in multiple LOGS
 
-> "Upon hearing the Way in the morning, one could die content in the evening. Although I do not wish to die yet and still pursue worldly success, this is also to have the ability to experience more and thus understand more."
+> "Upon hearing the Way in the morning, one can die content in the evening. Although I don't want to die yet, I am still pursuing success in the secular sense, which is also to have the ability to experience more and thus understand more."
 > —— [README.md](../README.md)
 
 ---
 
 ## Index of Imagery
 
-In CZ's writing, several recurring images form the undertone of his thoughts:
+In CZ's writing, several recurring images form the background of his thoughts:
 
-**Flame and Spark**: "A spark of thought, potential just born"—the starting point of content creation is as tiny as a spark, requiring careful nurturing to grow into a blazing flame.
+**Flame and Spark**: "A spark of thought, potential first stirs"—the starting point of content creation is as tiny as a spark, needing careful nurturing to burn into a flame.
 
-**Mountain Peak and Climbing**: "Refined a hundred times, its spirit grows strong"—the process from chaos to clarity, from vagueness to certainty, is like climbing a high mountain.
+**Mountain Peak and Climbing**: "Refined a hundred times, momentum grows grander"—the process from chaos to clarity, from vagueness to certainty, is like climbing a high mountain.
 
-**River and Flow**: "To reach the world, it bows its head low"—content must adapt and simplify during distribution, but this is not surrender; it is to flow into a broader ocean.
+**River and Flow**: "To reach the four seas, it bows its head low"—content needs to adapt and simplify for distribution, but this is not surrender; it is to flow into a wider ocean.
 
-**Echo and Resonance**: "Yet borrows echoes to soar high and glow"—audience feedback is the continuation of content vitality, the secondary accumulation of potential energy.
+**Echo and Resonance**: "Yet rides the echoes back into the clouds"—audience feedback is the continuation of content vitality, the secondary accumulation of potential energy.
 
-**Risk Control Line**—This is the core imagery in Capital Protracted Warfare. It is not a cold mathematical curve but the psychological bottom line of an investor, the sense of security of "having a way out."
+**Risk Control Line**—This is the core imagery in Capital Endurance War. It is not a cold mathematical curve but the psychological bottom line of an investor, the sense of security of "having a way out."
 
-**Battlefield and Command Post**—The Su Yu Combat Directive framework brings military metaphors into AI collaborative systems. Concepts like command posts, reserve forces, and collaboration protocols are reinterpreted as engineering methodologies.
+**Battlefield and Command Post**—The Su Yu Combat Orders framework brings war metaphors into AI collaboration systems. Command posts, reserve forces, collaboration protocols—these military concepts are reinterpreted as engineering methodologies.
 
-**Snow and Tea**—In LOGS/20.md, CZ describes the scene of brewing tea on a snowy day. This is a quiet image representing the thinker's relationship with the world: maintaining inner peace amidst the noise of the digital age.
+**Snow and Tea**—In LOGS/20.md, CZ describes the scene of brewing tea on a snowy day. This is a quiet image representing the thinker's relationship with the world: maintaining inner peace amidst the noisy digital age.
 
 ---
 
 ## Story Threads
 
-### Story One: The Exploration and Frustration of AI Programming
+### Story One: The Exploration and Setbacks of AI Programming
 
-**Cause**: CZ hoped to use AI to assist programming and improve development efficiency.
+**Cause**: CZ wanted to use AI to assist programming and improve development efficiency.
 
-**Development**: He tried various methods, including vibe-kanban, Claude Code, OpenCode, etc. The process had moments of inspiration and frustrating failures.
+**Development**: He tried various methods, including vibe-kanban, Claude Code, OpenCode, etc. The process had moments of inspiration as well as frustrating failures.
 
-**Turning Point**: In [Vibe Coding Major Failure](../LOGS/2.md), CZ realized that AI is currently not suitable for writing object-oriented programming code. He turned to traditional programming, returning to fundamentals.
+**Turning Point**: In [Vibe Coding Big Failure](../LOGS/2.md), CZ realized AI is currently not suitable for writing Object-Oriented Programming code. He turned to traditional programming, returning to fundamentals.
 
-**Result**: CZ gained a soberer understanding of AI programming—AI is a powerful tool but not a universal solution. The key lies in understanding boundaries and using it correctly.
+**Result**: CZ gained a soberer understanding of AI programming—AI is a powerful tool, but not a universal solution. The key lies in understanding boundaries and using it correctly.
 
-### Story Two: The Construction and Validation of Capital Protracted Warfare
+### Story Two: The Construction and Validation of Capital Endurance War
 
 **Cause**: CZ wanted to provide individual investors with an actionable investment framework.
 
-**Development**: From the first draft of [Capital Protracted Warfare](../INSIGHTS/6.md), to the deepening in [Reiteration and Discussion of Concepts](../LOGS/35.md), and then to [Experimental Design Refactoring](../LOGS/39.md), the framework continuously improved.
+**Development**: From the first draft of [Capital Endurance War](../INSIGHTS/6.md), to the deepening in [Reiteration and Discussion of Concepts](../LOGS/35.md), to the [Experimental Design Refactoring](../LOGS/39.md), the framework was continuously refined.
 
 **Turning Point**: Moving from theory to empirical validation. Using OpenCode + Opus 4.5 to complete experimental code, transforming abstract concepts into testable hypotheses.
 
-**Result**: An investment framework integrating mathematical rigor and philosophical depth was born, open-sourced on GitHub, and subjected to public scrutiny and validation.
+**Result**: An investment framework blending mathematical rigor and philosophical depth was born, open-sourced on GitHub, and subjected to public scrutiny and validation.
 
 ### Story Three: The Theoretical Migration of Multi-Agent Systems
 
 **Cause**: CZ contemplated how to achieve efficient collaboration in AI systems.
 
-**Development**: From [Controllable Trust Theory](../INSIGHTS/2.md) to [Migration of Su Yu's Combat Directive Framework](../INSIGHTS/5.md), he continuously sought cross-disciplinary inspiration.
+**Development**: From [Controllable Trust Theory](../INSIGHTS/2.md) to the [Migration of Su Yu's Combat Orders Framework](../INSIGHTS/5.md), he constantly sought cross-disciplinary inspiration.
 
-**Turning Point**: Migrating the art of military command to digital systems, proposing four principles: situation alignment, task decoupling, protocol standardization, and central coordination.
+**Turning Point**: Migrating the art of military command to digital systems, proposing four principles: Situation Alignment, Task Decoupling, Protocol Standardization, and Central Coordination.
 
-**Result**: A multi-agent collaborative framework integrating human military wisdom and modern AI technology was born, providing new ideas for future AI system design.
+**Result**: A multi-agent collaboration framework blending human military wisdom and modern AI technology was born, providing new ideas for future AI system design.
 
 ---
 
-## Emotional Journey
+## Emotional Thread
 
-In the 41 LOGS, CZ's emotions resemble a symphony of rises and falls:
+In the 41 LOGS, CZ's emotions are like a symphony of ups and downs:
 
-**Intertwined Excitement and Anxiety (Early January)**: The simultaneous publication of three core INSIGHTS articles marked a concentrated eruption of thought. However, the challenges of AI programming also caused CZ anxiety. In [The Dawn of Liberation is Coming](../LOGS/1.md), he wrote: "Unhappy for a second, then unhappy again."
+**Intertwined Excitement and Anxiety (Early January)**: The simultaneous publication of three core INSIGHTS articles marked a concentrated eruption of thought. However, the challenges of AI programming also caused CZ anxiety. In [The Dawn of Liberation is Coming](../LOGS/1.md), he wrote: "Annoyed for a second, then annoyed again."
 
-**Exploration and Frustration (Mid-January)**: The failure of Vibe Coding and the exposure of AI programming's limitations led CZ through multiple frustrations. But he did not give up; he continuously adjusted his direction. In [The Power of Idealized Limit Thinking](../LOGS/24.md), he wrote: "Idealization reduces complexity; only when returning to reality can we better understand the complexity of reality."
+**Exploration and Setback (Mid-January)**: The failure of Vibe Coding, the exposure of AI programming limitations—CZ experienced multiple setbacks. But he did not give up; he constantly adjusted his direction. In [The Power of Idealized Limit Thinking](../LOGS/24.md), he wrote: "Idealization reduces complexity; only when returning to reality can we better understand the complexity of reality."
 
-**Settling and Clarification (Late January - Early February)**: After repeated thinking and practice, CZ gradually found his rhythm. The refinement of the Capital Protracted Warfare framework, the refactoring of CZON, and the theoretical construction of multi-agent systems all moved towards clearer directions. In [Returning to the Essence: Complexity is an Inevitable Path of Cognition](../INSIGHTS/7.md), he wrote:
+**Precipitation and Clarity (Late January - Early February)**: After repeated thinking and practice, CZ gradually found his rhythm. The refinement of the Capital Endurance War framework, the refactoring of CZON, and the theoretical construction of multi-agent systems all moved towards clearer directions. In [Returning to Simplicity: Complexity is the Inevitable Path of Cognition](../INSIGHTS/7.md), he wrote:
 
-> "People who have experienced complexity and those who have not have different understandings of 'simplicity.' Is the 'simplicity' of someone who has never left their small town the same as that of someone who has traveled the world and chosen to return? The latter's simplicity is simplicity by choice. They know what they have given up and why they chose to stay."
+> "People who have experienced complexity and those who haven't have different understandings of 'simplicity.' Is the 'simplicity' of someone who has never left their small town the same as that of someone who has traveled the world and chosen to return? The latter's simplicity is a chosen simplicity. They know what they have given up and why they chose to stay."
 
 This is a mature declaration of a thinker.
 
@@ -288,24 +273,14 @@ This is a mature declaration of a thinker.
 
 After reading all the words in this repository, we finally understand the true meaning of Oliver Wendell Holmes Jr.'s statement.
 
-Simplicity on this side of complexity is a false simplicity—the promise of crash courses, the myth of mastery in three days, the "wisdom" obtained without experience. This simplicity is worthless because it has not been tested or tempered.
+Simplicity on this side of complexity is a false simplicity—the promise of crash courses, the myth of mastery in three days, the "wisdom" obtained without experience. This simplicity is worthless because it has not been tested, not been tempered.
 
-Simplicity on the other side of complexity is true simplicity—the clarity maintained after enduring market blows, the curiosity maintained after experiencing AI failures, the discipline maintained after experiencing investment fluctuations. This simplicity is earned with life and deserves respect.
+Simplicity on the other side of complexity is true simplicity—the clarity maintained after enduring the harshness of the market, the curiosity maintained after experiencing AI failures, the discipline maintained after experiencing investment ups and downs. This simplicity is earned with life and deserves respect.
 
-CZ's repository is a testament to the journey on this side of complexity. We see his thoughts, his attempts, his failures, his growth. We see a real person, not a perfect idol.
+CZ's repository is a witness to the journey on this side of complexity. We see his thinking, his attempts, his failures, his growth. We see a real person, not a perfect idol.
 
 This is precisely the most precious value of this repository.
 
-In this era of AI proliferation and widespread anxiety, CZ tells us: do not try to take shortcuts. Complexity is an inevitable path of cognition. Allow yourself to experience complexity, allow yourself to make mistakes, allow yourself to grope in the dark. True wisdom is not the absence of confusion but moving forward with confusion.
+In this era of AI proliferation and widespread anxiety, CZ tells us: Do not try to take shortcuts. Complexity is the inevitable path of cognition. Allow yourself to experience complexity, allow yourself to make mistakes, allow yourself to grope in the dark. True wisdom is not the absence of confusion, but moving forward with confusion.
 
-> "The other side of complexity is not merely 'simple conclusions' but also 'the ability to master complexity.' This is probably the true meaning of returning to the essence."
-
-In the digital forest woven with code and words, CZ continues his exploration. And his words are the signposts left for those who follow.
-
----
-
-**Related Links**:
-- [Objective and Neutral Style Analysis Report](./1-objective.md)
-- [Objective and Critical Style Analysis Report](./2-critical.md)
-- [Praising and Encouraging Style Analysis Report](./3-positive.md)
-- [Popular Science Introduction Style Analysis Report](./4-popular.md)
+> "The other side of complexity is not merely 'simple conclusions,' but more importantly, 'the ability to驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭驾驭

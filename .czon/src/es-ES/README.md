@@ -1,30 +1,17 @@
----
-"title": "Perfil y Reflexiones Personales de CZ"
-"summary": "Este artículo es una breve biografía de CZ, un experto en trading cuantitativo y tecnología financiera, y fundador de No Trade No Life (NTNL). Se describe a sí mismo como una persona con un cerebro de alto consumo energético, al que le gusta pensar y escribir, y que busca que las cosas fluyan de manera natural y lógica. Cita 'Si por la mañana comprendes el Tao, por la tarde puedes morir en paz' para expresar su búsqueda del conocimiento, al mismo tiempo que reconoce que aún persigue el éxito mundano para poder experimentar más de la vida. Cree que la vida en sí misma no tiene significado, y que comprenderlo todo es su propio significado. Su sitio web sirve para almacenar sus reflexiones personales, registros y puntos de vista, y bromea diciendo que este contenido podría servir como materia prima para que una IA lo 'reviva'."
-"tags":
-  - "Trading Cuantitativo"
-  - "Fintech"
-  - "Perfil Personal"
-  - "Filosofía de Vida"
-  - "Reflexión"
-  - "Escritura"
-  - "IA"
----
+# README
 
-# LÉEME
+Hola, aquí está `CZ`, o `zccz14`.
 
-Hola, aquí `CZ`, o `zccz14`.
-
-Mi área de especialización es el trading cuantitativo y la tecnología financiera (Fintech).
+Mi área de especialización es el trading cuantitativo y la tecnología financiera.
 
 Fundador de [No Trade No Life (NTNL)](https://github.com/No-Trade-No-Life/).
 
-Cerebro de alto consumo energético. Me gusta pensar y escribir, y busco que las cosas fluyan de manera natural y lógica, como el agua que encuentra su cauce.
+Cerebro de alto consumo energético, me gusta pensar y escribir, busco que las cosas fluyan de manera natural y lógica.
 
-"Si por la mañana comprendes el Tao, por la tarde puedes morir en paz". Aunque no quiero morir todavía, sigo persiguiendo el éxito en términos mundanos, lo que también me permite tener la capacidad de experimentar más y, por lo tanto, comprender más. La vida se trata de experiencias, en sí misma no tiene un significado inherente; comprenderlo todo es mi significado.
+"Si por la mañana comprendes el Tao, por la noche puedes morir en paz". Aunque aún no quiero morir, sigo persiguiendo el éxito en el sentido mundano, y esto también es para tener la capacidad de experimentar más y así comprender más. La vida es para experimentar, en sí misma no tiene ningún significado, comprenderlo todo es mi significado.
 
-Mi lengua materna es el chino. Puedo comunicarme en inglés y japonés, y actualmente estoy aprendiendo español. Espero poder comunicarme en dieciocho idiomas en el futuro. Comprender diferentes culturas e idiomas es una vía crucial para entender el mundo.
+Mi lengua materna es el chino, puedo comunicarme en inglés y japonés, actualmente estoy aprendiendo español, espero poder comunicarme en dieciocho idiomas en el futuro. Comprender diferentes culturas e idiomas es una vía importante para entender el mundo.
 
-Este sitio sirve para almacenar algunas de mis reflexiones personales, registros y puntos de vista.
+Este sitio se utiliza para almacenar algunas reflexiones, registros y opiniones personales.
 
-Si algún día ya no estoy, esto será la materia prima para que una IA me 'reviva'.
+Si algún día ya no estoy, estos serán la materia prima para que la IA me resucite.
