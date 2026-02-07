@@ -1884,127 +1884,132 @@
       "metadata": {
         "title": "资本市场的三体动力学假说",
         "description": "提出资本市场是一个由动量资本、价值资本和流动性资本构成的三体系统，解释市场复杂动态和统计规律。",
-        "short_summary": "文章提出资本市场三体模型，将资本分为动量、价值和流动性三类，解释市场波动和崩溃现象。系统通过反馈回路相互作用，决定市场稳定或崩溃状态。类比天体三体问题，市场长期不可预测但统计规律稳健。",
-        "audience": "金融研究者、市场分析师、量化交易员、经济学学生及对资本市场动力学感兴趣的专业人士",
+        "short_summary": "文章提出资本市场由动量资本、价值资本和流动性资本构成的三体系统，解释市场复杂动态。三类资本通过正负反馈相互作用，导致波动率聚集、崩溃与恢复等现象。类比天体三体问题，市场长期不可预测但统计规律稳健。",
+        "audience": "金融研究者、市场分析师、投资者、经济学学生以及对资本市场动力学感兴趣的专业人士。",
         "key_points": [
-          "资本市场由动量资本、价值资本和流动性资本三类构成，基于对价格变化的反馈性质分类",
-          "三类资本相互作用产生正负反馈回路，决定市场稳定或崩溃状态，可用市场紧张度指标衡量",
-          "系统类比天体力学三体问题，长期预测困难但短期特性可预测，统计规律如肥尾分布稳健",
-          "收益率驱动的自然选择机制确保三类资本长期共存，维持市场生态平衡"
+          "资本市场由动量资本、价值资本和流动性资本三类本质不同的资本构成，形成三体系统。",
+          "三类资本通过正负反馈相互作用，产生波动率聚集、市场崩溃与恢复等复杂动力学行为。",
+          "系统状态取决于正负反馈回路的竞争，可能导致相变，长期预测困难但短期特性可预测。",
+          "收益率驱动的自然选择机制确保三类资本长期共存，维持市场生态平衡。",
+          "类比天体力学三体问题，市场统计特性（如肥尾分布、波动率聚集）稳健。"
         ],
-        "summary": "本文提出资本市场的三体动力学假说，将市场参与者分为动量资本（M）、价值资本（V）和流动性资本（L）三类，基于其对价格变化的反馈性质。这三类资本相互作用产生复杂的动力学行为，包括波动率聚集、市场崩溃与恢复等涌现现象。系统通过正负反馈回路竞争决定市场状态，可用市场紧张度指标衡量稳定性。文章类比天体力学三体问题，指出市场长期预测困难但短期特性可预测，统计规律稳健。最后补充了收益率驱动的自然选择机制，解释三类资本长期共存的原因。",
+        "summary": "本文提出资本市场的三体动力学假说，将市场参与者分为动量资本（M）、价值资本（V）和流动性资本（L）三类，基于其对价格变化的反馈性质。这三类资本相互作用产生复杂的动力学行为，包括波动率聚集、市场崩溃与恢复等涌现现象。核心机制包括正反馈回路导致崩溃螺旋，负反馈回路促进稳定恢复。系统状态取决于正负反馈的竞争，呈现相变特性。文章类比天体力学三体问题，指出市场长期预测困难但短期特性可预测，统计规律稳健。最后补充了收益率驱动的自然选择机制，解释三类资本长期共存的原因。",
         "slug": "capital-market-three-body-dynamics-hypothesis",
         "tags": [
           "资本市场",
-          "三体模型",
-          "动力学",
-          "波动率",
-          "反馈机制",
-          "市场崩溃",
-          "统计规律"
+          "三体动力学",
+          "动量资本",
+          "价值资本",
+          "流动性资本",
+          "市场波动",
+          "反馈机制"
         ],
         "inferred_date": "2026-02-07",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 2977,
-          "completion": 411,
-          "total": 3388
+          "prompt": 2982,
+          "completion": 451,
+          "total": 3433
         }
       },
-      "hash": "2da6e66c0a908b308dc0c2917ff9e7a1ef3fa3de33045fd97782fb7cc5361f17",
+      "hash": "f04a6db006ebc118caada7b48d49429da291fef5f22316c32790ffffc3df1438",
       "metadataTranslations": {
         "zh-Hans": {
           "title": "资本市场的三体动力学假说",
           "description": "提出资本市场是一个由动量资本、价值资本和流动性资本构成的三体系统，解释市场复杂动态和统计规律。",
-          "summary": "本文提出资本市场的三体动力学假说，将市场参与者分为动量资本（M）、价值资本（V）和流动性资本（L）三类，基于其对价格变化的反馈性质。这三类资本相互作用产生复杂的动力学行为，包括波动率聚集、市场崩溃与恢复等涌现现象。系统通过正负反馈回路竞争决定市场状态，可用市场紧张度指标衡量稳定性。文章类比天体力学三体问题，指出市场长期预测困难但短期特性可预测，统计规律稳健。最后补充了收益率驱动的自然选择机制，解释三类资本长期共存的原因。",
-          "short_summary": "文章提出资本市场三体模型，将资本分为动量、价值和流动性三类，解释市场波动和崩溃现象。系统通过反馈回路相互作用，决定市场稳定或崩溃状态。类比天体三体问题，市场长期不可预测但统计规律稳健。",
+          "summary": "本文提出资本市场的三体动力学假说，将市场参与者分为动量资本（M）、价值资本（V）和流动性资本（L）三类，基于其对价格变化的反馈性质。这三类资本相互作用产生复杂的动力学行为，包括波动率聚集、市场崩溃与恢复等涌现现象。核心机制包括正反馈回路导致崩溃螺旋，负反馈回路促进稳定恢复。系统状态取决于正负反馈的竞争，呈现相变特性。文章类比天体力学三体问题，指出市场长期预测困难但短期特性可预测，统计规律稳健。最后补充了收益率驱动的自然选择机制，解释三类资本长期共存的原因。",
+          "short_summary": "文章提出资本市场由动量资本、价值资本和流动性资本构成的三体系统，解释市场复杂动态。三类资本通过正负反馈相互作用，导致波动率聚集、崩溃与恢复等现象。类比天体三体问题，市场长期不可预测但统计规律稳健。",
           "key_points": [
-            "资本市场由动量资本、价值资本和流动性资本三类构成，基于对价格变化的反馈性质分类",
-            "三类资本相互作用产生正负反馈回路，决定市场稳定或崩溃状态，可用市场紧张度指标衡量",
-            "系统类比天体力学三体问题，长期预测困难但短期特性可预测，统计规律如肥尾分布稳健",
-            "收益率驱动的自然选择机制确保三类资本长期共存，维持市场生态平衡"
+            "资本市场由动量资本、价值资本和流动性资本三类本质不同的资本构成，形成三体系统。",
+            "三类资本通过正负反馈相互作用，产生波动率聚集、市场崩溃与恢复等复杂动力学行为。",
+            "系统状态取决于正负反馈回路的竞争，可能导致相变，长期预测困难但短期特性可预测。",
+            "收益率驱动的自然选择机制确保三类资本长期共存，维持市场生态平衡。",
+            "类比天体力学三体问题，市场统计特性（如肥尾分布、波动率聚集）稳健。"
           ],
-          "audience": "金融研究者、市场分析师、量化交易员、经济学学生及对资本市场动力学感兴趣的专业人士",
+          "audience": "金融研究者、市场分析师、投资者、经济学学生以及对资本市场动力学感兴趣的专业人士。",
           "tags": [
             "资本市场",
-            "三体模型",
-            "动力学",
-            "波动率",
-            "反馈机制",
-            "市场崩溃",
-            "统计规律"
+            "三体动力学",
+            "动量资本",
+            "价值资本",
+            "流动性资本",
+            "市场波动",
+            "反馈机制"
           ]
         },
         "en-US": {
           "title": "The Three-Body Dynamics Hypothesis of Capital Markets",
-          "description": "Proposes that capital markets are a three-body system composed of momentum capital, value capital, and liquidity capital, explaining complex market dynamics and statistical patterns.",
-          "summary": "This article presents the three-body dynamics hypothesis of capital markets, categorizing market participants into momentum capital (M), value capital (V), and liquidity capital (L) based on their feedback responses to price changes. The interaction of these three types of capital generates complex dynamic behaviors, including emergent phenomena such as volatility clustering, market crashes, and recoveries. The system determines market states through competition in positive and negative feedback loops, measurable by a market tension indicator. Drawing an analogy to the three-body problem in celestial mechanics, the article notes that long-term market prediction is difficult, but short-term characteristics are predictable, with robust statistical patterns. Finally, it adds a natural selection mechanism driven by returns to explain the long-term coexistence of the three capital types.",
-          "short_summary": "The article proposes a three-body model for capital markets, dividing capital into momentum, value, and liquidity types to explain market volatility and crash phenomena. The system interacts through feedback loops, determining stable or crash states. Analogous to the celestial three-body problem, markets are unpredictable in the long term but exhibit robust statistical patterns.",
+          "description": "Proposes that capital markets constitute a three-body system composed of momentum capital, value capital, and liquidity capital, explaining complex market dynamics and statistical regularities.",
+          "summary": "This article introduces the three-body dynamics hypothesis of capital markets, categorizing market participants into three types based on their feedback to price changes: momentum capital (M), value capital (V), and liquidity capital (L). The interactions among these three types of capital generate complex dynamic behaviors, including emergent phenomena such as volatility clustering, market crashes, and recoveries. Core mechanisms involve positive feedback loops leading to crash spirals and negative feedback loops promoting stable recoveries. The system's state depends on the competition between positive and negative feedback, exhibiting phase transition characteristics. Drawing an analogy to the three-body problem in celestial mechanics, the article notes that long-term market prediction is difficult, but short-term characteristics are predictable, with robust statistical regularities. Finally, it adds a natural selection mechanism driven by returns to explain the long-term coexistence of the three types of capital.",
+          "short_summary": "The article proposes that capital markets form a three-body system composed of momentum capital, value capital, and liquidity capital, explaining complex market dynamics. The three types of capital interact through positive and negative feedback, leading to phenomena such as volatility clustering, crashes, and recoveries. Analogous to the three-body problem in celestial mechanics, markets are unpredictable in the long term but exhibit robust statistical regularities.",
           "key_points": [
-            "Capital markets consist of three types of capital: momentum, value, and liquidity, classified based on their feedback responses to price changes.",
-            "The interaction of these three capital types creates positive and negative feedback loops, determining market stability or crash states, measurable by a market tension indicator.",
-            "Analogous to the three-body problem in celestial mechanics, long-term prediction is difficult, but short-term characteristics are predictable, with robust statistical patterns such as fat-tailed distributions.",
-            "A natural selection mechanism driven by returns ensures the long-term coexistence of the three capital types, maintaining market ecological balance."
+            "Capital markets consist of three fundamentally different types of capital—momentum capital, value capital, and liquidity capital—forming a three-body system.",
+            "The three types of capital interact through positive and negative feedback, generating complex dynamic behaviors such as volatility clustering, market crashes, and recoveries.",
+            "The system's state depends on the competition between positive and negative feedback loops, potentially leading to phase transitions; long-term prediction is difficult, but short-term characteristics are predictable.",
+            "A natural selection mechanism driven by returns ensures the long-term coexistence of the three types of capital, maintaining market ecological balance.",
+            "Analogous to the three-body problem in celestial mechanics, market statistical characteristics (e.g., fat-tailed distributions, volatility clustering) are robust."
           ],
-          "audience": "Financial researchers, market analysts, quantitative traders, economics students, and professionals interested in capital market dynamics.",
+          "audience": "Financial researchers, market analysts, investors, economics students, and professionals interested in capital market dynamics.",
           "tags": [
             "Capital Markets",
-            "Three-Body Model",
-            "Dynamics",
-            "Volatility",
-            "Feedback Mechanisms",
-            "Market Crashes",
-            "Statistical Patterns"
+            "Three-Body Dynamics",
+            "Momentum Capital",
+            "Value Capital",
+            "Liquidity Capital",
+            "Market Volatility",
+            "Feedback Mechanisms"
           ]
         },
         "ja-JP": {
           "title": "資本市場の三体動力学仮説",
           "description": "資本市場は、モメンタム資本、バリュー資本、流動性資本から構成される三体システムであると提唱し、市場の複雑な動態と統計的規則性を説明する。",
-          "summary": "本稿は資本市場の三体動力学仮説を提唱し、市場参加者を価格変動へのフィードバック特性に基づき、モメンタム資本（M）、バリュー資本（V）、流動性資本（L）の三つに分類する。これら三種類の資本が相互作用することで、ボラティリティ・クラスタリング、市場崩壊と回復などの創発現象を含む複雑な動力学行動が生じる。システムは正負のフィードバックループの競合を通じて市場状態を決定し、市場緊張度指標で安定性を測定可能である。天体力学の三体問題に類比し、市場の長期予測は困難だが短期特性は予測可能であり、統計的規則性は頑健であると指摘する。最後に、収益率駆動の自然選択メカニズムを補足し、三種類の資本が長期共存する理由を説明する。",
-          "short_summary": "本稿は資本市場の三体モデルを提唱し、資本をモメンタム、バリュー、流動性の三つに分類し、市場の変動と崩壊現象を説明する。システムはフィードバックループを通じて相互作用し、市場の安定または崩壊状態を決定する。天体の三体問題に類比し、市場は長期では予測不能だが統計的規則性は頑健である。",
+          "summary": "本稿は、資本市場の三体動力学仮説を提唱し、市場参加者をモメンタム資本（M）、バリュー資本（V）、流動性資本（L）の3種類に分類する。これは価格変動に対するフィードバック特性に基づく。これら3種類の資本が相互作用することで、ボラティリティ・クラスタリング、市場崩壊と回復などの創発現象を含む複雑な動力学行動が生じる。中核メカニズムには、崩壊スパイラルを引き起こす正のフィードバックループと、安定回復を促進する負のフィードバックループが含まれる。システムの状態は正負のフィードバックの競合に依存し、相転移特性を示す。天体力学の三体問題に類比し、市場の長期予測は困難だが短期特性は予測可能であり、統計的規則性は頑健であると指摘する。最後に、収益率駆動の自然選択メカニズムを補足し、3種類の資本が長期に共存する理由を説明する。",
+          "short_summary": "本稿は、資本市場がモメンタム資本、バリュー資本、流動性資本から構成される三体システムであると提唱し、市場の複雑な動態を説明する。3種類の資本は正負のフィードバックを通じて相互作用し、ボラティリティ・クラスタリング、崩壊と回復などの現象を引き起こす。天体の三体問題に類比し、市場は長期では予測不能だが統計的規則性は頑健である。",
           "key_points": [
-            "資本市場は、価格変動へのフィードバック特性に基づき、モメンタム資本、バリュー資本、流動性資本の三種類で構成される",
-            "三種類の資本が相互作用して正負のフィードバックループを生み出し、市場の安定または崩壊状態を決定し、市場緊張度指標で測定可能である",
-            "システムは天体力学の三体問題に類比され、長期予測は困難だが短期特性は予測可能であり、ファットテール分布などの統計的規則性は頑健である",
-            "収益率駆動の自然選択メカニズムにより、三種類の資本が長期共存し、市場の生態的均衡を維持する"
+            "資本市場は、本質的に異なるモメンタム資本、バリュー資本、流動性資本の3種類の資本から構成され、三体システムを形成する。",
+            "3種類の資本は正負のフィードバックを通じて相互作用し、ボラティリティ・クラスタリング、市場崩壊と回復などの複雑な動力学行動を生み出す。",
+            "システムの状態は正負のフィードバックループの競合に依存し、相転移を引き起こす可能性があり、長期予測は困難だが短期特性は予測可能である。",
+            "収益率駆動の自然選択メカニズムにより、3種類の資本が長期に共存し、市場の生態系バランスが維持される。",
+            "天体力学の三体問題に類比し、市場の統計的特性（ファットテール分布、ボラティリティ・クラスタリングなど）は頑健である。"
           ],
-          "audience": "金融研究者、市場アナリスト、クオンツトレーダー、経済学学生、および資本市場動力学に関心のある専門家",
+          "audience": "金融研究者、市場アナリスト、投資家、経済学学生、および資本市場動力学に関心のある専門家。",
           "tags": [
             "資本市場",
-            "三体モデル",
-            "動力学",
-            "ボラティリティ",
-            "フィードバックメカニズム",
-            "市場崩壊",
-            "統計的規則性"
+            "三体動力学",
+            "モメンタム資本",
+            "バリュー資本",
+            "流動性資本",
+            "市場変動",
+            "フィードバックメカニズム"
           ]
         },
         "es-ES": {
           "title": "Hipótesis de la Dinámica de Tres Cuerpos en los Mercados de Capitales",
           "description": "Propone que el mercado de capitales es un sistema de tres cuerpos compuesto por capital de impulso, capital de valor y capital de liquidez, explicando la dinámica compleja y las regularidades estadísticas del mercado.",
-          "summary": "Este artículo presenta la hipótesis de la dinámica de tres cuerpos en los mercados de capitales, clasificando a los participantes en tres categorías: capital de impulso (M), capital de valor (V) y capital de liquidez (L), según su respuesta a los cambios de precios. La interacción entre estos tres tipos de capital genera comportamientos dinámicos complejos, incluyendo fenómenos emergentes como la agrupación de volatilidad, colapsos y recuperaciones del mercado. El sistema determina el estado del mercado a través de la competencia entre bucles de retroalimentación positiva y negativa, medible mediante un indicador de tensión del mercado. El artículo hace una analogía con el problema de tres cuerpos en mecánica celeste, señalando que la predicción a largo plazo es difícil, pero las características a corto plazo son predecibles, con regularidades estadísticas robustas. Finalmente, se añade un mecanismo de selección natural impulsado por los rendimientos, explicando la coexistencia a largo plazo de los tres tipos de capital.",
-          "short_summary": "El artículo propone un modelo de tres cuerpos para los mercados de capitales, dividiendo el capital en tres categorías: impulso, valor y liquidez, para explicar la volatilidad y los colapsos del mercado. El sistema interactúa a través de bucles de retroalimentación, determinando estados de estabilidad o colapso. Por analogía con el problema de tres cuerpos en astronomía, el mercado es impredecible a largo plazo, pero sus regularidades estadísticas son robustas.",
+          "summary": "Este artículo presenta la hipótesis de la dinámica de tres cuerpos en los mercados de capitales, clasificando a los participantes del mercado en tres categorías: capital de impulso (M), capital de valor (V) y capital de liquidez (L), basándose en su naturaleza de retroalimentación ante cambios de precios. La interacción entre estos tres tipos de capital genera comportamientos dinámicos complejos, incluyendo fenómenos emergentes como la agrupación de volatilidad, colapsos y recuperaciones del mercado. Los mecanismos centrales incluyen bucles de retroalimentación positiva que conducen a espirales de colapso y bucles de retroalimentación negativa que promueven la estabilidad y recuperación. El estado del sistema depende de la competencia entre retroalimentaciones positivas y negativas, mostrando características de transición de fase. El artículo hace una analogía con el problema de tres cuerpos en mecánica celeste, señalando que la predicción a largo plazo es difícil pero las características a corto plazo son predecibles, con regularidades estadísticas robustas. Finalmente, se añade un mecanismo de selección natural impulsado por rendimientos, explicando la coexistencia a largo plazo de los tres tipos de capital.",
+          "short_summary": "El artículo propone que el mercado de capitales es un sistema de tres cuerpos compuesto por capital de impulso, capital de valor y capital de liquidez, explicando la dinámica compleja del mercado. Los tres tipos de capital interactúan a través de retroalimentaciones positivas y negativas, causando fenómenos como agrupación de volatilidad, colapsos y recuperaciones. Por analogía con el problema de tres cuerpos en astronomía, el mercado es impredecible a largo plazo pero sus regularidades estadísticas son robustas.",
           "key_points": [
-            "El mercado de capitales está compuesto por tres tipos de capital: impulso, valor y liquidez, clasificados según su respuesta a los cambios de precios",
-            "La interacción entre los tres tipos de capital genera bucles de retroalimentación positiva y negativa, determinando estados de estabilidad o colapso del mercado, medibles mediante un indicador de tensión del mercado",
-            "El sistema se asemeja al problema de tres cuerpos en mecánica celeste, donde la predicción a largo plazo es difícil, pero las características a corto plazo son predecibles, con regularidades estadísticas robustas como la distribución de colas pesadas",
-            "Un mecanismo de selección natural impulsado por los rendimientos asegura la coexistencia a largo plazo de los tres tipos de capital, manteniendo el equilibrio ecológico del mercado"
+            "El mercado de capitales está compuesto por tres tipos de capital fundamentalmente diferentes: capital de impulso, capital de valor y capital de liquidez, formando un sistema de tres cuerpos.",
+            "Los tres tipos de capital interactúan a través de retroalimentaciones positivas y negativas, generando comportamientos dinámicos complejos como agrupación de volatilidad, colapsos y recuperaciones del mercado.",
+            "El estado del sistema depende de la competencia entre bucles de retroalimentación positiva y negativa, pudiendo llevar a transiciones de fase; la predicción a largo plazo es difícil pero las características a corto plazo son predecibles.",
+            "Un mecanismo de selección natural impulsado por rendimientos asegura la coexistencia a largo plazo de los tres tipos de capital, manteniendo el equilibrio ecológico del mercado.",
+            "Por analogía con el problema de tres cuerpos en mecánica celeste, las características estadísticas del mercado (como distribuciones de colas pesadas y agrupación de volatilidad) son robustas."
           ],
-          "audience": "Investigadores financieros, analistas de mercado, traders cuantitativos, estudiantes de economía y profesionales interesados en la dinámica de los mercados de capitales",
+          "audience": "Investigadores financieros, analistas de mercado, inversores, estudiantes de economía y profesionales interesados en la dinámica de los mercados de capitales.",
           "tags": [
             "Mercados de capitales",
-            "Modelo de tres cuerpos",
-            "Dinámica",
-            "Volatilidad",
-            "Mecanismo de retroalimentación",
-            "Colapso del mercado",
-            "Regularidades estadísticas"
+            "Dinámica de tres cuerpos",
+            "Capital de impulso",
+            "Capital de valor",
+            "Capital de liquidez",
+            "Volatilidad del mercado",
+            "Mecanismos de retroalimentación"
           ]
         }
       },
-      "metadataTranslationHash": "7598d61912e3713eaa677b13401e0801793aded8d79b36e0f3d8464e26aa0141",
+      "metadataTranslationHash": "41e5a680654dbf57ec5adb64ebf10fa4ec6d298fb3f87d4c606a3fbad2ff9d10",
       "category": "Financial Market Analysis",
-      "nativeMarkdownHash": "2da6e66c0a908b308dc0c2917ff9e7a1ef3fa3de33045fd97782fb7cc5361f17"
+      "nativeMarkdownHash": "f04a6db006ebc118caada7b48d49429da291fef5f22316c32790ffffc3df1438"
     },
     {
       "hash": "da8d52ef34b80e4042d7cb1ff843f94236cac3ee00a57cb8ef0bece86fbc123d",
