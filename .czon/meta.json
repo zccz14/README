@@ -19,7 +19,7 @@
         },
         {
           "title": "AI 总结",
-          "href": "categories_AI%20Analysis%20Reports.html"
+          "href": "categories_AI%20Summary.html"
         },
         {
           "title": "CZON",
@@ -371,7 +371,7 @@
         }
       },
       "metadataTranslationHash": "e6f1b3b84df5e3d8948462844700c35a33fb832197b9a798d6e6a0ada576da6b",
-      "category": "Philosophical Reflection",
+      "category": "AI Summary",
       "nativeMarkdownHash": "f83a106e61d7c7b5eec44ba65b34495e2f27ddbe391e40569b5fb41cc46107db"
     },
     {
@@ -586,7 +586,7 @@
         }
       },
       "metadataTranslationHash": "b642721fc13ea32157bb8c4362494fac90a1d7ce5101226d739303be6f7f67f4",
-      "category": "Knowledge Base Evaluation",
+      "category": "AI Summary",
       "nativeMarkdownHash": "15904af8aed8d54754fda04d6e59ba2cbbf92624399817c19751842fb84b443c"
     },
     {
@@ -814,7 +814,7 @@
         }
       },
       "metadataTranslationHash": "cd20f57e418125ae259842c5725a697b9d940c192a5524cc070c7c08086000be",
-      "category": "Historical Analysis",
+      "category": "AI Summary",
       "nativeMarkdownHash": "2ddca49ce81173a3d4a6f5290188fa21b5f62d868d04656826f7edab01735f84"
     },
     {
@@ -987,7 +987,7 @@
         }
       },
       "metadataTranslationHash": "7cb0b677d13dfd368457b7525887c06f699d5ec72fcd3f3427ab0064812312ee",
-      "category": "Quantitative Finance",
+      "category": "AI Summary",
       "nativeMarkdownHash": "5fbd5ae26d6b1fd204666b7077238fd2606ac9a730031704a27ec66e17d9cbea"
     },
     {
@@ -1154,7 +1154,7 @@
         }
       },
       "metadataTranslationHash": "cf65cb85a9aed86914aaac50712440f6521dbc1adc9d8cc02151092428772063",
-      "category": "Philosophical Reflection",
+      "category": "AI Summary",
       "nativeMarkdownHash": "0af89bbf7ebad1d3e94665d31cd7429dde083f0f29d09f079b224843cd70bb98"
     },
     {
@@ -1326,7 +1326,7 @@
         }
       },
       "metadataTranslationHash": "946f228c5265a8ebfd8d3810a9e32dd8aa10c832cee33e20eb3a0e9ea886021c",
-      "category": "Content Management",
+      "category": "AI Summary",
       "nativeMarkdownHash": "a936b1002e9a997805beb50ab80c15b811ac7033ce79e18aaeeb8b1d6b0635b9"
     },
     {
@@ -1544,7 +1544,7 @@
         }
       },
       "metadataTranslationHash": "c12e6ceb73cd3e8b3b8f500b430da1f1a13a8fc71c170ecf4153078e985c791f",
-      "category": "Personal Introduction",
+      "category": "AI Summary",
       "nativeMarkdownHash": "25e23b270279feb06eaaaba7d782bcb094fb1cd658c425501e25f3240ad6b448"
     },
     {
@@ -1792,7 +1792,7 @@
         }
       },
       "metadataTranslationHash": "3d761db6818a7f50904ccf734d850aebc6de9a2d2caceaf504d25e5eff16bb78",
-      "category": "Psychological Analysis",
+      "category": "AI Summary",
       "nativeMarkdownHash": "58dea450c742406a11f1fdef5e6cc7c1be6cb21c1be3d81157df916ad21b9781"
     },
     {
@@ -13232,6 +13232,12 @@
       "en-US": "Psychological Analysis",
       "ja-JP": "心理分析",
       "es-ES": "Análisis Psicológico"
+    },
+    "AI Summary": {
+      "zh-Hans": "AI摘要",
+      "en-US": "AI Summary",
+      "ja-JP": "AI要約",
+      "es-ES": "Resumen de IA"
     }
   },
   "navLinkTranslations": {
