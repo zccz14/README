@@ -9908,6 +9908,129 @@
       "nativeMarkdownHash": "768a0abb8b992cec39073f20d8cf1186eec3c2ee1d499560e2b8ce592db0ab0e"
     },
     {
+      "path": "LOGS/52.md",
+      "links": [],
+      "metadata": {
+        "title": "资本市场三体动力学 SDE 方程组推导",
+        "description": "本文基于三体动力学假说，推导并验证了描述资本市场中动量、价值和流动性资本相互作用的随机微分方程系统。",
+        "short_summary": "本文推导了一个基于三体动力学假说的随机微分方程系统，描述动量、价值和流动性资本的相互作用。通过验证12条核心约束，系统完整实现了正负反馈回路、收益矩阵等机制，并解释了波动率聚集和肥尾分布等市场现象。",
+        "audience": "金融建模研究者、量化分析师、对资本市场动力学感兴趣的经济学者",
+        "key_points": [
+          "推导了描述三类资本相互作用的完整SDE系统",
+          "验证了12条核心约束，包括正负反馈和收益矩阵",
+          "系统能解释波动率聚集、肥尾分布等市场特征"
+        ],
+        "summary": "本文基于《资本市场的三体动力学假说》一文，推导了一个完整的随机微分方程（SDE）系统，用于描述资本市场中动量资本（M）、价值资本（V）和流动性资本（L）的相互作用。文章定义了快变量（如对数溢价、动量、波动率）和慢变量（三类资本体量），并提取了12条可形式化的核心约束。通过详细分析SDE方程组，文章逐一验证了这些约束，包括M的正反馈、V的负反馈、L的无方向反馈、正负反馈回路、收益矩阵和拥挤效应等。所有约束均通过验证，表明该SDE系统能够完整实现原文的定性机制，如波动率聚集、肥尾分布和混沌行为。文章还进行了相态分析和统计特性验证，为后续数值模拟、分岔分析和参数校准提供了基础。",
+        "slug": "capital-market-three-body-dynamics-sde-derivation",
+        "tags": [
+          "资本市场",
+          "三体动力学",
+          "随机微分方程",
+          "SDE",
+          "动量资本",
+          "价值资本",
+          "流动性资本"
+        ],
+        "inferred_date": "2026-02-07",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 5480,
+          "completion": 444,
+          "total": 5924
+        }
+      },
+      "hash": "6d5f4a2b89b8c417fc55813c4cc084fedf94024276539c0571584deb732ab17a",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "资本市场三体动力学 SDE 方程组推导",
+          "description": "本文基于三体动力学假说，推导并验证了描述资本市场中动量、价值和流动性资本相互作用的随机微分方程系统。",
+          "summary": "本文基于《资本市场的三体动力学假说》一文，推导了一个完整的随机微分方程（SDE）系统，用于描述资本市场中动量资本（M）、价值资本（V）和流动性资本（L）的相互作用。文章定义了快变量（如对数溢价、动量、波动率）和慢变量（三类资本体量），并提取了12条可形式化的核心约束。通过详细分析SDE方程组，文章逐一验证了这些约束，包括M的正反馈、V的负反馈、L的无方向反馈、正负反馈回路、收益矩阵和拥挤效应等。所有约束均通过验证，表明该SDE系统能够完整实现原文的定性机制，如波动率聚集、肥尾分布和混沌行为。文章还进行了相态分析和统计特性验证，为后续数值模拟、分岔分析和参数校准提供了基础。",
+          "short_summary": "本文推导了一个基于三体动力学假说的随机微分方程系统，描述动量、价值和流动性资本的相互作用。通过验证12条核心约束，系统完整实现了正负反馈回路、收益矩阵等机制，并解释了波动率聚集和肥尾分布等市场现象。",
+          "key_points": [
+            "推导了描述三类资本相互作用的完整SDE系统",
+            "验证了12条核心约束，包括正负反馈和收益矩阵",
+            "系统能解释波动率聚集、肥尾分布等市场特征"
+          ],
+          "audience": "金融建模研究者、量化分析师、对资本市场动力学感兴趣的经济学者",
+          "tags": [
+            "资本市场",
+            "三体动力学",
+            "随机微分方程",
+            "SDE",
+            "动量资本",
+            "价值资本",
+            "流动性资本"
+          ]
+        },
+        "en-US": {
+          "title": "Derivation of SDE Equations for Three-Body Dynamics in Capital Markets",
+          "description": "Based on the three-body dynamics hypothesis, this paper derives and validates a system of stochastic differential equations describing the interactions among momentum, value, and liquidity capital in capital markets.",
+          "summary": "Building on the article 'The Three-Body Dynamics Hypothesis in Capital Markets,' this paper derives a complete system of stochastic differential equations (SDEs) to describe the interactions among momentum capital (M), value capital (V), and liquidity capital (L) in capital markets. The article defines fast variables (such as log premium, momentum, volatility) and slow variables (the volumes of the three types of capital) and extracts 12 formalizable core constraints. Through a detailed analysis of the SDE equations, the article validates these constraints one by one, including positive feedback for M, negative feedback for V, directionless feedback for L, positive and negative feedback loops, payoff matrices, and crowding effects. All constraints are validated, indicating that this SDE system fully implements the qualitative mechanisms from the original article, such as volatility clustering, fat-tailed distributions, and chaotic behavior. The article also conducts phase analysis and statistical property validation, providing a foundation for subsequent numerical simulations, bifurcation analysis, and parameter calibration.",
+          "short_summary": "This paper derives a system of stochastic differential equations based on the three-body dynamics hypothesis to describe the interactions among momentum, value, and liquidity capital. By validating 12 core constraints, the system fully implements mechanisms such as positive and negative feedback loops and payoff matrices, explaining market phenomena like volatility clustering and fat-tailed distributions.",
+          "key_points": [
+            "Derived a complete SDE system describing the interactions among three types of capital",
+            "Validated 12 core constraints, including positive/negative feedback and payoff matrices",
+            "The system explains market characteristics such as volatility clustering and fat-tailed distributions"
+          ],
+          "audience": "Financial modeling researchers, quantitative analysts, economists interested in capital market dynamics",
+          "tags": [
+            "Capital Markets",
+            "Three-Body Dynamics",
+            "Stochastic Differential Equations",
+            "SDE",
+            "Momentum Capital",
+            "Value Capital",
+            "Liquidity Capital"
+          ]
+        },
+        "ja-JP": {
+          "title": "資本市場における三体動力学SDE方程式系の導出",
+          "description": "本稿は三体動力学仮説に基づき、資本市場におけるモメンタム、バリュー、流動性資本の相互作用を記述する確率微分方程式系を導出し検証する。",
+          "summary": "本稿は『資本市場の三体動力学仮説』に基づき、資本市場におけるモメンタム資本（M）、バリュー資本（V）、流動性資本（L）の相互作用を記述する完全な確率微分方程式（SDE）系を導出する。論文では、対数プレミアム、モメンタム、ボラティリティなどの速変数と、三種類の資本量などの遅変数を定義し、12の形式化可能な核心的制約を抽出する。SDE方程式系の詳細な分析を通じて、Mの正のフィードバック、Vの負のフィードバック、Lの無方向フィードバック、正負フィードバックループ、リターンマトリックス、混雑効果などの制約を逐一検証する。全ての制約が検証され、このSDE系がボラティリティクラスタリング、ファットテール分布、カオス的振る舞いなどの原文の定性的メカニズムを完全に実現できることを示す。さらに、相状態分析と統計的特性検証を行い、今後の数値シミュレーション、分岐分析、パラメータキャリブレーションの基礎を提供する。",
+          "short_summary": "本稿は三体動力学仮説に基づく確率微分方程式系を導出し、モメンタム、バリュー、流動性資本の相互作用を記述する。12の核心的制約を検証することで、正負フィードバックループ、リターンマトリックスなどのメカニズムを完全に実現し、ボラティリティクラスタリングやファットテール分布などの市場現象を説明する。",
+          "key_points": [
+            "三種類の資本の相互作用を記述する完全なSDE系を導出",
+            "正のフィードバックやリターンマトリックスを含む12の核心的制約を検証",
+            "ボラティリティクラスタリングやファットテール分布などの市場特性を説明可能"
+          ],
+          "audience": "金融モデリング研究者、クオンツアナリスト、資本市場動力学に関心のある経済学者",
+          "tags": [
+            "資本市場",
+            "三体動力学",
+            "確率微分方程式",
+            "SDE",
+            "モメンタム資本",
+            "バリュー資本",
+            "流動性資本"
+          ]
+        },
+        "es-ES": {
+          "title": "Derivación del sistema de ecuaciones SDE de dinámica de tres cuerpos en mercados de capitales",
+          "description": "Este artículo, basado en la hipótesis de dinámica de tres cuerpos, deriva y valida un sistema de ecuaciones diferenciales estocásticas que describe la interacción entre capital de impulso, capital de valor y capital de liquidez en los mercados de capitales.",
+          "summary": "Basándose en el artículo 'Hipótesis de dinámica de tres cuerpos en mercados de capitales', este trabajo deriva un sistema completo de ecuaciones diferenciales estocásticas (SDE) para describir la interacción entre capital de impulso (M), capital de valor (V) y capital de liquidez (L) en los mercados de capitales. El artículo define variables rápidas (como prima logarítmica, impulso, volatilidad) y variables lentas (volúmenes de los tres tipos de capital), y extrae 12 restricciones centrales formalizables. Mediante un análisis detallado del sistema de ecuaciones SDE, el artículo valida una por una estas restricciones, incluyendo retroalimentación positiva de M, retroalimentación negativa de V, retroalimentación sin dirección de L, bucles de retroalimentación positiva y negativa, matriz de rendimientos y efectos de congestión. Todas las restricciones se validan, lo que indica que este sistema SDE puede implementar completamente los mecanismos cualitativos del artículo original, como agrupación de volatilidad, distribuciones de cola pesada y comportamiento caótico. El artículo también realiza análisis de fase y validación de características estadísticas, proporcionando una base para simulaciones numéricas posteriores, análisis de bifurcación y calibración de parámetros.",
+          "short_summary": "Este artículo deriva un sistema de ecuaciones diferenciales estocásticas basado en la hipótesis de dinámica de tres cuerpos, que describe la interacción entre capital de impulso, valor y liquidez. Al validar 12 restricciones centrales, el sistema implementa completamente mecanismos como bucles de retroalimentación positiva y negativa y matriz de rendimientos, y explica fenómenos del mercado como agrupación de volatilidad y distribuciones de cola pesada.",
+          "key_points": [
+            "Derivó un sistema completo de SDE que describe la interacción de tres tipos de capital",
+            "Validó 12 restricciones centrales, incluyendo retroalimentación positiva y negativa y matriz de rendimientos",
+            "El sistema puede explicar características del mercado como agrupación de volatilidad y distribuciones de cola pesada"
+          ],
+          "audience": "Investigadores en modelado financiero, analistas cuantitativos, economistas interesados en la dinámica de los mercados de capitales",
+          "tags": [
+            "Mercados de capitales",
+            "Dinámica de tres cuerpos",
+            "Ecuaciones diferenciales estocásticas",
+            "SDE",
+            "Capital de impulso",
+            "Capital de valor",
+            "Capital de liquidez"
+          ]
+        }
+      },
+      "metadataTranslationHash": "3aaaace8f097b69011839ea40b69ef7a19e125edfeb3e6c56eb79f7ec5d92115",
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "6d5f4a2b89b8c417fc55813c4cc084fedf94024276539c0571584deb732ab17a"
+    },
+    {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
       "path": "LOGS/6.md",
       "links": [],
