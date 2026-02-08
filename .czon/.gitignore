@@ -1,4 +1,5 @@
 dist
 tmp
-src/**/*.*
-!src/**/*.md
+src/**/*.png
+src/**/*.jpg
+src/**/*.txt
