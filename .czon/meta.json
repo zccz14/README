@@ -11836,6 +11836,139 @@
       "nativeMarkdownHash": "ec2949dbe852e5e6668e4fc7abafc286e577c13bc163e1490ebe0058bca208c9"
     },
     {
+      "path": "LOGS/55.md",
+      "links": [],
+      "metadata": {
+        "title": "PMA项目开发与AI工具使用总结",
+        "description": "作者分享预测市场套利项目开发经历，总结AI工具使用中的问题与解决方案，包括工作流稳定性、上下文限制和输出截断处理。",
+        "short_summary": "作者完成预测市场套利项目开发，总结使用AI工具时遇到的问题，包括工作流稳定性、上下文限制和输出截断。提出了脚本检查、分段写入等解决方案，并计划尝试更多AI工具进行对比。",
+        "audience": "AI工具使用者、开发者、技术博客读者、对预测市场和套利项目感兴趣的人",
+        "key_points": [
+          "PMA项目使用AI工具完成Rust代码开发",
+          "AI Agent工作流稳定性问题需脚本检查解决",
+          "博客内容接近token限制影响小模型处理",
+          "单次写入过长导致输出截断需分段写入",
+          "Opus总结能力强，计划对比GPT-5.3-CodeX"
+        ],
+        "summary": "本文记录了作者在2026年2月8日完成预测市场套利项目（PMA）开发后的总结。作者与团队使用Opus、GPT、Gemini等AI工具编写Rust代码，尽管不熟悉该语言。文章重点分析了AI工具使用中遇到的三个主要问题：Agent工作流稳定性不足、博客内容接近128k token限制导致小模型无法处理、单次写入内容过长导致输出截断。针对这些问题，作者提出了相应的解决方案，包括增加硬性脚本检查、未来处理大内容策略、采用先大纲后填充的分段写入方法。文章还提到已在CZON项目中实现了部分解决方案，并感叹Opus的总结能力强大，计划未来尝试GPT-5.3-CodeX进行对比。",
+        "slug": "pma-project-ai-tools-summary",
+        "tags": [
+          "预测市场套利",
+          "AI工具",
+          "Rust开发",
+          "工作流优化",
+          "上下文限制",
+          "Opus",
+          "GPT"
+        ],
+        "inferred_date": "2026-02-08",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 873,
+          "completion": 447,
+          "total": 1320
+        }
+      },
+      "hash": "81785e0f917d842a99ed4e79cb151efdc9bde9cf1d13028063acb18a0c6fb52b",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "PMA项目开发与AI工具使用总结",
+          "description": "作者分享预测市场套利项目开发经历，总结AI工具使用中的问题与解决方案，包括工作流稳定性、上下文限制和输出截断处理。",
+          "summary": "本文记录了作者在2026年2月8日完成预测市场套利项目（PMA）开发后的总结。作者与团队使用Opus、GPT、Gemini等AI工具编写Rust代码，尽管不熟悉该语言。文章重点分析了AI工具使用中遇到的三个主要问题：Agent工作流稳定性不足、博客内容接近128k token限制导致小模型无法处理、单次写入内容过长导致输出截断。针对这些问题，作者提出了相应的解决方案，包括增加硬性脚本检查、未来处理大内容策略、采用先大纲后填充的分段写入方法。文章还提到已在CZON项目中实现了部分解决方案，并感叹Opus的总结能力强大，计划未来尝试GPT-5.3-CodeX进行对比。",
+          "short_summary": "作者完成预测市场套利项目开发，总结使用AI工具时遇到的问题，包括工作流稳定性、上下文限制和输出截断。提出了脚本检查、分段写入等解决方案，并计划尝试更多AI工具进行对比。",
+          "key_points": [
+            "PMA项目使用AI工具完成Rust代码开发",
+            "AI Agent工作流稳定性问题需脚本检查解决",
+            "博客内容接近token限制影响小模型处理",
+            "单次写入过长导致输出截断需分段写入",
+            "Opus总结能力强，计划对比GPT-5.3-CodeX"
+          ],
+          "audience": "AI工具使用者、开发者、技术博客读者、对预测市场和套利项目感兴趣的人",
+          "tags": [
+            "预测市场套利",
+            "AI工具",
+            "Rust开发",
+            "工作流优化",
+            "上下文限制",
+            "Opus",
+            "GPT"
+          ]
+        },
+        "en-US": {
+          "title": "Summary of PMA Project Development and AI Tool Usage",
+          "description": "The author shares experiences from developing a prediction market arbitrage project, summarizing issues and solutions encountered while using AI tools, including workflow stability, context limitations, and output truncation handling.",
+          "summary": "This article documents the author's summary after completing the development of a prediction market arbitrage project (PMA) on February 8, 2026. The author and team used AI tools like Opus, GPT, and Gemini to write Rust code, despite being unfamiliar with the language. The article focuses on analyzing three main issues encountered while using AI tools: insufficient stability of Agent workflows, blog content approaching the 128k token limit causing small models to fail, and overly long single writes leading to output truncation. To address these, the author proposes solutions including adding strict script checks, future strategies for handling large content, and adopting a segmented writing method of outlining first then filling in details. The article also mentions that some solutions have been implemented in the CZON project, praises Opus's strong summarization capabilities, and plans to try GPT-5.3-CodeX for comparison in the future.",
+          "short_summary": "The author completed a prediction market arbitrage project, summarizing issues encountered while using AI tools, including workflow stability, context limitations, and output truncation. Proposed solutions include script checks and segmented writing, with plans to try more AI tools for comparison.",
+          "key_points": [
+            "PMA project used AI tools to complete Rust code development",
+            "AI Agent workflow stability issues require script checks to resolve",
+            "Blog content approaching token limits affects small model processing",
+            "Overly long single writes cause output truncation, requiring segmented writing",
+            "Opus has strong summarization capabilities, plans to compare with GPT-5.3-CodeX"
+          ],
+          "audience": "AI tool users, developers, technical blog readers, people interested in prediction markets and arbitrage projects",
+          "tags": [
+            "Prediction Market Arbitrage",
+            "AI Tools",
+            "Rust Development",
+            "Workflow Optimization",
+            "Context Limitations",
+            "Opus",
+            "GPT"
+          ]
+        },
+        "es-ES": {
+          "title": "Resumen del Desarrollo del Proyecto PMA y Uso de Herramientas de IA",
+          "description": "El autor comparte su experiencia en el desarrollo de un proyecto de arbitraje de mercados predictivos, resumiendo problemas y soluciones en el uso de herramientas de IA, incluyendo estabilidad del flujo de trabajo, limitaciones de contexto y manejo de truncamiento de salida.",
+          "summary": "Este artículo registra el resumen del autor tras completar el desarrollo del proyecto de arbitraje de mercados predictivos (PMA) el 8 de febrero de 2026. El autor y su equipo utilizaron herramientas de IA como Opus, GPT y Gemini para escribir código Rust, a pesar de no estar familiarizados con este lenguaje. El artículo analiza principalmente tres problemas principales encontrados al usar herramientas de IA: insuficiente estabilidad del flujo de trabajo del agente, contenido del blog cercano al límite de 128k tokens que impide el procesamiento por modelos pequeños, y contenido escrito demasiado largo en una sola vez que causa truncamiento de salida. Para estos problemas, el autor propone soluciones correspondientes, incluyendo aumentar verificaciones de script obligatorias, estrategias futuras para manejar contenido extenso, y adoptar un método de escritura segmentada que primero crea un esquema y luego lo completa. El artículo también menciona que ya se han implementado algunas soluciones en el proyecto CZON, y expresa admiración por la poderosa capacidad de resumen de Opus, planeando probar GPT-5.3-CodeX en el futuro para comparar.",
+          "short_summary": "El autor completó el desarrollo de un proyecto de arbitraje de mercados predictivos, resumiendo problemas encontrados al usar herramientas de IA, incluyendo estabilidad del flujo de trabajo, limitaciones de contexto y truncamiento de salida. Propuso soluciones como verificaciones de script y escritura segmentada, y planea probar más herramientas de IA para comparar.",
+          "key_points": [
+            "El proyecto PMA utilizó herramientas de IA para completar el desarrollo de código Rust",
+            "Los problemas de estabilidad del flujo de trabajo del agente de IA requieren soluciones con verificaciones de script",
+            "El contenido del blog cercano al límite de tokens afecta el procesamiento por modelos pequeños",
+            "La escritura demasiado larga en una sola vez causa truncamiento de salida y requiere escritura segmentada",
+            "Opus tiene una fuerte capacidad de resumen, se planea comparar con GPT-5.3-CodeX"
+          ],
+          "audience": "Usuarios de herramientas de IA, desarrolladores, lectores de blogs técnicos, personas interesadas en mercados predictivos y proyectos de arbitraje",
+          "tags": [
+            "Arbitraje de mercados predictivos",
+            "Herramientas de IA",
+            "Desarrollo en Rust",
+            "Optimización de flujo de trabajo",
+            "Limitaciones de contexto",
+            "Opus",
+            "GPT"
+          ]
+        },
+        "ja-JP": {
+          "title": "PMAプロジェクト開発とAIツール使用のまとめ",
+          "description": "著者が予測市場アービトラージプロジェクトの開発経験を共有し、AIツール使用における問題と解決策をまとめます。ワークフローの安定性、コンテキスト制限、出力切り捨て処理などについて説明します。",
+          "summary": "本記事は、著者が2026年2月8日に予測市場アービトラージプロジェクト（PMA）の開発を完了した後のまとめを記録しています。著者とチームは、Rust言語に不慣れながらも、Opus、GPT、GeminiなどのAIツールを使用してRustコードを記述しました。記事では、AIツール使用中に遭遇した3つの主要な問題に焦点を当てています：Agentワークフローの安定性不足、ブログコンテンツが128kトークン制限に近づき小規模モデルが処理できないこと、単回書き込みコンテンツが長すぎて出力が切り捨てられることです。これらの問題に対し、著者は対応する解決策を提案しています。具体的には、厳格なスクリプトチェックの追加、将来の大規模コンテンツ処理戦略、アウトライン先行・後充填のセグメント書き込み方法の採用などです。記事では、CZONプロジェクトで一部の解決策を既に実装したことにも触れ、Opusの要約能力の高さに感嘆し、将来GPT-5.3-CodeXを試して比較する計画を立てています。",
+          "short_summary": "著者が予測市場アービトラージプロジェクトの開発を完了し、AIツール使用時の問題をまとめます。ワークフローの安定性、コンテキスト制限、出力切り捨てなどが含まれます。スクリプトチェック、セグメント書き込みなどの解決策を提案し、さらに多くのAIツールを試して比較する計画を立てています。",
+          "key_points": [
+            "PMAプロジェクトはAIツールを使用してRustコード開発を完了",
+            "AI Agentワークフローの安定性問題はスクリプトチェックで解決",
+            "ブログコンテンツがトークン制限に近づき小規模モデルの処理に影響",
+            "単回書き込みが長すぎて出力切り捨てが発生、セグメント書き込みが必要",
+            "Opusの要約能力が強力、GPT-5.3-CodeXとの比較を計画"
+          ],
+          "audience": "AIツール使用者、開発者、技術ブログ読者、予測市場とアービトラージプロジェクトに関心のある人々",
+          "tags": [
+            "予測市場アービトラージ",
+            "AIツール",
+            "Rust開発",
+            "ワークフロー最適化",
+            "コンテキスト制限",
+            "Opus",
+            "GPT"
+          ]
+        }
+      },
+      "metadataTranslationHash": "64e79944028b270aaa32c8d8f6d51b2c0dd706628ca1933461153246e37b7703",
+      "category": "AI Tools Development",
+      "nativeMarkdownHash": "81785e0f917d842a99ed4e79cb151efdc9bde9cf1d13028063acb18a0c6fb52b"
+    },
+    {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
       "path": "LOGS/6.md",
       "links": [],
