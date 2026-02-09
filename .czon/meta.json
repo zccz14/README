@@ -367,7 +367,7 @@
       },
       "metadataTranslationHash": "f2fe03d252236a53311846ae39c19254964c95e09327491fd0d0983966697821",
       "category": "AI Summary",
-      "nativeMarkdownHash": "f83a106e61d7c7b5eec44ba65b34495e2f27ddbe391e40569b5fb41cc46107db"
+      "nativeMarkdownHash": "26a66012a432709897592e1054c1d6aa2b2d7f856fe12c04126b97c021b69b07"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-critical.md",
@@ -582,7 +582,7 @@
       },
       "metadataTranslationHash": "c8d174d6a17e3d00ea29efabb627552f043444b07e5f3676b49dcf15c4d851b8",
       "category": "AI Summary",
-      "nativeMarkdownHash": "15904af8aed8d54754fda04d6e59ba2cbbf92624399817c19751842fb84b443c"
+      "nativeMarkdownHash": "ec4d975a39f7c80f7523ecad7c3d907d686b3ce1ff2d306208d687ed6f8ad378"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-historical.md",
@@ -810,7 +810,7 @@
       },
       "metadataTranslationHash": "a9400bb115f398f2463fd38b2985247dc06f809253c66d35c0919ad768eb17c3",
       "category": "AI Summary",
-      "nativeMarkdownHash": "2ddca49ce81173a3d4a6f5290188fa21b5f62d868d04656826f7edab01735f84"
+      "nativeMarkdownHash": "b7d3cb6cab2fbeaad0909cc08a05de5d7db1352cb9c98ecd79b8e3058bb30664"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-objective.md",
@@ -983,7 +983,7 @@
       },
       "metadataTranslationHash": "1a6efb55c2ea39fab6bb0eff0fb03877fc433b2308ede718b420ac204ac907ef",
       "category": "AI Summary",
-      "nativeMarkdownHash": "5fbd5ae26d6b1fd204666b7077238fd2606ac9a730031704a27ec66e17d9cbea"
+      "nativeMarkdownHash": "726239a177bedbc1524e7f370e029a512549aa2e5a71f904492df322eb5774e9"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-philosophical.md",
@@ -1150,7 +1150,7 @@
       },
       "metadataTranslationHash": "cfb68fd2f11c3e10ca4e8134340afdf6c8600e8348acd14b987cc251b52a9cb9",
       "category": "AI Summary",
-      "nativeMarkdownHash": "0af89bbf7ebad1d3e94665d31cd7429dde083f0f29d09f079b224843cd70bb98"
+      "nativeMarkdownHash": "9151eb764dcb0d0b34a1d0953126bb8fb5b25fb88457c42444124dc73d7f5419"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-popular.md",
@@ -1332,7 +1332,7 @@
       },
       "metadataTranslationHash": "631402a3cbe7b379ef8b71f3fd993896019926c4b59146ae9ec7437d833c6099",
       "category": "AI Summary",
-      "nativeMarkdownHash": "a936b1002e9a997805beb50ab80c15b811ac7033ce79e18aaeeb8b1d6b0635b9"
+      "nativeMarkdownHash": "645180d7e81b35baf20d7dcc9fde1d568761fef956358ee4876eaf47ab059bcf"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-positive.md",
@@ -1555,7 +1555,7 @@
       },
       "metadataTranslationHash": "468693fccbe54ad55cc866dc0c95a638a12dd41f3f194a70c8e587873240da92",
       "category": "AI Summary",
-      "nativeMarkdownHash": "25e23b270279feb06eaaaba7d782bcb094fb1cd658c425501e25f3240ad6b448"
+      "nativeMarkdownHash": "91b6a393fa00ae820c396a7163ba0f0c435bcbef40d842a175e38fbd8890bc5d"
     },
     {
       "path": ".czon/AIGC/SUMMARY/summary-psychological.md",
@@ -1798,7 +1798,179 @@
       },
       "metadataTranslationHash": "4874d19ba8ac5fa1d3a0a514b3875df66db5f884c32916de168f70acbed15759",
       "category": "AI Summary",
-      "nativeMarkdownHash": "58dea450c742406a11f1fdef5e6cc7c1be6cb21c1be3d81157df916ad21b9781"
+      "nativeMarkdownHash": "4bcc6dbf6f983e766dc7bb23f462e2d28b30d5b4a1ee3a867546dfe8f9a44ec6"
+    },
+    {
+      "path": ".czon/AIGC/TODO/todo-summary.md",
+      "links": [
+        "../../../LOGS/18.md",
+        "../../../LOGS/51.md",
+        "../../../LOGS/42.md",
+        "../../../LOGS/42.md",
+        "../../../LOGS/56.md",
+        "../../../LOGS/56.md",
+        "../../../LOGS/6.md",
+        "../../../LOGS/6.md",
+        "../../../LOGS/15.md",
+        "../../../LOGS/20.md",
+        "../../../LOGS/20.md",
+        "../../../LOGS/30.md",
+        "../../../LOGS/28.md",
+        "../../../LOGS/42.md",
+        "../../../LOGS/42.md",
+        "../../../LOGS/49.md",
+        "../../../LOGS/6.md",
+        "../../../LOGS/19.md",
+        "../../../INSIGHTS/9.md",
+        "../../../LOGS/52.md",
+        "../../../LOGS/40.md",
+        "../../../README.md",
+        "../../../INSIGHTS/6.md",
+        "../../../LOGS/28.md",
+        "../../../LOGS/29.md",
+        "../../../QUANT/EA/EA.md",
+        "../../../LOGS/53.md",
+        "../../../LOGS/15.md",
+        "../../../LOGS/14.md",
+        "../../../LOGS/14.md",
+        "../../../LOGS/29.md",
+        "../../../LOGS/32.md",
+        "../../../LOGS/4.md",
+        "../../../LOGS/4.md",
+        "../../../LOGS/6.md",
+        "../../../LOGS/8.md",
+        "../../../LOGS/3.md",
+        "../../../LOGS/16.md",
+        "../../../LOGS/18.md",
+        "../../../LOGS/18.md",
+        "../../../LOGS/27.md",
+        "../../../LOGS/28.md",
+        "../../../LOGS/32.md",
+        "../../../LOGS/33.md",
+        "../../../LOGS/36.md",
+        "../../../LOGS/51.md",
+        "../../../LOGS/43.md",
+        "../../../LOGS/2.md"
+      ],
+      "metadata": {
+        "title": "AI 总结：待办事项",
+        "description": "AI自动生成的待办事项总结报告，涵盖CZON开发、AI项目、量化交易等多个领域的任务状态和进展。",
+        "short_summary": "这是一份AI生成的待办事项总结，汇总了CZON开发、AI项目和量化研究等48个任务的状态。报告显示22个任务待开始、10个进行中、16个已完成，涵盖了产品功能、技术债务和战略方向等多个方面。所有信息基于文档分析自动提取，状态和优先级为AI推断结果。",
+        "audience": "项目团队成员、技术管理者、对AI自动化文档分析和任务跟踪感兴趣的研究者。",
+        "key_points": [
+          "报告基于69个Markdown文件自动生成，汇总了48个待办任务的状态分布。",
+          "任务涵盖CZON产品开发、AI集成、量化策略研究、团队推广等多个核心领域。",
+          "每个任务标注了来源、日期、原文摘要和AI推断的优先级（红/黄/绿）。",
+          "状态和优先级为AI推断结果，仅供参考，强调自动化分析的局限性。"
+        ],
+        "summary": "本文是一份由AI自动生成的待办事项总结报告，基于69个Markdown文件分析得出。报告详细列出了48个任务的状态分布：22个待开始、10个进行中、16个已完成。内容涵盖CZON静态站点生成器的功能开发（如在线版、链接检查、智能内容生成）、AI相关项目（如权限体系、API资产化）、量化交易研究（如资本持久战、三体动力学假说）以及团队推广等多个领域。报告提供了每个任务的来源、日期和原文摘要，并标注了AI推断的优先级（红/黄/绿），但强调状态和优先级仅供参考。",
+        "slug": "aigc-todo-list",
+        "tags": [
+          "待办事项",
+          "CZON",
+          "AI总结",
+          "项目开发",
+          "量化交易",
+          "任务管理"
+        ],
+        "inferred_date": "2026-02-09",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 4825,
+          "completion": 423,
+          "total": 5248
+        }
+      },
+      "hash": "9fbaa01dc3d5398c86bd1da1c8e8bae8caae7dbd477fc335e07890a52801ae9d",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "AI 总结：待办事项",
+          "description": "AI自动生成的待办事项总结报告，涵盖CZON开发、AI项目、量化交易等多个领域的任务状态和进展。",
+          "summary": "本文是一份由AI自动生成的待办事项总结报告，基于69个Markdown文件分析得出。报告详细列出了48个任务的状态分布：22个待开始、10个进行中、16个已完成。内容涵盖CZON静态站点生成器的功能开发（如在线版、链接检查、智能内容生成）、AI相关项目（如权限体系、API资产化）、量化交易研究（如资本持久战、三体动力学假说）以及团队推广等多个领域。报告提供了每个任务的来源、日期和原文摘要，并标注了AI推断的优先级（红/黄/绿），但强调状态和优先级仅供参考。",
+          "short_summary": "这是一份AI生成的待办事项总结，汇总了CZON开发、AI项目和量化研究等48个任务的状态。报告显示22个任务待开始、10个进行中、16个已完成，涵盖了产品功能、技术债务和战略方向等多个方面。所有信息基于文档分析自动提取，状态和优先级为AI推断结果。",
+          "key_points": [
+            "报告基于69个Markdown文件自动生成，汇总了48个待办任务的状态分布。",
+            "任务涵盖CZON产品开发、AI集成、量化策略研究、团队推广等多个核心领域。",
+            "每个任务标注了来源、日期、原文摘要和AI推断的优先级（红/黄/绿）。",
+            "状态和优先级为AI推断结果，仅供参考，强调自动化分析的局限性。"
+          ],
+          "audience": "项目团队成员、技术管理者、对AI自动化文档分析和任务跟踪感兴趣的研究者。",
+          "tags": [
+            "待办事项",
+            "CZON",
+            "AI总结",
+            "项目开发",
+            "量化交易",
+            "任务管理"
+          ]
+        },
+        "en-US": {
+          "title": "AI Summary: To-Do List",
+          "description": "An AI-generated summary report of to-do items, covering task status and progress across multiple domains such as CZON development, AI projects, and quantitative trading.",
+          "summary": "This document is an AI-generated summary report of to-do items, based on an analysis of 69 Markdown files. The report details the status distribution of 48 tasks: 22 not started, 10 in progress, and 16 completed. It covers various areas including CZON static site generator feature development (e.g., online version, link checking, intelligent content generation), AI-related projects (e.g., permission systems, API assetization), quantitative trading research (e.g., capital endurance warfare, three-body dynamics hypothesis), and team promotion. The report provides the source, date, and original summary for each task, and notes AI-inferred priorities (red/yellow/green), but emphasizes that statuses and priorities are for reference only.",
+          "short_summary": "This is an AI-generated summary of to-do items, consolidating the status of 48 tasks across CZON development, AI projects, and quantitative research. The report shows 22 tasks not started, 10 in progress, and 16 completed, covering aspects such as product features, technical debt, and strategic directions. All information is automatically extracted based on document analysis, with statuses and priorities being AI-inferred results.",
+          "key_points": [
+            "The report is automatically generated from 69 Markdown files, summarizing the status distribution of 48 to-do tasks.",
+            "Tasks cover multiple core domains including CZON product development, AI integration, quantitative strategy research, and team promotion.",
+            "Each task is annotated with source, date, original summary, and AI-inferred priority (red/yellow/green).",
+            "Statuses and priorities are AI-inferred results, for reference only, highlighting the limitations of automated analysis."
+          ],
+          "audience": "Project team members, technical managers, researchers interested in AI-automated document analysis and task tracking.",
+          "tags": [
+            "To-Do List",
+            "CZON",
+            "AI Summary",
+            "Project Development",
+            "Quantitative Trading",
+            "Task Management"
+          ]
+        },
+        "ja-JP": {
+          "title": "AIサマリー：ToDoリスト",
+          "description": "AIが自動生成したToDoリストのサマリーレポートで、CZON開発、AIプロジェクト、定量取引など複数分野のタスク状況と進捗をカバーしています。",
+          "summary": "この文書は、AIが自動生成したToDoリストのサマリーレポートで、69個のMarkdownファイルの分析に基づいています。レポートは48個のタスクの状況分布を詳細にリストアップしています：22個が未着手、10個が進行中、16個が完了。内容は、CZON静的サイトジェネレータの機能開発（オンライン版、リンクチェック、インテリジェントコンテンツ生成など）、AI関連プロジェクト（権限体系、API資産化など）、定量取引研究（資本持久戦、三体力学仮説など）、およびチームプロモーションなど複数分野をカバーしています。レポートは各タスクの出典、日付、原文要約を提供し、AIが推測した優先度（赤/黄/緑）を注記していますが、状況と優先度は参考情報であることを強調しています。",
+          "short_summary": "これはAIが生成したToDoリストのサマリーで、CZON開発、AIプロジェクト、定量研究など48個のタスクの状況をまとめています。レポートは22個のタスクが未着手、10個が進行中、16個が完了していることを示し、製品機能、技術的負債、戦略的方向性など複数側面をカバーしています。すべての情報は文書分析に基づいて自動抽出され、状況と優先度はAIの推測結果です。",
+          "key_points": [
+            "レポートは69個のMarkdownファイルに基づいて自動生成され、48個のToDoタスクの状況分布をまとめています。",
+            "タスクはCZON製品開発、AI統合、定量戦略研究、チームプロモーションなど複数のコア分野をカバーしています。",
+            "各タスクには出典、日付、原文要約、およびAIが推測した優先度（赤/黄/緑）が注記されています。",
+            "状況と優先度はAIの推測結果であり、参考情報として、自動化分析の限界を強調しています。"
+          ],
+          "audience": "プロジェクトチームメンバー、技術管理者、AI自動化文書分析とタスク追跡に関心のある研究者。",
+          "tags": [
+            "ToDoリスト",
+            "CZON",
+            "AIサマリー",
+            "プロジェクト開発",
+            "定量取引",
+            "タスク管理"
+          ]
+        },
+        "es-ES": {
+          "title": "Resumen de IA: Tareas Pendientes",
+          "description": "Informe de resumen de tareas pendientes generado automáticamente por IA, que cubre el estado y progreso de tareas en múltiples áreas como desarrollo CZON, proyectos de IA y trading cuantitativo.",
+          "summary": "Este documento es un informe de resumen de tareas pendientes generado automáticamente por IA, basado en el análisis de 69 archivos Markdown. El informe detalla la distribución de estado de 48 tareas: 22 por comenzar, 10 en progreso y 16 completadas. El contenido abarca el desarrollo de funciones del generador de sitios estáticos CZON (como versión en línea, verificación de enlaces, generación inteligente de contenido), proyectos relacionados con IA (como sistema de permisos, activación de API), investigación de trading cuantitativo (como guerra de capital persistente, hipótesis de dinámica de tres cuerpos) y promoción del equipo, entre otros campos. El informe proporciona la fuente, fecha y resumen original de cada tarea, y marca la prioridad inferida por IA (rojo/amarillo/verde), pero enfatiza que el estado y la prioridad son solo para referencia.",
+          "short_summary": "Este es un resumen de tareas pendientes generado por IA, que agrega el estado de 48 tareas en desarrollo CZON, proyectos de IA e investigación cuantitativa. El informe muestra 22 tareas por comenzar, 10 en progreso y 16 completadas, cubriendo aspectos como funciones del producto, deuda técnica y dirección estratégica. Toda la información se extrae automáticamente del análisis de documentos, y el estado y la prioridad son resultados inferidos por IA.",
+          "key_points": [
+            "El informe se genera automáticamente a partir de 69 archivos Markdown, resumiendo la distribución de estado de 48 tareas pendientes.",
+            "Las tareas cubren múltiples áreas centrales como desarrollo del producto CZON, integración de IA, investigación de estrategias cuantitativas y promoción del equipo.",
+            "Cada tarea está marcada con fuente, fecha, resumen original y prioridad inferida por IA (rojo/amarillo/verde).",
+            "El estado y la prioridad son resultados inferidos por IA, solo para referencia, enfatizando las limitaciones del análisis automatizado."
+          ],
+          "audience": "Miembros del equipo del proyecto, gerentes técnicos, investigadores interesados en análisis automatizado de documentos con IA y seguimiento de tareas.",
+          "tags": [
+            "Tareas Pendientes",
+            "CZON",
+            "Resumen de IA",
+            "Desarrollo de Proyectos",
+            "Trading Cuantitativo",
+            "Gestión de Tareas"
+          ]
+        }
+      },
+      "metadataTranslationHash": "84e8012701c4b143c160df3555e423880d6c29035f2f3192d6c65fa1877fc3ee",
+      "category": "Project Management",
+      "nativeMarkdownHash": "9fbaa01dc3d5398c86bd1da1c8e8bae8caae7dbd477fc335e07890a52801ae9d"
     },
     {
       "hash": "f20d8615d52fb196fc4dc3c0fbbc37c964c8510d0594a506f95b82121373fae0",
