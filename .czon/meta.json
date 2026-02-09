@@ -12238,6 +12238,141 @@
       "nativeMarkdownHash": "014b1035e0ac63b3388e3294af2bf46d3161c0287150d6518d0c00e57b657a85"
     },
     {
+      "path": "LOGS/57.md",
+      "links": [
+        "./56.md"
+      ],
+      "metadata": {
+        "title": "CZON链接检查功能与AI修复的挑战与解决方案",
+        "description": "本文分享了CZON链接检查功能的实现过程，分析了AI修复链接时遇到的问题，并提出了针对AI局限性的解决方案。",
+        "short_summary": "本文分享了CZON链接检查功能的开发经验，重点分析了AI修复链接时遇到的问题，如对相对路径理解不足和扫描项目文件的限制。作者提出了通过提供候选方案列表来优化AI修复过程的解决方案，并强调了编译检查需要适应AI的局限性。",
+        "audience": "软件开发人员、AI工具使用者、技术文档维护者",
+        "key_points": [
+          "CZON实现了链接检查功能，但AI修复时出现错误",
+          "AI对相对路径理解不足，且不会默认扫描整个项目",
+          "解决方案是为AI提供基于问题文件的相对路径候选方案列表",
+          "编译检查需要设计成对AI友好的格式",
+          "CZON 0.9.1版本成功修复了500个链接错误"
+        ],
+        "summary": "本文详细记录了CZON链接检查功能的开发过程，从最初实现死链接检查到发现AI修复时的问题。作者指出AI在修复链接时存在两个主要问题：一是不会默认扫描整个项目文件，二是对相对路径理解不足。这导致AI修复链接时出现了错误，如将链接改到编译输出目录或创建符号链接等。作者通过分析问题根源，提出了解决方案：为AI提供基于问题文件的相对路径候选方案列表，避免AI扫描整个项目或自行理解相对路径。最终，CZON 0.9.1版本成功修复了500个链接错误，作者总结出编译检查需要与AI修复相辅相成，并设计出适合AI的检查输出格式。",
+        "slug": "czon-link-check-ai-fix-challenges-solutions",
+        "tags": [
+          "CZON",
+          "链接检查",
+          "AI修复",
+          "相对路径",
+          "编译检查",
+          "MiniMax M2.1",
+          "OpenCode"
+        ],
+        "inferred_date": "2026-02-09",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1107,
+          "completion": 446,
+          "total": 1553
+        }
+      },
+      "hash": "903997ba4dfa2484cd1772c4f8745c76c9d6277ed22f8f13c4a83275304f0f95",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "CZON链接检查功能与AI修复的挑战与解决方案",
+          "description": "本文分享了CZON链接检查功能的实现过程，分析了AI修复链接时遇到的问题，并提出了针对AI局限性的解决方案。",
+          "summary": "本文详细记录了CZON链接检查功能的开发过程，从最初实现死链接检查到发现AI修复时的问题。作者指出AI在修复链接时存在两个主要问题：一是不会默认扫描整个项目文件，二是对相对路径理解不足。这导致AI修复链接时出现了错误，如将链接改到编译输出目录或创建符号链接等。作者通过分析问题根源，提出了解决方案：为AI提供基于问题文件的相对路径候选方案列表，避免AI扫描整个项目或自行理解相对路径。最终，CZON 0.9.1版本成功修复了500个链接错误，作者总结出编译检查需要与AI修复相辅相成，并设计出适合AI的检查输出格式。",
+          "short_summary": "本文分享了CZON链接检查功能的开发经验，重点分析了AI修复链接时遇到的问题，如对相对路径理解不足和扫描项目文件的限制。作者提出了通过提供候选方案列表来优化AI修复过程的解决方案，并强调了编译检查需要适应AI的局限性。",
+          "key_points": [
+            "CZON实现了链接检查功能，但AI修复时出现错误",
+            "AI对相对路径理解不足，且不会默认扫描整个项目",
+            "解决方案是为AI提供基于问题文件的相对路径候选方案列表",
+            "编译检查需要设计成对AI友好的格式",
+            "CZON 0.9.1版本成功修复了500个链接错误"
+          ],
+          "audience": "软件开发人员、AI工具使用者、技术文档维护者",
+          "tags": [
+            "CZON",
+            "链接检查",
+            "AI修复",
+            "相对路径",
+            "编译检查",
+            "MiniMax M2.1",
+            "OpenCode"
+          ]
+        },
+        "en-US": {
+          "title": "Challenges and Solutions of CZON Link Checking with AI Repair",
+          "description": "This article shares the implementation process of CZON's link checking feature, analyzes the issues encountered when using AI to repair links, and proposes solutions to address AI limitations.",
+          "summary": "This article details the development process of CZON's link checking feature, from the initial implementation of dead link detection to the discovery of problems with AI-based repair. The author identifies two main issues with AI in link repair: it does not scan the entire project files by default, and it has insufficient understanding of relative paths. This leads to errors such as redirecting links to compilation output directories or creating symbolic links. By analyzing the root causes, the author proposes a solution: providing AI with a list of relative path candidates based on the problematic file, avoiding the need for AI to scan the entire project or interpret relative paths independently. Ultimately, CZON version 0.9.1 successfully fixed 500 link errors. The author concludes that compilation checks need to complement AI repair and designs a check output format suitable for AI.",
+          "short_summary": "This article shares development experience with CZON's link checking feature, focusing on issues with AI-based link repair, such as insufficient understanding of relative paths and limitations in scanning project files. The author proposes optimizing the AI repair process by providing a candidate list and emphasizes adapting compilation checks to AI limitations.",
+          "key_points": [
+            "CZON implemented a link checking feature, but errors occurred during AI repair",
+            "AI has insufficient understanding of relative paths and does not scan the entire project by default",
+            "The solution is to provide AI with a list of relative path candidates based on the problematic file",
+            "Compilation checks need to be designed in an AI-friendly format",
+            "CZON version 0.9.1 successfully fixed 500 link errors"
+          ],
+          "audience": "Software developers, AI tool users, technical documentation maintainers",
+          "tags": [
+            "CZON",
+            "Link Checking",
+            "AI Repair",
+            "Relative Paths",
+            "Compilation Checks",
+            "MiniMax M2.1",
+            "OpenCode"
+          ]
+        },
+        "ja-JP": {
+          "title": "CZONリンクチェック機能とAI修復の課題と解決策",
+          "description": "本稿では、CZONリンクチェック機能の実装プロセスを共有し、AIによるリンク修復時の問題点を分析し、AIの限界に対する解決策を提案します。",
+          "summary": "本稿では、CZONリンクチェック機能の開発プロセスを詳細に記録し、初期のデッドリンクチェック実装からAI修復時の問題発見までを網羅しています。著者は、AIによるリンク修復時に主に2つの問題があると指摘しています。1つは、デフォルトでプロジェクト全体のファイルをスキャンしないこと、もう1つは相対パスの理解が不十分なことです。これにより、AIがリンクをコンパイル出力ディレクトリに変更したり、シンボリックリンクを作成したりするなどの誤りが発生しました。著者は問題の根源を分析し、解決策として、AIに問題ファイルに基づく相対パスの候補リストを提供し、AIがプロジェクト全体をスキャンしたり、相対パスを独自に解釈したりするのを防ぐことを提案しました。最終的に、CZON 0.9.1バージョンで500件のリンクエラーが正常に修正され、著者はコンパイルチェックがAI修復と相互補完的に機能する必要があると結論付け、AIに適したチェック出力フォーマットを設計しました。",
+          "short_summary": "本稿では、CZONリンクチェック機能の開発経験を共有し、AIによるリンク修復時の問題点、例えば相対パスの理解不足やプロジェクトファイルスキャンの制限に焦点を当てて分析しています。著者は、候補リストを提供することでAI修復プロセスを最適化する解決策を提案し、コンパイルチェックがAIの限界に適応する必要があることを強調しています。",
+          "key_points": [
+            "CZONはリンクチェック機能を実装したが、AI修復時に誤りが発生",
+            "AIは相対パスの理解が不十分で、デフォルトでプロジェクト全体をスキャンしない",
+            "解決策は、AIに問題ファイルに基づく相対パスの候補リストを提供すること",
+            "コンパイルチェックはAIに適したフォーマットで設計する必要がある",
+            "CZON 0.9.1バージョンで500件のリンクエラーが正常に修正された"
+          ],
+          "audience": "ソフトウェア開発者、AIツール利用者、技術文書管理者",
+          "tags": [
+            "CZON",
+            "リンクチェック",
+            "AI修復",
+            "相対パス",
+            "コンパイルチェック",
+            "MiniMax M2.1",
+            "OpenCode"
+          ]
+        },
+        "es-ES": {
+          "title": "Desafíos y soluciones de la función de verificación de enlaces CZON y la reparación con IA",
+          "description": "Este artículo comparte el proceso de implementación de la función de verificación de enlaces CZON, analiza los problemas encontrados al reparar enlaces con IA y propone soluciones para las limitaciones de la IA.",
+          "summary": "Este artículo documenta en detalle el proceso de desarrollo de la función de verificación de enlaces CZON, desde la implementación inicial de la verificación de enlaces rotos hasta el descubrimiento de problemas en la reparación con IA. El autor señala dos problemas principales de la IA al reparar enlaces: primero, no escanea automáticamente todos los archivos del proyecto, y segundo, tiene una comprensión insuficiente de las rutas relativas. Esto causó errores en la reparación con IA, como redirigir enlaces al directorio de salida de compilación o crear enlaces simbólicos. Al analizar la raíz del problema, el autor propone una solución: proporcionar a la IA una lista de opciones de rutas relativas basadas en el archivo problemático, evitando que la IA escanee todo el proyecto o interprete las rutas relativas por sí misma. Finalmente, la versión CZON 0.9.1 reparó con éxito 500 errores de enlaces. El autor concluye que la verificación de compilación debe complementarse con la reparación con IA y diseña un formato de salida de verificación adecuado para la IA.",
+          "short_summary": "Este artículo comparte la experiencia de desarrollo de la función de verificación de enlaces CZON, centrándose en los problemas encontrados al reparar enlaces con IA, como la comprensión insuficiente de rutas relativas y las limitaciones al escanear archivos del proyecto. El autor propone una solución para optimizar el proceso de reparación con IA mediante una lista de opciones de rutas relativas y enfatiza que la verificación de compilación debe adaptarse a las limitaciones de la IA.",
+          "key_points": [
+            "CZON implementó una función de verificación de enlaces, pero la reparación con IA generó errores",
+            "La IA tiene una comprensión insuficiente de las rutas relativas y no escanea automáticamente todo el proyecto",
+            "La solución es proporcionar a la IA una lista de opciones de rutas relativas basadas en el archivo problemático",
+            "La verificación de compilación debe diseñarse en un formato amigable para la IA",
+            "La versión CZON 0.9.1 reparó con éxito 500 errores de enlaces"
+          ],
+          "audience": "Desarrolladores de software, usuarios de herramientas de IA, mantenedores de documentación técnica",
+          "tags": [
+            "CZON",
+            "Verificación de enlaces",
+            "Reparación con IA",
+            "Rutas relativas",
+            "Verificación de compilación",
+            "MiniMax M2.1",
+            "OpenCode"
+          ]
+        }
+      },
+      "metadataTranslationHash": "af5f8e66f275460d68e696a1f75f33ef05fec0636c6cbed43a746e2a116803f3",
+      "category": "Troubleshooting",
+      "nativeMarkdownHash": "903997ba4dfa2484cd1772c4f8745c76c9d6277ed22f8f13c4a83275304f0f95"
+    },
+    {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
       "path": "LOGS/6.md",
       "links": [],
