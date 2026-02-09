@@ -13660,6 +13660,12 @@
       "en-US": "CZON",
       "ja-JP": "CZON",
       "es-ES": "CZON"
+    },
+    "待办事项": {
+      "zh-Hans": "待办事项",
+      "en-US": "To-Do List",
+      "ja-JP": "ToDoリスト",
+      "es-ES": "Lista de Tareas"
     }
   }
 }
