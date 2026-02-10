@@ -12594,7 +12594,102 @@
       },
       "hash": "cd4230fcc5d29ba9c7f6e5352408278c31a87af22be86d668757873ca5751478",
       "category": "Quantitative Finance",
-      "nativeMarkdownHash": "cd4230fcc5d29ba9c7f6e5352408278c31a87af22be86d668757873ca5751478"
+      "nativeMarkdownHash": "cd4230fcc5d29ba9c7f6e5352408278c31a87af22be86d668757873ca5751478",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "三体动力学信号门控机制与市场状态量分析",
+          "description": "本文提出基于三体动力学的信号门控机制，通过估计市场状态量δ、μ和σ来优化策略投入时机，并深入探讨了这些状态量的直觉理解和估计方法。",
+          "summary": "本文首先介绍了基于三体动力学的信号门控机制，该机制通过估计市场状态量δ（溢价）、μ（动量）和σ（波动率）来决定策略的投入和撤出时机，以实现策略收益最大化。作者详细阐述了这三个状态量的直觉理解：δ的核心是心理锚定效应，可通过成交量分布分析；μ的核心是价格变动速度，可用对数收益率移动平均衡量；σ的核心是价格变动幅度，可用对数收益率标准差衡量。文章还讨论了估计方式有效性的判断标准，即通过门控效果的好坏来评估，并指出高级信号策略往往已包含对这些状态量的估计，但需要系统化理解。最后，作者认为解耦信号门控后，这些状态量可作为关键因子，而信号策略本身可能只需最朴素的形式。",
+          "short_summary": "本文提出一个基于三体动力学的信号门控机制，通过估计市场状态量δ、μ和σ来优化策略投入时机。作者深入探讨了这些状态量的直觉理解和估计方法，强调心理锚定效应、价格变动速度和幅度是关键。文章还指出高级信号策略已隐含这些估计，但需要体系化理解以提升门控效果。",
+          "key_points": [
+            "提出基于三体动力学的信号门控机制，通过估计δ、μ和σ来动态调整策略投入",
+            "详细解释市场状态量δ、μ和σ的直觉理解和估计方法，强调心理锚定、价格速度和幅度",
+            "讨论估计有效性的判断标准，即门控效果对策略收益的提升",
+            "指出高级信号策略已包含对市场状态量的估计，但需要系统化理解",
+            "认为解耦门控后，状态量可作为关键因子，简化信号策略设计"
+          ],
+          "audience": "量化交易研究者、策略开发者、对市场动力学和信号门控机制感兴趣的分析师",
+          "tags": [
+            "信号门控",
+            "三体动力学",
+            "市场状态量",
+            "策略优化",
+            "量化交易",
+            "心理锚定",
+            "动量策略"
+          ]
+        },
+        "en-US": {
+          "title": "Three-Body Dynamics Signal Gating Mechanism and Market State Variable Analysis",
+          "description": "This paper proposes a signal gating mechanism based on three-body dynamics, which optimizes strategy entry timing by estimating market state variables δ, μ, and σ, and delves into the intuitive understanding and estimation methods of these state variables.",
+          "summary": "This paper first introduces a signal gating mechanism based on three-body dynamics, which determines strategy entry and exit timing by estimating market state variables δ (premium), μ (momentum), and σ (volatility) to maximize strategy returns. The author elaborates on the intuitive understanding of these three state variables: the core of δ is the psychological anchoring effect, which can be analyzed through volume distribution; the core of μ is the speed of price changes, measurable by moving averages of log returns; the core of σ is the magnitude of price changes, measurable by the standard deviation of log returns. The article also discusses criteria for judging the effectiveness of estimation methods, i.e., evaluating based on the quality of gating effects, and notes that advanced signal strategies often already include estimates of these state variables but require systematic understanding. Finally, the author suggests that after decoupling signal gating, these state variables can serve as key factors, while the signal strategy itself may only need the simplest form.",
+          "short_summary": "This paper proposes a signal gating mechanism based on three-body dynamics, optimizing strategy entry timing by estimating market state variables δ, μ, and σ. The author delves into the intuitive understanding and estimation methods of these variables, emphasizing psychological anchoring effects, price change speed, and magnitude as key aspects. The article also notes that advanced signal strategies implicitly include these estimates but require systematic understanding to improve gating effectiveness.",
+          "key_points": [
+            "Proposes a signal gating mechanism based on three-body dynamics, dynamically adjusting strategy entry by estimating δ, μ, and σ",
+            "Explains in detail the intuitive understanding and estimation methods of market state variables δ, μ, and σ, emphasizing psychological anchoring, price speed, and magnitude",
+            "Discusses criteria for judging estimation effectiveness, i.e., the improvement in strategy returns due to gating effects",
+            "Points out that advanced signal strategies already include estimates of market state variables but require systematic understanding",
+            "Suggests that after decoupling gating, state variables can serve as key factors, simplifying signal strategy design"
+          ],
+          "audience": "Quantitative trading researchers, strategy developers, analysts interested in market dynamics and signal gating mechanisms",
+          "tags": [
+            "Signal Gating",
+            "Three-Body Dynamics",
+            "Market State Variables",
+            "Strategy Optimization",
+            "Quantitative Trading",
+            "Psychological Anchoring",
+            "Momentum Strategy"
+          ]
+        },
+        "ja-JP": {
+          "title": "三体力学に基づく信号ゲーティング機構と市場状態量分析",
+          "description": "本稿では、三体力学に基づく信号ゲーティング機構を提案し、市場状態量δ、μ、σを推定することで戦略投入タイミングを最適化し、これらの状態量の直感的理解と推定方法について詳細に考察する。",
+          "summary": "本稿ではまず、三体力学に基づく信号ゲーティング機構を紹介する。この機構は、市場状態量δ（プレミアム）、μ（モメンタム）、σ（ボラティリティ）を推定し、戦略の投入・撤退タイミングを決定することで、戦略収益の最大化を図る。著者は、これら3つの状態量の直感的理解を詳細に説明する：δの核心は心理的アンカリング効果であり、出来高分布分析で推定可能；μの核心は価格変動速度であり、対数収益率の移動平均で測定可能；σの核心は価格変動幅であり、対数収益率の標準偏差で測定可能。また、推定方式の有効性判断基準として、ゲーティング効果の良し悪しによる評価を議論し、高度な信号戦略は既にこれらの状態量推定を含むが、体系的理解が必要と指摘する。最後に、著者は、信号ゲーティングを分離した後、これらの状態量は重要な因子として機能し、信号戦略自体は最もシンプルな形式で十分と考える。",
+          "short_summary": "本稿では、三体力学に基づく信号ゲーティング機構を提案し、市場状態量δ、μ、σを推定することで戦略投入タイミングを最適化する。著者は、これらの状態量の直感的理解と推定方法を深く考察し、心理的アンカリング効果、価格変動速度、変動幅が重要と強調する。また、高度な信号戦略は既にこれらの推定を内包するが、体系的理解によりゲーティング効果を向上させる必要があると指摘する。",
+          "key_points": [
+            "三体力学に基づく信号ゲーティング機構を提案し、δ、μ、σを推定して戦略投入を動的に調整",
+            "市場状態量δ、μ、σの直感的理解と推定方法を詳細に説明し、心理的アンカリング、価格速度、変動幅を強調",
+            "推定有効性の判断基準として、ゲーティング効果による戦略収益向上を議論",
+            "高度な信号戦略は既に市場状態量推定を含むが、体系的理解が必要と指摘",
+            "ゲーティング分離後、状態量は重要な因子として機能し、信号戦略設計を簡素化できると考える"
+          ],
+          "audience": "クオンツ取引研究者、戦略開発者、市場力学と信号ゲーティング機構に関心のあるアナリスト",
+          "tags": [
+            "信号ゲーティング",
+            "三体力学",
+            "市場状態量",
+            "戦略最適化",
+            "クオンツ取引",
+            "心理的アンカリング",
+            "モメンタム戦略"
+          ]
+        },
+        "es-ES": {
+          "title": "Mecanismo de Puerta de Señales Basado en Dinámica de Tres Cuerpos y Análisis de Variables de Estado del Mercado",
+          "description": "Este artículo propone un mecanismo de puerta de señales basado en dinámica de tres cuerpos, que optimiza el momento de entrada de estrategias mediante la estimación de las variables de estado del mercado δ, μ y σ, y profundiza en la comprensión intuitiva y los métodos de estimación de estas variables.",
+          "summary": "Este artículo introduce primero un mecanismo de puerta de señales basado en dinámica de tres cuerpos, que determina el momento de entrada y salida de estrategias estimando las variables de estado del mercado δ (prima), μ (momento) y σ (volatilidad), para maximizar los rendimientos de la estrategia. El autor explica en detalle la comprensión intuitiva de estas tres variables: el núcleo de δ es el efecto de anclaje psicológico, que se puede analizar mediante la distribución del volumen; el núcleo de μ es la velocidad de cambio de precios, que se puede medir con la media móvil del rendimiento logarítmico; el núcleo de σ es la magnitud del cambio de precios, que se puede medir con la desviación estándar del rendimiento logarítmico. El artículo también discute los criterios para juzgar la efectividad de los métodos de estimación, evaluándolos por la calidad del efecto de puerta, y señala que las estrategias de señales avanzadas a menudo ya incluyen estimaciones de estas variables, pero requieren una comprensión sistemática. Finalmente, el autor sugiere que, al desacoplar la puerta de señales, estas variables pueden servir como factores clave, mientras que la estrategia de señales en sí misma podría adoptar una forma más simple.",
+          "short_summary": "Este artículo propone un mecanismo de puerta de señales basado en dinámica de tres cuerpos, que optimiza el momento de entrada de estrategias estimando las variables de estado del mercado δ, μ y σ. El autor profundiza en la comprensión intuitiva y los métodos de estimación de estas variables, enfatizando que el efecto de anclaje psicológico, la velocidad y magnitud del cambio de precios son clave. El artículo también señala que las estrategias de señales avanzadas ya implican estas estimaciones, pero requieren una comprensión sistematizada para mejorar el efecto de puerta.",
+          "key_points": [
+            "Propone un mecanismo de puerta de señales basado en dinámica de tres cuerpos, que ajusta dinámicamente la entrada de estrategias estimando δ, μ y σ",
+            "Explica en detalle la comprensión intuitiva y los métodos de estimación de las variables de estado del mercado δ, μ y σ, enfatizando el anclaje psicológico, la velocidad y magnitud del precio",
+            "Discute los criterios para juzgar la efectividad de la estimación, es decir, la mejora en los rendimientos de la estrategia debido al efecto de puerta",
+            "Señala que las estrategias de señales avanzadas ya incluyen estimaciones de las variables de estado del mercado, pero requieren una comprensión sistemática",
+            "Sugiere que, al desacoplar la puerta, las variables de estado pueden servir como factores clave, simplificando el diseño de estrategias de señales"
+          ],
+          "audience": "Investigadores de trading cuantitativo, desarrolladores de estrategias, analistas interesados en dinámica del mercado y mecanismos de puerta de señales",
+          "tags": [
+            "Puerta de señales",
+            "Dinámica de tres cuerpos",
+            "Variables de estado del mercado",
+            "Optimización de estrategias",
+            "Trading cuantitativo",
+            "Anclaje psicológico",
+            "Estrategia de momento"
+          ]
+        }
+      },
+      "metadataTranslationHash": "9f48ab4915ca3d9f0d88947277b2a0ace77654b23430eb7f8f7f477b744abf06"
     },
     {
       "hash": "8c3c275b001814414470dd40b09f4236cc0b7e286ff66c280321db800ce61bfc",
