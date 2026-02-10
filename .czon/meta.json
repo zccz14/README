@@ -12855,6 +12855,150 @@
       "metadataTranslationHash": "013c870904a50b45dc73fdfda92661b35485e1ce0bdc80140ad405bba4dc4d03"
     },
     {
+      "path": "LOGS/60.md",
+      "links": [
+        "../INSIGHTS/9.md",
+        "./59.md",
+        "../INSIGHTS/9.md",
+        "./59.md",
+        "./58.md"
+      ],
+      "metadata": {
+        "title": "三体门控的市场状态量建模方案",
+        "description": "本文提出基于成交量引力场模型的市场状态量建模方案，定义了动量、波动率和溢价三个独立维度，用于金融市场的门控机制。",
+        "short_summary": "本文提出了市场状态量δ、μ、σ的建模方案，其中δ通过成交量引力场模型定义，避免了与μ的线性相关。μ和σ分别基于收益率计算趋势和波动，三者共同构成独立的信息维度。",
+        "audience": "金融量化分析师、市场研究人员、对金融市场建模和门控机制感兴趣的技术人员",
+        "key_points": [
+          "δ（溢价）通过成交量引力场模型定义，引入非线性操作确保与μ（动量）独立",
+          "μ定义为收益率的指数移动平均，σ定义为收益率的标准差",
+          "从K线序列计算δ、μ、σ的具体步骤和参数建议",
+          "三变量（δ、μ、σ）的独立性论证基于非线性操作和不同信息源",
+          "核函数（如高斯核）建模心理锚定效应，带宽可自适应波动率"
+        ],
+        "summary": "本文承接三体动力学假说和门控机制设想，系统梳理了市场状态量δ（溢价）、μ（动量）和σ（波动率）的建模方案。核心创新在于δ的定义：通过成交量引力场模型，引入非线性操作（高斯核函数和梯度计算），使其与μ和σ保持独立。μ定义为收益率的指数移动平均，提取趋势信息；σ定义为收益率的标准差，衡量波动幅度；δ则基于成交量在价格轴上的分布，计算价格偏离成交密集区时的回归力。文章详细阐述了从K线序列计算这三个量的具体步骤，包括参数设置和独立性论证，为金融市场分析提供了新的建模框架。",
+        "slug": "three-body-gating-market-state-modeling",
+        "tags": [
+          "市场状态量",
+          "三体门控",
+          "成交量引力场",
+          "动量",
+          "波动率",
+          "溢价",
+          "金融建模",
+          "非线性操作"
+        ],
+        "inferred_date": "2026-02-10",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 2911,
+          "completion": 460,
+          "total": 3371
+        }
+      },
+      "hash": "16b34064d47ab05b8c146816ca4c421907616ed66ba98f5441eeca2dfe8495e2",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "三体门控的市场状态量建模方案",
+          "description": "本文提出基于成交量引力场模型的市场状态量建模方案，定义了动量、波动率和溢价三个独立维度，用于金融市场的门控机制。",
+          "summary": "本文承接三体动力学假说和门控机制设想，系统梳理了市场状态量δ（溢价）、μ（动量）和σ（波动率）的建模方案。核心创新在于δ的定义：通过成交量引力场模型，引入非线性操作（高斯核函数和梯度计算），使其与μ和σ保持独立。μ定义为收益率的指数移动平均，提取趋势信息；σ定义为收益率的标准差，衡量波动幅度；δ则基于成交量在价格轴上的分布，计算价格偏离成交密集区时的回归力。文章详细阐述了从K线序列计算这三个量的具体步骤，包括参数设置和独立性论证，为金融市场分析提供了新的建模框架。",
+          "short_summary": "本文提出了市场状态量δ、μ、σ的建模方案，其中δ通过成交量引力场模型定义，避免了与μ的线性相关。μ和σ分别基于收益率计算趋势和波动，三者共同构成独立的信息维度。",
+          "key_points": [
+            "δ（溢价）通过成交量引力场模型定义，引入非线性操作确保与μ（动量）独立",
+            "μ定义为收益率的指数移动平均，σ定义为收益率的标准差",
+            "从K线序列计算δ、μ、σ的具体步骤和参数建议",
+            "三变量（δ、μ、σ）的独立性论证基于非线性操作和不同信息源",
+            "核函数（如高斯核）建模心理锚定效应，带宽可自适应波动率"
+          ],
+          "audience": "金融量化分析师、市场研究人员、对金融市场建模和门控机制感兴趣的技术人员",
+          "tags": [
+            "市场状态量",
+            "三体门控",
+            "成交量引力场",
+            "动量",
+            "波动率",
+            "溢价",
+            "金融建模",
+            "非线性操作"
+          ]
+        },
+        "en-US": {
+          "title": "Market State Variable Modeling Scheme for Three-Body Gating",
+          "description": "This paper proposes a market state variable modeling scheme based on the volume gravitational field model, defining three independent dimensions—momentum, volatility, and premium—for gating mechanisms in financial markets.",
+          "summary": "Building on the three-body dynamics hypothesis and gating mechanism concept, this paper systematically outlines the modeling scheme for market state variables δ (premium), μ (momentum), and σ (volatility). The core innovation lies in the definition of δ: through the volume gravitational field model, nonlinear operations (Gaussian kernel functions and gradient calculations) are introduced to maintain its independence from μ and σ. μ is defined as the exponential moving average of returns to extract trend information; σ is defined as the standard deviation of returns to measure volatility amplitude; δ is based on the distribution of volume along the price axis, calculating the regression force when prices deviate from high-volume concentration areas. The article details the specific steps for calculating these three variables from candlestick sequences, including parameter settings and independence arguments, providing a new modeling framework for financial market analysis.",
+          "short_summary": "This paper proposes a modeling scheme for market state variables δ, μ, and σ, where δ is defined via the volume gravitational field model to avoid linear correlation with μ. μ and σ are calculated based on returns for trend and volatility, respectively, with the three together forming independent information dimensions.",
+          "key_points": [
+            "δ (premium) is defined through the volume gravitational field model, introducing nonlinear operations to ensure independence from μ (momentum)",
+            "μ is defined as the exponential moving average of returns, and σ is defined as the standard deviation of returns",
+            "Specific steps and parameter recommendations for calculating δ, μ, and σ from candlestick sequences",
+            "Independence arguments for the three variables (δ, μ, σ) are based on nonlinear operations and different information sources",
+            "Kernel functions (e.g., Gaussian kernel) model psychological anchoring effects, with bandwidth adaptable to volatility"
+          ],
+          "audience": "Financial quantitative analysts, market researchers, and technical personnel interested in financial market modeling and gating mechanisms",
+          "tags": [
+            "Market State Variables",
+            "Three-Body Gating",
+            "Volume Gravitational Field",
+            "Momentum",
+            "Volatility",
+            "Premium",
+            "Financial Modeling",
+            "Nonlinear Operations"
+          ]
+        },
+        "ja-JP": {
+          "title": "三体ゲーティングの市場状態量モデリング手法",
+          "description": "本稿は、出来高重力場モデルに基づく市場状態量のモデリング手法を提案し、金融市場のゲーティングメカニズムに用いるためのモメンタム、ボラティリティ、プレミアムの3つの独立次元を定義する。",
+          "summary": "本稿は、三体動力学仮説とゲーティングメカニズムの構想を踏まえ、市場状態量δ（プレミアム）、μ（モメンタム）、σ（ボラティリティ）のモデリング手法を体系的に整理する。核心的な革新はδの定義にある：出来高重力場モデルを通じて、非線形操作（ガウシアンカーネル関数と勾配計算）を導入し、μおよびσとの独立性を維持する。μは収益率の指数移動平均として定義され、トレンド情報を抽出する；σは収益率の標準偏差として定義され、変動幅を測定する；δは価格軸上の出来高分布に基づき、価格が取引密集域から乖離した際の回帰力を計算する。本稿は、ローソク足系列からこれら3つの量を計算する具体的な手順（パラメータ設定や独立性の論証を含む）を詳細に説明し、金融市場分析に新たなモデリング枠組みを提供する。",
+          "short_summary": "本稿は、市場状態量δ、μ、σのモデリング手法を提案する。δは出来高重力場モデルを通じて定義され、μとの線形相関を回避する。μとσはそれぞれ収益率に基づきトレンドと変動を計算し、三者が独立した情報次元を構成する。",
+          "key_points": [
+            "δ（プレミアム）は出来高重力場モデルで定義され、非線形操作を導入してμ（モメンタム）との独立性を確保",
+            "μは収益率の指数移動平均として定義、σは収益率の標準偏差として定義",
+            "ローソク足系列からδ、μ、σを計算する具体的な手順とパラメータ推奨",
+            "三変数（δ、μ、σ）の独立性論証は非線形操作と異なる情報源に基づく",
+            "カーネル関数（例：ガウシアンカーネル）は心理的アンカリング効果をモデル化し、帯域幅はボラティリティに適応可能"
+          ],
+          "audience": "金融クオンツアナリスト、市場研究者、金融市場モデリングとゲーティングメカニズムに関心のある技術者",
+          "tags": [
+            "市場状態量",
+            "三体ゲーティング",
+            "出来高重力場",
+            "モメンタム",
+            "ボラティリティ",
+            "プレミアム",
+            "金融モデリング",
+            "非線形操作"
+          ]
+        },
+        "es-ES": {
+          "title": "Esquema de modelado de variables de estado de mercado para el control de tres cuerpos",
+          "description": "Este artículo propone un esquema de modelado de variables de estado de mercado basado en el modelo de campo gravitacional de volumen, definiendo tres dimensiones independientes: momentum, volatilidad y prima, para mecanismos de control en mercados financieros.",
+          "summary": "Este artículo, continuando con la hipótesis de dinámica de tres cuerpos y la idea de mecanismos de control, sistematiza el esquema de modelado de las variables de estado de mercado δ (prima), μ (momentum) y σ (volatilidad). La innovación central radica en la definición de δ: mediante el modelo de campo gravitacional de volumen, se introducen operaciones no lineales (función kernel gaussiana y cálculo de gradiente) para mantenerla independiente de μ y σ. μ se define como la media móvil exponencial de los rendimientos, extrayendo información de tendencia; σ se define como la desviación estándar de los rendimientos, midiendo la amplitud de la volatilidad; δ se basa en la distribución del volumen en el eje de precios, calculando la fuerza de regresión cuando los precios se desvían de las zonas de alta concentración de transacciones. El artículo detalla los pasos específicos para calcular estas tres variables a partir de series de velas japonesas, incluyendo la configuración de parámetros y la argumentación de independencia, proporcionando un nuevo marco de modelado para el análisis de mercados financieros.",
+          "short_summary": "Este artículo propone un esquema de modelado para las variables de estado de mercado δ, μ, σ, donde δ se define mediante el modelo de campo gravitacional de volumen, evitando la correlación lineal con μ. μ y σ se calculan respectivamente basándose en rendimientos para tendencia y volatilidad, formando juntas tres dimensiones de información independientes.",
+          "key_points": [
+            "δ (prima) se define mediante el modelo de campo gravitacional de volumen, introduciendo operaciones no lineales para garantizar independencia con μ (momentum)",
+            "μ se define como la media móvil exponencial de los rendimientos, σ se define como la desviación estándar de los rendimientos",
+            "Pasos específicos y recomendaciones de parámetros para calcular δ, μ, σ a partir de series de velas japonesas",
+            "Argumentación de independencia de las tres variables (δ, μ, σ) basada en operaciones no lineales y diferentes fuentes de información",
+            "Funciones kernel (como la gaussiana) modelan el efecto de anclaje psicológico, con ancho de banda adaptable a la volatilidad"
+          ],
+          "audience": "Analistas cuantitativos financieros, investigadores de mercados, técnicos interesados en modelado de mercados financieros y mecanismos de control",
+          "tags": [
+            "Variables de estado de mercado",
+            "Control de tres cuerpos",
+            "Campo gravitacional de volumen",
+            "Momentum",
+            "Volatilidad",
+            "Prima",
+            "Modelado financiero",
+            "Operaciones no lineales"
+          ]
+        }
+      },
+      "metadataTranslationHash": "e28bf2ca2d143bc2f7a628d397804cfe93addfa727c1b76683461b2601a20889",
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "16b34064d47ab05b8c146816ca4c421907616ed66ba98f5441eeca2dfe8495e2"
+    },
+    {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
       "path": "LOGS/7.md",
       "links": [],
