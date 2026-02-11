@@ -14494,6 +14494,144 @@
       "hash": "e5c9fbcc6e652381ce552a033b04583b026e01af0369b5b3bba1e18f4d50fbd3",
       "path": "QUANT/FSA/image-3.png",
       "links": []
+    },
+    {
+      "path": "SUMMARY/CPW.md",
+      "links": [],
+      "metadata": {
+        "title": "资本持久战：个人投资者跨越阶级的战略框架",
+        "description": "一套基于《论持久战》和反马丁格尔策略的投资框架，帮助个人投资者通过可控损失追求指数级收益并最终离开市场。",
+        "short_summary": "“资本持久战”是一套个人投资战略框架，核心是用可控损失博取高收益，通过程序化交易和浮盈加仓实现指数增长。它强调风险控制、明确目标，并已通过实验验证在特定市场条件下有效。该框架旨在帮助投资者最终胜利离场，而非永久困于市场。",
+        "audience": "个人投资者，特别是寻求跨越阶级、对程序化交易和风险控制感兴趣的新读者。",
+        "key_points": [
+          "核心命题：用可控损失博取高收益，实现指数增长并最终离场。",
+          "四大原则：损失可控、优势累积、乘胜追击、目标明确。",
+          "数学框架：基于风控线、双账户体系和反马丁格尔仓位计算。",
+          "实验验证：在合成数据和BTC/ETH真实数据中显示策略有效性。",
+          "关键概念：如“发电/用电”框架、以损定仓、与马丁格尔策略本质区别。"
+        ],
+        "summary": "本文系统阐述了由zccz14于2026年提出的“资本持久战”投资战略框架。该框架从毛泽东《论持久战》汲取智慧，结合反马丁格尔资金管理策略，提出“用你能承受的损失，去博一个你‘承受不起’的收益”的核心命题。它通过损失可控、优势累积、乘胜追击、目标明确四大原则，驳斥了个人必败论、梭哈暴富论和稳健发展论，旨在实现个人资本的指数级增长，最终让投资者“胜利后离开市场”。文章详细介绍了其数学形式化框架、关键概念延伸（如“发电/用电”框架）、实验验证体系（包括合成数据和BTC、ETH真实数据验证），并展望了社区化交易等未来方向。截至2026年2月，该理论已完成实验验证并准备进入实盘阶段。",
+        "slug": "capital-protracted-war-investment-framework",
+        "tags": [
+          "资本持久战",
+          "个人投资",
+          "反马丁格尔",
+          "浮盈加仓",
+          "风险控制",
+          "指数增长",
+          "战略框架",
+          "zccz14"
+        ],
+        "inferred_date": "2026-02-11",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 6591,
+          "completion": 536,
+          "total": 7127
+        }
+      },
+      "hash": "0697be611c4e56f8f6fb231c0d50096f903030993cb8153acda7a68dab0c13a8",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "资本持久战：个人投资者跨越阶级的战略框架",
+          "description": "一套基于《论持久战》和反马丁格尔策略的投资框架，帮助个人投资者通过可控损失追求指数级收益并最终离开市场。",
+          "summary": "本文系统阐述了由zccz14于2026年提出的“资本持久战”投资战略框架。该框架从毛泽东《论持久战》汲取智慧，结合反马丁格尔资金管理策略，提出“用你能承受的损失，去博一个你‘承受不起’的收益”的核心命题。它通过损失可控、优势累积、乘胜追击、目标明确四大原则，驳斥了个人必败论、梭哈暴富论和稳健发展论，旨在实现个人资本的指数级增长，最终让投资者“胜利后离开市场”。文章详细介绍了其数学形式化框架、关键概念延伸（如“发电/用电”框架）、实验验证体系（包括合成数据和BTC、ETH真实数据验证），并展望了社区化交易等未来方向。截至2026年2月，该理论已完成实验验证并准备进入实盘阶段。",
+          "short_summary": "“资本持久战”是一套个人投资战略框架，核心是用可控损失博取高收益，通过程序化交易和浮盈加仓实现指数增长。它强调风险控制、明确目标，并已通过实验验证在特定市场条件下有效。该框架旨在帮助投资者最终胜利离场，而非永久困于市场。",
+          "key_points": [
+            "核心命题：用可控损失博取高收益，实现指数增长并最终离场。",
+            "四大原则：损失可控、优势累积、乘胜追击、目标明确。",
+            "数学框架：基于风控线、双账户体系和反马丁格尔仓位计算。",
+            "实验验证：在合成数据和BTC/ETH真实数据中显示策略有效性。",
+            "关键概念：如“发电/用电”框架、以损定仓、与马丁格尔策略本质区别。"
+          ],
+          "audience": "个人投资者，特别是寻求跨越阶级、对程序化交易和风险控制感兴趣的新读者。",
+          "tags": [
+            "资本持久战",
+            "个人投资",
+            "反马丁格尔",
+            "浮盈加仓",
+            "风险控制",
+            "指数增长",
+            "战略框架",
+            "zccz14"
+          ]
+        },
+        "en-US": {
+          "title": "Capital Protracted War: A Strategic Framework for Individual Investors to Transcend Class",
+          "description": "An investment framework based on 'On Protracted War' and the anti-Martingale strategy, helping individual investors pursue exponential returns through controllable losses and ultimately exit the market.",
+          "summary": "This article systematically elaborates on the 'Capital Protracted War' investment strategic framework proposed by zccz14 in 2026. Drawing wisdom from Mao Zedong's 'On Protracted War' and combining it with the anti-Martingale capital management strategy, it proposes the core proposition: 'Use losses you can afford to gamble for returns you 'cannot afford'.' Through four principles—controllable losses, advantage accumulation, pressing the advantage, and clear objectives—it refutes theories of inevitable individual failure, all-in for quick riches, and steady development. It aims to achieve exponential growth of personal capital, ultimately allowing investors to 'exit the market after victory.' The article details its mathematical formalization framework, key concept extensions (such as the 'power generation/consumption' framework), experimental validation systems (including synthetic data and real data validation with BTC and ETH), and looks forward to future directions like community-based trading. As of February 2026, the theory has completed experimental validation and is preparing to enter live trading.",
+          "short_summary": "'Capital Protracted War' is a personal investment strategic framework centered on using controllable losses to pursue high returns, achieving exponential growth through programmatic trading and pyramiding. It emphasizes risk control and clear objectives, and has been experimentally validated as effective under specific market conditions. The framework aims to help investors ultimately exit the market victoriously, rather than being trapped in it permanently.",
+          "key_points": [
+            "Core proposition: Use controllable losses to pursue high returns, achieve exponential growth, and ultimately exit the market.",
+            "Four principles: Controllable losses, advantage accumulation, pressing the advantage, and clear objectives.",
+            "Mathematical framework: Based on risk control lines, dual-account systems, and anti-Martingale position calculations.",
+            "Experimental validation: Shows strategy effectiveness in synthetic data and real BTC/ETH data.",
+            "Key concepts: Such as the 'power generation/consumption' framework, position sizing based on losses, and essential differences from the Martingale strategy."
+          ],
+          "audience": "Individual investors, especially those seeking to transcend class, interested in programmatic trading and risk control, and new readers.",
+          "tags": [
+            "Capital Protracted War",
+            "Personal Investment",
+            "Anti-Martingale",
+            "Pyramiding",
+            "Risk Control",
+            "Exponential Growth",
+            "Strategic Framework",
+            "zccz14"
+          ]
+        },
+        "ja-JP": {
+          "title": "資本持久戦：個人投資家が階級を超えるための戦略的フレームワーク",
+          "description": "『持久戦論』とアンチマーチンゲール戦略に基づく投資フレームワークで、個人投資家が制御可能な損失を通じて指数関数的な収益を追求し、最終的に市場から離脱することを支援します。",
+          "summary": "本稿は、zccz14が2026年に提唱した「資本持久戦」投資戦略フレームワークを体系的に解説しています。このフレームワークは、毛沢東の『持久戦論』から知恵を得て、アンチマーチンゲール資金管理戦略を組み合わせ、「耐えられる損失で、『耐えられない』収益を狙う」という核心命題を提示しています。損失制御、優位性蓄積、勝ちに乗じる追撃、明確な目標という四大原則を通じて、個人必敗論、一攫千金論、安定成長論を否定し、個人資本の指数関数的成長を実現し、最終的に投資家が「勝利後に市場を離れる」ことを目指します。記事では、数学的形式化フレームワーク、主要概念の拡張（「発電/消費」フレームワークなど）、実験検証体系（合成データおよびBTC、ETH実データ検証を含む）を詳細に紹介し、コミュニティ取引などの将来展望を示しています。2026年2月時点で、この理論は実験検証を完了し、実戦段階への準備が整っています。",
+          "short_summary": "「資本持久戦」は、個人投資戦略フレームワークで、核心は制御可能な損失で高収益を狙い、プログラム取引と含み益での追加建てを通じて指数関数的成長を実現することです。リスク管理と明確な目標を強調し、特定の市場条件下での有効性が実験で検証されています。このフレームワークは、投資家が最終的に勝利して市場を離れることを支援することを目的としており、永久に市場に囚われることを防ぎます。",
+          "key_points": [
+            "核心命題：制御可能な損失で高収益を狙い、指数関数的成長を実現して最終的に市場を離脱する。",
+            "四大原則：損失制御、優位性蓄積、勝ちに乗じる追撃、明確な目標。",
+            "数学的フレームワーク：リスク管理ライン、二口座体系、アンチマーチンゲール建て玉計算に基づく。",
+            "実験検証：合成データおよびBTC/ETH実データで戦略の有効性を示す。",
+            "主要概念：「発電/消費」フレームワーク、損失に基づく建て玉決定、マーチンゲール戦略との本質的違いなど。"
+          ],
+          "audience": "個人投資家、特に階級を超えることを目指し、プログラム取引やリスク管理に関心のある新規読者。",
+          "tags": [
+            "資本持久戦",
+            "個人投資",
+            "アンチマーチンゲール",
+            "含み益追加建て",
+            "リスク管理",
+            "指数関数的成長",
+            "戦略的フレームワーク",
+            "zccz14"
+          ]
+        },
+        "es-ES": {
+          "title": "Guerra Prolongada del Capital: Marco Estratégico para Inversores Individuales que Aspiran a Superar Clases Sociales",
+          "description": "Un marco de inversión basado en 'Sobre la Guerra Prolongada' y la estrategia anti-Martingale, que ayuda a los inversores individuales a perseguir rendimientos exponenciales mediante pérdidas controladas y finalmente salir del mercado.",
+          "summary": "Este artículo expone sistemáticamente el marco estratégico de inversión 'Guerra Prolongada del Capital' propuesto por zccz14 en 2026. El marco extrae sabiduría de 'Sobre la Guerra Prolongada' de Mao Zedong, combina la estrategia de gestión de capital anti-Martingale y propone la tesis central: 'Usa las pérdidas que puedes soportar para buscar un rendimiento que 'no puedes permitirte'. A través de cuatro principios principales—pérdidas controladas, acumulación de ventajas, perseguir la victoria y objetivos claros—refuta las teorías de la derrota inevitable del individuo, la riqueza rápida apostando todo y el desarrollo estable, con el objetivo de lograr un crecimiento exponencial del capital personal y finalmente permitir que los inversores 'salgan del mercado tras la victoria'. El artículo detalla su marco formalizado matemático, extensiones de conceptos clave (como el marco 'generación/consumo de energía'), el sistema de validación experimental (incluyendo datos sintéticos y validación con datos reales de BTC y ETH), y explora direcciones futuras como el trading comunitario. Hasta febrero de 2026, la teoría ha completado la validación experimental y está lista para entrar en la fase de operaciones reales.",
+          "short_summary": "'Guerra Prolongada del Capital' es un marco estratégico de inversión personal cuyo núcleo es utilizar pérdidas controladas para buscar altos rendimientos, logrando crecimiento exponencial mediante trading algorítmico y aumento de posiciones con ganancias flotantes. Enfatiza el control de riesgos y objetivos claros, y ha demostrado ser efectivo en condiciones de mercado específicas a través de validación experimental. El marco tiene como objetivo ayudar a los inversores a salir victoriosos del mercado, en lugar de quedar atrapados permanentemente en él.",
+          "key_points": [
+            "Tesis central: Utilizar pérdidas controladas para buscar altos rendimientos, lograr crecimiento exponencial y finalmente salir del mercado.",
+            "Cuatro principios principales: Pérdidas controladas, acumulación de ventajas, perseguir la victoria y objetivos claros.",
+            "Marco matemático: Basado en líneas de control de riesgos, sistema de doble cuenta y cálculo de posiciones anti-Martingale.",
+            "Validación experimental: Muestra efectividad en datos sintéticos y datos reales de BTC/ETH.",
+            "Conceptos clave: Como el marco 'generación/consumo de energía', determinar posiciones basadas en pérdidas, y diferencias esenciales con la estrategia Martingale."
+          ],
+          "audience": "Inversores individuales, especialmente nuevos lectores que buscan superar clases sociales y están interesados en el trading algorítmico y el control de riesgos.",
+          "tags": [
+            "Guerra Prolongada del Capital",
+            "inversión personal",
+            "anti-Martingale",
+            "aumento de posiciones con ganancias flotantes",
+            "control de riesgos",
+            "crecimiento exponencial",
+            "marco estratégico",
+            "zccz14"
+          ]
+        }
+      },
+      "metadataTranslationHash": "e49821b0ae374998458ae6da795b8ce5cdbf3ecb911764d9048526cbd168085b",
+      "category": "Investment Strategy",
+      "nativeMarkdownHash": "0697be611c4e56f8f6fb231c0d50096f903030993cb8153acda7a68dab0c13a8"
     }
   ],
   "categoryTranslations": {
