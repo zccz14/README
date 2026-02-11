@@ -13264,6 +13264,137 @@
       "nativeMarkdownHash": "691dec95ec0d9684ccd57dc548b49549a605eff3f63a8b5dc6590a33c48607c8"
     },
     {
+      "path": "LOGS/63-image-0.png",
+      "links": []
+    },
+    {
+      "path": "LOGS/63.md",
+      "links": [
+        "./63-image-0.png",
+        "./62.md",
+        "./35.md"
+      ],
+      "metadata": {
+        "title": "FMAB信号表现优异，准备实盘部署",
+        "description": "FMAB信号在ETH上收益率达100%，反马丁投注提升至4600%~120000%，准备上实盘并优化仓位管理。",
+        "short_summary": "FMAB信号在ETH上表现卓越，反马丁投注后收益率大幅提升至4600%~120000%。作者准备上实盘，并反思FMA信号不佳和仓位管理问题。文章基于2026年2月11日的测试，强调信号验证和实盘准备。",
+        "audience": "加密货币交易者、量化策略开发者、投资分析师",
+        "key_points": [
+          "FMAB信号在ETH上基准收益率100%，反马丁投注后提升至4600%~120000%",
+          "准备上实盘，需准备资本持久战相关工程",
+          "FMA信号表现不佳，曾导致回撤，反思仓位管理不够科学"
+        ],
+        "summary": "本文报告了FMAB信号在ETH上的优异表现，基准收益率达100%，反马丁投注后提升至4600%~120000%，远超其他策略。作者宣布准备上实盘，强调需准备资本持久战工程。同时指出FMA信号表现不佳，曾导致回撤，并反思仓位管理不够科学。文章基于2026年2月11日的测试结果，旨在分享信号策略验证和实盘部署计划。",
+        "slug": "fmab-signal-performance-eth-real-deployment",
+        "tags": [
+          "FMAB信号",
+          "ETH收益率",
+          "反马丁投注",
+          "实盘部署",
+          "仓位管理",
+          "信号策略",
+          "回撤分析"
+        ],
+        "inferred_date": "2026-02-11",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 775,
+          "completion": 383,
+          "total": 1158
+        }
+      },
+      "hash": "87ca6cbdf219d314f7c38316510b31c9f7686fbfea3b9393b20639dc89a0c7ed",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "FMAB信号表现优异，准备实盘部署",
+          "description": "FMAB信号在ETH上收益率达100%，反马丁投注提升至4600%~120000%，准备上实盘并优化仓位管理。",
+          "summary": "本文报告了FMAB信号在ETH上的优异表现，基准收益率达100%，反马丁投注后提升至4600%~120000%，远超其他策略。作者宣布准备上实盘，强调需准备资本持久战工程。同时指出FMA信号表现不佳，曾导致回撤，并反思仓位管理不够科学。文章基于2026年2月11日的测试结果，旨在分享信号策略验证和实盘部署计划。",
+          "short_summary": "FMAB信号在ETH上表现卓越，反马丁投注后收益率大幅提升至4600%~120000%。作者准备上实盘，并反思FMA信号不佳和仓位管理问题。文章基于2026年2月11日的测试，强调信号验证和实盘准备。",
+          "key_points": [
+            "FMAB信号在ETH上基准收益率100%，反马丁投注后提升至4600%~120000%",
+            "准备上实盘，需准备资本持久战相关工程",
+            "FMA信号表现不佳，曾导致回撤，反思仓位管理不够科学"
+          ],
+          "audience": "加密货币交易者、量化策略开发者、投资分析师",
+          "tags": [
+            "FMAB信号",
+            "ETH收益率",
+            "反马丁投注",
+            "实盘部署",
+            "仓位管理",
+            "信号策略",
+            "回撤分析"
+          ]
+        },
+        "en-US": {
+          "title": "FMAB Signal Performs Excellently, Ready for Live Trading Deployment",
+          "description": "The FMAB signal achieved a 100% return on ETH, with anti-Martingale betting boosting it to 4600%~120000%. Preparing for live trading and optimizing position management.",
+          "summary": "This article reports the excellent performance of the FMAB signal on ETH, with a baseline return of 100% and an increase to 4600%~120000% after anti-Martingale betting, far surpassing other strategies. The author announces plans for live trading, emphasizing the need to prepare capital for a long-term engineering effort. It also notes that the FMA signal performed poorly, causing drawdowns, and reflects on insufficiently scientific position management. Based on test results from February 11, 2026, the article aims to share signal strategy validation and live trading deployment plans.",
+          "short_summary": "The FMAB signal performed exceptionally on ETH, with returns significantly boosted to 4600%~120000% after anti-Martingale betting. The author is preparing for live trading and reflects on poor FMA signal performance and position management issues. Based on tests from February 11, 2026, it emphasizes signal validation and live trading preparation.",
+          "key_points": [
+            "FMAB signal achieved a baseline return of 100% on ETH, increased to 4600%~120000% after anti-Martingale betting",
+            "Preparing for live trading, requiring capital preparation for a long-term engineering effort",
+            "FMA signal performed poorly, causing drawdowns, reflecting on insufficiently scientific position management"
+          ],
+          "audience": "Cryptocurrency traders, quantitative strategy developers, investment analysts",
+          "tags": [
+            "FMAB signal",
+            "ETH return",
+            "Anti-Martingale betting",
+            "Live trading deployment",
+            "Position management",
+            "Signal strategy",
+            "Drawdown analysis"
+          ]
+        },
+        "ja-JP": {
+          "title": "FMABシグナルが優れたパフォーマンスを示し、実戦配備を準備中",
+          "description": "FMABシグナルはETHで100%の収益率を達成し、アンチマーチンゲールベッティングで4600%~120000%に向上、実戦配備とポジション管理の最適化を準備中。",
+          "summary": "本稿では、FMABシグナルがETHで優れたパフォーマンスを示し、ベンチマーク収益率100%、アンチマーチンゲールベッティング後4600%~120000%に向上し、他の戦略を大幅に上回ったことを報告。著者は実戦配備を準備中と発表し、資本の持久戦エンジニアリングの準備を強調。同時に、FMAシグナルはパフォーマンスが低く、ドローダウンを引き起こしたと指摘し、ポジション管理が科学的でなかったと反省。2026年2月11日のテスト結果に基づき、シグナル戦略の検証と実戦配備計画を共有することを目的とする。",
+          "short_summary": "FMABシグナルはETHで卓越したパフォーマンスを示し、アンチマーチンゲールベッティング後収益率が大幅に4600%~120000%に向上。著者は実戦配備を準備中で、FMAシグナルの低パフォーマンスとポジション管理の問題を反省。2026年2月11日のテストに基づき、シグナル検証と実戦準備を強調。",
+          "key_points": [
+            "FMABシグナルはETHでベンチマーク収益率100%、アンチマーチンゲールベッティング後4600%~120000%に向上",
+            "実戦配備を準備中で、資本の持久戦関連エンジニアリングの準備が必要",
+            "FMAシグナルはパフォーマンスが低く、ドローダウンを引き起こし、ポジション管理が科学的でなかったと反省"
+          ],
+          "audience": "暗号通貨トレーダー、定量戦略開発者、投資アナリスト",
+          "tags": [
+            "FMABシグナル",
+            "ETH収益率",
+            "アンチマーチンゲールベッティング",
+            "実戦配備",
+            "ポジション管理",
+            "シグナル戦略",
+            "ドローダウン分析"
+          ]
+        },
+        "es-ES": {
+          "title": "La señal FMAB muestra un rendimiento excelente, preparándose para el despliegue en tiempo real",
+          "description": "La señal FMAB ha logrado un rendimiento del 100% en ETH, con la apuesta anti-Martingale aumentada al 4600%~120000%, preparándose para el despliegue en tiempo real y optimizando la gestión de posiciones.",
+          "summary": "Este informe presenta el excelente rendimiento de la señal FMAB en ETH, con un rendimiento de referencia del 100%, que aumentó al 4600%~120000% después de la apuesta anti-Martingale, superando ampliamente otras estrategias. El autor anuncia la preparación para el despliegue en tiempo real, enfatizando la necesidad de preparar un proyecto de guerra de capital a largo plazo. También señala que la señal FMA tuvo un rendimiento deficiente, lo que causó retrocesos, y reflexiona sobre una gestión de posiciones poco científica. El artículo se basa en los resultados de las pruebas del 11 de febrero de 2026, con el objetivo de compartir la validación de estrategias de señales y los planes de despliegue en tiempo real.",
+          "short_summary": "La señal FMAB muestra un rendimiento excepcional en ETH, con el rendimiento aumentando significativamente al 4600%~120000% después de la apuesta anti-Martingale. El autor se prepara para el despliegue en tiempo real y reflexiona sobre el rendimiento deficiente de la señal FMA y los problemas de gestión de posiciones. El artículo se basa en las pruebas del 11 de febrero de 2026, enfatizando la validación de señales y la preparación para el despliegue en tiempo real.",
+          "key_points": [
+            "La señal FMAB en ETH tiene un rendimiento de referencia del 100%, aumentando al 4600%~120000% después de la apuesta anti-Martingale",
+            "Preparándose para el despliegue en tiempo real, requiere preparar proyectos relacionados con una guerra de capital a largo plazo",
+            "La señal FMA tuvo un rendimiento deficiente, causó retrocesos, y se reflexiona sobre una gestión de posiciones poco científica"
+          ],
+          "audience": "Operadores de criptomonedas, desarrolladores de estrategias cuantitativas, analistas de inversión",
+          "tags": [
+            "Señal FMAB",
+            "Rendimiento de ETH",
+            "Apuesta anti-Martingale",
+            "Despliegue en tiempo real",
+            "Gestión de posiciones",
+            "Estrategia de señales",
+            "Análisis de retrocesos"
+          ]
+        }
+      },
+      "metadataTranslationHash": "0e28bbd8d6768dc9a4bfeaba92ffa6c8d770134bdf97f354ad8ede19e4093239",
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "87ca6cbdf219d314f7c38316510b31c9f7686fbfea3b9393b20639dc89a0c7ed"
+    },
+    {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
       "path": "LOGS/7.md",
       "links": [],
