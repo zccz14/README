@@ -13523,6 +13523,137 @@
       "nativeMarkdownHash": "54c1b7e58afb1e23251526547f198556f7aa03d49d10b629d318e37d3932ccc1"
     },
     {
+      "path": "LOGS/65.md",
+      "links": [
+        "./35.md",
+        "./35.md"
+      ],
+      "metadata": {
+        "title": "关于资本持久战的基金形式的设计指导原则",
+        "description": "介绍一种基于授权现金流的新型基金模式，通过不收管理费和业绩提成的方式优化投资者与基金管理方的利益一致性。",
+        "short_summary": "本文介绍了一种基于授权现金流的新型基金模式，投资者按固定速率授权现金流，基金据此分配收益。模式取消了管理费和业绩提成，通过放宽止盈倍数获取收益，并计划与EA联动优化投资闭环。",
+        "audience": "基金投资者、基金管理人、金融创新研究者",
+        "key_points": [
+          "投资者授权固定现金流速率决定仓位和收益分配",
+          "取消管理费和业绩提成，通过放宽止盈倍数获取管理方收益",
+          "不设高水位线，简化回报流程",
+          "计划与EA联动实现自动化管理和资本效率优化"
+        ],
+        "summary": "本文提出了一种创新的基金设计模式，核心是让投资者授权固定的现金流速率（如1美元/天），而非一次性投入本金。基金根据授权现金流决定仓位大小和收益分配，确保公平性。该模式取消了传统管理费和业绩提成，通过放宽止盈倍数获取管理方收益，避免利益冲突。同时，不设高水位线，简化回报流程，并计划与EA联动实现投资闭环，提高资本效率。",
+        "slug": "capital-persistent-war-fund-design-guiding-principles",
+        "tags": [
+          "资本持久战",
+          "基金设计",
+          "授权现金流",
+          "收益分配",
+          "管理费",
+          "业绩提成",
+          "EA联动"
+        ],
+        "inferred_date": "2026-02-12",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1417,
+          "completion": 356,
+          "total": 1773
+        }
+      },
+      "hash": "46dc33335d85de90a5c41db2dc8884d4d3dbdd83503023456a37873177e70841",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "关于资本持久战的基金形式的设计指导原则",
+          "description": "介绍一种基于授权现金流的新型基金模式，通过不收管理费和业绩提成的方式优化投资者与基金管理方的利益一致性。",
+          "summary": "本文提出了一种创新的基金设计模式，核心是让投资者授权固定的现金流速率（如1美元/天），而非一次性投入本金。基金根据授权现金流决定仓位大小和收益分配，确保公平性。该模式取消了传统管理费和业绩提成，通过放宽止盈倍数获取管理方收益，避免利益冲突。同时，不设高水位线，简化回报流程，并计划与EA联动实现投资闭环，提高资本效率。",
+          "short_summary": "本文介绍了一种基于授权现金流的新型基金模式，投资者按固定速率授权现金流，基金据此分配收益。模式取消了管理费和业绩提成，通过放宽止盈倍数获取收益，并计划与EA联动优化投资闭环。",
+          "key_points": [
+            "投资者授权固定现金流速率决定仓位和收益分配",
+            "取消管理费和业绩提成，通过放宽止盈倍数获取管理方收益",
+            "不设高水位线，简化回报流程",
+            "计划与EA联动实现自动化管理和资本效率优化"
+          ],
+          "audience": "基金投资者、基金管理人、金融创新研究者",
+          "tags": [
+            "资本持久战",
+            "基金设计",
+            "授权现金流",
+            "收益分配",
+            "管理费",
+            "业绩提成",
+            "EA联动"
+          ]
+        },
+        "en-US": {
+          "title": "Design Guidelines for Fund Structures in Capital Endurance Strategies",
+          "description": "Introduces a novel fund model based on authorized cash flow, which optimizes alignment of interests between investors and fund managers by eliminating management fees and performance fees.",
+          "summary": "This article proposes an innovative fund design model, where investors authorize a fixed cash flow rate (e.g., $1/day) instead of making a lump-sum capital investment. The fund determines position sizes and profit distribution based on this authorized cash flow to ensure fairness. The model eliminates traditional management fees and performance fees, with managers earning profits through relaxed profit-taking multiples to avoid conflicts of interest. Additionally, it removes high-water marks to simplify return processes and plans to integrate with Expert Advisors (EAs) to achieve a closed-loop investment system and enhance capital efficiency.",
+          "short_summary": "This article introduces a novel fund model based on authorized cash flow, where investors authorize a fixed cash flow rate, and the fund allocates profits accordingly. The model eliminates management fees and performance fees, with managers earning through relaxed profit-taking multiples, and plans to integrate with EAs to optimize the investment closed-loop.",
+          "key_points": [
+            "Investors authorize a fixed cash flow rate to determine position sizes and profit distribution",
+            "Eliminates management fees and performance fees, with managers earning profits through relaxed profit-taking multiples",
+            "Removes high-water marks to simplify return processes",
+            "Plans to integrate with Expert Advisors (EAs) for automated management and capital efficiency optimization"
+          ],
+          "audience": "Fund investors, fund managers, financial innovation researchers",
+          "tags": [
+            "Capital Endurance",
+            "Fund Design",
+            "Authorized Cash Flow",
+            "Profit Distribution",
+            "Management Fees",
+            "Performance Fees",
+            "EA Integration"
+          ]
+        },
+        "ja-JP": {
+          "title": "資本持久戦のためのファンド形式設計ガイドライン",
+          "description": "管理手数料や業績報酬を徴収しないことで、投資家とファンドマネージャーの利益一致を最適化する、承認キャッシュフローに基づく新しいファンドモデルを紹介します。",
+          "summary": "本稿では、投資家が一括で元本を投入する代わりに、固定されたキャッシュフローレート（例：1ドル/日）を承認することを核とした革新的なファンド設計モデルを提案します。ファンドは承認キャッシュフローに基づいてポジションサイズと利益配分を決定し、公平性を確保します。このモデルは従来の管理手数料や業績報酬を廃止し、利益確定倍率の緩和を通じてマネージャー収益を得ることで、利益相反を回避します。同時に、ハイウォーターマークを設けず、リターンのプロセスを簡素化し、EAとの連携による投資サイクルの実現を計画して資本効率を向上させます。",
+          "short_summary": "本稿では、投資家が固定レートでキャッシュフローを承認し、ファンドがそれに基づいて利益を配分する、承認キャッシュフローに基づく新しいファンドモデルを紹介します。モデルは管理手数料と業績報酬を廃止し、利益確定倍率の緩和で収益を得、EA連携による投資サイクルの最適化を計画します。",
+          "key_points": [
+            "投資家が承認する固定キャッシュフローレートがポジションと利益配分を決定",
+            "管理手数料と業績報酬を廃止し、利益確定倍率の緩和でマネージャー収益を獲得",
+            "ハイウォーターマークを設けず、リターンのプロセスを簡素化",
+            "EAとの連携による自動化管理と資本効率の最適化を計画"
+          ],
+          "audience": "ファンド投資家、ファンドマネージャー、金融イノベーション研究者",
+          "tags": [
+            "資本持久戦",
+            "ファンド設計",
+            "承認キャッシュフロー",
+            "利益配分",
+            "管理手数料",
+            "業績報酬",
+            "EA連携"
+          ]
+        },
+        "es-ES": {
+          "title": "Principios de diseño para estructuras de fondos en la guerra de capital a largo plazo",
+          "description": "Presenta un nuevo modelo de fondo basado en flujos de efectivo autorizados, que optimiza la alineación de intereses entre inversores y gestores al eliminar las tarifas de gestión y las comisiones por rendimiento.",
+          "summary": "Este artículo propone un modelo innovador de diseño de fondos, cuyo núcleo es que los inversores autoricen una tasa fija de flujo de efectivo (por ejemplo, 1 dólar/día) en lugar de invertir capital de una sola vez. El fondo determina el tamaño de las posiciones y la distribución de ganancias según el flujo de efectivo autorizado, garantizando equidad. Este modelo elimina las tarifas de gestión tradicionales y las comisiones por rendimiento, obteniendo ingresos para los gestores mediante la relajación del múltiplo de toma de ganancias, evitando conflictos de interés. Además, no establece líneas de marca de agua, simplifica los procesos de retorno y planea vincularse con EA para lograr un ciclo de inversión cerrado, mejorando la eficiencia del capital.",
+          "short_summary": "Este artículo presenta un nuevo modelo de fondo basado en flujos de efectivo autorizados, donde los inversores autorizan flujos de efectivo a una tasa fija y el fondo distribuye las ganancias en consecuencia. El modelo elimina las tarifas de gestión y las comisiones por rendimiento, obteniendo ingresos mediante la relajación del múltiplo de toma de ganancias, y planea vincularse con EA para optimizar el ciclo de inversión cerrado.",
+          "key_points": [
+            "Los inversores autorizan una tasa fija de flujo de efectivo para determinar el tamaño de las posiciones y la distribución de ganancias",
+            "Elimina las tarifas de gestión y las comisiones por rendimiento, obteniendo ingresos para los gestores mediante la relajación del múltiplo de toma de ganancias",
+            "No establece líneas de marca de agua, simplificando los procesos de retorno",
+            "Planea vincularse con EA para lograr una gestión automatizada y optimizar la eficiencia del capital"
+          ],
+          "audience": "Inversores de fondos, gestores de fondos, investigadores en innovación financiera",
+          "tags": [
+            "Guerra de capital a largo plazo",
+            "Diseño de fondos",
+            "Flujo de efectivo autorizado",
+            "Distribución de ganancias",
+            "Tarifas de gestión",
+            "Comisiones por rendimiento",
+            "Vinculación con EA"
+          ]
+        }
+      },
+      "metadataTranslationHash": "c6d116f2b40126a38f1cae6887f2023e45e5f89bfd64375624faf0edec149ae8",
+      "category": "Investment Strategy",
+      "nativeMarkdownHash": "46dc33335d85de90a5c41db2dc8884d4d3dbdd83503023456a37873177e70841"
+    },
+    {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
       "path": "LOGS/7.md",
       "links": [],
