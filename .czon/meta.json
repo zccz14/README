@@ -13395,6 +13395,134 @@
       "nativeMarkdownHash": "87ca6cbdf219d314f7c38316510b31c9f7686fbfea3b9393b20639dc89a0c7ed"
     },
     {
+      "path": "LOGS/64.md",
+      "links": [],
+      "metadata": {
+        "title": "关于资本持久战实盘前的几点回应",
+        "description": "作者回应关于高收益率、尾部风险和文章聚焦性的质疑，解释资本持久战策略的高收益高风险特性及风控机制。",
+        "short_summary": "作者回应资本持久战实盘前的质疑，解释高收益率源于可预期的高风险，并详细说明尾部风险的风控机制。文章强调策略的高收益高风险高容量特性，并承诺改善文章聚焦性。",
+        "audience": "对高收益投资策略、风险管理和Crypto交易感兴趣的投资者和读者",
+        "key_points": [
+          "高收益率源于承担可预期的高风险，收益率计算基于现金流而非总资产",
+          "尾部风险通过零负债保证和交易所清算机制防范，Crypto市场已验证其有效性",
+          "资本持久战策略追求高收益、高风险、高容量的平衡",
+          "文章聚焦性将通过AI总结改善，以方便读者追更"
+        ],
+        "summary": "本文是作者对资本持久战实盘前质疑的回应。针对收益率过高问题，作者解释高收益源于承担可预期的高风险，并区分了相对于现金流与总资产的收益率计算方式。关于尾部风险，作者强调通过零负债保证和交易所清算机制来防范，并以Crypto市场为例说明其有效性。对于文章聚焦性，作者承认日志的碎片化特点，承诺通过AI总结改善可读性。核心观点是资本持久战策略追求高收益、高风险、高容量，关键在于风险预期管理和技术风控。",
+        "slug": "capital-persistent-war-real-trade-response",
+        "tags": [
+          "资本持久战",
+          "高收益率",
+          "尾部风险",
+          "风控",
+          "投资策略",
+          "实盘",
+          "FMAB信号"
+        ],
+        "inferred_date": "2026-02-12",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1975,
+          "completion": 398,
+          "total": 2373
+        }
+      },
+      "hash": "54c1b7e58afb1e23251526547f198556f7aa03d49d10b629d318e37d3932ccc1",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "关于资本持久战实盘前的几点回应",
+          "description": "作者回应关于高收益率、尾部风险和文章聚焦性的质疑，解释资本持久战策略的高收益高风险特性及风控机制。",
+          "summary": "本文是作者对资本持久战实盘前质疑的回应。针对收益率过高问题，作者解释高收益源于承担可预期的高风险，并区分了相对于现金流与总资产的收益率计算方式。关于尾部风险，作者强调通过零负债保证和交易所清算机制来防范，并以Crypto市场为例说明其有效性。对于文章聚焦性，作者承认日志的碎片化特点，承诺通过AI总结改善可读性。核心观点是资本持久战策略追求高收益、高风险、高容量，关键在于风险预期管理和技术风控。",
+          "short_summary": "作者回应资本持久战实盘前的质疑，解释高收益率源于可预期的高风险，并详细说明尾部风险的风控机制。文章强调策略的高收益高风险高容量特性，并承诺改善文章聚焦性。",
+          "key_points": [
+            "高收益率源于承担可预期的高风险，收益率计算基于现金流而非总资产",
+            "尾部风险通过零负债保证和交易所清算机制防范，Crypto市场已验证其有效性",
+            "资本持久战策略追求高收益、高风险、高容量的平衡",
+            "文章聚焦性将通过AI总结改善，以方便读者追更"
+          ],
+          "audience": "对高收益投资策略、风险管理和Crypto交易感兴趣的投资者和读者",
+          "tags": [
+            "资本持久战",
+            "高收益率",
+            "尾部风险",
+            "风控",
+            "投资策略",
+            "实盘",
+            "FMAB信号"
+          ]
+        },
+        "en-US": {
+          "title": "Responses Before the Capital Persistence War Live Trading",
+          "description": "The author responds to doubts about high yield rates, tail risks, and article focus, explaining the high-return high-risk characteristics and risk control mechanisms of the Capital Persistence War strategy.",
+          "summary": "This article is the author's response to doubts before the Capital Persistence War live trading. Regarding the excessively high yield issue, the author explains that high returns stem from taking on predictable high risks and distinguishes between yield calculations based on cash flow versus total assets. Concerning tail risks, the author emphasizes prevention through zero-debt guarantees and exchange liquidation mechanisms, using the Crypto market as an example to illustrate their effectiveness. For article focus, the author acknowledges the fragmented nature of logs and promises to improve readability through AI summaries. The core viewpoint is that the Capital Persistence War strategy pursues high returns, high risks, and high capacity, with key aspects being risk expectation management and technical risk control.",
+          "short_summary": "The author responds to doubts before the Capital Persistence War live trading, explaining that high yield rates come from predictable high risks and detailing tail risk control mechanisms. The article emphasizes the strategy's high-return, high-risk, high-capacity characteristics and promises to improve article focus.",
+          "key_points": [
+            "High yield rates stem from taking on predictable high risks, with yield calculations based on cash flow rather than total assets",
+            "Tail risks are prevented through zero-debt guarantees and exchange liquidation mechanisms, validated as effective in the Crypto market",
+            "The Capital Persistence War strategy aims to balance high returns, high risks, and high capacity",
+            "Article focus will be improved through AI summaries to facilitate reader follow-ups"
+          ],
+          "audience": "Investors and readers interested in high-yield investment strategies, risk management, and Crypto trading",
+          "tags": [
+            "Capital Persistence War",
+            "High Yield Rate",
+            "Tail Risk",
+            "Risk Control",
+            "Investment Strategy",
+            "Live Trading",
+            "FMAB Signal"
+          ]
+        },
+        "ja-JP": {
+          "title": "キャピタル・エンデュランス戦略実戦前の疑問に対する回答",
+          "description": "著者は高収益率、テールリスク、記事の焦点に関する疑問に応え、キャピタル・エンデュランス戦略の高収益・高リスク特性とリスク管理メカニズムを説明しています。",
+          "summary": "本記事は、キャピタル・エンデュランス戦略の実戦前の疑問に対する著者の回答です。収益率が高すぎる問題については、著者は高収益が予測可能な高リスクを負担することに由来し、キャッシュフローと総資産に対する収益率計算方法を区別して説明しています。テールリスクについては、ゼロ負債保証と取引所清算メカニズムを通じて防ぎ、Crypto市場を例にその有効性を示しています。記事の焦点については、ログの断片的な特徴を認め、AI要約で可読性を改善することを約束しています。核心的な観点は、キャピタル・エンデュランス戦略が高収益、高リスク、高容量を追求し、リスク予測管理と技術的リスク管理が鍵であることです。",
+          "short_summary": "著者はキャピタル・エンデュランス戦略実戦前の疑問に応え、高収益率が予測可能な高リスクに由来することを説明し、テールリスクのリスク管理メカニズムを詳細に説明しています。記事は戦略の高収益・高リスク・高容量特性を強調し、記事の焦点改善を約束しています。",
+          "key_points": [
+            "高収益率は予測可能な高リスクを負担することに由来し、収益率計算は総資産ではなくキャッシュフローに基づいています",
+            "テールリスクはゼロ負債保証と取引所清算メカニズムで防ぎ、Crypto市場でその有効性が検証されています",
+            "キャピタル・エンデュランス戦略は高収益、高リスク、高容量のバランスを追求しています",
+            "記事の焦点はAI要約で改善され、読者が追いやすくなるようにします"
+          ],
+          "audience": "高収益投資戦略、リスク管理、Crypto取引に興味のある投資家や読者",
+          "tags": [
+            "キャピタル・エンデュランス戦略",
+            "高収益率",
+            "テールリスク",
+            "リスク管理",
+            "投資戦略",
+            "実戦",
+            "FMABシグナル"
+          ]
+        },
+        "es-ES": {
+          "title": "Respuestas a preguntas antes de la implementación real de la Guerra de Capital Persistente",
+          "description": "El autor responde a las dudas sobre altos rendimientos, riesgos de cola y enfoque del artículo, explicando las características de alto riesgo y alta rentabilidad de la estrategia de Guerra de Capital Persistente y sus mecanismos de control de riesgos.",
+          "summary": "Este artículo es la respuesta del autor a las dudas antes de la implementación real de la Guerra de Capital Persistente. Sobre el problema de rendimientos excesivamente altos, el autor explica que estos provienen de asumir riesgos altos previsibles, y distingue entre los cálculos de rendimiento basados en flujo de caja versus activos totales. Respecto al riesgo de cola, el autor enfatiza la prevención mediante garantías de cero deuda y mecanismos de liquidación de intercambios, usando el mercado de criptomonedas como ejemplo para demostrar su efectividad. Sobre el enfoque del artículo, el autor reconoce la naturaleza fragmentada de los registros y promete mejorar la legibilidad mediante resúmenes de IA. El punto central es que la estrategia de Guerra de Capital Persistente busca alto rendimiento, alto riesgo y alta capacidad, con la clave en la gestión de expectativas de riesgo y el control técnico de riesgos.",
+          "short_summary": "El autor responde a las dudas antes de la implementación real de la Guerra de Capital Persistente, explicando que los altos rendimientos provienen de riesgos altos previsibles y detallando los mecanismos de control de riesgos de cola. El artículo enfatiza las características de alto rendimiento, alto riesgo y alta capacidad de la estrategia, y promete mejorar el enfoque del artículo.",
+          "key_points": [
+            "Los altos rendimientos provienen de asumir riesgos altos previsibles, y el cálculo de rendimiento se basa en flujo de caja, no en activos totales",
+            "El riesgo de cola se previene mediante garantías de cero deuda y mecanismos de liquidación de intercambios, con el mercado de criptomonedas validando su efectividad",
+            "La estrategia de Guerra de Capital Persistente busca un equilibrio entre alto rendimiento, alto riesgo y alta capacidad",
+            "El enfoque del artículo mejorará mediante resúmenes de IA para facilitar el seguimiento de los lectores"
+          ],
+          "audience": "Inversores y lectores interesados en estrategias de inversión de alto rendimiento, gestión de riesgos y trading de criptomonedas",
+          "tags": [
+            "Guerra de Capital Persistente",
+            "Alto rendimiento",
+            "Riesgo de cola",
+            "Control de riesgos",
+            "Estrategia de inversión",
+            "Implementación real",
+            "Señales FMAB"
+          ]
+        }
+      },
+      "metadataTranslationHash": "ed105e9d2910523e37455d68b5d58e05c38588995f23c21b6acd3f8c6e0a3e9f",
+      "category": "Investment Strategy",
+      "nativeMarkdownHash": "54c1b7e58afb1e23251526547f198556f7aa03d49d10b629d318e37d3932ccc1"
+    },
+    {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
       "path": "LOGS/7.md",
       "links": [],
