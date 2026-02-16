@@ -13774,6 +13774,140 @@
       "nativeMarkdownHash": "171a476283ad25acede84079edd8d9679fa5ffbb4b1b6207e972a85164c31700"
     },
     {
+      "path": "LOGS/67-image-0.png",
+      "links": []
+    },
+    {
+      "path": "LOGS/67-image-1.png",
+      "links": []
+    },
+    {
+      "path": "LOGS/67.md",
+      "links": [
+        "67-image-0.png",
+        "67-image-1.png"
+      ],
+      "metadata": {
+        "title": "Elys AI分身社交平台深度探索",
+        "description": "作者深度体验Elys AI分身社交平台，分析其产品理念、发展历程以及与微信的竞争关系。",
+        "short_summary": "作者深度体验Elys AI分身社交平台，分析其产品理念、发展历程以及与微信的竞争关系。Elys允许用户创建AI分身进行社交互动，每条动态至少推送给20+个AI分身。作者认为自己是“纯粹的Elyer”，并建议以发展的眼光看待平台当前的对齐率等问题。",
+        "audience": "对AI社交应用、科技创业、产品分析感兴趣的读者，尤其是科技爱好者和投资者。",
+        "key_points": [
+          "Elys是一个AI分身社交平台，允许用户创建AI分身进行互动，每条动态至少推送给20+个AI分身。",
+          "Elys的母公司自然选择(上海)科技有限公司成立于2023年，2026年获得阿里巴巴3000万美元A轮融资，主打情感领域AI应用。",
+          "Elys将微信作为对标对象，但两者在熟人社交与陌生人社交场景上有差异，作者通过18小时使用体验自称为“纯粹的Elyer”。"
+        ],
+        "summary": "本文记录了作者在2026年2月对Elys AI分身社交平台的深度探索。Elys由自然选择(上海)科技有限公司开发，允许用户创建AI分身进行社交互动，每条动态至少推送给20+个AI分身。公司成立于2023年1月，2026年1月获得阿里巴巴3000万美元A轮融资。作者分析了Elys的产品设计理念，指出其将微信作为对标对象，但两者在熟人社交与陌生人社交场景上有显著差异。作者通过18小时的使用体验，认为自己是“纯粹的Elyer”，并建议以发展的眼光看待平台当前的对齐率等问题。",
+        "slug": "elys-ai-social-platform-exploration",
+        "tags": [
+          "Elys",
+          "AI分身",
+          "社交平台",
+          "自然选择",
+          "微信",
+          "AI记忆系统",
+          "A轮融资"
+        ],
+        "inferred_date": "2026-02-16",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1237,
+          "completion": 463,
+          "total": 1700
+        }
+      },
+      "hash": "98e96c19854550954cdc423daa115cac1652bd0943c4fd408fa5400288d27a01",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "Elys AI分身社交平台深度探索",
+          "description": "作者深度体验Elys AI分身社交平台，分析其产品理念、发展历程以及与微信的竞争关系。",
+          "summary": "本文记录了作者在2026年2月对Elys AI分身社交平台的深度探索。Elys由自然选择(上海)科技有限公司开发，允许用户创建AI分身进行社交互动，每条动态至少推送给20+个AI分身。公司成立于2023年1月，2026年1月获得阿里巴巴3000万美元A轮融资。作者分析了Elys的产品设计理念，指出其将微信作为对标对象，但两者在熟人社交与陌生人社交场景上有显著差异。作者通过18小时的使用体验，认为自己是“纯粹的Elyer”，并建议以发展的眼光看待平台当前的对齐率等问题。",
+          "short_summary": "作者深度体验Elys AI分身社交平台，分析其产品理念、发展历程以及与微信的竞争关系。Elys允许用户创建AI分身进行社交互动，每条动态至少推送给20+个AI分身。作者认为自己是“纯粹的Elyer”，并建议以发展的眼光看待平台当前的对齐率等问题。",
+          "key_points": [
+            "Elys是一个AI分身社交平台，允许用户创建AI分身进行互动，每条动态至少推送给20+个AI分身。",
+            "Elys的母公司自然选择(上海)科技有限公司成立于2023年，2026年获得阿里巴巴3000万美元A轮融资，主打情感领域AI应用。",
+            "Elys将微信作为对标对象，但两者在熟人社交与陌生人社交场景上有差异，作者通过18小时使用体验自称为“纯粹的Elyer”。"
+          ],
+          "audience": "对AI社交应用、科技创业、产品分析感兴趣的读者，尤其是科技爱好者和投资者。",
+          "tags": [
+            "Elys",
+            "AI分身",
+            "社交平台",
+            "自然选择",
+            "微信",
+            "AI记忆系统",
+            "A轮融资"
+          ]
+        },
+        "en-US": {
+          "title": "In-Depth Exploration of Elys AI Avatar Social Platform",
+          "description": "The author deeply experiences the Elys AI avatar social platform, analyzing its product philosophy, development history, and competitive relationship with WeChat.",
+          "summary": "This article documents the author's in-depth exploration of the Elys AI avatar social platform in February 2026. Developed by Natural Selection (Shanghai) Technology Co., Ltd., Elys allows users to create AI avatars for social interaction, with each post pushed to at least 20+ AI avatars. The company was founded in January 2023 and received a $30 million Series A funding from Alibaba in January 2026. The author analyzes Elys's product design philosophy, noting that it benchmarks against WeChat, but there are significant differences in scenarios of acquaintance social networking versus stranger social networking. Through 18 hours of usage experience, the author considers themselves a 'pure Elyer' and suggests viewing current issues like alignment rate with a developmental perspective.",
+          "short_summary": "The author deeply experiences the Elys AI avatar social platform, analyzing its product philosophy, development history, and competitive relationship with WeChat. Elys allows users to create AI avatars for social interaction, with each post pushed to at least 20+ AI avatars. The author considers themselves a 'pure Elyer' and suggests viewing current issues like alignment rate with a developmental perspective.",
+          "key_points": [
+            "Elys is an AI avatar social platform that allows users to create AI avatars for interaction, with each post pushed to at least 20+ AI avatars.",
+            "Elys's parent company, Natural Selection (Shanghai) Technology Co., Ltd., was founded in 2023 and received $30 million Series A funding from Alibaba in 2026, focusing on AI applications in the emotional domain.",
+            "Elys benchmarks against WeChat, but there are differences in scenarios of acquaintance social networking versus stranger social networking; the author, through 18 hours of usage experience, self-identifies as a 'pure Elyer'."
+          ],
+          "audience": "Readers interested in AI social applications, tech startups, and product analysis, especially tech enthusiasts and investors.",
+          "tags": [
+            "Elys",
+            "AI Avatar",
+            "Social Platform",
+            "Natural Selection",
+            "WeChat",
+            "AI Memory System",
+            "Series A Funding"
+          ]
+        },
+        "es-ES": {
+          "title": "Exploración en Profundidad de la Plataforma Social de Avatares AI Elys",
+          "description": "El autor experimenta en profundidad la plataforma social de avatares AI Elys, analizando su filosofía de producto, trayectoria de desarrollo y relación competitiva con WeChat.",
+          "summary": "Este artículo documenta la exploración en profundidad del autor sobre la plataforma social de avatares AI Elys en febrero de 2026. Elys, desarrollada por Natural Selection (Shanghai) Technology Co., Ltd., permite a los usuarios crear avatares AI para interacciones sociales, con cada publicación enviada a al menos 20+ avatares AI. La empresa se fundó en enero de 2023 y recibió una ronda de financiación Serie A de 30 millones de dólares de Alibaba en enero de 2026. El autor analiza la filosofía de diseño de producto de Elys, señalando que toma a WeChat como referencia, pero existen diferencias significativas en los escenarios de redes sociales entre conocidos y desconocidos. Basándose en 18 horas de experiencia de uso, el autor se considera un \"Elyer puro\" y sugiere ver los problemas actuales como la tasa de alineación con una perspectiva de desarrollo.",
+          "short_summary": "El autor experimenta en profundidad la plataforma social de avatares AI Elys, analizando su filosofía de producto, trayectoria de desarrollo y relación competitiva con WeChat. Elys permite a los usuarios crear avatares AI para interacciones sociales, con cada publicación enviada a al menos 20+ avatares AI. El autor se considera un \"Elyer puro\" y sugiere ver los problemas actuales como la tasa de alineación con una perspectiva de desarrollo.",
+          "key_points": [
+            "Elys es una plataforma social de avatares AI que permite a los usuarios crear avatares AI para interacciones, con cada publicación enviada a al menos 20+ avatares AI.",
+            "La empresa matriz de Elys, Natural Selection (Shanghai) Technology Co., Ltd., se fundó en 2023, recibió una ronda de financiación Serie A de 30 millones de dólares de Alibaba en 2026 y se centra en aplicaciones AI en el ámbito emocional.",
+            "Elys toma a WeChat como referencia, pero existen diferencias en los escenarios de redes sociales entre conocidos y desconocidos; el autor, tras 18 horas de uso, se autodenomina \"Elyer puro\"."
+          ],
+          "audience": "Lectores interesados en aplicaciones sociales de AI, emprendimiento tecnológico y análisis de productos, especialmente entusiastas de la tecnología e inversores.",
+          "tags": [
+            "Elys",
+            "Avatares AI",
+            "Plataforma social",
+            "Natural Selection",
+            "WeChat",
+            "Sistema de memoria AI",
+            "Financiación Serie A"
+          ]
+        },
+        "ja-JP": {
+          "title": "Elys AI分身ソーシャルプラットフォームの深層探求",
+          "description": "著者がElys AI分身ソーシャルプラットフォームを深く体験し、その製品理念、発展の経緯、およびWeChatとの競争関係を分析します。",
+          "summary": "本稿は、著者が2026年2月にElys AI分身ソーシャルプラットフォームを深く探求した記録です。Elysは自然選択（上海）科技有限公司によって開発され、ユーザーがAI分身を作成してソーシャルインタラクションを行えるようにし、各投稿は少なくとも20以上のAI分身に配信されます。同社は2023年1月に設立され、2026年1月にアリババから3000万ドルのAラウンド資金調達を獲得しました。著者はElysの製品設計理念を分析し、WeChatを対照対象としているが、両者は既知のソーシャルと未知のソーシャルシナリオで顕著な違いがあると指摘しています。著者は18時間の使用体験を通じて、自身を「純粋なElyer」と位置づけ、プラットフォームの現在のアラインメント率などの問題を発展的な視点で見ることを提案しています。",
+          "short_summary": "著者がElys AI分身ソーシャルプラットフォームを深く体験し、その製品理念、発展の経緯、およびWeChatとの競争関係を分析します。ElysはユーザーがAI分身を作成してソーシャルインタラクションを行えるようにし、各投稿は少なくとも20以上のAI分身に配信されます。著者は自身を「純粋なElyer」と位置づけ、プラットフォームの現在のアラインメント率などの問題を発展的な視点で見ることを提案しています。",
+          "key_points": [
+            "ElysはAI分身ソーシャルプラットフォームで、ユーザーがAI分身を作成してインタラクションを行え、各投稿は少なくとも20以上のAI分身に配信されます。",
+            "Elysの親会社である自然選択（上海）科技有限公司は2023年に設立され、2026年にアリババから3000万ドルのAラウンド資金調達を獲得し、感情領域のAIアプリケーションを主力としています。",
+            "ElysはWeChatを対照対象としていますが、両者は既知のソーシャルと未知のソーシャルシナリオで違いがあり、著者は18時間の使用体験を通じて自身を「純粋なElyer」と称しています。"
+          ],
+          "audience": "AIソーシャルアプリ、テクノロジー起業、製品分析に興味のある読者、特にテクノロジー愛好家や投資家。",
+          "tags": [
+            "Elys",
+            "AI分身",
+            "ソーシャルプラットフォーム",
+            "自然選択",
+            "WeChat",
+            "AIメモリシステム",
+            "Aラウンド資金調達"
+          ]
+        }
+      },
+      "metadataTranslationHash": "9f187afe9266865d15b1e6ebc651a96ebb40251b0d00bd1d725463233a52438d",
+      "category": "AI Social Systems",
+      "nativeMarkdownHash": "98e96c19854550954cdc423daa115cac1652bd0943c4fd408fa5400288d27a01"
+    },
+    {
       "hash": "ec3f1c3a8089db804d8c7ee8bb13516e629825954878d0592f731bba0ff78403",
       "path": "LOGS/7.md",
       "links": [],
