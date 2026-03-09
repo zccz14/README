@@ -9481,167 +9481,132 @@
       "metadataTranslationHash": "cba245f693b02e975ac46ca04c3945d7bf9672edcb54e55c012e1ac7b303f587"
     },
     {
-      "hash": "b670fe8051d04caa9f1cf8916a29f63b114a100bbfde8761d8b7920169349f33",
+      "hash": "5c05e9c62756f77cee8aa1a90c8af6906764c97a4b0e2645deefabfdb4e70e4a",
       "path": "LOGS/39.md",
       "links": [],
       "metadata": {
         "title": "资本持久战实验设计",
-        "description": "介绍基于基准账户和投注账户的Anti-Martingale资金管理策略，包括时间刻度、风险控制和仓位计算。",
-        "short_summary": "本文提出一个实验设计，使用基准账户指导投注账户的资金管理。投注账户基于Anti-Martingale策略，通过计算风险资金和基准止损额动态调整仓位，并设置风控线和止盈止损机制。核心目标是高效利用风险资金，实现激进投注的同时控制风险。",
-        "audience": "量化交易者、资金管理策略研究者、对Anti-Martingale策略感兴趣的投资人士。",
+        "description": "介绍基于基准账户和Anti-Martingale策略的量化交易实验设计，包括时间刻度、风险控制和仓位管理。",
+        "short_summary": "本文提出一个量化交易实验设计，使用基准账户指导投注账户的Anti-Martingale资金管理策略。核心包括风险控制线、风险资金、止损额计算和仓位调整，旨在最大化资金效率并严格管理风险。文档还详细说明了止盈、止损事件的处理和观察期机制。",
+        "audience": "量化交易研究者、算法交易开发者、金融工程专业人士，以及对资金管理和风险控制策略感兴趣的交易员。",
         "key_points": [
-          "时间刻度t是离散的市场时刻，用于所有时间序列。",
-          "基准账户以固定仓位交易，提供累计盈亏BasePnL(t)作为参考。",
-          "投注账户使用Anti-Martingale策略，根据基准表现动态调整仓位。",
-          "输入现金流C(t)和基准止损额StopLoss(t)从基准账户历史表现计算得出。",
-          "风控线RiskLine(t)随时间向下移动，确保未实现盈亏不低于该线。",
-          "风险资金VC(t) = UnrealizedPnL(t) - RiskLine(t)，用于确定仓位大小。",
-          "仓位大小Position(t)通过floor(VC(t) / StopLoss(t))计算，旨在最大化风险资金利用。",
-          "止盈事件在UnrealizedPnL(t) >= 目标止盈金额M_T时触发，重置相关变量。",
-          "止损事件在最大浮亏 >= StopLoss(t)时触发，控制回撤至风控线。",
-          "观察期在C(t)或StopLoss(t)为0时不交易，仅更新参数。"
+          "基于基准账户和Anti-Martingale策略的动态资金管理设计",
+          "通过风险控制线和风险资金（VC）实现严格风控",
+          "根据基准止损额（StopLoss）计算激进仓位以最大化资金效率",
+          "定义止盈和止损事件的触发条件及状态重置规则",
+          "设置观察期机制，在参数为零时暂停交易"
         ],
-        "summary": "本文详细阐述了资本持久战的实验设计，核心是使用基准账户作为参考，投注账户采用Anti-Martingale策略动态调整仓位。关键内容包括：时间刻度t作为离散市场时刻；基准账户以固定仓位交易，提供累计盈亏曲线；投注账户根据基准表现计算输入现金流C(t)和基准止损额StopLoss(t)，构建风控线RiskLine(t)和风险资金VC(t)，通过公式Position(t) = floor(VC(t) / StopLoss(t))确定仓位大小；定义了止盈和止损事件的处理逻辑，以及观察期的交易暂停条件。整体旨在最大化风险资金利用效率，实现激进但受控的投注。",
+        "summary": "本文详细阐述了一个名为“资本持久战”的量化交易实验设计，核心是通过基准账户（始终以1单位仓位交易）指导投注账户的资金管理。投注账户采用Anti-Martingale策略，动态调整仓位，关键要素包括时间刻度t、未实现/已实现盈亏、风险控制线（RiskLine）、风险资金（VC）、基准止损额（StopLoss）和仓位大小计算。文档还定义了止盈和止损事件的触发条件及处理流程，强调在风控条件下最大化风险资金利用效率，并设置了观察期机制。整体旨在构建一个系统化的交易框架，以优化资金管理和风险控制。",
         "slug": "capital-persistent-war-experiment-design",
         "tags": [
-          "资本持久战",
-          "实验设计",
-          "Anti-Martingale",
+          "量化交易",
           "资金管理",
+          "Anti-Martingale",
           "风险控制",
-          "仓位计算",
-          "基准账户",
-          "投注账户"
+          "实验设计",
+          "仓位管理"
         ],
         "inferred_date": "2026-02-02",
         "inferred_lang": "zh-Hans",
         "tokens_used": {
-          "prompt": 1656,
-          "completion": 594,
-          "total": 2250
+          "prompt": 1646,
+          "completion": 408,
+          "total": 2054
         }
       },
       "category": "Quantitative Finance",
-      "nativeMarkdownHash": "b670fe8051d04caa9f1cf8916a29f63b114a100bbfde8761d8b7920169349f33",
+      "nativeMarkdownHash": "5c05e9c62756f77cee8aa1a90c8af6906764c97a4b0e2645deefabfdb4e70e4a",
       "metadataTranslations": {
         "zh-Hans": {
           "title": "资本持久战实验设计",
-          "description": "介绍基于基准账户和投注账户的Anti-Martingale资金管理策略，包括时间刻度、风险控制和仓位计算。",
-          "summary": "本文详细阐述了资本持久战的实验设计，核心是使用基准账户作为参考，投注账户采用Anti-Martingale策略动态调整仓位。关键内容包括：时间刻度t作为离散市场时刻；基准账户以固定仓位交易，提供累计盈亏曲线；投注账户根据基准表现计算输入现金流C(t)和基准止损额StopLoss(t)，构建风控线RiskLine(t)和风险资金VC(t)，通过公式Position(t) = floor(VC(t) / StopLoss(t))确定仓位大小；定义了止盈和止损事件的处理逻辑，以及观察期的交易暂停条件。整体旨在最大化风险资金利用效率，实现激进但受控的投注。",
-          "short_summary": "本文提出一个实验设计，使用基准账户指导投注账户的资金管理。投注账户基于Anti-Martingale策略，通过计算风险资金和基准止损额动态调整仓位，并设置风控线和止盈止损机制。核心目标是高效利用风险资金，实现激进投注的同时控制风险。",
+          "description": "介绍基于基准账户和Anti-Martingale策略的量化交易实验设计，包括时间刻度、风险控制和仓位管理。",
+          "summary": "本文详细阐述了一个名为“资本持久战”的量化交易实验设计，核心是通过基准账户（始终以1单位仓位交易）指导投注账户的资金管理。投注账户采用Anti-Martingale策略，动态调整仓位，关键要素包括时间刻度t、未实现/已实现盈亏、风险控制线（RiskLine）、风险资金（VC）、基准止损额（StopLoss）和仓位大小计算。文档还定义了止盈和止损事件的触发条件及处理流程，强调在风控条件下最大化风险资金利用效率，并设置了观察期机制。整体旨在构建一个系统化的交易框架，以优化资金管理和风险控制。",
+          "short_summary": "本文提出一个量化交易实验设计，使用基准账户指导投注账户的Anti-Martingale资金管理策略。核心包括风险控制线、风险资金、止损额计算和仓位调整，旨在最大化资金效率并严格管理风险。文档还详细说明了止盈、止损事件的处理和观察期机制。",
           "key_points": [
-            "时间刻度t是离散的市场时刻，用于所有时间序列。",
-            "基准账户以固定仓位交易，提供累计盈亏BasePnL(t)作为参考。",
-            "投注账户使用Anti-Martingale策略，根据基准表现动态调整仓位。",
-            "输入现金流C(t)和基准止损额StopLoss(t)从基准账户历史表现计算得出。",
-            "风控线RiskLine(t)随时间向下移动，确保未实现盈亏不低于该线。",
-            "风险资金VC(t) = UnrealizedPnL(t) - RiskLine(t)，用于确定仓位大小。",
-            "仓位大小Position(t)通过floor(VC(t) / StopLoss(t))计算，旨在最大化风险资金利用。",
-            "止盈事件在UnrealizedPnL(t) >= 目标止盈金额M_T时触发，重置相关变量。",
-            "止损事件在最大浮亏 >= StopLoss(t)时触发，控制回撤至风控线。",
-            "观察期在C(t)或StopLoss(t)为0时不交易，仅更新参数。"
+            "基于基准账户和Anti-Martingale策略的动态资金管理设计",
+            "通过风险控制线和风险资金（VC）实现严格风控",
+            "根据基准止损额（StopLoss）计算激进仓位以最大化资金效率",
+            "定义止盈和止损事件的触发条件及状态重置规则",
+            "设置观察期机制，在参数为零时暂停交易"
           ],
-          "audience": "量化交易者、资金管理策略研究者、对Anti-Martingale策略感兴趣的投资人士。",
+          "audience": "量化交易研究者、算法交易开发者、金融工程专业人士，以及对资金管理和风险控制策略感兴趣的交易员。",
           "tags": [
-            "资本持久战",
-            "实验设计",
-            "Anti-Martingale",
+            "量化交易",
             "资金管理",
+            "Anti-Martingale",
             "风险控制",
-            "仓位计算",
-            "基准账户",
-            "投注账户"
+            "实验设计",
+            "仓位管理"
           ]
         },
         "en-US": {
-          "title": "Capital Persistence Battle Experimental Design",
-          "description": "Introduces an Anti-Martingale capital management strategy based on benchmark and betting accounts, including time scales, risk control, and position sizing calculations.",
-          "summary": "This article details the experimental design for the Capital Persistence Battle, with the core concept of using a benchmark account as a reference and a betting account that dynamically adjusts positions using an Anti-Martingale strategy. Key components include: time scale t as discrete market moments; the benchmark account trades with fixed positions to provide a cumulative profit and loss curve; the betting account calculates input cash flow C(t) and benchmark stop-loss amount StopLoss(t) based on benchmark performance, constructs a risk control line RiskLine(t) and risk capital VC(t), and determines position size via the formula Position(t) = floor(VC(t) / StopLoss(t)); it defines handling logic for profit-taking and stop-loss events, as well as trading suspension conditions during observation periods. The overall aim is to maximize the efficiency of risk capital utilization, achieving aggressive yet controlled betting.",
-          "short_summary": "This article proposes an experimental design that uses a benchmark account to guide the capital management of a betting account. The betting account employs an Anti-Martingale strategy, dynamically adjusting positions by calculating risk capital and benchmark stop-loss amounts, with risk control lines and profit-taking/stop-loss mechanisms. The core goal is to efficiently utilize risk capital, enabling aggressive betting while controlling risk.",
+          "title": "Capital Persistence War Experiment Design",
+          "description": "Introduces a quantitative trading experiment design based on benchmark accounts and the Anti-Martingale strategy, including time scales, risk control, and position management.",
+          "summary": "This article elaborates on a quantitative trading experiment design named 'Capital Persistence War,' with the core concept of using a benchmark account (always trading with 1 unit position) to guide the fund management of a betting account. The betting account employs the Anti-Martingale strategy to dynamically adjust positions, with key elements including time scale t, unrealized/realized profit and loss, risk control line (RiskLine), venture capital (VC), benchmark stop-loss amount (StopLoss), and position size calculation. The document also defines trigger conditions and handling procedures for profit-taking and stop-loss events, emphasizing maximizing venture capital utilization efficiency under risk control conditions and establishing an observation period mechanism. Overall, it aims to build a systematic trading framework to optimize fund management and risk control.",
+          "short_summary": "This article proposes a quantitative trading experiment design that uses a benchmark account to guide the Anti-Martingale fund management strategy of a betting account. Core components include risk control line, venture capital, stop-loss amount calculation, and position adjustment, aiming to maximize capital efficiency while strictly managing risk. The document also details the handling of profit-taking and stop-loss events and the observation period mechanism.",
           "key_points": [
-            "Time scale t is a discrete market moment used for all time series.",
-            "The benchmark account trades with fixed positions, providing cumulative profit and loss BasePnL(t) as a reference.",
-            "The betting account uses an Anti-Martingale strategy, dynamically adjusting positions based on benchmark performance.",
-            "Input cash flow C(t) and benchmark stop-loss amount StopLoss(t) are calculated from the benchmark account's historical performance.",
-            "The risk control line RiskLine(t) moves downward over time, ensuring unrealized profit and loss does not fall below this line.",
-            "Risk capital VC(t) = UnrealizedPnL(t) - RiskLine(t), used to determine position size.",
-            "Position size Position(t) is calculated via floor(VC(t) / StopLoss(t)), aiming to maximize risk capital utilization.",
-            "Profit-taking events are triggered when UnrealizedPnL(t) >= target profit amount M_T, resetting relevant variables.",
-            "Stop-loss events are triggered when maximum floating loss >= StopLoss(t), controlling drawdowns to the risk control line.",
-            "During observation periods, no trading occurs when C(t) or StopLoss(t) is 0, only parameter updates are performed."
+            "Dynamic fund management design based on benchmark accounts and the Anti-Martingale strategy",
+            "Achieving strict risk control through risk control line and venture capital (VC)",
+            "Calculating aggressive positions based on benchmark stop-loss amount (StopLoss) to maximize capital efficiency",
+            "Defining trigger conditions and state reset rules for profit-taking and stop-loss events",
+            "Establishing an observation period mechanism to pause trading when parameters are zero"
           ],
-          "audience": "Quantitative traders, capital management strategy researchers, investment professionals interested in Anti-Martingale strategies.",
+          "audience": "Quantitative trading researchers, algorithmic trading developers, financial engineering professionals, and traders interested in fund management and risk control strategies.",
           "tags": [
-            "Capital Persistence Battle",
-            "Experimental Design",
+            "Quantitative Trading",
+            "Fund Management",
             "Anti-Martingale",
-            "Capital Management",
             "Risk Control",
-            "Position Sizing",
-            "Benchmark Account",
-            "Betting Account"
+            "Experiment Design",
+            "Position Management"
           ]
         },
         "es-ES": {
           "title": "Diseño Experimental de la Guerra de Capital Persistente",
-          "description": "Introduce la estrategia de gestión de capital Anti-Martingale basada en cuentas de referencia y de apuesta, incluyendo escala temporal, control de riesgos y cálculo de posiciones.",
-          "summary": "Este artículo detalla el diseño experimental de la guerra de capital persistente, cuyo núcleo es utilizar una cuenta de referencia como base y aplicar la estrategia Anti-Martingale en la cuenta de apuesta para ajustar dinámicamente las posiciones. Los puntos clave incluyen: la escala temporal t como momentos discretos del mercado; la cuenta de referencia opera con posiciones fijas, proporcionando una curva de ganancias y pérdidas acumuladas; la cuenta de apuesta calcula el flujo de efectivo de entrada C(t) y el stop loss de referencia StopLoss(t) según el rendimiento de la referencia, construye la línea de control de riesgo RiskLine(t) y el capital de riesgo VC(t), y determina el tamaño de la posición mediante la fórmula Position(t) = floor(VC(t) / StopLoss(t)); define la lógica de manejo de eventos de toma de ganancias y stop loss, así como las condiciones de pausa de operaciones durante el período de observación. El objetivo general es maximizar la eficiencia en el uso del capital de riesgo, logrando apuestas agresivas pero controladas.",
-          "short_summary": "Este artículo propone un diseño experimental que utiliza una cuenta de referencia para guiar la gestión de capital de una cuenta de apuesta. La cuenta de apuesta se basa en la estrategia Anti-Martingale, ajustando dinámicamente las posiciones mediante el cálculo del capital de riesgo y el stop loss de referencia, y estableciendo mecanismos de control de riesgo y toma de ganancias/stop loss. El objetivo central es utilizar eficientemente el capital de riesgo, controlando el riesgo mientras se realizan apuestas agresivas.",
+          "description": "Introduce el diseño experimental de trading cuantitativo basado en una cuenta de referencia y la estrategia Anti-Martingale, incluyendo la escala temporal, el control de riesgos y la gestión de posiciones.",
+          "summary": "Este artículo detalla un diseño experimental de trading cuantitativo llamado \"Guerra de Capital Persistente\", cuyo núcleo es guiar la gestión de capital de la cuenta de apuestas mediante una cuenta de referencia (que siempre opera con una posición de 1 unidad). La cuenta de apuestas utiliza la estrategia Anti-Martingale para ajustar dinámicamente las posiciones, con elementos clave que incluyen la escala temporal t, ganancias/pérdidas realizadas y no realizadas, la línea de control de riesgos (RiskLine), el capital de riesgo (VC), el stop loss de referencia (StopLoss) y el cálculo del tamaño de posición. El documento también define las condiciones de activación y los procedimientos de manejo para eventos de toma de ganancias y stop loss, enfatizando la maximización de la eficiencia del uso del capital de riesgo bajo condiciones de control de riesgos, e incorpora un mecanismo de período de observación. El objetivo general es construir un marco de trading sistemático para optimizar la gestión de capital y el control de riesgos.",
+          "short_summary": "Este artículo propone un diseño experimental de trading cuantitativo que utiliza una cuenta de referencia para guiar la estrategia de gestión de capital Anti-Martingale en la cuenta de apuestas. Los elementos centrales incluyen la línea de control de riesgos, el capital de riesgo, el cálculo del stop loss y el ajuste de posiciones, con el objetivo de maximizar la eficiencia del capital y gestionar estrictamente los riesgos. El documento también detalla el manejo de eventos de toma de ganancias y stop loss, así como el mecanismo de período de observación.",
           "key_points": [
-            "La escala temporal t son momentos discretos del mercado, utilizados para todas las series temporales.",
-            "La cuenta de referencia opera con posiciones fijas, proporcionando las ganancias y pérdidas acumuladas BasePnL(t) como referencia.",
-            "La cuenta de apuesta utiliza la estrategia Anti-Martingale, ajustando dinámicamente las posiciones según el rendimiento de la referencia.",
-            "El flujo de efectivo de entrada C(t) y el stop loss de referencia StopLoss(t) se calculan a partir del historial de rendimiento de la cuenta de referencia.",
-            "La línea de control de riesgo RiskLine(t) se desplaza hacia abajo con el tiempo, asegurando que las ganancias y pérdidas no realizadas no caigan por debajo de esta línea.",
-            "El capital de riesgo VC(t) = UnrealizedPnL(t) - RiskLine(t), utilizado para determinar el tamaño de la posición.",
-            "El tamaño de la posición Position(t) se calcula mediante floor(VC(t) / StopLoss(t)), con el objetivo de maximizar el uso del capital de riesgo.",
-            "El evento de toma de ganancias se activa cuando UnrealizedPnL(t) >= el monto objetivo de toma de ganancias M_T, reiniciando las variables relevantes.",
-            "El evento de stop loss se activa cuando la máxima pérdida flotante >= StopLoss(t), controlando la reducción hasta la línea de control de riesgo.",
-            "Durante el período de observación, no se realizan operaciones cuando C(t) o StopLoss(t) son 0, solo se actualizan los parámetros."
+            "Diseño de gestión de capital dinámico basado en una cuenta de referencia y la estrategia Anti-Martingale",
+            "Implementación de control estricto de riesgos mediante la línea de control de riesgos y el capital de riesgo (VC)",
+            "Cálculo de posiciones agresivas según el stop loss de referencia (StopLoss) para maximizar la eficiencia del capital",
+            "Definición de condiciones de activación y reglas de reinicio de estado para eventos de toma de ganancias y stop loss",
+            "Establecimiento de un mecanismo de período de observación que pausa el trading cuando los parámetros son cero"
           ],
-          "audience": "Operadores cuantitativos, investigadores de estrategias de gestión de capital, inversores interesados en la estrategia Anti-Martingale.",
+          "audience": "Investigadores de trading cuantitativo, desarrolladores de trading algorítmico, profesionales de ingeniería financiera y traders interesados en estrategias de gestión de capital y control de riesgos.",
           "tags": [
-            "Guerra de Capital Persistente",
-            "Diseño Experimental",
+            "Trading cuantitativo",
+            "Gestión de capital",
             "Anti-Martingale",
-            "Gestión de Capital",
-            "Control de Riesgos",
-            "Cálculo de Posiciones",
-            "Cuenta de Referencia",
-            "Cuenta de Apuesta"
+            "Control de riesgos",
+            "Diseño experimental",
+            "Gestión de posiciones"
           ]
         },
         "ja-JP": {
-          "title": "資本持久戦の実験設計",
-          "description": "ベンチマーク口座とベッティング口座に基づくアンチマーチンゲール資金管理戦略を紹介し、時間スケール、リスク管理、ポジション計算を含む。",
-          "summary": "本稿は資本持久戦の実験設計を詳細に説明し、核心はベンチマーク口座を参照として使用し、ベッティング口座がアンチマーチンゲール戦略を用いてポジションを動的に調整することである。主な内容は：時間スケールtを離散的な市場時刻として；ベンチマーク口座は固定ポジションで取引し、累積損益曲線BasePnL(t)を提供；ベッティング口座はベンチマークのパフォーマンスに基づいて入力キャッシュフローC(t)とベンチマークストップロス額StopLoss(t)を計算し、リスクラインRiskLine(t)とリスク資金VC(t)を構築し、式Position(t) = floor(VC(t) / StopLoss(t))でポジションサイズを決定；利益確定と損切りのイベント処理ロジック、および観察期間の取引停止条件を定義。全体としてリスク資金の利用効率を最大化し、積極的だが制御されたベッティングを実現することを目指す。",
-          "short_summary": "本稿は実験設計を提案し、ベンチマーク口座を使用してベッティング口座の資金管理を指導する。ベッティング口座はアンチマーチンゲール戦略に基づき、リスク資金とベンチマークストップロス額を計算してポジションを動的に調整し、リスクラインと利益確定・損切りメカニズムを設定する。核心目標はリスク資金を効率的に利用し、積極的なベッティングを実現しながらリスクを管理することである。",
+          "title": "資本持久戦実験設計",
+          "description": "ベンチマーク口座とアンチマーチンゲール戦略に基づく定量取引実験設計を紹介し、時間スケール、リスク管理、ポジション管理を含む。",
+          "summary": "本稿は「資本持久戦」と名付けられた定量取引実験設計を詳細に説明し、核心はベンチマーク口座（常に1単位ポジションで取引）を通じてベッティング口座の資金管理を指導することにある。ベッティング口座はアンチマーチンゲール戦略を採用し、ポジションを動的に調整し、主要要素には時間スケールt、未実現/実現損益、リスク管理ライン（RiskLine）、リスク資金（VC）、ベンチマーク損切り額（StopLoss）、ポジションサイズ計算が含まれる。文書はまた、利益確定と損切りイベントのトリガー条件と処理フローを定義し、リスク管理条件下でのリスク資金利用効率の最大化を強調し、観察期間メカニズムを設定している。全体として、資金管理とリスク管理を最適化する体系的な取引フレームワークの構築を目指す。",
+          "short_summary": "本稿は、ベンチマーク口座を用いてベッティング口座のアンチマーチンゲール資金管理戦略を指導する定量取引実験設計を提案する。核心はリスク管理ライン、リスク資金、損切り額計算、ポジション調整を含み、資金効率の最大化と厳格なリスク管理を目指す。文書はまた、利益確定、損切りイベントの処理と観察期間メカニズムを詳細に説明する。",
           "key_points": [
-            "時間スケールtは離散的な市場時刻であり、すべての時系列に使用される。",
-            "ベンチマーク口座は固定ポジションで取引し、累積損益BasePnL(t)を参照として提供する。",
-            "ベッティング口座はアンチマーチンゲール戦略を使用し、ベンチマークのパフォーマンスに基づいてポジションを動的に調整する。",
-            "入力キャッシュフローC(t)とベンチマークストップロス額StopLoss(t)はベンチマーク口座の過去のパフォーマンスから計算される。",
-            "リスクラインRiskLine(t)は時間とともに下方に移動し、未実現損益がこのラインを下回らないことを保証する。",
-            "リスク資金VC(t) = UnrealizedPnL(t) - RiskLine(t)であり、ポジションサイズの決定に使用される。",
-            "ポジションサイズPosition(t)はfloor(VC(t) / StopLoss(t))で計算され、リスク資金の利用を最大化することを目指す。",
-            "利益確定イベントはUnrealizedPnL(t) >= 目標利益確定金額M_Tでトリガーされ、関連変数をリセットする。",
-            "損切りイベントは最大浮動損失 >= StopLoss(t)でトリガーされ、リスクラインへのドローダウンを制御する。",
-            "観察期間はC(t)またはStopLoss(t)が0の場合取引せず、パラメータのみを更新する。"
+            "ベンチマーク口座とアンチマーチンゲール戦略に基づく動的資金管理設計",
+            "リスク管理ラインとリスク資金（VC）を通じた厳格なリスク管理の実現",
+            "ベンチマーク損切り額（StopLoss）に基づく積極的ポジション計算による資金効率の最大化",
+            "利益確定と損切りイベントのトリガー条件と状態リセットルールの定義",
+            "観察期間メカニズムの設定（パラメータがゼロ時に取引を一時停止）"
           ],
-          "audience": "クオンツトレーダー、資金管理戦略研究者、アンチマーチンゲール戦略に関心のある投資家。",
+          "audience": "定量取引研究者、アルゴリズム取引開発者、金融工学専門家、および資金管理とリスク管理戦略に関心のあるトレーダー。",
           "tags": [
-            "資本持久戦",
-            "実験設計",
-            "Anti-Martingale",
+            "定量取引",
             "資金管理",
+            "アンチマーチンゲール",
             "リスク管理",
-            "ポジション計算",
-            "ベンチマーク口座",
-            "ベッティング口座"
+            "実験設計",
+            "ポジション管理"
           ]
         }
       },
-      "metadataTranslationHash": "118cf620138fcc60d843143241a0b01aa386fb0c03202f0fb5bdf8ef871c78e2"
+      "metadataTranslationHash": "f5e6e79bb2dfaaec5cab7a893d8c9275dc910c063d4b9a63f96914d7f16af626"
     },
     {
       "hash": "5440013e2d497a21b08a2dc33c2880f8d97b7987259d4b452d8a32daae60111e",
