@@ -14550,6 +14550,139 @@
       "nativeMarkdownHash": "b620922eb290d9bb5f1e0fea2d84b6a101c8581d75151d012a3e1506a64fedeb"
     },
     {
+      "path": "LOGS/71.md",
+      "links": [],
+      "metadata": {
+        "title": "谈谈持久战实盘模块设计: Signal Trader",
+        "description": "介绍Signal Trader模块的设计，包括Push模式、信号三元取值、止损比例职责、多投资者分账和审计系统。",
+        "short_summary": "Signal Trader是持久战实盘模块的核心，采用Push模式处理信号，信号只有方向无强度。止损比例由信号侧负责，多投资者分账遵循隔离原则，审计系统确保可追溯性。",
+        "audience": "金融科技开发者、量化交易策略师、系统架构师",
+        "key_points": [
+          "Signal Trader采用Push模式处理信号，实现高实时性和灵活性",
+          "信号设计为三元取值（1, -1, 0），无强度，简化逻辑并避免过拟合",
+          "止损比例是信号侧的职责，用于以损定仓计算名义价值",
+          "多投资者分账基于隔离原则，支持个性化订阅和VC占比分配",
+          "审计系统记录所有动作，提供查询接口用于分析和回溯"
+        ],
+        "summary": "本文详细阐述了持久战实盘模块Signal Trader的设计理念和实现细节。Signal Trader作为信号交易者，采用Push模式接收信号侧主动推送的信号，输出订单到交易所，支持实时性和灵活性。信号设计为只有方向（做多1、做空-1、空仓0），无强度，以简化处理并避免过拟合。止损比例被确定为信号侧的职责，用于以损定仓计算名义价值，其更新频率低于信号本身。多投资者分账基于隔离原则，允许投资者独立订阅信号并指定止盈比例和投资额，Signal Trader按VC占比分配订单。审计系统记录所有动作，便于分析和回溯。",
+        "slug": "signal-trader-design-persistent-war",
+        "tags": [
+          "Signal Trader",
+          "持久战",
+          "实盘模块",
+          "Push模式",
+          "信号交易",
+          "投资者分账",
+          "审计系统"
+        ],
+        "inferred_date": "2026-03-12",
+        "inferred_lang": "zh-Hans",
+        "tokens_used": {
+          "prompt": 1748,
+          "completion": 439,
+          "total": 2187
+        }
+      },
+      "hash": "df88466985313f9e782431e044df3d50db5e44a08ac1401860899b8cf30aa52a",
+      "metadataTranslations": {
+        "zh-Hans": {
+          "title": "谈谈持久战实盘模块设计: Signal Trader",
+          "description": "介绍Signal Trader模块的设计，包括Push模式、信号三元取值、止损比例职责、多投资者分账和审计系统。",
+          "summary": "本文详细阐述了持久战实盘模块Signal Trader的设计理念和实现细节。Signal Trader作为信号交易者，采用Push模式接收信号侧主动推送的信号，输出订单到交易所，支持实时性和灵活性。信号设计为只有方向（做多1、做空-1、空仓0），无强度，以简化处理并避免过拟合。止损比例被确定为信号侧的职责，用于以损定仓计算名义价值，其更新频率低于信号本身。多投资者分账基于隔离原则，允许投资者独立订阅信号并指定止盈比例和投资额，Signal Trader按VC占比分配订单。审计系统记录所有动作，便于分析和回溯。",
+          "short_summary": "Signal Trader是持久战实盘模块的核心，采用Push模式处理信号，信号只有方向无强度。止损比例由信号侧负责，多投资者分账遵循隔离原则，审计系统确保可追溯性。",
+          "key_points": [
+            "Signal Trader采用Push模式处理信号，实现高实时性和灵活性",
+            "信号设计为三元取值（1, -1, 0），无强度，简化逻辑并避免过拟合",
+            "止损比例是信号侧的职责，用于以损定仓计算名义价值",
+            "多投资者分账基于隔离原则，支持个性化订阅和VC占比分配",
+            "审计系统记录所有动作，提供查询接口用于分析和回溯"
+          ],
+          "audience": "金融科技开发者、量化交易策略师、系统架构师",
+          "tags": [
+            "Signal Trader",
+            "持久战",
+            "实盘模块",
+            "Push模式",
+            "信号交易",
+            "投资者分账",
+            "审计系统"
+          ]
+        },
+        "en-US": {
+          "title": "Signal Trader: Design of the Persistent War Live Trading Module",
+          "description": "Introduces the design of the Signal Trader module, including Push mode, ternary signal values, stop-loss ratio responsibilities, multi-investor allocation, and audit system.",
+          "summary": "This article details the design philosophy and implementation specifics of the Signal Trader module in the Persistent War live trading system. As a signal trader, Signal Trader uses Push mode to actively receive signals from the signal side, outputs orders to exchanges, supporting real-time performance and flexibility. Signals are designed with only direction (long 1, short -1, neutral 0) and no intensity, simplifying processing and avoiding overfitting. The stop-loss ratio is determined as the responsibility of the signal side, used for position sizing based on risk, with update frequency lower than the signals themselves. Multi-investor allocation is based on isolation principles, allowing investors to independently subscribe to signals and specify profit-taking ratios and investment amounts, with Signal Trader allocating orders according to VC proportions. The audit system records all actions, facilitating analysis and traceability.",
+          "short_summary": "Signal Trader is the core of the Persistent War live trading module, using Push mode to process signals with direction-only design. Stop-loss ratios are handled by the signal side, multi-investor allocation follows isolation principles, and the audit system ensures traceability.",
+          "key_points": [
+            "Signal Trader uses Push mode to process signals, achieving high real-time performance and flexibility",
+            "Signals are designed with ternary values (1, -1, 0) and no intensity, simplifying logic and avoiding overfitting",
+            "Stop-loss ratio is the responsibility of the signal side, used for position sizing based on risk",
+            "Multi-investor allocation is based on isolation principles, supporting personalized subscriptions and VC proportion distribution",
+            "The audit system records all actions, providing query interfaces for analysis and traceability"
+          ],
+          "audience": "Fintech developers, quantitative trading strategists, system architects",
+          "tags": [
+            "Signal Trader",
+            "Persistent War",
+            "Live Trading Module",
+            "Push Mode",
+            "Signal Trading",
+            "Investor Allocation",
+            "Audit System"
+          ]
+        },
+        "ja-JP": {
+          "title": "持久戦実戦モジュール設計について: Signal Trader",
+          "description": "Signal Traderモジュールの設計を紹介します。Pushモード、信号三元値、損切り比率の責任、複数投資家の口座分け、監査システムを含みます。",
+          "summary": "本稿では、持久戦実戦モジュールSignal Traderの設計理念と実装詳細を詳述します。Signal Traderは信号トレーダーとして、Pushモードで信号側から能動的に送信される信号を受信し、取引所に注文を出力し、リアルタイム性と柔軟性をサポートします。信号は方向のみ（ロング1、ショート-1、無ポジション0）で強度を持たず、処理を簡素化し過学習を回避します。損切り比率は信号側の責任とされ、損失に基づくポジションサイズ計算で名目価値を算出し、その更新頻度は信号自体より低いです。複数投資家の口座分けは隔離原則に基づき、投資家が独立して信号を購読し、利確比率と投資額を指定でき、Signal TraderはVC比率に応じて注文を配分します。監査システムは全てのアクションを記録し、分析と遡及を容易にします。",
+          "short_summary": "Signal Traderは持久戦実戦モジュールの核心で、Pushモードで信号を処理し、信号は方向のみで強度を持ちません。損切り比率は信号側が責任を持ち、複数投資家の口座分けは隔離原則に従い、監査システムは追跡可能性を確保します。",
+          "key_points": [
+            "Signal TraderはPushモードで信号を処理し、高いリアルタイム性と柔軟性を実現",
+            "信号は三元値（1, -1, 0）で設計され、強度を持たず、ロジックを簡素化し過学習を回避",
+            "損切り比率は信号側の責任で、損失に基づくポジションサイズ計算で名目価値を算出",
+            "複数投資家の口座分けは隔離原則に基づき、個別購読とVC比率配分をサポート",
+            "監査システムは全てのアクションを記録し、分析と遡及のためのクエリインターフェースを提供"
+          ],
+          "audience": "FinTech開発者、クオンツトレーディングストラテジスト、システムアーキテクト",
+          "tags": [
+            "Signal Trader",
+            "持久戦",
+            "実戦モジュール",
+            "Pushモード",
+            "信号取引",
+            "投資家口座分け",
+            "監査システム"
+          ]
+        },
+        "es-ES": {
+          "title": "Diseño del Módulo Signal Trader para Trading en Tiempo Real de Larga Duración",
+          "description": "Introduce el diseño del módulo Signal Trader, incluyendo el modo Push, valores ternarios de señales, responsabilidad del ratio de stop-loss, distribución de cuentas para múltiples inversores y sistema de auditoría.",
+          "summary": "Este artículo detalla la filosofía de diseño y los detalles de implementación del módulo Signal Trader para trading en tiempo real de larga duración. Signal Trader, como operador de señales, utiliza el modo Push para recibir señales enviadas activamente desde el lado de señales, genera órdenes para el exchange, y soporta alta velocidad y flexibilidad. Las señales se diseñan solo con dirección (compra 1, venta -1, sin posición 0), sin intensidad, para simplificar el procesamiento y evitar sobreajuste. El ratio de stop-loss se determina como responsabilidad del lado de señales, utilizado para calcular el valor nominal basado en pérdidas, con una frecuencia de actualización menor que la de las señales. La distribución de cuentas para múltiples inversores se basa en el principio de aislamiento, permitiendo a los inversores suscribirse a señales de forma independiente y especificar ratios de take-profit y montos de inversión, con Signal Trader asignando órdenes según la proporción de VC. El sistema de auditoría registra todas las acciones, facilitando el análisis y la trazabilidad.",
+          "short_summary": "Signal Trader es el núcleo del módulo de trading en tiempo real de larga duración, utiliza el modo Push para procesar señales, que solo tienen dirección sin intensidad. El ratio de stop-loss es responsabilidad del lado de señales, la distribución de cuentas para múltiples inversores sigue el principio de aislamiento, y el sistema de auditoría garantiza la trazabilidad.",
+          "key_points": [
+            "Signal Trader utiliza el modo Push para procesar señales, logrando alta velocidad y flexibilidad",
+            "Las señales se diseñan con valores ternarios (1, -1, 0), sin intensidad, simplificando la lógica y evitando sobreajuste",
+            "El ratio de stop-loss es responsabilidad del lado de señales, utilizado para calcular el valor nominal basado en pérdidas",
+            "La distribución de cuentas para múltiples inversores se basa en el principio de aislamiento, soportando suscripciones personalizadas y asignación por proporción de VC",
+            "El sistema de auditoría registra todas las acciones, proporcionando una interfaz de consulta para análisis y trazabilidad"
+          ],
+          "audience": "Desarrolladores de fintech, estrategas de trading cuantitativo, arquitectos de sistemas",
+          "tags": [
+            "Signal Trader",
+            "Larga Duración",
+            "Módulo de Trading en Tiempo Real",
+            "Modo Push",
+            "Trading de Señales",
+            "Distribución de Cuentas de Inversores",
+            "Sistema de Auditoría"
+          ]
+        }
+      },
+      "metadataTranslationHash": "c54fcd24f04a89aaf15c3ab1f37eae3de69105debe0ee76e69339d06a051fa55",
+      "category": "Quantitative Finance",
+      "nativeMarkdownHash": "df88466985313f9e782431e044df3d50db5e44a08ac1401860899b8cf30aa52a"
+    },
+    {
       "hash": "c2e4e00fc6228e9f91b90d494c8fc85e517b8e4c07c75716e93410c8d3c297de",
       "path": "LOGS/8.md",
       "links": [
