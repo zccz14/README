@@ -1,217 +1,170 @@
-# CZ's Digital Brain: A Guide for Everyone
+# CZON Repository Science Popularization Guide: Explaining Complex Thinking to Ordinary People
 
-**AI Analysis Time**: February 8, 2026
-**Generated from 68 Markdown files**
-**Note**: This report is AI-generated and for reference only.
+**AI Analysis Time**: March 14, 2026
+**Generated from 89 Markdown files**
+**Note**: This report is AI-generated and content is for reference only.
 
 ---
+
+## Overview
+
+This repository is like a "long-term public growth documentary": the first half consists of the author's ongoing experiments in AI, software engineering, content creation, and quantitative investing, while the second half refines those experimental experiences into methodologies. You'll see two main threads repeatedly interwoven: one is "how to make AI truly productive," and the other is "how ordinary people can survive and strive for advancement in an uncertain market."
+
+Looking at the content structure, `LOGS/` contains daily work logs, akin to a lab notebook with raw records; `INSIGHTS/` holds refined opinion articles, like periodic papers; `QUANT/` provides project descriptions for practical finance; `MEETINGS/` and `EVENTS/` offer external industry and event context; `SUMMARY/` presents a systematic review of the "Capital Protracted War" theme.
+
+If you're a new reader, you can understand it as: the author is publicly building a "human + AI collaborative brain system" and simultaneously applying this system to writing, product development, engineering, and investment decisions. The difficulty lies in the many concepts and broad scope; the highlight is that most content strives to be actionable, verifiable, and reviewable.
 
 ## What is This?
 
-Imagine someone who puts their daily thoughts, ongoing projects, things they've learned, and even their mistakes in a public place—like a transparent "brain backup." That's what this repository is: **CZ's (zccz14) digital thinking space**.
+Imagine someone continuously writing their thoughts, projects, learning notes, failure records, and improvement paths into the same place, like a public "digital brain backup." This is the repository—author `zccz14`'s long-term cognition and practice space.
 
-Who is CZ? A technologist focused on quantitative trading and fintech, founder of the [No Trade No Life (NTNL)](https://github.com/No-Trade-No-Life/) project. He calls himself a "high-energy-consumption brain," enjoys thinking and writing, and pursues "things falling into place naturally." He even says: "If I'm gone one day, these are the raw materials for an AI to resurrect me."
+It's not a traditional "portfolio" but more like a live scene of "doing, thinking, and correcting along the way":
 
-What's in this repository? Simply put, there are three main categories of content:
+- You can see how they turn AI from "talking" into "getting work done";
+- You can see how a product (CZON/CZONE) evolves from an idea into a usable tool;
+- You can also see how an investment framework (Capital Protracted War) progresses from a proposition to experiments, and then to live trading preparation.
 
--   **LOGS**: 54 work diaries, recording what he did, thought, and what pitfalls he encountered each day. Like a programmer's version of a "social media feed," but more authentic and in-depth.
--   **INSIGHTS**: 9 well-considered long-form articles covering topics like investment strategies, human-AI collaboration, and AI system design. If LOGS are raw stones, INSIGHTS are polished gems.
--   **Other Content**: Includes introductions to quantitative trading projects (EA, FSA), a simulated "Qi Pa Shuo" debate, an in-depth analysis of the US government's Bitcoin seizure, and an interpretation of a private equity fund industry conference.
+Therefore, the most valuable aspect of this repository is not the "conclusions," but "how the conclusions grew step by step."
 
-The repository spans from early January to early February 2026, documenting about a month of intensive thinking and creation. The content mainly revolves around three themes: **how to use AI better for coding and content creation**, **how to make money scientifically in financial markets**, and **how to understand the relationship between humans and AI**.
+## Core Projects (Explained by Analogy)
 
-## Core Projects: Explained by Analogy
+### CZON: Like a "Multilingual and Formatting Writing Co-pilot"
 
-### CZON: Like Your "AI Writing Assistant + Auto-Translator + Personal Website Generator"
+**One-sentence explanation**: You focus on writing content; it helps with translation, information extraction, and site generation.
 
-**One-sentence explanation**: CZON is a tool that turns your Markdown files into a multilingual website. AI handles translation, categorization, and summary generation—you just focus on writing.
+**What it can do**:
 
-**What it does**:
+- Content Organization: Like an indefatigable editorial assistant, automatically extracting titles, tags, summaries (see [README](../../../README.md), [2026-01-09 Feature Memo](../../../LOGS/7.md)).
+- Multilingual Processing: Like a cross-language publishing assistant, turning one piece of content into multiple language versions (see [It's January 23, 2026, early morning.](../../../LOGS/23.md)).
 
--   **Auto-translation**: Like hiring a 24/7 translation team. You write in Chinese, and it automatically translates into English, Japanese, and other languages. It uses "adversarial translation"—one AI translates, another AI proofreads, like a publisher's "translator + proofreader" process (see [CZON Adversarial Translation](../../../LOGS/25.md)).
--   **Smart Categorization & Summarization**: Like a librarian, automatically tagging your articles, writing introductions, and generating summaries tailored for different platforms (short & snappy for Twitter, professional for LinkedIn, relatable for Xiaohongshu) (see [CZON Summary Types Memo](../../../LOGS/7.md)).
--   **Zero-configuration Site Building**: As simple as a "point-and-shoot camera"—you don't need to know web development. Write your article, run one command, and a beautiful multilingual website is generated (see [The Meaning of CZON](../../../LOGS/12.md)).
+**Why it's useful**: Reduces the burden of "post-writing publishing details," allowing creators to focus their time on thinking itself.
 
-**Why it's useful**: If you have ideas to share with the world but don't want to spend time learning web dev, doing translations, or handling SEO, CZON automates all that grunt work. You only need to focus on the "writing."
+### CZONE: Like an "Online Operating System for Content Creators"
 
-**Origin of the name**: Each letter in CZON has meaning—C for Content-oriented, Z for Zero-configuration, O for Organic AI-native, N for an N-shaped creative energy curve (see [The Meaning of N](../../../LOGS/11.md)).
+**One-sentence explanation**: Makes writing, publishing, and distribution as "simple as posting on social media" in an online environment.
 
----
+**What it can do**:
 
-### EA (Earnby.AI): Like an "AI-Managed Yu'e Bao," but with Higher Returns
+- Online Creation & Publishing: Like a lightweight Notion + static site hosting all-in-one machine (see [It's Sunday night, January 18, 2026.](../../../LOGS/18.md), [It's Wednesday night, January 28, 2026.](../../../LOGS/32.md)).
+- Data Portability: Like "renting but being able to move anytime," the foundation is Markdown + Git, users can always take their data.
 
-**One-sentence explanation**: EA is a blockchain-based fund project. You deposit money, AI-driven quantitative strategies make profits for you, and there's a principal protection mechanism.
+**Why it's useful**: Balances ease of use with data ownership, not locking users into a single platform.
 
-**What it does**:
+### Sand Table (SandT): Like an "Investment Strategy Wargaming Simulator"
 
--   **Principal-Protected Investment**: Like deposit insurance for bank savings, EA splits capital into "senior" and "junior" tranches. Your money is senior; the project's own money is junior. Only after the project's money is lost does your principal get affected (see [EA Project Introduction](../../../QUANT/EA/EA.md)).
--   **AI Quantitative Trading**: Like hiring a sleepless fund manager, using machine learning models to monitor markets 24/7 and trade automatically. Strategies include directional trading (predicting rise/fall) and delta-neutral strategies (profiting from spreads regardless of direction).
--   **Flexible Redemption**: Flexible like Yu'e Bao. Withdraw anytime. Standard redemption takes 7 days; instant redemption is immediate (with a 0.5% fee).
+**One-sentence explanation**: Rehearse repeatedly on a simulated battlefield before deciding whether to commit real capital.
 
-**Why it's useful**: Traditional financial products offer lower returns, and bank deposit rates can't beat inflation. EA offers an option with ~12%-22% annualized returns, operating via blockchain smart contracts for transparent, verifiable fund flows.
+**What it can do**:
 
----
+- Strategy Testing: Like a pilot simulator, test flights first on historical/synthetic data (see [It's noon, February 4, 2026.](../../../LOGS/43.md), [Derivation of the SDE Equation System for Capital Market Three-Body Dynamics](../../../LOGS/52.md)).
+- Risk Comparison: Like a "stress testing workshop," comparing results of different signals and money management (see [It's morning, February 10, 2026.](../../../LOGS/58.md)).
 
-### Full Spectrum Analysis (FSA): Like a "GPS for Investment Decisions"
+**Why it's useful**: Turns "gut-feeling bets" into "evidence-based decisions."
 
-**One-sentence explanation**: FSA is a mathematical method that tells you, at any given moment, how much capital to invest and what leverage to use to maximize long-term returns.
+## Core Concepts (Using Everyday Examples)
 
-**What it does**:
+### Controllable Trust (Human-AI Collaboration)
 
--   **Calculates Optimal Position Size**: Like GPS giving you the best route, FSA calculates the proportion of capital you should invest based on your assessment of various possible market outcomes (see [Full Spectrum Analysis](../../../QUANT/FSA/FSA.md)).
--   **Prevents Ruin**: Built-in "black swan protection," like a car's airbag—even in extreme scenarios, you won't lose everything.
--   **Adapts to Various Markets**: Whether stocks, futures, or cryptocurrencies, as long as you can describe "what could happen, its probability, and the gain/loss," FSA can give advice.
+**Simply put**: Not "blindly trusting AI," but setting guardrails before delegating authority.
 
-**Why it's useful**: Most people decide investment amounts based on gut feeling. FSA turns this decision into a math problem. It's an upgraded version of the classic "Kelly Criterion," handling more complex real-world scenarios.
+**Analogy**: Like letting a new driver make a delivery—you first define the route, speed limit, and checkpoints, rather than grabbing the steering wheel from the passenger seat the whole time.
 
----
+**How to do it concretely**:
 
-### SandTable: Like an "Investment Strategy Simulator"
+1. First align goals and interfaces (what to do, what constitutes success);
+2. Then use tests, benchmarks, and observability for acceptance (see [Module-Level Human-AI Collaborative Software Engineering Architecture](../../../INSIGHTS/1.md), [How to Solve Human Desire for Control—On the Controllable Trust Problem in Human-AI Collaboration](../../../INSIGHTS/2.md)).
 
-**One-sentence explanation**: SandTable is an experimental framework that lets you simulate various investment strategies on historical data to see which works best.
+### Embrace the Finite, Design the Infinite (Systems Thinking)
 
-**What it does**:
+**Simply put**: Acknowledge AI isn't omnipotent, then use processes and division of labor to amplify overall capability.
 
--   **Strategy Backtesting**: Like pilots training in a flight simulator, you can "test fly" your investment strategy on historical data without risking real money (see [SandTable Naming](../../../LOGS/43.md)).
--   **Separation of Concerns**: Breaks investment decisions into three independent parts—market environment (what you can't control), signal strategy (how you judge the market), and betting strategy (how you manage capital)—for separate optimization (see [Experimental Paradigm Restructuring](../../../LOGS/37.md)).
+**Analogy**: One person can't produce an entire gala, but a director + division of labor can make it happen.
 
-**Why it's useful**: The name comes from ancient military sand table wargaming—generals simulated battles on sand tables before going to the real battlefield. SandTable lets investors "rehearse before engaging."
+**How to do it concretely**:
 
-## Core Philosophies: Understood Through Everyday Examples
+1. Break complex tasks into collaborative modules;
+2. Use resource budgets and information flow management to prevent system runaway (see [Embrace the "Finite," Design the "Infinite"—A New Paradigm for Constructing Agent Systems Based on LLM Constraints](../../../INSIGHTS/3.md)).
 
-### Capital Protracted War: A Survival Guide for Ordinary Investors
+### Capital Protracted War (Investment Framework)
 
-**Simply put**: Don't aim to get rich overnight, and don't just save money foolishly. Use small monthly losses you can afford to wait for a life-changing opportunity.
+**Simply put**: Use bearable small losses to exchange for potential large wins.
 
-**An analogy**: Imagine you're fishing. You spend 10 yuan daily on bait (your affordable cost). Most days, the bait gets eaten with no catch. But catching one big fish feeds you for a year. The key: bait money shouldn't affect your daily life, and you must have the patience to keep fishing.
+**Analogy**: Like managing stamina in a long-distance run—not sprinting every step, but accelerating when there's a tailwind.
 
-**How to do it**:
+**How to do it concretely**:
 
-1.  **Prepare a Stable "Ammunition Supply"**: For example, allocate a small portion of your monthly salary as the maximum investment loss you can bear. Like a war needs a supply line.
-2.  **Let a Program Trade for You**: Don't watch the markets yourself. Write an automated trading program (can't code? Let AI help). Human emotion is the biggest enemy in investing—greed when winning, fear when losing.
-3.  **Increase Investment When Profitable**: When a strategy starts making money, it means you're on the right track. Use the profits (not principal) to increase your position. Like "betting with house money" in poker.
-4.  **Define "Victory Conditions"**: Investing isn't an endless marathon. Set a clear goal for "how much profit to take" beforehand, and actually take it.
+1. First set a "maximum daily loss" red line;
+2. Add positions only when profitable, quickly contract when losing (see [Capital Protracted War (Draft)](../../../INSIGHTS/6.md), [Capital Protracted War: A Strategic Framework for Individual Investors to Transcend Class](../../../SUMMARY/CPW.md)).
 
-In his article, CZ refutes three common misconceptions: the pessimists who think "ordinary people are doomed to lose," the gamblers who advocate "go big or go home," and the dogmatists who preach "be friends with time and get rich slowly." He argues none address a fundamental problem: **human lifespan is finite; wealth growth cannot wait indefinitely** (see [Capital Protracted War](../../../INSIGHTS/6.md)).
+### LOGS → INSIGHTS (Cognitive Method)
 
-This philosophy also sparked a brilliant simulated debate—in the format of "Qi Pa Shuo," featuring a fierce 4v4 clash between the "Steady Growth Faction" and the "Class Leap Faction" (see [Qi Pa Shuo Debate](../../../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md)).
+**Simply put**: First record reality, then distill viewpoints; first leave traces, then summarize.
 
----
+**Analogy**: Cooking requires raw ingredients (logs) first, then finished dishes (insight articles).
 
-### The Market's "Three-Body Problem": Why Stock Markets Are Both Predictable and Unpredictable
+**How to do it concretely**:
 
-**Simply put**: Three "forces" are at play in the market, interacting like three celestial bodies gravitationally bound. No one controls the others, so market behavior has patterns yet is full of surprises.
+1. Don't delete or modify historical records, preserve error timestamps;
+2. Abstract reusable principles from the records (see [On the Essence of Humanity](../../../INSIGHTS/8.md)).
 
-**An analogy**: Imagine an ecosystem with three animals—wolves (momentum capital, speculators chasing trends), sheep (value capital, investors buying low/selling high), and grass (liquidity capital, market makers facilitating trades). Too many wolves, sheep get eaten, wolves starve. Too many sheep, grass gets eaten, sheep starve. Only balance among the three sustains the ecosystem.
+## Real-World Application Scenarios (From Articles to Projects)
 
-**What this theory explains**:
+1) **Writer/Blogger Scenario**: After writing an article, automatically handle multilingual translation, summarization, link checking, and site publishing, reducing "writing logistics" time (see [From Creation to Distribution—Building an AI-Native Content Engine](../../../INSIGHTS/4.md), [It's afternoon, February 9, 2026.](../../../LOGS/57.md)).
 
-1.  **Why markets boom and crash**: When "wolves" (speculators) are too many, they trample each other, causing a crash.
-2.  **Why markets recover after crashes**: After a crash, "sheep" (value investors) find prices cheap and start buying, leading to gradual recovery.
-3.  **Why long-term prediction is impossible**: Like the three-body problem in physics, the interaction of three forces is too complex for precise long-term prediction. But short-term trends and volatility patterns can be exploited.
+2) **Engineering Team Scenario**: Manage AI output instability within engineering processes, e.g., script-based hard checks, observability, modular collaboration (see [Today is Monday morning, January 12, 2026.](../../../LOGS/10.md), [It's early Sunday morning, January 11, 2026.](../../../LOGS/9.md)).
 
-CZ also uses a clever 3x3 matrix to show the perfect symmetry between the three capital types and three market variables (premium, momentum, volatility)—each capital type has its own "profit source," "risk source," and "cost source," with no party dominating forever (see [The Three-Body Dynamics Hypothesis of Capital Markets](../../../INSIGHTS/8.md)).
+3) **Quantitative Research Scenario**: First conduct strategy wargaming in SandT, compare combinations of "signal quality + money management," then decide on live trading (see [It's morning, February 10, 2026.](../../../LOGS/58.md), [It's afternoon, February 11, 2026.](../../../LOGS/63.md)).
 
----
+4) **Product Incubation Scenario**: Conduct low-cost experimentation around API proxying, AI value-added services, decentralized content distribution (see [Some To-Do Items](../../../LOGS/42.md), [It's Sunday morning, February 8, 2026.](../../../LOGS/54.md)).
 
-### How Humans and AI Collaborate: Let Go of the Need for Control, Learn to Be a "Hands-Off Manager"
-
-**Simply put**: People hesitate to delegate work to AI because they fear AI's mistakes will be their responsibility. The solution isn't tighter supervision but establishing mechanisms to "recover when things go wrong."
-
-**An analogy**: Like the first time you hand car keys to your newly licensed child. You're nervous not because you're controlling, but because you fear an accident. The solution? Not grabbing the steering wheel from the passenger seat (you might as well drive yourself). Instead: ensure the car has airbags (recoverability), the child knows traffic rules (intent alignment), and you can call them to pull over anytime (intervenability).
-
-**How to do it**:
-
-1.  **Intent Alignment**: First, ensure AI understands what you want. Like briefing a new employee—align on goals before letting them work independently (see [How to Solve Human Need for Control](../../../INSIGHTS/2.md)).
-2.  **Controlled Risk**: Ensure AI mistakes can be detected, corrected, and recovered from. Like "version control" in software development—roll back if something breaks.
-3.  **From "Operator" to "Architect"**: You don't need to write every line of code. Design rules and workflows, letting AI operate freely within the framework (see [Software Engineering Architecture for Module-Level Human-AI Collaboration](../../../INSIGHTS/1.md)).
-
-CZ found in practice that the biggest issue with AI writing code isn't "not smart enough" but "not knowing what to discard"—it keeps all old code for fear of breaking compatibility, leading to bloated code, like a hoarder who never throws anything away (see [Vibe Coding Major Failure](../../../LOGS/2.md)).
-
----
-
-### Returning to Simplicity: Why "Simple" is Harder Than "Complex"
-
-**Simply put**: True simplicity isn't because you don't understand complexity; it's choosing to return to simplicity after experiencing all the complexity.
-
-**An analogy**: A person who never left their small town finds town life simple, versus a world traveler who chooses to return to the small town finds it simple—these are two different kinds of "simple." The latter's simplicity is a choice; they know what they gave up.
-
-**What this philosophy tells us**:
-
-1.  **Can't Skip Complexity**: You can't become a master by imitating a master's actions. You must step into pitfalls and make mistakes yourself to truly understand principles that "sound like platitudes."
-2.  **Can Lower the Tuition**: While you can't skip, you can replace "fatal big losses" with "controlled small losses." Like learning to swim—you must get in the water, but start in the shallow end.
-3.  **AI Can't Skip Either**: When AI writes code for you, if it hasn't experienced the project's evolution, it can't understand which abstractions are core and which are temporary workarounds.
-
-(see [Returning to Simplicity: Complexity is an Inevitable Path of Cognition](../../../INSIGHTS/7.md))
-
----
-
-### On Human Nature: In the AI Era, What Makes You Unique
-
-**Simply put**: AI can replicate your knowledge and mimic your style, but not your experiences and growth trajectory. Your value lies not in "what you know" but in "what you've experienced."
-
-**An analogy**: Two people can cook braised pork belly. One learned from a recipe, the other learned from their grandmother since childhood. The recipe can be copied, but the memories of learning from grandma—the kitchen conversations, the improvements after failures—cannot.
-
-**Core viewpoints**:
-
-1.  **The Non-Replicability of Memory**: AI memory is data, infinitely replicable. Human memory is intertwined with emotion, physical experience, and a sense of time—unique.
-2.  **The Importance of "Leaving Words"**: In the AI era, actively recording and expressing your thoughts is more important than ever. Not to leave perfect answers, but to leave a genuine growth trajectory.
-3.  **Taste is the Ultimate Moat**: When AI can do everything, "choosing what not to do" is more important than "what can be done." The essence of taste is the ability to refuse—you're willing to give up B, C, D for A.
-
-(see [On Human Nature](../../../INSIGHTS/9.md))
+5) **Social Innovation Scenario**: Explore AI comments, cross-site comments, AI identity verification, and attention economics (see [It's evening, February 10, 2026.](../../../LOGS/61.md), [It's evening, February 5, 2026.](../../../LOGS/47.md)).
 
 ## Who is This For?
 
--   **If you're a programmer**: You'll find extensive practical experience on AI-assisted programming—which scenarios AI excels in, where it fails, and how to design architectures for better AI-generated code. Especially the view that "object-oriented programming isn't suitable for AI" ([Vibe Coding Major Failure](../../../LOGS/2.md)) and the "module-level human-AI collaboration" architecture design ([Module-Level Human-AI Collaboration](../../../INSIGHTS/1.md)) are valuable insights from frontline practice.
+- 👨‍💻 **If you're a programmer**: You'll see real pitfalls and actionable fixes for AI-assisted development (e.g., over-compatibility, process runaway, debugging methods).
+- 💰 **If you're interested in investing**: You'll learn the accessible framework of "Capital Protracted War" and how it's validated through an experimental platform, not just slogans.
+- ✍️ **If you want to blog**: You'll understand how to create a pipeline for "creation, translation, distribution, SEO, link checking."
+- 🤔 **If you're just curious**: You'll see how one person publicly records the process of "idea → experiment → correction," which is valuable in itself.
+- 🧪 **If you're in product or entrepreneurship**: You'll get a wealth of firsthand early-stage product trial-and-error samples, especially "how to use AI to lower trial costs."
 
--   **If you're interested in investing**: You'll learn a complete personal investment framework—from the strategic thinking of "Capital Protracted War" ([Capital Protracted War](../../../INSIGHTS/6.md)), to the mathematical tool of "Full Spectrum Analysis" ([Full Spectrum Analysis](../../../QUANT/FSA/FSA.md)), to the market theory of "Three-Body Dynamics" ([The Three-Body Dynamics Hypothesis of Capital Markets](../../../INSIGHTS/8.md)). Even if you don't plan to do quantitative trading yourself, understanding these frameworks can help you view investing more rationally.
+## Where to Start? (Recommended Reading Order)
 
--   **If you want to do content creation**: You'll learn about the new paradigm of content creation in the AI era—how to use AI for translation, categorization, and summary generation ([From Creation to Distribution](../../../INSIGHTS/4.md)), how to tailor content style for different platforms ([CZON Summary Types](../../../LOGS/7.md)), and the core principle of "deep creation, shallow distribution."
+Suggested reading order from "light to deep":
 
--   **If you're interested in the future of AI and humanity**: You'll see a technologist's deep thoughts on "human nature"—in an era where AI can do more and more, what makes humans unique? ([On Human Nature](../../../INSIGHTS/9.md)) How to build trust with AI? ([How to Solve Human Need for Control](../../../INSIGHTS/2.md)) Where are AI's limitations? ([Embrace the Finite, Design the Infinite](../../../INSIGHTS/3.md))
+1. [README](../../../README.md) — First understand who the author is and what the repository aims to do.
+2. [From Creation to Distribution—Building an AI-Native Content Engine](../../../INSIGHTS/4.md) — Short, intuitive concepts, good for warming up.
+3. [Returning to Basics: Complexity is an Inevitable Path of Cognition](../../../INSIGHTS/7.md) — Uses everyday language to explain "why complexity can't be skipped."
+4. [In the Agent Era, Reading and Learning Open Source Projects Has Never Been Easier—How I Learn Open Source Projects](../../../INSIGHTS/10.md) — One of the most practical operational methodologies for beginners.
+5. [On the Essence of Humanity](../../../INSIGHTS/8.md) — Understand the "core" of the LOGS and INSIGHTS recording system.
+6. [Capital Protracted War: A Strategic Framework for Individual Investors to Transcend Class](../../../SUMMARY/CPW.md) — Read the summary version first to build the framework, then look at the draft.
+7. [Capital Protracted War (Draft)](../../../INSIGHTS/6.md) — Read the original long article for complete arguments and points of contention.
+8. [The Three-Body Dynamics Hypothesis of Capital Markets](../../../INSIGHTS/9.md) — Advanced reading, suitable for those wanting to delve into quantitative modeling.
+9. [Module-Level Human-AI Collaborative Software Engineering Architecture](../../../INSIGHTS/1.md) + [How to Solve Human Desire for Control—On the Controllable Trust Problem in Human-AI Collaboration](../../../INSIGHTS/2.md) — Finally, look at system-level methodology to understand the author's "AI engineering philosophy."
 
--   **If you're just curious**: You'll see how a real person thinks, makes mistakes, and grows. 54 work logs record his daily highs and lows—sometimes excited about discovering a new tool ([Dawn of Liberation](../../../LOGS/1.md)), sometimes debugging bugs until dawn ([WebSocket Debugging](../../../LOGS/29.md)), sometimes having intense late-night discussions with friends ([LLM Code Quality Discussion](../../../LOGS/9.md)). These logs are more authentic and interesting than any polished article.
+If you only want to see "what's happening now," you can read the recent logs in reverse order: `LOGS/72.md` → `LOGS/71.md` → `LOGS/70.md`.
 
-## Where to Start?
+## Concept Mini-Dictionary (Beginner-Friendly)
 
-Recommended reading order, starting from the easiest and most accessible, gradually deepening:
+| Concept | Simple Explanation | Everyday Analogy | Source |
+|---|---|---|---|
+| Controllable Trust | Not unconditional belief in AI, but setting acceptance guardrails first | Setting route and speed limit for a new driver | [How to Solve Human Desire for Control—On the Controllable Trust Problem in Human-AI Collaboration](../../../INSIGHTS/2.md) |
+| Coordination Engineering | Breaking complex coordination into executable processes | Dividing tasks before starting to cook for many people | [Embrace the "Finite," Design the "Infinite"—A New Paradigm for Constructing Agent Systems Based on LLM Constraints](../../../INSIGHTS/3.md) |
+| Capital Protracted War | Exchanging small, controllable losses for big opportunities | Managing stamina in a long-distance run, waiting for sprint windows | [Capital Protracted War (Draft)](../../../INSIGHTS/6.md) |
+| Anti-Martingale Strategy | Add positions when profitable, shrink back when losing | Add sail with tailwind, reef sail against headwind | [Capital Protracted War: Restatement and Discussion](../../../LOGS/35.md) |
+| Risk Control Line | Pre-defining "maximum loss point" | Setting a personal spending limit | [Capital Protracted War Experimental Design](../../../LOGS/39.md) |
+| Signal-Market Fit | Whether a signal matches the market | Whether shoe size fits the foot | [It's 4 AM, February 3, 2026.](../../../LOGS/40.md) |
+| Three-Body Dynamics (Market) | Using three types of capital to explain market fluctuations and phase transitions | Three forces pulling a car | [The Three-Body Dynamics Hypothesis of Capital Markets](../../../INSIGHTS/9.md) |
+| N-Curve | Creative potential rises, distribution lowers dimensionality, then feedback lifts it again | Cooking, plating, serving, repurchase | [It's Monday afternoon, January 12, 2026.](../../../LOGS/11.md) |
+| LOGS / INSIGHTS | One records the raw process, the other records distilled conclusions | Raw stone vs. gemstone | [On the Essence of Humanity](../../../INSIGHTS/8.md) |
+| Signal Trader | Turns signals into orders and handles profit-sharing for multiple investors | Traffic control center routing vehicles | [Discussing Protracted War Live Module Design: Signal Trader](../../../LOGS/71.md) |
 
-**First Stop: Understand Who This Person Is**
+## Conclusion
 
-| Order | Article | Why Read This First |
-| :---- | :------ | :------------------ |
-| 1     | [README](../../../README.md) | Only 18 lines, 30-second read, understand who the author is. |
-| 2     | [Dawn of Liberation is Coming](../../../LOGS/1.md) | A lighthearted log, feel the author's thinking style and daily state. |
-| 3     | [The Meaning of CZON](../../../LOGS/12.md) | Understand the vision of the CZON project. Simple language, interesting brand story. |
+If you treat this repository as a book, it's still being serialized; if you treat it as an experiment, it has already provided many reusable methods:
 
-**Second Stop: Understand Core Philosophies (Pick what interests you)**
+- In creation, it emphasizes "deep creation, shallow distribution";
+- In engineering, it emphasizes "process and verification before blind optimism";
+- In investing, it emphasizes "survive first, then talk about big wins";
+- In cognition, it emphasizes "allow errors to leave traces, then grow insights from errors."
 
-| Order | Article | Suitable For |
-| :---- | :------ | :----------- |
-| 4     | [Returning to Simplicity: Complexity is an Inevitable Path of Cognition](../../../INSIGHTS/7.md) | Everyone—the most accessible INSIGHTS article, using AI programming and investment examples to explain "why shortcuts don't work." |
-| 5     | [On Human Nature](../../../INSIGHTS/9.md) | Those interested in AI-human relations—explores what makes humans unique in the AI era. |
-| 6     | [Capital Protracted War](../../../INSIGHTS/6.md) | Those interested in investing—a complete personal investment philosophy, with mathematical derivations but plenty of plain explanations. |
-| 7     | [From Creation to Distribution—Building an AI-Native Content Engine](../../../INSIGHTS/4.md) | Content creators—though only 15 lines, it succinctly points to the first principle of content creation. |
-
-**Third Stop: Dive into Technical Details (Advanced Readers)**
-
-| Order | Article | Content |
-| :---- | :------ | :------ |
-| 8     | [How to Solve Human Need for Control](../../../INSIGHTS/2.md) | Theoretical framework for human-AI collaboration, proposing a "Controlled Trust" model. |
-| 9     | [Embrace the Finite, Design the Infinite](../../../INSIGHTS/3.md) | Philosophy of AI system design, why to accept AI's limitations. |
-| 10    | [From Battlefield to Digital Space](../../../INSIGHTS/5.md) | Using Su Yu's military command art to design multi-AI collaboration systems. |
-| 11    | [The Three-Body Dynamics Hypothesis of Capital Markets](../../../INSIGHTS/8.md) | Using the physics three-body problem to explain market behavior. |
-| 12    | [Full Spectrum Analysis](../../../QUANT/FSA/FSA.md) | Upgraded Kelly Criterion, with complete mathematical derivations and code implementation. |
-
-**Fourth Stop: Browse the Logs Casually**
-
-The 54 LOGS don't need to be read in order. Pick interesting titles. Here are some highly recommended ones:
-
-| Article | Highlights |
-| :------ | :--------- |
-| [Qi Pa Shuo Debate: Steady Growth vs. Class Leap](../../../DEBATES/奇葩说4v4辩论-稳健增长vs跨越阶级.md) | AI-generated debate, 8 fictional characters in fierce clash, very entertaining. |
-| [How the US Government Seized $15 Billion in Bitcoin](../../../EVENTS/1.md) | An accessible explainer on the largest cryptocurrency seizure case ever. |
-| [AI Style Rewriting Experiment](../../../LOGS/17.md) | Having AI rewrite the same article in different tones (snarky, literary, psychoanalytic)—surprising results. |
-| [WebSocket Debugging Adventure](../../../LOGS/29.md) | A classic debug story—the culprit was the 1Password browser extension. |
-| [AI Future and Personal Taste](../../../LOGS/33.md) | Thoughts on whether AI will replace programmers, with a surprising conclusion. |
-| [In-Depth Analysis of Guotai Haitong Private Equity Fund](../../../MEETINGS/2026-01-22.md) | Professional notes from a private equity industry meeting, with sharp personal insights. |
+The most practical point for the ordinary reader is: you don't need to understand all the theory at once. Start reading from the entry point you care most about (writing, AI engineering, or investing—any one thread), then gradually expand by following links, and you'll gradually see the full picture of this "human + AI collaborative growth system."
